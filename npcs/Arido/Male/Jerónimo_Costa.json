@@ -1,0 +1,9 @@
+{
+    "given name": "Jerónimo",
+    "surname": "Costa",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    }
+}

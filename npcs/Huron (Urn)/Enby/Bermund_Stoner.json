@@ -1,0 +1,19 @@
+{
+    "given name": "Bermund",
+    "surname": "Stoner",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Intelligence — studious, learned, inquisitive",
+        "low ability": "Dexterity — clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Friendly"
+    }
+}

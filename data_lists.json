@@ -1,0 +1,458 @@
+{
+  "cultures": [
+    "Lochmoor", "Huron (Maer)", "Huron (Urn)", "Isfolk", "Akti", "Usuhan", "Arido"
+  ],
+  "genders": [
+    "m", "f", "o"
+  ],
+  "genders_full": [
+    "Male", "Female", "Enby"
+  ],
+  "races": {
+    "Lochmoor": [
+      "Wood Elf", "Half-Wood Elf", "Forest Gnome", "Firbolg", "Shifter"
+    ],
+    "Huron (Maer)": [
+      "Human"
+    ],
+    "Huron (Urn)": [
+      "Human", "Tiefling", "Aasimar"
+    ],
+    "Isfolk": [
+      "Mountain Dwarf", "Goliath", "Rock Gnome", "Warforged", "Orc", "Half-Orc"
+    ],
+    "Akti": [
+      "Hill Dwarf", "High-Elf", "Sea-Elf", "Goblin", "Hobgoblin", "Triton"
+    ],
+    "Usuhan": [
+      "Dragonborn", "Lizardfolk", "Kenku", "Aaracokra", "Tortle", "Kobold"
+    ],
+    "Arido": [
+      "Drow", "Genasi", "Tabaxi", "Changeling"
+    ]
+  },
+  "namebases": {
+    "Lochmoor": [
+      "cela", "celm", "fairy", "fre", "gmca", "iri"
+    ],
+    "Huron (Maer)": [
+      "bre", "dut", "fri", "nrm"
+    ],
+    "Huron (Urn)": [
+      "enga", "wel", "cor", "medi", "heb"
+    ],
+    "Isfolk": [
+      "fin", "grn", "ice", "rus", "scaa"
+    ],
+    "Akti": [
+      "grea", "roma"
+    ],
+    "Usuhan": [
+      "kor"
+    ],
+    "Arido": [
+      "spa", "bas"
+    ]
+  },
+  "names": {
+    "Lochmoor": {
+      "Male": [
+        "Rohan", "Cailean", "Éigneachán", "Páidí", "Rumann", "Aichlinn", "Diarmaid", "Dainéal", "Suibne", "Eireamhón",
+        "Treabhair", "Daithi", "Carthach", "Eolann", "Dáithí", "Éimhín", "Ceallachán", "Lorcán", "Lachtna", "Lughaidh",
+        "Goronwy", "Aeron", "Caledfwlch", "Cadarn", "Evrawg", "Saer", "Pedr", "Amlodd", "Bradwen", "Eryi", "Robert-Jan",
+        "Twan", "Ron", "Eelco", "Gijsbert", "Bas", "Antoon", "Albert", "Giel", "Lennerd"
+      ],
+      "Female": [
+        "Paulien", "Fien", "Annemarieke", "Yasmijn", "Willemein", "Katrijn", "Laurien", "Miesje", "Carolien", "Valerie",
+        "Amser", "Gaenor", "Sioned", "Aelwyd", "Gwaeddan", "Meggan", "Gwanwyn", "Eilwen", "Caitlyn", "Olwen", "Wynne",
+        "Daere", "Gwen", "Arianwen", "Morgaine", "Ffraid", "Gwynefa", "Garwen", "Elliw", "Addfwyn", "Nárbhla",
+        "Samhaoir", "Gormlaith", "Saorla", "Aoibhin", "Peigi", "Ailbhe", "Tuilelaith", "Eimile", "Peigín"
+      ]
+    },
+    "Huron (Maer)": {
+      "Male": [
+        "Gwilhermou", "Leonor", "Pergad", "Goueznou", "Kadvalaer", "Meven", "Gurguy", "Blez", "Alunoc", "Morvan",
+        "Louri", "Gudwal", "Tierneg", "Fieg", "Gwilhermou", "Gothian", "Yoann", "Melin", "Nevenou", "Tinidor",
+        "Atharid", "Safrax", "Baza", "Radagaisus", "Theodehad", "Agila", "Rodolf", "Ermelandus", "Teja", "Thraustila",
+        "Tuluin", "Fritigern", "Bessa", "Fravitta", "Naulabates", "Leovigild", "Rudesind", "Rikiar", "Hisarna",
+        "Apahida"
+      ],
+      "Female": [
+        "Goulvena", "Archantael", "Alis", "Maelane", "Bleuzenn", "Berc'hed", "Madezig", "Armeline", "Burian", "Hoel",
+        "Mae", "Guénolé", "Kristenn", "Madalen", "Ganaelle", "Liz", "Maelisse", "Flamellig", "Auregann", "Brec'hed",
+        "Talida", "Malasintha", "Amalberta", "Matasvintha", "Amalda", "Radegonda", "Rasha", "Vadamerca", "Areagne",
+        "Aalissa", "Heidrun-Gabriela", "Garsendis", "Melle", "Melisande", "Hunila", "Elja", "Amalfrieda", "Amalina",
+        "Aleyda", "Kriemhild"
+      ]
+    },
+    "Huron (Urn)": {
+      "Male": [
+        "Mihr", "Tadhiel", "Nathanael", "Bazazath", "Radueriel", "Malakh", "Asmodel", "Chasan", "Azazel", "Abasdarhon",
+        "Goldwin", "Aschere", "Osric", "Centweald", "Cerdic", "Tidweald", "Orped", "Ricsige", "Sigeweard", "Bermund",
+        "Adimus", "Adoel", "Dardariel", "Zuriel", "Stadiel", "Uzziel", "Theo", "Jahoel", "Rampel", "Inian", "Jerahmeel",
+        "Hadriel", "Samuel", "Phul", "Samandiriel", "Mihael", "Inian", "Habriel", "Usiel", "Conah"
+      ],
+      "Female": [
+        "Thedlef", "Brichheve", "Alkeld", "Alburga", "Ediltrudis", "Mildthryth", "Godwyna", "Wulburg", "Witburh",
+        "Sidwell", "Alchflead", "Bricheve", "Lefsued", "Mildrith", "Baldehuia", "Elfswitha", "Ethelflaed", "Eangyth",
+        "Beyhild", "Gethwine", "Hadariel", "Asteraoth", "Nahaliel", "Amriel", "Humiel", "Pronoia", "Matariel",
+        "Hadraniel", "Armaita", "Sahaqiel", "Valoel", "Sachiel", "Labbiel", "Maroth", "Sanvi", "Usiu", "Sanvi",
+        "Halaliel", "Naya'il", "Ariel"
+      ]
+    },
+    "Isfolk": {
+      "Male": [
+        "Hrafn", "Auðgeir", "Andreas", "Þorbjörn", "Valbergur", "Marías", "Angantýr", "Benóní", "Sindri", "Steinfinnur",
+        "Stefán", "Ver", "Mórits", "Olavur", "Valgarður", "Hafgrímur", "Eðvar", "Skírnir", "Æsir", "Otur", "Bozan",
+        "Gavril", "Yavor", "Ladislav", "Zrinko", "Cimislaw", "Ctislav", "Delcho", "Milanko", "Blahosek", "Mark", "Noel",
+        "Mathias", "Raphaël", "Nias", "Vitus", "Sanno", "Chris", "Till", "Bastien"
+      ],
+      "Female": [
+        "Ivka", "Heda", "Ayla", "Bartolina", "Matilde", "Ella", "Lia", "Daria", "Ava", "Léa", "Amineva", "Snegiryova",
+        "Umskaya", "Kashirina", "Tikhokhod", "Ovechkina", "Karandashova", "Fedoseyeva", "Tikhvinskaya", "Aslanova",
+        "Arnrós", "Konný", "Pálín", "Tína", "Marsý", "Torfey", "Maia", "Elsie", "Oddvör", "Helena", "Maríuerla", "Mara",
+        "Arnfinna", "Erla", "Susie", "Maía", "Binna", "Guðfríður", "Mírey", "Móey"
+      ]
+    },
+    "Akti": {
+      "Male": [
+        "Vel", "Spurius", "Marcus", "Julianus", "Agrippa", "Arruns", "Spurius", "Flavius", "Manius", "Tertius",
+        "Evandros", "Hegesandros", "Herodianus", "Hippolytos", "Aristarchos", "Airopos", "Proxenos", "Eretmenus",
+        "Philokles", "Polydius", "Maximin", "Gemistos", "Constantianus", "Ambrosius", "Calixtus", "Patricius",
+        "Andronicus", "Venerandus", "Enomius", "Magnentius", "Yakir", "Elimor", "Siman-Tov", "Amirel", "Matityahu",
+        "Cherut", "Tuv", "Aimee", "Or", "Zvulun"
+      ],
+      "Female": [
+        "Gratidia", "Viridia", "Calavia", "Aelia", "Blossia", "Fabia", "Aedinia", "Antonia", "Trebellia", "Consentia",
+        "Lalage", "Maiandria", "Nicopolis", "Penelope", "Cythereia", "Phaethusa", "Myrine", "Herophile", "Tryphosa",
+        "Galatea", "Placidia", "Macedonia", "Vigilantia", "Basina", "Silvia", "Agnes", "Antipatra", "Labinia", "Marcia",
+        "Demetria", "Snira", "Erel", "Eliron", "Shiva", "Yarden", "Nofit", "Raziela", "Liad", "Eldar", "Atzil"
+      ]
+    },
+    "Usuhan": {
+      "Male": [
+        "In-Ho", "Jung-Eun", "Chang-Woo", "Woo-Sung", "Pyong-Ho", "Soo-Yeon", "Yong-Sik", "Songmin", "Sang-Ki",
+        "Yeong-Hwan", "Kyung-Gu", "Jin-Ho", "Young-Ho", "Kwang-Seok", "Jeong-Hun", "Song-Su", "Dong-Wook", "Nam-Il",
+        "Myung-Ki", "Ju-Won", "Kang-Dae", "Sang-Hoon", "Woo-Jin", "Jeong-Mun", "Sang-Min", "Shi-Woo", "Sang-Min",
+        "Jin-Ho", "Jeong-Mun", "Hyun-Jun", "Dae-Jung", "Sunghyon", "Jae-Yong", "Yong-Su", "Minjae", "Hee-Chul",
+        "Jeong-Ho", "Chang-Min", "Yong-Gi", "Dong-Wook"
+      ],
+      "Female": [
+        "Na-Young", "Sol-Bi", "Jung", "Ji-Woo", "Young-Ja", "Ae-Ra", "Yong-Ja", "Min-Seo", "Hyun-Sook", "Hyo-Joo",
+        "Hye-Kyung", "Kyung-Hee", "Un-Yong", "Mi-Yeon", "Ho-Jung", "Min-Kyung", "Kyung-Hee", "So-Ri", "Ji-Hyun",
+        "Eun-Young", "Ha-Neul", "Myung-Sook", "Chi'u", "Do-Yeon", "Eun-Jung", "Minso", "Young-Ran", "Ah-Hyun", "Bo-Yun",
+        "Sook-Ja", "Ji-Young", "Su-Jin", "Ah-Ra", "Chi-Yong", "Su-Mi", "Eun-Song", "Hyo-Jung", "Ye-Jin", "Ja-Hyun",
+        "Se-Yeon"
+      ]
+    },
+    "Arido": {
+      "Male": [
+        "Mauro", "Santiago", "Juan", "Teo", "Jose", "Yago", "Tomas", "Liam", "Gorka", "Samuel", "Juan", "Mauricio",
+        "Dídac", "Sergio", "Jaime", "Eduardo", "Valentín", "Jorge", "Valentino", "Raul", "Tarxi", "Mamarce", "Laxu",
+        "Thocero", "Aranth", "Tite", "Thucer", "Cutu", "Aulza", "Kavie", "Senin", "Cosme", "Raimundo", "Honorio",
+        "Gasparo", "Victor", "Noa", "Ambrosio", "Urbano", "Arximiro"
+      ],
+      "Female": [
+        "Eva", "Silvia", "Ingrid", "Desiree", "Raquel", "Celia", "Cecilia", "Judith", "Chloe", "Sheila", "Magdalena",
+        "Daniella", "Asia", "Rosario", "Antonella", "Paola", "Isidora", "Sabrina", "Mia", "Bella", "Tarxi", "Mamarce",
+        "Laxu", "Thocero", "Aranth", "Tite", "Thucer", "Cutu", "Aulza", "Kavie", "Isabela", "Elvira", "Araceli",
+        "Teofila", "Eines", "Maxima", "Piedade", "Alodia", "Clotilde", "Martiña"
+      ]
+    }
+  },
+  "surnames": {
+    "Lochmoor": [
+      "Mac-Dubhdara", "Ó-Dornáin", "Mac-Géidigh", "Ó-Gairbhshíth", "Ó-Baoighill", "Mac-Giolla Choinnigh", "Ó-Dorcháin",
+      "Ó-Conchobhair", "Mac-Cartaine", "Ó-Meachair", "Ó-Labhradha", "Ó-Gallchobhair", "Mac-Muircheartaigh",
+      "Mac-Somhairle", "Ó-Bruadair", "Ó-Cullieagáin", "Ó-Déaghain", "Mac-Cormaic", "Ó-Floinn", "Ó-Muineaog",
+      "Mac-Cárthaigh", "Mac-Amhlaoibh", "Mac-Gille Fhionndaig", "Mac-Con Uladh", "Ó-Canáin", "Ó-hAimheirgin",
+      "Ó-Maol Máirthín", "Ó-Dornáin", "Mac-Loinsigh", "Mac-Loinsigh", "Weidemann", "Böckler", "Gellner", "Priesner",
+      "Lattke", "Schierokauer", "Eisenstein", "Haushofer", "Krieger", "Martin", "Fichte", "Baader", "Traube", "Seck",
+      "Essig", "Wolf", "MacNicol", "Glöckner", "Binger", "Waldschmidt", "Dimont", "Thiers", "Tremblay", "Brunelle",
+      "Gaumont", "Barrande", "Bousquet", "Rapace", "Spanghero", "Marchant", "Chuquet", "De Guignes", "Galopin",
+      "Carrel", "Jullien", "Pretre", "Alméras", "Jacquier", "Auch", "Pasteur", "Bardin", "Dutertre", "Delsarte",
+      "Duhamel", "Gérard", "Leclère", "Auclair", "Maret", "Vandame", "Crépin", "Uí-Daire", "Roid", "MacDhonnchaidh",
+      "MacNia", "Singleir", "Peucag", "MacDhàibhidh", "MacRisnidh", "MacIlleChatain", "MacRoithridh", "MacRisnidh",
+      "MacFhilib", "MacFhearghail", "Peadarsan", "MacUrchadain", "Guaire", "MacCeallaigh", "MacTheàrlaich",
+      "MacGill-Eain", "MacCathasaigh", "Màrr", "Schwortz", "Ganser", "Gebhardt", "Sepp", "Wilpert", "Rasche", "Wieters",
+      "Stahnke", "Hopfner", "Kornhäusel", "Eichenberg", "Wachsmuth", "Lichter", "Löw", "Reeder", "Günzburg",
+      "Hanselmann", "Krier", "Einstein"
+    ],
+    "Huron (Maer)": [
+      "Renan", "Kergoat", "Brekilien", "Lagadic", "Le-Boudec", "Quinquis", "Rogard", "Eliès", "Moal", "Hercouet",
+      "Le-Fur", "Le-Coadic", "Gouedard", "Le-Moigne", "Corre", "Konan", "Hascoet", "Arbez", "Klodig", "Le-Bail",
+      "Berthou", "Ar-Gall", "Le-Besco", "Le-Texier", "Le-Mee", "Masson", "Le-Douget", "Cariou", "Debeauvais", "Broudig",
+      "Kleinjans", "Alberda-van-Ekenstein", "Brunemeier", "Boeks", "Wenmerink", "Lutteke", "Kole", "van-het-Laar",
+      "Slager", "Hendriks-Boers", "ten-Hulsen", "Zieleman", "Wiegerink", "Klaassen", "Berendsen", "Frijlink",
+      "ten-Hoeve", "Krekel", "Niemeijer", "Hofstede", "Slaat", "Lourens", "Kamp", "Plaizier", "van-'t-Hek", "Bakker",
+      "Vlierjans", "Oortveld", "van-den-Breul", "Balkema", "Bouma", "Terpstra", "Jaarsma", "Drost", "Loonstra",
+      "Jellema", "Van-Der-Plaats", "Duursma", "Sikma", "Schaafsma", "Van-Der-Heide", "de-Boer", "Van-Der-Plaats",
+      "Meinsma", "Meyer", "Zeilstra", "Heeringa", "Leistra", "Fokkens", "Van-Der-Wijk", "Bakker", "Prins", "Smeding",
+      "Gorter", "Meester", "Hidde-Zeilstra", "Hoekstra", "Van-Der-Kooi", "de-Bruin", "Veldman", "de-Croismare",
+      "Le-Lieur", "Du-Moucel", "Du-Thuict", "Spencer", "Centsols", "Le-Toustain", "Burgoyne", "Dufay", "Seymour",
+      "Auffrye", "Faucon", "de-Lorraine", "de-Felius", "de-Moustiers", "Puchot", "Eude", "de-Vere", "La-Verrier",
+      "Brèvedent", "Le-Jumel", "Warren", "Hédiart", "Heuzé", "Gascoignes", "Droullin", "de-Viuepont", "de-Croismare",
+      "Radcliffe", "Sinclair"
+    ],
+    "Huron (Urn)": {
+      "Male": [
+        "Hrethric", "Osmer", "Aethelheard", "of-Nanafon", "of-Llynburgh", "of-Polthorp", "Carver", "Cantrell",
+        "the-Travers", "the-Fuller", "Domgeat", "Wuldwine", "Helpric", "of-Sudhurst", "of-Auchenkirk", "of-Auchstow",
+        "Palmer", "Nader", "the-Fowler", "the-Frobisher", "Rimilde", "Mildthryth", "Devereux", "Rutt", "of-Langwyke",
+        "of-Llynby", "Proctor", "Lush", "the-Taverner", "the-Toller", "Pearce", "Seff", "Brodrick", "Price", "Bunner",
+        "Poyner", "Hughes", "Harries", "Seff", "Maddox", "Charles", "Meylor", "Cadwalader", "Arthur", "Povey", "Penry",
+        "Beddoe", "Merrick", "Beavin", "Gower", "Trevellick", "Martin", "Herle", "Nancekivell", "Trescothick", "Trewin",
+        "Prideaux", "Treweek", "Tregonning", "Uglow", "FitzSimmons", "Penketh", "Trezise", "Bligh", "Chegwin", "Lawry",
+        "Hunkins", "Callaway", "Polglaze", "Trewarne", "Trebilcock", "Trudheon", "Callaway", "Jope", "Johns",
+        "Andrewartha", "Trezona", "Davies", "Spargo", "Treneer", "ben-Amihud", "ben-Lahav", "ben-Anatoli", "ben-Adela",
+        "ben-Yeshaya", "ben-Alexandra", "ben-Yizhar", "ben-Li Ran", "ben-Andreia", "ben-Lotem", "ben-Chai", "ben-Zvika",
+        "ben-Tidhar", "ben-Yaheli", "ben-Perach", "ben-Lihod", "ben-Chanina", "ben-Orchen", "ben-Osi", "ben-Kinor",
+        "Creamer", "Knowlton", "Cooper", "Maddern", "Palmer", "Lampshire", "Daft", "Tonkin", "Turner", "Garcia",
+        "Chenoweth", "Mulford", "Kesby", "Walker", "Mycroft", "Towle", "Chenoweth", "Cropp", "Goodspeed", "Breedon",
+        "Throkmorton", "Asplyn", "Cosyngton", "Fromond", "Speir", "Tyndall", "Waldeley", "Auldyngton", "Daelyngridge",
+        "Cunnyngham", "Chauncey", "Peletoot", "Bamard", "Waldeley", "Harleston", "Hille", "Helme", "Willardsey",
+        "Dusteby", "Davy", "Stoner", "Stokerton", "Barantyn", "Bamard", "Laken", "Boteler", "Cosyngton", "Cleffort",
+        "Bryan", "Erewaker", "Blakeley", "Langeton", "Motesfont", "Bamard", "Dunch", "Pursglove", "Godfrey", "Fitton",
+        "Whytyng", "Hawkins"
+      ],
+      "Female": [
+        "bat-Arman", "bat-Itiya", "bat-Ram", "bat-Shlomo", "bat-Avigaal", "bat-Aminadav", "bat-Yon", "bat-Tahel",
+        "bat-Yashphe", "bat-Anthony", "Hrethric", "Osmer", "Aethelheard", "of-Nanafon", "of-Llynburgh", "of-Polthorp",
+        "Carver", "Cantrell", "the-Travers", "the-Fuller", "Domgeat", "Wuldwine", "Helpric", "of-Sudhurst",
+        "of-Auchenkirk", "of-Auchstow", "Palmer", "Nader", "the-Fowler", "the-Frobisher", "Rimilde", "Mildthryth",
+        "wife-of-Freothul", "wife-of-Tatfrid", "of-Langwyke", "of-Llynby", "Proctor", "Lush", "the-Taverner",
+        "the-Toller", "Pearce", "Seff", "Brodrick", "Price", "Bunner", "Poyner", "Hughes", "Harries", "Seff", "Maddox",
+        "Charles", "Meylor", "Cadwalader", "Arthur", "Povey", "Penry", "Beddoe", "Merrick", "Beavin", "Gower",
+        "Trevellick", "Martin", "Herle", "Nancekivell", "Trescothick", "Trewin", "Prideaux", "Treweek", "Tregonning",
+        "Uglow", "FitzSimmons", "Penketh", "Trezise", "Bligh", "Chegwin", "Lawry", "Hunkins", "Callaway", "Polglaze",
+        "Trewarne", "Trebilcock", "Trudheon", "Callaway", "Jope", "Johns", "Andrewartha", "Trezona", "Davies", "Spargo",
+        "Treneer", "bat-Yarnin", "bat-Noga", "bat-Lidi", "bat-Yarnin", "bat-Shuki", "bat-Tal-Shahar", "bat-Raanan",
+        "bat-Beniel", "bat-Alfred", "bat-Joshua", "Cushway", "Sellen", "Defries", "Costen", "Course", "Blake", "Frid",
+        "Earll", "Holdaway", "Dacosta", "Williams", "Goodman", "Richards", "Stephens", "Barnes", "Ashpole", "Steptoe",
+        "Arno", "wife-of-Freothul", "wife-of-Tatfrid", "Throkmorton", "Asplyn", "Cosyngton", "Fromond", "Speir",
+        "Tyndall", "Waldeley", "Auldyngton", "Daelyngridge", "Cunnyngham", "Chauncey", "Peletoot", "Bamard", "Waldeley",
+        "Harleston", "Hille", "Helme", "Willardsey", "Dusteby", "Davy", "Stoner", "Stokerton", "Barantyn", "Bamard",
+        "Laken", "Boteler", "Cosyngton", "Cleffort", "Bryan", "Erewaker", "Blakeley", "Langeton", "Motesfont", "Bamard",
+        "Dunch", "Pursglove", "Godfrey", "Fitton", "Whytyng", "Hawkins"
+      ],
+      "Enby": [
+        "Hrethric", "Osmer", "Aethelheard", "of-Nanafon", "of-Llynburgh", "of-Polthorp", "Carver", "Cantrell",
+        "the-Travers", "the-Fuller", "Domgeat", "Wuldwine", "Helpric", "of-Sudhurst", "of-Auchenkirk", "of-Auchstow",
+        "Palmer", "Nader", "the-Fowler", "the-Frobisher", "Rimilde", "Mildthryth", "wife-of-Freothul",
+        "wife-of-Tatfrid", "of-Langwyke", "of-Llynby", "Proctor", "Lush", "the-Taverner", "the-Toller", "Pearce",
+        "Seff", "Brodrick", "Price", "Bunner", "Poyner", "Hughes", "Harries", "Seff", "Maddox", "Charles", "Meylor",
+        "Cadwalader", "Arthur", "Povey", "Penry", "Beddoe", "Merrick", "Beavin", "Gower", "Trevellick", "Martin",
+        "Herle", "Nancekivell", "Trescothick", "Trewin", "Prideaux", "Treweek", "Tregonning", "Uglow", "FitzSimmons",
+        "Penketh", "Trezise", "Bligh", "Chegwin", "Lawry", "Hunkins", "Callaway", "Polglaze", "Trewarne", "Trebilcock",
+        "Trudheon", "Callaway", "Jope", "Johns", "Andrewartha", "Trezona", "Davies", "Spargo", "Treneer", "yeled-Kori",
+        "yeled-Oshriel", "El yeled-Yechiav", "yeled-Stav", "yeled-Niv", "yeled-Sher", "yeled-Hilton", "yeled-Charles",
+        "yeled-Erno", "yeled-Shahaf", "yeled-Sasson", "yeled-Chanan", "yeled-Annick", "yeled-Nevet", "yeled-Gevaram",
+        "yeled-Yifrach", "Li yeled-Pedhatzur", "yeled-Shmaria", "yeled-Or-Chen", "yeled-Yon", "Jackson", "Trudgeon",
+        "Bennetts", "Bowsher", "Barkle", "Popkin", "Clark", "Harpham", "Marsh", "Rosson", "Williams", "Goodman",
+        "Richards", "Stephens", "Barnes", "Ashpole", "Steptoe", "Arno", "Hooper", "Shutler", "Throkmorton", "Asplyn",
+        "Cosyngton", "Fromond", "Speir", "Tyndall", "Waldeley", "Auldyngton", "Daelyngridge", "Cunnyngham", "Chauncey",
+        "Peletoot", "Bamard", "Waldeley", "Harleston", "Hille", "Helme", "Willardsey", "Dusteby", "Davy", "Stoner",
+        "Stokerton", "Barantyn", "Bamard", "Laken", "Boteler", "Cosyngton", "Cleffort", "Bryan", "Erewaker", "Blakeley",
+        "Langeton", "Motesfont", "Bamard", "Dunch", "Pursglove", "Godfrey", "Fitton", "Whytyng", "Hawkins"
+      ]
+    },
+    "Isfolk": {
+      "Male": [
+        "Arnorson", "Thorarinson", "Kispingson", "Hermundson", "Thorvaldson", "Gislison", "Gufison", "Ofiegson",
+        "Skapson", "Hallgrimson", "Æinridison", "Hjortson", "Ormson", "Asketillson", "Ingolfson", "Bardson", "Nærfison",
+        "Mursison", "Brondulfson", "Armodson", "Svipdaysson", "Sturlasson", "Sibbisson", "Griotgardsson", "Aleifrsson",
+        "Gudlaugsson", "Hragnelfsson", "Arnvidsson", "Gunbjornsson", "Kabbisson", "Hriflasson", "Arnsteinsson",
+        "Torstensson", "Waltheofsson", "Thorkelsson", "Svæinsson", "Ingemarsson", "Singasvensson", "Gamlisson",
+        "Kadalsson", "Tankov-Vitalievich", "Tokarev-Ilyich", "Ruskikh-Valeryevich", "Blazhenov-Leonidovich",
+        "Strekalov-Anatolievich", "Bakrylov-Alesnarovich", "Chuprakov-Larionovich", "Inshov-Victorovich",
+        "Fanin-Rostislavovich", "Fomichyov-Afanasievich", "Tseydlits-Vsevolodovich", "Kanadtsev-Ilyich",
+        "Kuklachyov-Tarasovich", "Kolesnikov-Aleskeevich", "Ovechkin-Vasilievich", "Parshikov-Konstantinovich",
+        "Popyrin-Makarovich", "Kapralov-Olegovich", "Fedin-Andreevich", "Mager-Ivanovich", "Marinov-Mikhailovich",
+        "Vikashev-Igorevich", "Shchetkin-Romanovich", "Bagrov-Yevgenievich", "Fedin-Kirillovich",
+        "Tikhonenko-Savelievich", "Levin-Rodionovich", "Khalturin-Zakharovich", "Demenok-Mikhailovich",
+        "Gushchin-Vadimovich", "The Accurate", "The Giving", "The Cuddly", "The White", "The Sophisticated",
+        "The Oracle", "The Cook", "The Prophet", "The Admirable", "The Acrobat", "The Cub", "The Turbulent",
+        "The Enormous", "The Gross", "The Perfumed", "The Fish", "The Bastard", "The Infantile", "The Chubby",
+        "The Love Fool"
+      ],
+      "Female": [
+        "Solveigdottir", "Gudlangdottir", "Ingundottir", "Yridottir", "Bergljotdottir", "Bolladottir", "Unadottir",
+        "Ranveigdottir", "Hallveigdottir", "Grimhilddottir", "Halldisdottir", "Svaladottir", "Halladottir",
+        "Asleifdottir", "Arnoradottir", "Arnbjorgdottir", "Thorunndottir", "Ketiloydottir", "Gunnhilddottir",
+        "Sæunndottir", "Biordottir", "Sibbidottir", "Ornulfdottir", "Fridgeirdottir", "Agmundrdottir", "Birningdottir",
+        "Thorketildottir", "Validottir", "Dagdottir", "Thiodolfdottir", "Iulidottir", "Hjortdottir", "Guthrothdottir",
+        "Skardottir", "Lodmundottir", "Hallbjorndottir", "Ljotdottir", "Andvettdottir", "Heggdottir", "Thorleifdottir",
+        "Chelomtseva-Yegorovna", "Leonova-Andreevna", "Shurupina-Gennadievna", "Serebryakova-Valerianovna",
+        "Arefyeva-Tarasovna", "Yukhtrits-Vladislavovna", "Bolshakova-Zakharovna", "Tolbanova-Tikhonovna",
+        "Gagarina-Filippovna", "Zhilina-Vyacheslavovna", "Staroverova-Vladislavovna", "Tsyganova-Grigorievna",
+        "Vinokurova-Ruslanovna", "Nesterova-Rodionovna", "Yusupova-Rodionovna", "Tselner-Svyatoslavovna",
+        "Loktionova-Romanovna", "Chernetskaya-Vladimirovna", "Stebleva-Yermolayevna", "Yutilova-Larionovna",
+        "Khurtina-Borisovna", "Shuvalova-Tarasovna", "Belomestnova-Makarovna", "Vedeneyeva-Nikitovna",
+        "Raspopova-Valerianovna", "Putilova-Savelievna", "Pishchalnikova-Vladimirovna", "Kalashnik-Savelievna",
+        "Kalyagina-Zakharovna", "Penkina-Anatolievna", "The Warlock", "The Vigilant", "The Speaker", "The Baker",
+        "The Infamous", "The Brilliant Mind", "The Valiant", "The Innocent", "The Enchanting", "The Grasshopper",
+        "The Mute", "The Aggressive", "The Prophet", "The Infamous", "The Lean", "The Dead", "The Dimwitted",
+        "The Grotesque", "The Angry", "The Rogue"
+      ],
+      "Enby": [
+        "Arnorbarn", "Thorarinbarn", "Kispingbarn", "Hermundbarn", "Thorvaldbarn", "Gislibarn", "Gufibarn", "Ofiegbarn",
+        "Skapbarn", "Hallgrimbarn", "Solveigbarn", "Gudlangbarn", "Ingunbarn", "Yribarn", "Bergljotbarn", "Bollabarn",
+        "Unabarn", "Ranveigbarn", "Hallveigbarn", "Grimhildbarn", "Svipdaybarn", "Sturlasbarn", "Sibbisbarn",
+        "Griotgardbarn", "Aleifrsbarn", "Gudlaugbarn", "Hragnelfsbarn", "Arnvidsbarn", "Gunbjornbarn", "Kabbisbarn",
+        "Biorbarn", "Sibbibarn", "Ornulfbarn", "Fridgeirbarn", "Agmundrbarn", "Birningbarn", "Thorketilbarn",
+        "Valibarn", "Dagbarn", "Thiodolfbarn", "Tankov-Vitalieychka", "Tokarev-Ilyichka", "Ruskikh-Valeryeychka",
+        "Blazhenov-Leonidoychka", "Strekalov-Anatolieychka", "Bakrylov-Alesnaroychka", "Chuprakov-Larionoychka",
+        "Inshov-Victoroychka", "Fanin-Rostislavoychka", "Fomichyov-Afanasieychka", "Tseydlits-Vsevolodoychka",
+        "Kanadtsev-Ilyichka", "Chelomtseva-Yegorovnchka", "Leonova-Andreevnchka", "Shurupina-Gennadievnchka",
+        "Serebryakova-Valerianovnchka", "Arefyeva-Tarasovnchka", "Yukhtrits-Vladislavovnchka",
+        "Bolshakova-Zakharovnchka", "Tolbanova-Tikhonovnchka", "Gagarina-Filippovnchka", "Zhilina-Vyacheslavovnchka",
+        "Staroverova-Vladislavovnchka", "Tsyganova-Grigorievnchka", "Vinokurova-Ruslanovnchka",
+        "Nesterova-Rodionovnchka", "Yusupova-Rodionovnchka", "Tselner-Svyatoslavovnchka", "Loktionova-Romanovnchka",
+        "Chernetskaya-Vladimirovnchka", "The Humble", "The Unsung Hero", "The Late", "The Razor", "The Cautious",
+        "The Scar", "The Frozen", "The Warrior", "The Gentle", "The Deaf", "The Guest", "The Soothsayer", "The Hunter",
+        "The Devil", "The Envious", "The Fat", "The Hen", "The Simple-minded", "The Perfumed", "The Butcher"
+      ]
+    },
+    "Akti": {
+      "Male": [
+        "Viusianius Genuso", "Seniusid Justata", "Paliusut Lusupo", "Pidiusalv Piscina", "Vediusep Ennius",
+        "Stiliusorn Auinus", "Tiusaufav Cariuso", "Anius Sisiuso", "Ciusecius Cinuso", "Miniusuius Justina",
+        "Cianiusorn Perstiusa", "Miusidia Vitoro", "Sianiuson Siusorio", "Ciusittia Paulliuso", "Calventia Biusena",
+        "Reiusornius Musenna", "Paquettia Cusimio", "Calolla Ciususa", "Riusutia Feriuso", "Tusennius Feruscia",
+        "Son of Husippo of Egaly", "Son of Donosius of Ampsady", "Son of Dadesias of Mantea",
+        "Son of Honesikl of Crona", "Son of Pideioto of Methi", "Son of Lesilo of Lisia", "Son of Desileo of Cusae",
+        "Son of Emicos of Ephane", "Son of Axales of Sunia", "Son of Hasosis of Galon", "Son of Polisith of Alympia",
+        "Son of Emos of Nusae", "Son of Aesiros of Sesta", "Son of Mionesus of Ialon", "Son of Atrokles of Phiosae",
+        "Son of Axidos of Sosia", "Son of Anas of Smagna", "Son of Dasynos of Myrne", "Son of Phoitimo of Kenchra",
+        "Son of Eutamos of Linde", "Son of Menaoseis of Aratu", "Son of Achophnus of Spolaeus",
+        "Son of Lochosel of Melyd", "Son of Antios of Sania", "Son of Enon of Clisia", "Son of Agos of Enens",
+        "Son of Alcis of Mytea", "Son of Eulides of Artali", "Son of Phusosol of Thensia", "Son of Glysocro of Megea",
+        "Irestas", "Satdjia", "Hiahero", "Tatabu", "Temkhete", "Nesemkhue", "Nefere", "Tjedaa", "Menkhesy", "Tairure",
+        "Senmaatna", "Iserun", "Nefere", "Sebtiaa", "Tenebty", "Nofritu", "Beky", "Ipys", "Mere", "Retbithue",
+        "of Arsan", "of Misho", "of Sina", "of Uthan", "of Shuri", "of Arish", "of Ugan", "of Selon", "of Harre",
+        "of Cutho", "of Dusae", "of Cephi", "of Melis", "of Iapos", "of Myta", "of Cisae", "of Myra", "of Egatu",
+        "of Menae", "of Dyma", "of Paestium", "of Erinum", "of Thegium", "of Phuggia", "of Malium", "of Segium",
+        "of Tiarea", "of Atulum", "of Mascium", "of Cinius", " Servant of Seliel", " Servant of Zopha",
+        " Servant of Surach", " Servant of Azah", " Servant of Sariel", " Servant of Suriel", " Servant of Rielaph",
+        " Servant of Sandail", " Servant of Zabin", " Servant of Sielat", " Servant of Kusha", " Servant of Sielik",
+        " Servant of Rosand", " Servant of Sariel", " Servant of Sarach", " Servant of Rielaph", " Servant of Bezoph",
+        " Servant of Paha", " Servant of Dielik", " Servant of Katib"
+      ],
+      "Female": [
+        "Vagionius ", "Clusienius ", "Liusentia ", "Veriusid ", "Gidiusab ", "Hispilla ", "Publiuseius ", "Suiusabud ",
+        "Quironius ", "Niusittia ", "Griusenig ", "Siusentia ", "Stiusentia ", "Viusecius ", "Sornusid ", "Viusertia ",
+        "Sylvinius ", "Pitila ", "Cianiusien ", "Diusenius ", "Daughter of Pasa of Melos", "Daughter of Amias of Myrne",
+        "Daughter of Althaias of Lisia", "Daughter of Scileia of Crone", "Daughter of Dora of Ephagne",
+        "Daughter of Lato of Eramo", "Daughter of Mene of Delphi", "Daughter of Agas of Myta",
+        "Daughter of Ithyias of Lechi", "Daughter of Chrome of Corcaea", "Daughter of Allis of Cardia",
+        "Daughter of Neira of Sosia", "Daughter of Ismen of Melesb", "Daughter of Cythe of Myrna",
+        "Daughter of Appos of Egaro", "Daughter of Lanthe of Lympe", "Daughter of Caste of Mosae",
+        "Daughter of Thippia of Orcyma", "Daughter of Khlone of Thasia", "Daughter of Aris of Spide",
+        "Daughter of Dora of Cisae", "Daughter of Lora of Esus", "Daughter of Dille of Smende",
+        "Daughter of Iphaes of Elatea", "Daughter of Kate of Emnos", "Daughter of Ateas of Echaeus",
+        "Daughter of Thypsa of Chalesb", "Daughter of Eutos of Alos", "Daughter of Imes of Nesae",
+        "Daughter of Bera of Myta", "Irestas", "Satdjia", "Hiahero", "Tatabu", "Temkhete", "Nesemkhue", "Nefere",
+        "Tjedaa", "Menkhesy", "Tairure", "of Arsan", "of Misho", "of Sina", "of Uthan", "of Shuri", "of Arish",
+        "of Ugan", "of Selon", "of Harre", "of Cutho", "of Dusae", "of Cephi", "of Melis", "of Iapos", "of Myta",
+        "of Cisae", "of Myra", "of Egatu", "of Menae", "of Dyma", "of Paestium", "of Erinum", "of Thegium",
+        "of Phuggia", "of Malium", "of Segium", "of Tiarea", "of Atulum", "of Mascium", "of Cinius", "of Paestium",
+        "of Erinum", "of Thegium", "of Phuggia", "of Malium", "of Segium", "of Tiarea", "of Atulum", "of Mascium",
+        "of Cinius", " Servant of Seliel", " Servant of Zopha", " Servant of Surach", " Servant of Azah",
+        " Servant of Sariel", " Servant of Suriel", " Servant of Rielaph", " Servant of Sandail", " Servant of Zabin",
+        " Servant of Sielat", "Kyrytharmia", "Aleianienir", "Barisia", "Timene", "Agalastyon", "Ketine", "Artelis",
+        "Hodoke", "Kalaurato", "Theophena"
+      ],
+      "Enby": [
+        "Toriusen Riusila", "Diusenius Garuso", "Ciusocius Siusalvo", "Ceiusiusuv Tusa", "Alinius Verento",
+        "Alleius Linuso", "Piusenius Morispo", "Voleiusac Tianiuso", "Trasiusec Ritina", "Aesinus Siagena", "Meketre",
+        "Nebtaiuhay", "Itis", "Timaatna", "Aren", "Nefere", "Tishire", "Tisena", "Iriqres", "Nodjmaetky",
+        "Child of Pasa of Melos", "Child of Amias of Myrne", "Child of Althaias of Lisia", "Child of Scileia of Crone",
+        "Child of Dora of Ephagne", "Child of Lato of Eramo", "Child of Mene of Delphi", "Child of Agas of Myta",
+        "Child of Ithyias of Lechi", "Child of Chrome of Corcaea", "Child of Allis of Cardia",
+        "Child of Neira of Sosia", "Child of Ismen of Melesb", "Child of Cythe of Myrna", "Child of Appos of Egaro",
+        "Child of Lanthe of Lympe", "Child of Caste of Mosae", "Child of Thippia of Orcyma",
+        "Child of Khlone of Thasia", "Child of Aris of Spide", "Child of Dora of Cisae", "Child of Lora of Esus",
+        "Child of Dille of Smende", "Child of Iphaes of Elatea", "Child of Kate of Emnos", "Child of Ateas of Echaeus",
+        "Child of Thypsa of Chalesb", "Child of Eutos of Alos", "Child of Imes of Nesae", "Child of Bera of Myta",
+        "Irestas", "Satdjia", "Hiahero", "Tatabu", "Temkhete", "Nesemkhue", "Nefere", "Tjedaa", "Menkhesy", "Tairure",
+        "of Arsan", "of Misho", "of Sina", "of Uthan", "of Shuri", "of Arish", "of Ugan", "of Selon", "of Harre",
+        "of Cutho", "of Dusae", "of Cephi", "of Melis", "of Iapos", "of Myta", "of Cisae", "of Myra", "of Egatu",
+        "of Menae", "of Dyma", "of Paestium", "of Erinum", "of Thegium", "of Phuggia", "of Malium", "of Segium",
+        "of Tiarea", "of Atulum", "of Mascium", "of Cinius", "of Paestiumof Paestium", "of Erinumof Erinum",
+        "of Thegiumof Thegium", "of Phuggiaof Phuggia", "of Maliumof Malium", "of Segiumof Segium",
+        "of Tiareaof Tiarea", "of Atulumof Atulum", "of Masciumof Mascium", "of Ciniusof Cinius",
+        " Servant of Seliel Servant of Seliel", " Servant of Zopha Servant of Zopha",
+        " Servant of Surach Servant of Surach", " Servant of Azah Servant of Azah",
+        " Servant of Sariel Servant of Sariel", " Servant of Suriel Servant of Suriel",
+        " Servant of Rielaph Servant of Rielaph", " Servant of Sandail Servant of Sandail",
+        " Servant of Zabin Servant of Zabin", " Servant of Sielat Servant of Sielat", "Kyrytharmia", "Aleianienir",
+        "Barisia", "Timene", "Agalastyon", "Ketine", "Artelis", "Hodoke", "Kalaurato", "Theophena"
+      ]
+    },
+    "Usuhan": [
+      "Chong", "Kung", "Ogum", "Wang", "Namgung", "Ki", "Si", "Paek", "Ryong", "Su", "Yon", "Sok", "Ra", "Kung", "Ki",
+      "Sang", "Hyong", "Chom", "An", "Roe", "Cho", "Chwa", "Kung", "Kang", "Hwang", "Kung", "Somun", "Kuk", "Su",
+      "Kwok", "P'o", "P'ung", "Cha", "Ryang", "Muk", "Kum", "Chung", "Pyon", "Ham", "Ki", "Ku", "Yun", "Kan", "Yang",
+      "Hwangbo", "No", "Pan", "Yon", "Sung", "P'il", "Cai", "Xu", "Ma", "Song", "Dong", "Shen", "Mo", "Deng", "Geng",
+      "Wen", "Qiao", "Wu", "Ren", "Cai", "Xiao", "Qian", "Xie", "Yan", "Jin", "Zou", "Pae", "Yuk", "Chun", "Ye", "Nan",
+      "Yun", "Ryu", "Kye", "T'ak", "Pang", "Yon", "Muk", "Si", "Kyo", "Sop", "Namgung", "Kum", "Sop", "Wang", "Hong"
+    ],
+    "Arido": [
+      "Villegas", "Bacque", "Jose Cubero", "Méndez", "Alguacil", "Giménez", "Valderas", "Costa", "Mesonero", "Aisa",
+      "Muñoz", "Cerecero", "Ferrufino", "Morata", "Ferreira", "Monedero", "Luis Biel", "Mayordomo", "Bolea", "Anglés",
+      "Ortiz", "Toledo", "Villarreal", "Jose España", "Gistaín", "Serrano", "Catalá", "del Valle", "Mesonero",
+      "Carpentier", "Vargas", "Ferrón", "Sacristán", "Nápoles", "España", "Baztán", "Bolea", "Villegas", "Valenzuela",
+      "Botero", "Gorrondoena", "Ibataogamarra", "Isuri", "Echarandio", "Insaurriaga", "Lacunzarra", "Escuchuri",
+      "Ricarte", "Juanesena", "Villabona", "Arroquy", "Minaberrieta", "Ascorbebeitia", "Echavarriarza", "Oguembarrena",
+      "Umaran", "Goicolea", "Garin", "Bertizberrea", "Vitorica", "Murillo", "Collazo", "Leguizamo", "Seco", "Alcabú",
+      "Gutiérrez", "Hurtado", "Obregón", "Morterero", "Fraga", "Berrocal", "Andrade", "Céspedes", "Gutiérrez", "Molina",
+      "Villa", "Fontirroig", "Fonseca", "Pozo", "Palacio", "Feijoo", "Carita", "de la Cruz", "Beldad", "Sarmiento",
+      "Piñón", "Alvarado", "Feijoo", "Collazo", "Villa", "Johnny Quiambao Panlilio", "Noel Nolan Japson Etrone",
+      "Chaim Malambut Villaécija", "Arnold Fitzpatrick Masangkay", "Jasper Gatan Dayag", "Toli Ancatan Bondoc",
+      "Dario Tiolengco Braña", "Luc Ancatan Jardenil", "Anastasio Morgan Casis", "Macario Peterson Tolosa",
+      "Crotilda Lopa Deseo", "Ericka O'Neal Sevilla", "Loretta Kulubot Capulong", "Chelsey Bashir Europa",
+      "Erendiria Kanaway Cayabyab", "Taryn Abucay Agbayani", "Brandy Bryant Relleve", "Carla Luso-Luso Cabungcal",
+      "Lyndsey Chuchu Lindo", "Kailee Casicas Labrador", "Crotilda Lopa Deseo", "Ericka O'Neal Sevilla",
+      "Loretta Kulubot Capulong", "Chelsey Bashir Europa", "Erendiria Kanaway Cayabyab", "Taryn Abucay Agbayani",
+      "Brandy Bryant Relleve", "Carla Luso-Luso Cabungcal", "Lyndsey Chuchu Lindo", "Kailee Casicas Labrador"
+    ]
+  },
+  "traits": {
+    "appearance": [
+      "Distinctive jewelry: earrings, necklace, circlet, bracelets", "Piercings", "Flamboyant or outlandish clothes",
+      "Formal, clean clothes", "Ragged, dirty clothes", "Pronounced scar", "Missing teeth", "Missing fingers",
+      "Unusual eye color (or two different colors)", "Tattoos", "Birthmark", "Unusual skin color", "Bald",
+      "Braided beard or hair", "Unusual hair color", "Nervous eye twitch", "Distinctive nose",
+      "Distinctive posture (crooked or rigid)", "Exceptionally beautiful", "Exceptionally ugly"
+    ],
+    "high ability": [
+      "Strength — powerful, brawny, strong as an ox", "Dexterity — lithe, agile, graceful",
+      "Constitution — hardy, hale, healthy", "Intelligence — studious, learned, inquisitive",
+      "Wisdom — perceptive, spiritual, insightful", "Charisma — persuasive, forceful, born leader"
+    ],
+    "low ability": [
+      "Strength — feeble, scrawny", "Dexterity — clumsy, fumbling", "Constitution — sickly, pale",
+      "Intelligence — dim-witted, slow", "Wisdom — oblivious, absentminded", "Charisma — dull, boring"
+    ],
+    "talent": [
+      "Plays a musical instrument", "Speaks several languages fluently", "Unbelievably lucky", "Perfect memory",
+      "Great with animals", "Great with children", "Great at solving puzzles", "Great at one game",
+      "Great at impersonations", "Draws beautifully", "Paints beautifully", "Sings beautifully",
+      "Drinks everyone under the table", "Expert carpenter", "Expert cook", "Expert dart thrower and rock skipper",
+      "Expert juggler", "Skilled actor and master of disguise", "Skilled dancer", "Knows thieves’ cant"
+    ],
+    "mannerism": [
+      "Prone to singing, whistling, or humming quietly", "Speaks in rhyme or some other peculiar way",
+      "Particularly low or high voice", "Slurs words, lisps, or stutters", "Enunciates overly clearly", "Speaks loudly",
+      "Whispers", "Uses flowery speech or long words", "Frequently uses the wrong word",
+      "Uses colorful oaths and exclamations", "Makes constant jokes or puns", "Prone to predictions of doom", "Fidgets",
+      "Squints", "Stares into the distance", "Chews something", "Paces", "Taps fingers", "Bites fingernails",
+      "Twirls hair or tugs beard"
+    ],
+    "interaction": [
+      "Argumentative", "Arrogant", "Blustering", "Rude", "Curious", "Friendly", "Honest", "Hot tempered", "Irritable",
+      "Ponderous", "Quiet", "Suspicious"
+    ]
+  }
+}
+

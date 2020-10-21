@@ -1,0 +1,9 @@
+{
+    "given name": "Frédéric",
+    "surname": "Baader",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    }
+}

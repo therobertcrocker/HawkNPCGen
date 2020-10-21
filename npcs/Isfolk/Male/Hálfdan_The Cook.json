@@ -1,0 +1,9 @@
+{
+    "given name": "Hálfdan",
+    "surname": "The Cook",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Half-Orc"
+    }
+}

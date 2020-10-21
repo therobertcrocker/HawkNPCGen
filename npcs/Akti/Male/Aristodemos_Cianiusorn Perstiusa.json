@@ -1,0 +1,19 @@
+{
+    "given name": "Aristodemos",
+    "surname": "Cianiusorn Perstiusa",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Constitution — hardy, hale, healthy",
+        "low ability": "Wisdom — oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Bites fingernails",
+        "interaction": "Suspicious"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "given name": "Pitter",
+    "surname": "Hascoet",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    }
+}
