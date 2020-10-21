@@ -1,0 +1,19 @@
+{
+    "given name": "Margh",
+    "surname": "Bamard",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Constitution — hardy, hale, healthy",
+        "low ability": "Charisma — dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Hot tempered"
+    }
+}

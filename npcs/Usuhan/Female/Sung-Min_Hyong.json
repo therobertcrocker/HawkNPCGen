@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Usuhan",
         "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Charisma — persuasive, forceful, born leader",
+        "low ability": "Strength — feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Friendly"
     }
 }

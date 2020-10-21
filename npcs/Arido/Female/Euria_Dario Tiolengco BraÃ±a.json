@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Arido",
         "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Charisma — persuasive, forceful, born leader",
+        "low ability": "Intelligence — dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Curious"
     }
 }

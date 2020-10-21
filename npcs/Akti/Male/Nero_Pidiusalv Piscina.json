@@ -5,5 +5,15 @@
         "gender": "Male",
         "culture": "Akti",
         "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Constitution — hardy, hale, healthy",
+        "low ability": "Charisma — dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Arrogant"
     }
 }

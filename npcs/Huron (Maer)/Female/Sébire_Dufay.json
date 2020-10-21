@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Huron (Maer)",
         "race": "Human"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Wisdom — perceptive, spiritual, insightful",
+        "low ability": "Intelligence — dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Friendly"
     }
 }

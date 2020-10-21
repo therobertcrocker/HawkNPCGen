@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Huron (Maer)",
         "race": "Human"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Intelligence — studious, learned, inquisitive",
+        "low ability": "Strength — feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Friendly"
     }
 }

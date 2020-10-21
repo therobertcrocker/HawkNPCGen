@@ -5,5 +5,15 @@
         "gender": "Male",
         "culture": "Lochmoor",
         "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Wisdom — perceptive, spiritual, insightful",
+        "low ability": "Charisma — dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Irritable"
     }
 }

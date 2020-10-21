@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Huron (Urn)",
         "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Dexterity — lithe, agile, graceful",
+        "low ability": "Strength — feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "Rude"
     }
 }

@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Huron (Urn)",
         "race": "Human"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Charisma — persuasive, forceful, born leader",
+        "low ability": "Constitution — sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "Arrogant"
     }
 }

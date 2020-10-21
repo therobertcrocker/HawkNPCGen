@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Huron (Urn)",
         "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Dexterity — lithe, agile, graceful",
+        "low ability": "Charisma — dull, boring"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Quiet"
     }
 }

@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Arido",
         "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Constitution — hardy, hale, healthy",
+        "low ability": "Strength — feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Curious"
     }
 }

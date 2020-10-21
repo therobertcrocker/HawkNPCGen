@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Isfolk",
         "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Charisma — persuasive, forceful, born leader",
+        "low ability": "Dexterity — clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Hot tempered"
     }
 }

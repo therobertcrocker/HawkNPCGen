@@ -5,5 +5,15 @@
         "gender": "Female",
         "culture": "Lochmoor",
         "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength — powerful, brawny, strong as an ox",
+        "low ability": "Dexterity — clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Suspicious"
     }
 }

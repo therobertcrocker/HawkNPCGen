@@ -1,0 +1,19 @@
+{
+    "given name": "Tadhiel",
+    "surname": "Harpham",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Wisdom — perceptive, spiritual, insightful",
+        "low ability": "Constitution — sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Quiet"
+    }
+}

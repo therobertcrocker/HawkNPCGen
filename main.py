@@ -2,7 +2,7 @@ import json
 from NPC import NPC
 import time
 import random
-
+import os
 with open('data_lists.json') as f:
     data = json.load(f)
 
@@ -20,8 +20,8 @@ def make_many_npcs(num):
                 time.sleep(1)
 
 
-for i in range(5):
-    print(random.randrange(2))
+
+
 
 
 

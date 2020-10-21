@@ -5,5 +5,15 @@
         "gender": "Male",
         "culture": "Huron (Maer)",
         "race": "Human"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Wisdom — perceptive, spiritual, insightful",
+        "low ability": "Dexterity — clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Irritable"
     }
 }
