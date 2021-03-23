@@ -1,0 +1,19 @@
+{
+    "given name": "Matariel",
+    "surname": "the-Frobisher",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Friendly"
+    }
+}

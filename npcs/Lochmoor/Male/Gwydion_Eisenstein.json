@@ -1,0 +1,19 @@
+{
+    "given name": "Gwydion",
+    "surname": "Eisenstein",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Hot tempered"
+    }
+}

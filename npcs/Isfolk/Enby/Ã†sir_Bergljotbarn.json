@@ -1,0 +1,19 @@
+{
+    "given name": "Æsir",
+    "surname": "Bergljotbarn",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Rock Gnome"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Rude"
+    }
+}

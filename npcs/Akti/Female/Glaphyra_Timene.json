@@ -1,0 +1,19 @@
+{
+    "given name": "Glaphyra",
+    "surname": "Timene",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Hill Dwarf"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Argumentative"
+    }
+}

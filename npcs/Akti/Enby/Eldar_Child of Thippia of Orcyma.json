@@ -1,0 +1,19 @@
+{
+    "given name": "Eldar",
+    "surname": "Child of Thippia of Orcyma",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Rude"
+    }
+}

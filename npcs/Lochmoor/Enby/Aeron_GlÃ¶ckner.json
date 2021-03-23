@@ -1,0 +1,19 @@
+{
+    "given name": "Aeron",
+    "surname": "Glöckner",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Irritable"
+    }
+}

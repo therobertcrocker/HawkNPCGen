@@ -1,0 +1,19 @@
+{
+    "given name": "Delcho",
+    "surname": "Chuprakov-Larionoychka",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Speaks loudly",
+        "interaction": "Suspicious"
+    }
+}

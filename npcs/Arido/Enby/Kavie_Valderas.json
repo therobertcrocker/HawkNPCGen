@@ -1,0 +1,19 @@
+{
+    "given name": "Kavie",
+    "surname": "Valderas",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Honest"
+    }
+}

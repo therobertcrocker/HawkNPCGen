@@ -1,0 +1,19 @@
+{
+    "given name": "Do-Yeon",
+    "surname": "Yon",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Quiet"
+    }
+}

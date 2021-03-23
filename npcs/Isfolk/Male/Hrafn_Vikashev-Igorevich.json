@@ -1,19 +1,19 @@
 {
-    "given name": "Hroldan",
-    "surname": "The Cook",
+    "given name": "Hrafn",
+    "surname": "Vikashev-Igorevich",
     "base": {
         "gender": "Male",
         "culture": "Isfolk",
-        "race": "Half-Orc"
+        "race": "Mountain Dwarf"
     },
     "traits": {
-        "appearance": "Braided beard or hair",
+        "appearance": "Ragged, dirty clothes",
         "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "low ability": "Intelligence - dim-witted, slow"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Enunciates overly clearly",
-        "interaction": "Blustering"
+        "interaction": "Suspicious"
     }
 }

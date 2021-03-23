@@ -1,0 +1,19 @@
+{
+    "given name": "Lucretius",
+    "surname": "Retbithue",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Hobgoblin"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Hot tempered"
+    }
+}

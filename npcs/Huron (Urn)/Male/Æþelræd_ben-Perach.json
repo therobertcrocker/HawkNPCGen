@@ -1,0 +1,19 @@
+{
+    "given name": "Æþelræd",
+    "surname": "ben-Perach",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Hot tempered"
+    }
+}

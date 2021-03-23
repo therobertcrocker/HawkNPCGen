@@ -1,0 +1,19 @@
+{
+    "given name": "Gordianus",
+    "surname": "of Phuggia",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Sea-Elf"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Argumentative"
+    }
+}

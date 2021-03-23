@@ -1,0 +1,19 @@
+{
+    "given name": "Jung-Hee",
+    "surname": "P'il",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Rude"
+    }
+}

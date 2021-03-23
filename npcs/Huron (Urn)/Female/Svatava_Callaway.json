@@ -1,0 +1,19 @@
+{
+    "given name": "Svatava",
+    "surname": "Callaway",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Chews something",
+        "interaction": "Curious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Min-Seo",
+    "surname": "Roe",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "Honest"
+    }
+}

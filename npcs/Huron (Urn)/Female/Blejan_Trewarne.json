@@ -1,0 +1,19 @@
+{
+    "given name": "Blejan",
+    "surname": "Trewarne",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Arrogant"
+    }
+}

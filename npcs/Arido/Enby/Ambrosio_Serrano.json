@@ -1,0 +1,19 @@
+{
+    "given name": "Ambrosio",
+    "surname": "Serrano",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Argumentative"
+    }
+}

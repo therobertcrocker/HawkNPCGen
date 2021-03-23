@@ -1,0 +1,19 @@
+{
+    "given name": "Ísak",
+    "surname": "Khalturin-Zakharovich",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Orc"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Arrogant"
+    }
+}

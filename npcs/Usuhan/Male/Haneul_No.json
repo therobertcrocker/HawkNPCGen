@@ -1,0 +1,19 @@
+{
+    "given name": "Haneul",
+    "surname": "No",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Irritable"
+    }
+}

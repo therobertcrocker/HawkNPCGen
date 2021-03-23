@@ -1,0 +1,19 @@
+{
+    "given name": "Pipaluk",
+    "surname": "Kalashnik-Savelievna",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Half-Orc"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Hot tempered"
+    }
+}

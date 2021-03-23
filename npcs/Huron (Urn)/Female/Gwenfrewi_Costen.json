@@ -1,0 +1,19 @@
+{
+    "given name": "Gwenfrewi",
+    "surname": "Costen",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Irritable"
+    }
+}

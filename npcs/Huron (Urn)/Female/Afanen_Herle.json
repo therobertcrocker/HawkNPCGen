@@ -1,0 +1,19 @@
+{
+    "given name": "Afanen",
+    "surname": "Herle",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Paces",
+        "interaction": "Blustering"
+    }
+}

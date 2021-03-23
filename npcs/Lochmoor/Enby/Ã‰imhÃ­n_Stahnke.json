@@ -1,0 +1,19 @@
+{
+    "given name": "Éimhín",
+    "surname": "Stahnke",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "Arrogant"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Quickcloud",
+    "surname": "Wolf",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "Quiet"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Spurius",
+    "surname": "of Cisae",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Blustering"
+    }
+}

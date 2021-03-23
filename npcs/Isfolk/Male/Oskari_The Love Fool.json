@@ -1,0 +1,19 @@
+{
+    "given name": "Oskari",
+    "surname": "The Love Fool",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Hot tempered"
+    }
+}

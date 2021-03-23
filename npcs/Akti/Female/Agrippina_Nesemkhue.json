@@ -1,0 +1,19 @@
+{
+    "given name": "Agrippina",
+    "surname": "Nesemkhue",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Hot tempered"
+    }
+}

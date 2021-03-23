@@ -1,0 +1,19 @@
+{
+    "given name": "Cristina",
+    "surname": "Villabona",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Chews something",
+        "interaction": "Friendly"
+    }
+}

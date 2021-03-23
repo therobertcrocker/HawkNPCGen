@@ -1,0 +1,19 @@
+{
+    "given name": "Hye-Jin",
+    "surname": "P'il",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Suspicious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Aranth",
+    "surname": "Arroquy",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Missing teeth",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Blustering"
+    }
+}

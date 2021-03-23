@@ -1,0 +1,19 @@
+{
+    "given name": "Yong",
+    "surname": "Pang",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "Suspicious"
+    }
+}

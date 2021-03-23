@@ -1,0 +1,19 @@
+{
+    "given name": "Pyong-Ho",
+    "surname": "Cha",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "Argumentative"
+    }
+}

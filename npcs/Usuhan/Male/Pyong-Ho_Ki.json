@@ -1,0 +1,19 @@
+{
+    "given name": "Pyong-Ho",
+    "surname": "Ki",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Suspicious"
+    }
+}

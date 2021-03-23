@@ -1,0 +1,19 @@
+{
+    "given name": "Alodia",
+    "surname": "Valderas",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "Quiet"
+    }
+}

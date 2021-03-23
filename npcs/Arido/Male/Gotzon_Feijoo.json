@@ -1,0 +1,19 @@
+{
+    "given name": "Gotzon",
+    "surname": "Feijoo",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Ponderous"
+    }
+}

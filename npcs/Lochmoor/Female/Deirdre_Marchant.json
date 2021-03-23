@@ -1,0 +1,19 @@
+{
+    "given name": "Deirdre",
+    "surname": "Marchant",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Suspicious"
+    }
+}

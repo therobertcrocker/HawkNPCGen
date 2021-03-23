@@ -1,0 +1,19 @@
+{
+    "given name": "Cruzita",
+    "surname": "Crotilda Lopa Deseo",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Ponderous"
+    }
+}

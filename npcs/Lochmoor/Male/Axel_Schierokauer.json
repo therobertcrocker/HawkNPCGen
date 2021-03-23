@@ -1,0 +1,19 @@
+{
+    "given name": "Axel",
+    "surname": "Schierokauer",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Arrogant"
+    }
+}

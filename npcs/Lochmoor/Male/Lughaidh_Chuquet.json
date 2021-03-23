@@ -1,0 +1,19 @@
+{
+    "given name": "Lughaidh",
+    "surname": "Chuquet",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Argumentative"
+    }
+}

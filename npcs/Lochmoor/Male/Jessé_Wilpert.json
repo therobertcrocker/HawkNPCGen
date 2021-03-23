@@ -1,0 +1,19 @@
+{
+    "given name": "Jessé",
+    "surname": "Wilpert",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Blustering"
+    }
+}

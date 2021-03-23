@@ -1,0 +1,19 @@
+{
+    "given name": "Jacky",
+    "surname": "Priesner",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Fidgets",
+        "interaction": "Arrogant"
+    }
+}

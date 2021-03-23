@@ -426,13 +426,13 @@
       "Distinctive posture (crooked or rigid)", "Exceptionally beautiful", "Exceptionally ugly"
     ],
     "high ability": [
-      "Strength — powerful, brawny, strong as an ox", "Dexterity — lithe, agile, graceful",
-      "Constitution — hardy, hale, healthy", "Intelligence — studious, learned, inquisitive",
-      "Wisdom — perceptive, spiritual, insightful", "Charisma — persuasive, forceful, born leader"
+      "Strength - powerful, brawny, strong as an ox", "Dexterity - lithe, agile, graceful",
+      "Constitution - hardy, hale, healthy", "Intelligence - studious, learned, inquisitive",
+      "Wisdom - perceptive, spiritual, insightful", "Charisma - persuasive, forceful, born leader"
     ],
     "low ability": [
-      "Strength — feeble, scrawny", "Dexterity — clumsy, fumbling", "Constitution — sickly, pale",
-      "Intelligence — dim-witted, slow", "Wisdom — oblivious, absentminded", "Charisma — dull, boring"
+      "Strength - feeble, scrawny", "Dexterity - clumsy, fumbling", "Constitution - sickly, pale",
+      "Intelligence - dim-witted, slow", "Wisdom - oblivious, absentminded", "Charisma - dull, boring"
     ],
     "talent": [
       "Plays a musical instrument", "Speaks several languages fluently", "Unbelievably lucky", "Perfect memory",

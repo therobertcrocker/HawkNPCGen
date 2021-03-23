@@ -1,0 +1,19 @@
+{
+    "given name": "Aristarchos",
+    "surname": "of Segiumof Segium",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Arrogant"
+    }
+}

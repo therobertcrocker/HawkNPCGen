@@ -1,0 +1,19 @@
+{
+    "given name": "Dimitri",
+    "surname": "Hallgrimson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Arrogant"
+    }
+}

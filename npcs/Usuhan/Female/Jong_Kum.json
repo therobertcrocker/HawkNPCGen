@@ -1,0 +1,19 @@
+{
+    "given name": "Jong",
+    "surname": "Kum",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Arrogant"
+    }
+}

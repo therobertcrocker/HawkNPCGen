@@ -1,0 +1,19 @@
+{
+    "given name": "Hyun-Joo",
+    "surname": "Kyo",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Kenku"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Paces",
+        "interaction": "Ponderous"
+    }
+}

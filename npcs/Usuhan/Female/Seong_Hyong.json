@@ -1,0 +1,19 @@
+{
+    "given name": "Seong",
+    "surname": "Hyong",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "Hot tempered"
+    }
+}

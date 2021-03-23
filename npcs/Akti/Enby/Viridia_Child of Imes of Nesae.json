@@ -1,0 +1,19 @@
+{
+    "given name": "Viridia",
+    "surname": "Child of Imes of Nesae",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Arrogant"
+    }
+}

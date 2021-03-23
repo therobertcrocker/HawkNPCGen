@@ -1,19 +1,19 @@
 {
-    "given name": "Hroldan",
-    "surname": "The Cook",
+    "given name": "Antero",
+    "surname": "The Perfumed",
     "base": {
         "gender": "Male",
         "culture": "Isfolk",
-        "race": "Half-Orc"
+        "race": "Warforged"
     },
     "traits": {
-        "appearance": "Braided beard or hair",
+        "appearance": "Formal, clean clothes",
         "high ability": "Constitution - hardy, hale, healthy",
         "low ability": "Wisdom - oblivious, absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Blustering"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Curious"
     }
 }

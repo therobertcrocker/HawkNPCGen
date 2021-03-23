@@ -1,0 +1,19 @@
+{
+    "given name": "Morwen",
+    "surname": "Harleston",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Speaks loudly",
+        "interaction": "Argumentative"
+    }
+}

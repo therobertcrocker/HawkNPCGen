@@ -1,0 +1,19 @@
+{
+    "given name": "Seo-Yeon",
+    "surname": "Pyon",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Kenku"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Irritable"
+    }
+}

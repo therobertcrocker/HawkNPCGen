@@ -1,0 +1,19 @@
+{
+    "given name": "Marko",
+    "surname": "Cerecero",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Blustering"
+    }
+}

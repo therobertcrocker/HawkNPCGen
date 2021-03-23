@@ -1,0 +1,19 @@
+{
+    "given name": "Gennadios",
+    "surname": "Son of Mionesus of Ialon",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Missing teeth",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Irritable"
+    }
+}

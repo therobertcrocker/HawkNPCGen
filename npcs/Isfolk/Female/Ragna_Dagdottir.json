@@ -1,0 +1,19 @@
+{
+    "given name": "Ragna",
+    "surname": "Dagdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Orc"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Rude"
+    }
+}

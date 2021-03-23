@@ -1,0 +1,19 @@
+{
+    "given name": "Hwan",
+    "surname": "Su",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Blustering"
+    }
+}

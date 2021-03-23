@@ -1,0 +1,19 @@
+{
+    "given name": "Ekaitz",
+    "surname": "Gutiérrez",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Bites fingernails",
+        "interaction": "Blustering"
+    }
+}

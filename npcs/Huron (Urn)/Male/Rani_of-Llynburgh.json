@@ -1,0 +1,19 @@
+{
+    "given name": "Rani",
+    "surname": "of-Llynburgh",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Friendly"
+    }
+}

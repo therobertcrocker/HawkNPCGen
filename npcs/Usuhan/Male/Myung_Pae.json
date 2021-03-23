@@ -1,0 +1,19 @@
+{
+    "given name": "Myung",
+    "surname": "Pae",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Fidgets",
+        "interaction": "Hot tempered"
+    }
+}

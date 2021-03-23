@@ -1,0 +1,19 @@
+{
+    "given name": "Zrinko",
+    "surname": "Zhilina-Vyacheslavovnchka",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Quiet"
+    }
+}

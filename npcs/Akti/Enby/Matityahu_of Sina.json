@@ -1,0 +1,19 @@
+{
+    "given name": "Matityahu",
+    "surname": "of Sina",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Hill Dwarf"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "Argumentative"
+    }
+}

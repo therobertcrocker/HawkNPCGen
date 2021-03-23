@@ -1,0 +1,19 @@
+{
+    "given name": "Gréta",
+    "surname": "Chernetskaya-Vladimirovna",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Arrogant"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Theodoulos",
+    "surname": "Tenebty",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Hill Dwarf"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Hot tempered"
+    }
+}

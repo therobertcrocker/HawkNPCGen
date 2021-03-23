@@ -1,0 +1,19 @@
+{
+    "given name": "Kfir",
+    "surname": "Uglow",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Ponderous"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Valtteri",
+    "surname": "Gunbjornsson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Dexterity — lithe, agile, graceful",
+        "low ability": "Constitution — sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Hot tempered"
+    }
+}

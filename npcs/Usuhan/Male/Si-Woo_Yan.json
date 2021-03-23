@@ -1,0 +1,19 @@
+{
+    "given name": "Si-Woo",
+    "surname": "Yan",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Hot tempered"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Nacho",
+    "surname": "Morata",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Suspicious"
+    }
+}

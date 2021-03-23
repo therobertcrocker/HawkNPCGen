@@ -1,0 +1,19 @@
+{
+    "given name": "Eugraphios",
+    "surname": "of Melis",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Sea-Elf"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Stares into the distance",
+        "interaction": "Friendly"
+    }
+}

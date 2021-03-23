@@ -1,0 +1,19 @@
+{
+    "given name": "Amaya",
+    "surname": "Toledo",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Hot tempered"
+    }
+}

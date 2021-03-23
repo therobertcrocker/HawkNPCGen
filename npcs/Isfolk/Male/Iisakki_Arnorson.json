@@ -1,0 +1,19 @@
+{
+    "given name": "Iisakki",
+    "surname": "Arnorson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Irritable"
+    }
+}

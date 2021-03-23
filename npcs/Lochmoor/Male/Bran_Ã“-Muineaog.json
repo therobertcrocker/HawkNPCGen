@@ -1,0 +1,19 @@
+{
+    "given name": "Bran",
+    "surname": "Ó-Muineaog",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Fidgets",
+        "interaction": "Arrogant"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Urbano",
+    "surname": "Ferreira",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Arrogant"
+    }
+}

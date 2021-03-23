@@ -1,0 +1,19 @@
+{
+    "given name": "Nynke",
+    "surname": "Klaassen",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Rude"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Stasya",
+    "surname": "Birningdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Rock Gnome"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Squints",
+        "interaction": "Argumentative"
+    }
+}

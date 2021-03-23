@@ -1,0 +1,19 @@
+{
+    "given name": "Cosme",
+    "surname": "Villarreal",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Rude"
+    }
+}

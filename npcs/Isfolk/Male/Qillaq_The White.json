@@ -1,0 +1,19 @@
+{
+    "given name": "Qillaq",
+    "surname": "The White",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Ponderous"
+    }
+}

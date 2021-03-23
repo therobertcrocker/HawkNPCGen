@@ -1,0 +1,19 @@
+{
+    "given name": "Angela",
+    "surname": "Gagarina-Filippovna",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Speaks loudly",
+        "interaction": "Suspicious"
+    }
+}

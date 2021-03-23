@@ -1,0 +1,19 @@
+{
+    "given name": "Yeong",
+    "surname": "Sang",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Suspicious"
+    }
+}

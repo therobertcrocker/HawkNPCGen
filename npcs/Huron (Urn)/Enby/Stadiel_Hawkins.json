@@ -1,0 +1,19 @@
+{
+    "given name": "Stadiel",
+    "surname": "Hawkins",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Stares into the distance",
+        "interaction": "Curious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Senin",
+    "surname": "Lacunzarra",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Ponderous"
+    }
+}

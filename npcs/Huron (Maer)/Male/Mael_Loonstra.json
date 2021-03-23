@@ -1,0 +1,19 @@
+{
+    "given name": "Mael",
+    "surname": "Loonstra",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Bites fingernails",
+        "interaction": "Blustering"
+    }
+}

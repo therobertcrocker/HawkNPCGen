@@ -1,0 +1,19 @@
+{
+    "given name": "Otur",
+    "surname": "Aleifrsbarn",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Half-Orc"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Rude"
+    }
+}

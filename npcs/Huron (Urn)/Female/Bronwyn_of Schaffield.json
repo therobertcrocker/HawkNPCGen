@@ -1,0 +1,19 @@
+{
+    "given name": "Bronwyn",
+    "surname": "of Schaffield",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Constitution — hardy, hale, healthy",
+        "low ability": "Wisdom — oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Suspicious"
+    }
+}

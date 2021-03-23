@@ -1,0 +1,19 @@
+{
+    "given name": "Louri",
+    "surname": "Dufay",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Stares into the distance",
+        "interaction": "Ponderous"
+    }
+}

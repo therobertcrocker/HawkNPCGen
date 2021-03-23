@@ -1,0 +1,19 @@
+{
+    "given name": "Asa",
+    "surname": "Beavin",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Chews something",
+        "interaction": "Argumentative"
+    }
+}

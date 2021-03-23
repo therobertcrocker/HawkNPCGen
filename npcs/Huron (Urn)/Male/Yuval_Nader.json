@@ -1,0 +1,19 @@
+{
+    "given name": "Yuval",
+    "surname": "Nader",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Friendly"
+    }
+}

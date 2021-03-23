@@ -1,0 +1,19 @@
+{
+    "given name": "Daria",
+    "surname": "The Envious",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Argumentative"
+    }
+}

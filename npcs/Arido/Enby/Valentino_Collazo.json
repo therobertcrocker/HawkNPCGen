@@ -1,0 +1,19 @@
+{
+    "given name": "Valentino",
+    "surname": "Collazo",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Friendly"
+    }
+}

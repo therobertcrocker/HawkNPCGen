@@ -1,0 +1,19 @@
+{
+    "given name": "Rhosyn",
+    "surname": "Herle",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Fidgets",
+        "interaction": "Ponderous"
+    }
+}

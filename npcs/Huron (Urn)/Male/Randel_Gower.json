@@ -1,0 +1,19 @@
+{
+    "given name": "Randel",
+    "surname": "Gower",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Hot tempered"
+    }
+}

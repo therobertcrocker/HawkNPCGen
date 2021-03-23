@@ -1,0 +1,19 @@
+{
+    "given name": "Carthach",
+    "surname": "Alméras",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "Argumentative"
+    }
+}

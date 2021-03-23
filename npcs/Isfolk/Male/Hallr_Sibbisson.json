@@ -1,0 +1,19 @@
+{
+    "given name": "Hallr",
+    "surname": "Sibbisson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Paces",
+        "interaction": "Curious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Arnórr",
+    "surname": "Thorvaldson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Quiet"
+    }
+}

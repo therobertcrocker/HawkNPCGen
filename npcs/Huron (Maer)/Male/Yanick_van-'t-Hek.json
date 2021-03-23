@@ -1,0 +1,19 @@
+{
+    "given name": "Yanick",
+    "surname": "van-'t-Hek",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Taps fingers",
+        "interaction": "Ponderous"
+    }
+}
