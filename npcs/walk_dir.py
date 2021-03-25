@@ -17,8 +17,5 @@ for root, dirs, files in os.walk(dir_path):
         # the one of your choice.
         if file.endswith('.json'):
             npc.load(root + '/' + str(file))
-            if npc.data["traits"]["appearance"] == "":
-                npc.gen_traits()
-                npc.make_data()
-                npc.show_data()
-                npc.save_data()
+            new_name = npc.race + " - " + npc.name + "_" + npc.surname + ".json"
+            os.rename(root + '/' + str(file), root + '/' + str(new_name))
