@@ -1,0 +1,19 @@
+{
+    "given name": "Renaud",
+    "surname": "Thiers",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Squints",
+        "interaction": "Quiet"
+    }
+}

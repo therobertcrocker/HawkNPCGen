@@ -1,0 +1,19 @@
+{
+    "given name": "Snira",
+    "surname": "Hiahero",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Hill Dwarf"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "Argumentative"
+    }
+}

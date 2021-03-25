@@ -1,0 +1,19 @@
+{
+    "given name": "Dympna",
+    "surname": "Priesner",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Blustering"
+    }
+}

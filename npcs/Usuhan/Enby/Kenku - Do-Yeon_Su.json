@@ -1,0 +1,19 @@
+{
+    "given name": "Do-Yeon",
+    "surname": "Su",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Kenku"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Whispers",
+        "interaction": "Argumentative"
+    }
+}

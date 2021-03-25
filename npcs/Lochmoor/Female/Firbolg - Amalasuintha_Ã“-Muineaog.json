@@ -1,0 +1,19 @@
+{
+    "given name": "Amalasuintha",
+    "surname": "Ó-Muineaog",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Arrogant"
+    }
+}

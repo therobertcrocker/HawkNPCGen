@@ -1,0 +1,19 @@
+{
+    "given name": "Theotleip",
+    "surname": "Wolf",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Suspicious"
+    }
+}

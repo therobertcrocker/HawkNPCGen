@@ -1,0 +1,19 @@
+{
+    "given name": "Alona",
+    "surname": "Penry",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Squints",
+        "interaction": "Suspicious"
+    }
+}

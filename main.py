@@ -9,13 +9,15 @@ with open('data_lists.json') as f:
 
 
 def make_many_npcs(num):
+    genders = ["Male", "Female", "Enby"]
     for i in data["cultures"]:
         for x in range(num):
             try:
-                npc = NPC()
-                npc.quick_gen(culture=i)
-                print("Sucess! created: " + npc.name + " " + npc.surname)
-                npc.save_data()
+                for y in range(3):
+                    npc = NPC()
+                    npc.quick_gen(culture=i, gender=genders[y])
+                    print("Sucess! new: " + npc.gender + " " + npc.culture + " - created: " + npc.name + " " + npc.surname)
+                    npc.save_data()
             except:
                 print("Something went wrong")
             finally:
@@ -27,7 +29,7 @@ def make_many_culture(num, culture):
         try:
             npc = NPC()
             npc.quick_gen(culture= culture)
-            print("Sucess! created: " + npc.name + " " + npc.surname)
+            print("Sucess! new: " + npc.gender + " " + npc.culture + " - created: " + npc.name + " " + npc.surname)
             npc.save_data()
         except:
             print("Something went wrong")

@@ -1,0 +1,19 @@
+{
+    "given name": "Hyeon-U",
+    "surname": "Yang",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Kenku"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Speaks loudly",
+        "interaction": "Suspicious"
+    }
+}

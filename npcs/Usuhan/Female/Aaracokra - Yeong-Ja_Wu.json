@@ -1,0 +1,19 @@
+{
+    "given name": "Yeong-Ja",
+    "surname": "Wu",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Speaks loudly",
+        "interaction": "Suspicious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Galene",
+    "surname": "of Phuggia",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "High-Elf"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Hot tempered"
+    }
+}

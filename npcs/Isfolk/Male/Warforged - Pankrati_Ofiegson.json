@@ -1,0 +1,19 @@
+{
+    "given name": "Pankrati",
+    "surname": "Ofiegson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Rude"
+    }
+}

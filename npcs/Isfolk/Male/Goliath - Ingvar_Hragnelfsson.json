@@ -1,0 +1,19 @@
+{
+    "given name": "Ingvar",
+    "surname": "Hragnelfsson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Ponderous"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Tanja",
+    "surname": "Hjortdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Hot tempered"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Arja",
+    "surname": "Putilova-Savelievna",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Curious"
+    }
+}

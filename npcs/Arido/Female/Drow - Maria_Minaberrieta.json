@@ -1,0 +1,19 @@
+{
+    "given name": "Maria",
+    "surname": "Minaberrieta",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Ponderous"
+    }
+}

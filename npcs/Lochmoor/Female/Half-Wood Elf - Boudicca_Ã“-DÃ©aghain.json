@@ -1,0 +1,19 @@
+{
+    "given name": "Boudicca",
+    "surname": "Ó-Déaghain",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Stares into the distance",
+        "interaction": "Rude"
+    }
+}

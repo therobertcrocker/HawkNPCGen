@@ -1,0 +1,19 @@
+{
+    "given name": "Rasha",
+    "surname": "Zeilstra",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Blustering"
+    }
+}

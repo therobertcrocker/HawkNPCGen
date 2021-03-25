@@ -1,0 +1,19 @@
+{
+    "given name": "Josepe",
+    "surname": "Chelsey Bashir Europa",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "Curious"
+    }
+}

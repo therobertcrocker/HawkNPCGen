@@ -1,0 +1,19 @@
+{
+    "given name": "Lefsued",
+    "surname": "Chegwin",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Fidgets",
+        "interaction": "Ponderous"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Augusta",
+    "surname": "Theophena",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "High-Elf"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Suspicious"
+    }
+}

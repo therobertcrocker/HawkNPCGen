@@ -1,0 +1,19 @@
+{
+    "given name": "Patricius",
+    "surname": "Child of Thypsa of Chalesb",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "High-Elf"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Honest"
+    }
+}

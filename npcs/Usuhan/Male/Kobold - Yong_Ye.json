@@ -1,0 +1,19 @@
+{
+    "given name": "Yong",
+    "surname": "Ye",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Argumentative"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Jaime",
+    "surname": "Vargas",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Curious"
+    }
+}

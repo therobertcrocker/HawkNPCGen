@@ -1,0 +1,19 @@
+{
+    "given name": "Doirend",
+    "surname": "Ó-Labhradha",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Argumentative"
+    }
+}

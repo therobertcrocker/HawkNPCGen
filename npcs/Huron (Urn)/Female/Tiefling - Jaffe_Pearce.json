@@ -1,0 +1,19 @@
+{
+    "given name": "Jaffe",
+    "surname": "Pearce",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Irritable"
+    }
+}

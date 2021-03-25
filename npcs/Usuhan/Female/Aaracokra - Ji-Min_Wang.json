@@ -1,0 +1,19 @@
+{
+    "given name": "Ji-Min",
+    "surname": "Wang",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Bites fingernails",
+        "interaction": "Friendly"
+    }
+}

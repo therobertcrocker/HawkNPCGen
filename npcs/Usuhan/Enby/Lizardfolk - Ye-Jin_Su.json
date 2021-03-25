@@ -1,0 +1,19 @@
+{
+    "given name": "Ye-Jin",
+    "surname": "Su",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Rude"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Boadicea",
+    "surname": "Rapace",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Argumentative"
+    }
+}

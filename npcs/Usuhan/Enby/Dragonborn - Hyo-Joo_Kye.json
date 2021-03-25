@@ -1,0 +1,19 @@
+{
+    "given name": "Hyo-Joo",
+    "surname": "Kye",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Taps fingers",
+        "interaction": "Honest"
+    }
+}

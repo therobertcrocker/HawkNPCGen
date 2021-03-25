@@ -1,0 +1,19 @@
+{
+    "given name": "Crispus",
+    "surname": "Nefere",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Blustering"
+    }
+}

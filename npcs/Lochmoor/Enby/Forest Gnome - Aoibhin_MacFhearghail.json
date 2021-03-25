@@ -1,0 +1,19 @@
+{
+    "given name": "Aoibhin",
+    "surname": "MacFhearghail",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Quiet"
+    }
+}

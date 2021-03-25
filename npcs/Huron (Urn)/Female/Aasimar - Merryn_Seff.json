@@ -1,0 +1,19 @@
+{
+    "given name": "Merryn",
+    "surname": "Seff",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "Quiet"
+    }
+}

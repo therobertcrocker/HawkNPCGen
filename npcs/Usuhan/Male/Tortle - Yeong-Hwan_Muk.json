@@ -1,0 +1,19 @@
+{
+    "given name": "Yeong-Hwan",
+    "surname": "Muk",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Stares into the distance",
+        "interaction": "Hot tempered"
+    }
+}

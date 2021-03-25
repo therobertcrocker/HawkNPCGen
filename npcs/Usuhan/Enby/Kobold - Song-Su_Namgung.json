@@ -1,0 +1,19 @@
+{
+    "given name": "Song-Su",
+    "surname": "Namgung",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Paces",
+        "interaction": "Argumentative"
+    }
+}

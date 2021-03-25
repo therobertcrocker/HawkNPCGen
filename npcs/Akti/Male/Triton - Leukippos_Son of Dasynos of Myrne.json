@@ -1,0 +1,19 @@
+{
+    "given name": "Leukippos",
+    "surname": "Son of Dasynos of Myrne",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Blustering"
+    }
+}

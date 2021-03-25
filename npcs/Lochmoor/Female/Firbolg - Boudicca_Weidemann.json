@@ -1,0 +1,19 @@
+{
+    "given name": "Boudicca",
+    "surname": "Weidemann",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Irritable"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Erasmo",
+    "surname": "Loretta Kulubot Capulong",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Fidgets",
+        "interaction": "Arrogant"
+    }
+}

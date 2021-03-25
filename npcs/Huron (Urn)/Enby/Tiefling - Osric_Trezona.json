@@ -1,0 +1,19 @@
+{
+    "given name": "Osric",
+    "surname": "Trezona",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Ponderous"
+    }
+}

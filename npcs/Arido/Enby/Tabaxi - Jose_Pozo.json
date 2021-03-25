@@ -1,0 +1,19 @@
+{
+    "given name": "Jose",
+    "surname": "Pozo",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Ponderous"
+    }
+}

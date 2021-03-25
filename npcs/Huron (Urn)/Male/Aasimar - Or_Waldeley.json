@@ -1,0 +1,19 @@
+{
+    "given name": "Or",
+    "surname": "Waldeley",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Paces",
+        "interaction": "Curious"
+    }
+}

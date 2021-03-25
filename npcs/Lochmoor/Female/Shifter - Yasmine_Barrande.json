@@ -1,0 +1,19 @@
+{
+    "given name": "Yasmine",
+    "surname": "Barrande",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Ponderous"
+    }
+}

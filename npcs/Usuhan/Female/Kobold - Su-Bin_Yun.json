@@ -1,0 +1,19 @@
+{
+    "given name": "Su-Bin",
+    "surname": "Yun",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Irritable"
+    }
+}

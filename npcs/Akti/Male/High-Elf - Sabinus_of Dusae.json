@@ -1,0 +1,19 @@
+{
+    "given name": "Sabinus",
+    "surname": "of Dusae",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "High-Elf"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "Ponderous"
+    }
+}

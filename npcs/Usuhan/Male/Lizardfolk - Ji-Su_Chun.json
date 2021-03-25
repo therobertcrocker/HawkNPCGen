@@ -1,0 +1,19 @@
+{
+    "given name": "Ji-Su",
+    "surname": "Chun",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Argumentative"
+    }
+}

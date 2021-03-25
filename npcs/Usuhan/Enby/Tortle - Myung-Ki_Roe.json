@@ -1,0 +1,19 @@
+{
+    "given name": "Myung-Ki",
+    "surname": "Roe",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Irritable"
+    }
+}

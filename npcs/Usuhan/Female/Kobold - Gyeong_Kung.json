@@ -1,0 +1,19 @@
+{
+    "given name": "Gyeong",
+    "surname": "Kung",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Curious"
+    }
+}

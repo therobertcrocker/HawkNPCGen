@@ -1,0 +1,19 @@
+{
+    "given name": "Valbergur",
+    "surname": "Leonova-Andreevnchka",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Friendly"
+    }
+}

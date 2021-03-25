@@ -1,0 +1,19 @@
+{
+    "given name": "Sang-Hoon",
+    "surname": "Yun",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Missing teeth",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Suspicious"
+    }
+}

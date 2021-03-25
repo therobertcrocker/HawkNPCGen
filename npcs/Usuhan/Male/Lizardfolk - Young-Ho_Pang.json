@@ -1,0 +1,19 @@
+{
+    "given name": "Young-Ho",
+    "surname": "Pang",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Hot tempered"
+    }
+}

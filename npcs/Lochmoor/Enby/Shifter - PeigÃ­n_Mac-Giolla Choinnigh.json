@@ -1,0 +1,19 @@
+{
+    "given name": "Peigín",
+    "surname": "Mac-Giolla Choinnigh",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Rude"
+    }
+}

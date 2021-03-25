@@ -1,0 +1,19 @@
+{
+    "given name": "Delia",
+    "surname": "Cerecero",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Quiet"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Kang-Dae",
+    "surname": "Ra",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "Ponderous"
+    }
+}

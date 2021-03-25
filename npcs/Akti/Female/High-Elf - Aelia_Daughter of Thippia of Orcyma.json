@@ -1,0 +1,19 @@
+{
+    "given name": "Aelia",
+    "surname": "Daughter of Thippia of Orcyma",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "High-Elf"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Hot tempered"
+    }
+}

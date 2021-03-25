@@ -1,0 +1,19 @@
+{
+    "given name": "Irati",
+    "surname": "Ericka O'Neal Sevilla",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Arrogant"
+    }
+}

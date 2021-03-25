@@ -1,0 +1,19 @@
+{
+    "given name": "Myeong-Suk",
+    "surname": "Ryang",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Friendly"
+    }
+}

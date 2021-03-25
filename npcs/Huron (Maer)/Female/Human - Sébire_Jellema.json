@@ -1,0 +1,19 @@
+{
+    "given name": "Sébire",
+    "surname": "Jellema",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Curious"
+    }
+}

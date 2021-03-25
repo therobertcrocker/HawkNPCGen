@@ -1,0 +1,19 @@
+{
+    "given name": "Jeong-Hun",
+    "surname": "Cha",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Ponderous"
+    }
+}

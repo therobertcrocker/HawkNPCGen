@@ -1,0 +1,19 @@
+{
+    "given name": "Rebeca",
+    "surname": "Muñoz",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Paces",
+        "interaction": "Ponderous"
+    }
+}

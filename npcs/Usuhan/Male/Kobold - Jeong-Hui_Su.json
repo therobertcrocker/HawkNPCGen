@@ -1,0 +1,19 @@
+{
+    "given name": "Jeong-Hui",
+    "surname": "Su",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Rude"
+    }
+}

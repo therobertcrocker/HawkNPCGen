@@ -1,0 +1,19 @@
+{
+    "given name": "Jeong-Hui",
+    "surname": "Yon",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Kenku"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Blustering"
+    }
+}

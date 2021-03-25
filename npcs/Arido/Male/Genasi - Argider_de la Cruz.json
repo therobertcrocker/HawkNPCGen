@@ -1,0 +1,19 @@
+{
+    "given name": "Argider",
+    "surname": "de la Cruz",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Arrogant"
+    }
+}

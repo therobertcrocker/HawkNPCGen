@@ -1,0 +1,19 @@
+{
+    "given name": "Lilja",
+    "surname": "Halldisdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Quiet"
+    }
+}
