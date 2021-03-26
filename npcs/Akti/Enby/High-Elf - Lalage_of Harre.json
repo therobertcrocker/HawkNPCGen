@@ -1,0 +1,19 @@
+{
+    "given name": "Lalage",
+    "surname": "of Harre",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "High-Elf"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Paces",
+        "interaction": "Curious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Vlasta",
+    "surname": "Ashpole",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Friendly"
+    }
+}

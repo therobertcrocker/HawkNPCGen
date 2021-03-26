@@ -1,0 +1,19 @@
+{
+    "given name": "Evrawg",
+    "surname": "MacNia",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Suspicious"
+    }
+}

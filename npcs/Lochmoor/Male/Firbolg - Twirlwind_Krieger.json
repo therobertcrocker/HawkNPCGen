@@ -1,0 +1,19 @@
+{
+    "given name": "Twirlwind",
+    "surname": "Krieger",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Honest"
+    }
+}

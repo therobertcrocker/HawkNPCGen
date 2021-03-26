@@ -1,0 +1,19 @@
+{
+    "given name": "Manolo",
+    "surname": "Leguizamo",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Blustering"
+    }
+}

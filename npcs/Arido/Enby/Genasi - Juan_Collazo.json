@@ -1,0 +1,19 @@
+{
+    "given name": "Juan",
+    "surname": "Collazo",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Ponderous"
+    }
+}

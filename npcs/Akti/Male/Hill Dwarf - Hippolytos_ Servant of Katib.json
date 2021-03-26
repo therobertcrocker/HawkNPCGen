@@ -1,0 +1,19 @@
+{
+    "given name": "Hippolytos",
+    "surname": " Servant of Katib",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Hill Dwarf"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Quiet"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Patricius",
+    "surname": "of Paestium",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Hobgoblin"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "Irritable"
+    }
+}

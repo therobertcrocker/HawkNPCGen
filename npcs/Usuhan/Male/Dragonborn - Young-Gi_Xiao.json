@@ -1,0 +1,19 @@
+{
+    "given name": "Young-Gi",
+    "surname": "Xiao",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "Irritable"
+    }
+}

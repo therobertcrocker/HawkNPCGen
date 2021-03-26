@@ -1,0 +1,19 @@
+{
+    "given name": "Avihu",
+    "surname": "Garcia",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Argumentative"
+    }
+}

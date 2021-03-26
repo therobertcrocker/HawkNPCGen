@@ -1,0 +1,19 @@
+{
+    "given name": "Hunila",
+    "surname": "Berthou",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Friendly"
+    }
+}

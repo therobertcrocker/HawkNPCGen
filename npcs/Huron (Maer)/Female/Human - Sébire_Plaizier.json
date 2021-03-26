@@ -1,0 +1,19 @@
+{
+    "given name": "Sébire",
+    "surname": "Plaizier",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Friendly"
+    }
+}

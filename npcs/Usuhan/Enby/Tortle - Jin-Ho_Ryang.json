@@ -1,0 +1,19 @@
+{
+    "given name": "Jin-Ho",
+    "surname": "Ryang",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Curious"
+    }
+}

@@ -1,10 +1,10 @@
 {
-    "given name": "Phaethusa",
-    "surname": " Servant of Sielat Servant of Sielat",
+    "given name": "Zedong",
+    "surname": "T'ak",
     "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Hobgoblin"
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
     },
     "traits": {
         "appearance": "Flamboyant or outlandish clothes",
@@ -13,7 +13,7 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Hot tempered"
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Arrogant"
     }
 }

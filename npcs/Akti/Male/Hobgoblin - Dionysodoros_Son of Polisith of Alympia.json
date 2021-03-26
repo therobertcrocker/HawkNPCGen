@@ -1,0 +1,19 @@
+{
+    "given name": "Dionysodoros",
+    "surname": "Son of Polisith of Alympia",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Hobgoblin"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Arrogant"
+    }
+}

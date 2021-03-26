@@ -1,0 +1,19 @@
+{
+    "given name": "Drust",
+    "surname": "MacTheàrlaich",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Friendly"
+    }
+}

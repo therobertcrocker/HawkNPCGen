@@ -1,0 +1,19 @@
+{
+    "given name": "Jenifer",
+    "surname": "Blakeley",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Suspicious"
+    }
+}

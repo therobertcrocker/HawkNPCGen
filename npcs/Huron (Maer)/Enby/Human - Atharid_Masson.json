@@ -1,0 +1,19 @@
+{
+    "given name": "Atharid",
+    "surname": "Masson",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Friendly"
+    }
+}

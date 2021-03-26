@@ -1,0 +1,19 @@
+{
+    "given name": "Marcella",
+    "surname": "of Arsan",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Suspicious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Eudocia",
+    "surname": "Daughter of Thypsa of Chalesb",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Irritable"
+    }
+}

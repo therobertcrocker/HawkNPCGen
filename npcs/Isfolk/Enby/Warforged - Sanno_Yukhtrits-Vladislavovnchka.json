@@ -1,0 +1,19 @@
+{
+    "given name": "Sanno",
+    "surname": "Yukhtrits-Vladislavovnchka",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Curious"
+    }
+}

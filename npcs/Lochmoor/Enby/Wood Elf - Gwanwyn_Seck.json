@@ -1,0 +1,19 @@
+{
+    "given name": "Gwanwyn",
+    "surname": "Seck",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Stares into the distance",
+        "interaction": "Suspicious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Ingigerðr",
+    "surname": "The Mute",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Friendly"
+    }
+}

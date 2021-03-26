@@ -1,0 +1,19 @@
+{
+    "given name": "Alda",
+    "surname": "MacDhonnchaidh",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Quiet"
+    }
+}

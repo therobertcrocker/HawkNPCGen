@@ -1,0 +1,19 @@
+{
+    "given name": "Fabricio",
+    "surname": "Johnny Quiambao Panlilio",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Friendly"
+    }
+}

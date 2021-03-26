@@ -1,0 +1,19 @@
+{
+    "given name": "Ísabella",
+    "surname": "Halladottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Rock Gnome"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Irritable"
+    }
+}

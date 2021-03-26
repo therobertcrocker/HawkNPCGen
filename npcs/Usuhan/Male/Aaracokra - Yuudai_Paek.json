@@ -1,0 +1,19 @@
+{
+    "given name": "Yuudai",
+    "surname": "Paek",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Missing teeth",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Chews something",
+        "interaction": "Ponderous"
+    }
+}

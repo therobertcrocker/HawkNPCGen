@@ -1,0 +1,19 @@
+{
+    "given name": "Tanguy",
+    "surname": "Warren",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Argumentative"
+    }
+}

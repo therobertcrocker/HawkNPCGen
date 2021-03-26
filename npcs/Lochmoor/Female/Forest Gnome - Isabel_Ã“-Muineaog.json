@@ -1,0 +1,19 @@
+{
+    "given name": "Isabel",
+    "surname": "Ó-Muineaog",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Chews something",
+        "interaction": "Hot tempered"
+    }
+}

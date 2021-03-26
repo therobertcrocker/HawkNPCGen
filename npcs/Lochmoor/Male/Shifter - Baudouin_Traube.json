@@ -1,0 +1,19 @@
+{
+    "given name": "Baudouin",
+    "surname": "Traube",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Arrogant"
+    }
+}

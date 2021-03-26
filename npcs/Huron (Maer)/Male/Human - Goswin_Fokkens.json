@@ -1,0 +1,19 @@
+{
+    "given name": "Goswin",
+    "surname": "Fokkens",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "Friendly"
+    }
+}

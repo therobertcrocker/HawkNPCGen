@@ -1,0 +1,19 @@
+{
+    "given name": "Urbano",
+    "surname": "Nápoles",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "Arrogant"
+    }
+}

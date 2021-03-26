@@ -1,0 +1,19 @@
+{
+    "given name": "Phul",
+    "surname": "Dunch",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Suspicious"
+    }
+}

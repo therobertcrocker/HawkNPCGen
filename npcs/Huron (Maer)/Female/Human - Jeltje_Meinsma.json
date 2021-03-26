@@ -1,0 +1,19 @@
+{
+    "given name": "Jeltje",
+    "surname": "Meinsma",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Blustering"
+    }
+}

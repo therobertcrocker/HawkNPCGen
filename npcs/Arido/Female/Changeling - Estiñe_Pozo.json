@@ -1,0 +1,19 @@
+{
+    "given name": "Estiñe",
+    "surname": "Pozo",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Quiet"
+    }
+}

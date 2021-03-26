@@ -1,0 +1,19 @@
+{
+    "given name": "Zvulun",
+    "surname": "Tishire",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Sea-Elf"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Honest"
+    }
+}

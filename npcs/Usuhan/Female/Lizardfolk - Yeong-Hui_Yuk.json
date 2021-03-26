@@ -1,0 +1,19 @@
+{
+    "given name": "Yeong-Hui",
+    "surname": "Yuk",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Lizardfolk"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Arrogant"
+    }
+}

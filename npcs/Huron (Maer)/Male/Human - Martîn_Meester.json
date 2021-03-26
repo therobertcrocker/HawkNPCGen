@@ -1,0 +1,19 @@
+{
+    "given name": "Martîn",
+    "surname": "Meester",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Stares into the distance",
+        "interaction": "Friendly"
+    }
+}

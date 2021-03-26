@@ -1,0 +1,19 @@
+{
+    "given name": "Wiebe",
+    "surname": "Jellema",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Suspicious"
+    }
+}

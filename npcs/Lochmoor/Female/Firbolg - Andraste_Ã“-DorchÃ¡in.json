@@ -1,0 +1,19 @@
+{
+    "given name": "Andraste",
+    "surname": "Ó-Dorcháin",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Arrogant"
+    }
+}

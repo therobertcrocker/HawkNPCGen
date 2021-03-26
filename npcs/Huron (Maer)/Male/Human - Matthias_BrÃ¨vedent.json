@@ -1,0 +1,19 @@
+{
+    "given name": "Matthias",
+    "surname": "Brèvedent",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Arrogant"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Klaas",
+    "surname": "Hoekstra",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Missing teeth",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Taps fingers",
+        "interaction": "Blustering"
+    }
+}

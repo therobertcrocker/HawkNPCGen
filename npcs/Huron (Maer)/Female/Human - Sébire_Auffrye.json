@@ -1,0 +1,19 @@
+{
+    "given name": "Sébire",
+    "surname": "Auffrye",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Blustering"
+    }
+}

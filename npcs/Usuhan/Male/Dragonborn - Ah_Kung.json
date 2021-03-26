@@ -1,0 +1,19 @@
+{
+    "given name": "Ah",
+    "surname": "Kung",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "Curious"
+    }
+}

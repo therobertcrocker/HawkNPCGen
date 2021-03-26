@@ -1,0 +1,19 @@
+{
+    "given name": "Hadariel",
+    "surname": "Prideaux",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Friendly"
+    }
+}

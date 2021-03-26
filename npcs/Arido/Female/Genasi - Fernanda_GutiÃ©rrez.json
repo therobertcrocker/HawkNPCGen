@@ -1,0 +1,19 @@
+{
+    "given name": "Fernanda",
+    "surname": "Gutiérrez",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Suspicious"
+    }
+}

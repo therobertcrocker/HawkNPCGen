@@ -1,0 +1,19 @@
+{
+    "given name": "Aranth",
+    "surname": "Sarmiento",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Paces",
+        "interaction": "Honest"
+    }
+}

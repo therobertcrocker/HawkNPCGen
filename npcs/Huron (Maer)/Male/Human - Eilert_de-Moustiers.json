@@ -1,0 +1,19 @@
+{
+    "given name": "Eilert",
+    "surname": "de-Moustiers",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Hot tempered"
+    }
+}

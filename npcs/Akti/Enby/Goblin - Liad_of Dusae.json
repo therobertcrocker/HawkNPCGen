@@ -1,0 +1,19 @@
+{
+    "given name": "Liad",
+    "surname": "of Dusae",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Ponderous"
+    }
+}

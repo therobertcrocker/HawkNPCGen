@@ -1,0 +1,19 @@
+{
+    "given name": "Rikiar",
+    "surname": "Van-Der-Heide",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Irritable"
+    }
+}

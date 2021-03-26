@@ -1,0 +1,19 @@
+{
+    "given name": "Alkeld",
+    "surname": "Hughes",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Arrogant"
+    }
+}

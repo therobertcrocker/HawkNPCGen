@@ -1,0 +1,19 @@
+{
+    "given name": "Fabricia",
+    "surname": "of Melis",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "High-Elf"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Suspicious"
+    }
+}

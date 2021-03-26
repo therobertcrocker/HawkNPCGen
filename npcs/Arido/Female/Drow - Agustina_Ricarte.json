@@ -1,0 +1,19 @@
+{
+    "given name": "Agustina",
+    "surname": "Ricarte",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Missing teeth",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Rude"
+    }
+}

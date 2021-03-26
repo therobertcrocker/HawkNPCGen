@@ -1,0 +1,19 @@
+{
+    "given name": "Vel",
+    "surname": "of Selon",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Suspicious"
+    }
+}

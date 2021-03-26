@@ -1,0 +1,19 @@
+{
+    "given name": "Folant",
+    "surname": "Andrewartha",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Hot tempered"
+    }
+}

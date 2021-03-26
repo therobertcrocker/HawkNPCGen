@@ -1,0 +1,19 @@
+{
+    "given name": "Eadburg",
+    "surname": "the-Frobisher",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Curious"
+    }
+}

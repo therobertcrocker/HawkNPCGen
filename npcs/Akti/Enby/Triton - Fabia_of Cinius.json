@@ -1,0 +1,19 @@
+{
+    "given name": "Fabia",
+    "surname": "of Cinius",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Irritable"
+    }
+}

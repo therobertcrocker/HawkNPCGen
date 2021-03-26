@@ -1,0 +1,19 @@
+{
+    "given name": "Thraustila",
+    "surname": "Gorter",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Friendly"
+    }
+}

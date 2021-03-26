@@ -1,0 +1,19 @@
+{
+    "given name": "Ffraid",
+    "surname": "Böckler",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Taps fingers",
+        "interaction": "Irritable"
+    }
+}

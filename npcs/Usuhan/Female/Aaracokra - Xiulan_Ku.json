@@ -1,0 +1,19 @@
+{
+    "given name": "Xiulan",
+    "surname": "Ku",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Arrogant"
+    }
+}

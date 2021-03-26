@@ -1,0 +1,19 @@
+{
+    "given name": "Dae-Jung",
+    "surname": "Kan",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Taps fingers",
+        "interaction": "Irritable"
+    }
+}

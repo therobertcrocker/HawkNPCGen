@@ -1,0 +1,19 @@
+{
+    "given name": "Amlodd",
+    "surname": "Spanghero",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Hot tempered"
+    }
+}

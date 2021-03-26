@@ -1,0 +1,19 @@
+{
+    "given name": "Xabier",
+    "surname": "Lyndsey Chuchu Lindo",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Quiet"
+    }
+}

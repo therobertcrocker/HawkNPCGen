@@ -1,0 +1,19 @@
+{
+    "given name": "Hinata",
+    "surname": "Sung",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Whispers",
+        "interaction": "Suspicious"
+    }
+}

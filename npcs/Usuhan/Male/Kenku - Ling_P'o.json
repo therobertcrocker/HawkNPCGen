@@ -1,0 +1,19 @@
+{
+    "given name": "Ling",
+    "surname": "P'o",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Kenku"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Squints",
+        "interaction": "Ponderous"
+    }
+}

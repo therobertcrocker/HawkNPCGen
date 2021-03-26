@@ -1,0 +1,19 @@
+{
+    "given name": "Hafgrímur",
+    "surname": "Bolshakova-Zakharovnchka",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Half-Orc"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Speaks loudly",
+        "interaction": "Rude"
+    }
+}

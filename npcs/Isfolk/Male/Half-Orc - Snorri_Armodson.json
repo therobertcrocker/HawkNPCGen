@@ -1,0 +1,19 @@
+{
+    "given name": "Snorri",
+    "surname": "Armodson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Half-Orc"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Blustering"
+    }
+}

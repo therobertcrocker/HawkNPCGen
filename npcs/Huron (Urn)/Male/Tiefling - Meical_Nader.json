@@ -1,0 +1,19 @@
+{
+    "given name": "Meical",
+    "surname": "Nader",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Arrogant"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Min-Seo",
+    "surname": "Wang",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Bites fingernails",
+        "interaction": "Honest"
+    }
+}

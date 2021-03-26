@@ -1,0 +1,19 @@
+{
+    "given name": "Vaast",
+    "surname": "Heeringa",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Argumentative"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Malik",
+    "surname": "Ormson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Half-Orc"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Blustering"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Hyeon-Ju",
+    "surname": "Chong",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Argumentative"
+    }
+}

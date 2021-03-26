@@ -1,0 +1,19 @@
+{
+    "given name": "Paulina",
+    "surname": "Viusecius ",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Argumentative"
+    }
+}

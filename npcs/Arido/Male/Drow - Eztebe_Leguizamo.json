@@ -1,0 +1,19 @@
+{
+    "given name": "Eztebe",
+    "surname": "Leguizamo",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Quiet"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Azeneth",
+    "surname": "Jose Cubero",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Hot tempered"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Eulalia",
+    "surname": "Daughter of Ateas of Echaeus",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "Irritable"
+    }
+}

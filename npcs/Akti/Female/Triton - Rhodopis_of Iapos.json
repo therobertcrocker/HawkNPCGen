@@ -1,0 +1,19 @@
+{
+    "given name": "Rhodopis",
+    "surname": "of Iapos",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Curious"
+    }
+}

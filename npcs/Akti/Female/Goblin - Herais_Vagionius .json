@@ -1,0 +1,19 @@
+{
+    "given name": "Herais",
+    "surname": "Vagionius ",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Paces",
+        "interaction": "Rude"
+    }
+}

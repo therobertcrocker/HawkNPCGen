@@ -1,0 +1,19 @@
+{
+    "given name": "Leofflæd",
+    "surname": "of-Nanafon",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Knows thievesâ€™ cant",
+        "mannerism": "Taps fingers",
+        "interaction": "Hot tempered"
+    }
+}

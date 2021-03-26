@@ -1,0 +1,19 @@
+{
+    "given name": "Carolien",
+    "surname": "MacTheàrlaich",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Whispers",
+        "interaction": "Quiet"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Amílcar",
+    "surname": "Vargas",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Blustering"
+    }
+}

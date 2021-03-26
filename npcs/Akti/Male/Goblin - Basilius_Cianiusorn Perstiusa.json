@@ -1,0 +1,19 @@
+{
+    "given name": "Basilius",
+    "surname": "Cianiusorn Perstiusa",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Curious"
+    }
+}

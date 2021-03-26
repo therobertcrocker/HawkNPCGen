@@ -1,0 +1,19 @@
+{
+    "given name": "Amalfrieda",
+    "surname": "Le-Bail",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Ponderous"
+    }
+}

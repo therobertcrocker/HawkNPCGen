@@ -1,0 +1,19 @@
+{
+    "given name": "Songmin",
+    "surname": "Qian",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Quiet"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Yuuki",
+    "surname": "An",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Kenku"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "Friendly"
+    }
+}

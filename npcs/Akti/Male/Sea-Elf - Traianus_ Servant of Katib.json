@@ -1,0 +1,19 @@
+{
+    "given name": "Traianus",
+    "surname": " Servant of Katib",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Sea-Elf"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Honest"
+    }
+}

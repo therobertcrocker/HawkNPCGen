@@ -1,0 +1,19 @@
+{
+    "given name": "Gabriel",
+    "surname": "Thorvaldson",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Honest"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Chang-Min",
+    "surname": "Xie",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Tortle"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Whispers",
+        "interaction": "Curious"
+    }
+}

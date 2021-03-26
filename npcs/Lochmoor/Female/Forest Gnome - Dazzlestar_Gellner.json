@@ -1,0 +1,19 @@
+{
+    "given name": "Dazzlestar",
+    "surname": "Gellner",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Rude"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Treabhair",
+    "surname": "Lattke",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Squints",
+        "interaction": "Suspicious"
+    }
+}

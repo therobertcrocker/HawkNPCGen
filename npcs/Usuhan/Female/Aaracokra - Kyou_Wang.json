@@ -1,0 +1,19 @@
+{
+    "given name": "Kyou",
+    "surname": "Wang",
+    "base": {
+        "gender": "Female",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Speaks loudly",
+        "interaction": "Arrogant"
+    }
+}

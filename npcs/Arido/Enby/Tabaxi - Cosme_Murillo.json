@@ -1,0 +1,19 @@
+{
+    "given name": "Cosme",
+    "surname": "Murillo",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Speaks loudly",
+        "interaction": "Rude"
+    }
+}

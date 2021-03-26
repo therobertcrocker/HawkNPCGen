@@ -1,0 +1,19 @@
+{
+    "given name": "Tupaarnaq",
+    "surname": "The Enchanting",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Squints",
+        "interaction": "Honest"
+    }
+}

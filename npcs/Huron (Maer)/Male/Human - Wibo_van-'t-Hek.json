@@ -1,0 +1,19 @@
+{
+    "given name": "Wibo",
+    "surname": "van-'t-Hek",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Paces",
+        "interaction": "Blustering"
+    }
+}

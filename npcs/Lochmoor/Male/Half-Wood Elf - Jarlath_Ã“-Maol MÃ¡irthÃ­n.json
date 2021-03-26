@@ -1,0 +1,19 @@
+{
+    "given name": "Jarlath",
+    "surname": "Ó-Maol Máirthín",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Arrogant"
+    }
+}

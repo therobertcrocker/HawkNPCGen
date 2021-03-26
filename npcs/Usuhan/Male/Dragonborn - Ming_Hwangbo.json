@@ -1,0 +1,19 @@
+{
+    "given name": "Ming",
+    "surname": "Hwangbo",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Dragonborn"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Argumentative"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Gratianus",
+    "surname": "Ipys",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Sea-Elf"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Argumentative"
+    }
+}

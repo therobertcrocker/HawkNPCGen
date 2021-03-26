@@ -1,0 +1,19 @@
+{
+    "given name": "Yéssica",
+    "surname": "Luc Ancatan Jardenil",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Ponderous"
+    }
+}

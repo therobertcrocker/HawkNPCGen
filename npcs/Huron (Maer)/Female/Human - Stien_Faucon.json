@@ -1,0 +1,19 @@
+{
+    "given name": "Stien",
+    "surname": "Faucon",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Missing teeth",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Curious"
+    }
+}

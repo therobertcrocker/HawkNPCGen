@@ -1,0 +1,19 @@
+{
+    "given name": "Æthelthryth",
+    "surname": "Chauncey",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Quiet"
+    }
+}

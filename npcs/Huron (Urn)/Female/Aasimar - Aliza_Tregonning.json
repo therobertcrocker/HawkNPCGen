@@ -1,0 +1,19 @@
+{
+    "given name": "Aliza",
+    "surname": "Tregonning",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Ponderous"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Chang-Woo",
+    "surname": "Kyo",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Aaracokra"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Squints",
+        "interaction": "Suspicious"
+    }
+}

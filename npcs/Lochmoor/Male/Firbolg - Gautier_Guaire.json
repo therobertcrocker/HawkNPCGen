@@ -1,0 +1,19 @@
+{
+    "given name": "Gautier",
+    "surname": "Guaire",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Honest"
+    }
+}

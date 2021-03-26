@@ -1,0 +1,19 @@
+{
+    "given name": "Cecilia",
+    "surname": "Céspedes",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Whispers",
+        "interaction": "Argumentative"
+    }
+}

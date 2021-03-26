@@ -1,0 +1,19 @@
+{
+    "given name": "Anna",
+    "surname": "Dufay",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Friendly"
+    }
+}

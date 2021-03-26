@@ -1,0 +1,19 @@
+{
+    "given name": "Brichheve",
+    "surname": "Merrick",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Tiefling"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Honest"
+    }
+}

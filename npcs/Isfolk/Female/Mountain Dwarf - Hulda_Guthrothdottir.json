@@ -1,0 +1,19 @@
+{
+    "given name": "Hulda",
+    "surname": "Guthrothdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Irritable"
+    }
+}

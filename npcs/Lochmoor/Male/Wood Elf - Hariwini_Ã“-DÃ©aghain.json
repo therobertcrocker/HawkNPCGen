@@ -1,0 +1,19 @@
+{
+    "given name": "Hariwini",
+    "surname": "Ó-Déaghain",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Bites fingernails",
+        "interaction": "Honest"
+    }
+}

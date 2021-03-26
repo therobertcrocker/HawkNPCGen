@@ -1,0 +1,19 @@
+{
+    "given name": "Nike",
+    "surname": "Daughter of Lora of Esus",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Squints",
+        "interaction": "Suspicious"
+    }
+}

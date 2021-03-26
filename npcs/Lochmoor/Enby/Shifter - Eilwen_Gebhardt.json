@@ -1,0 +1,19 @@
+{
+    "given name": "Eilwen",
+    "surname": "Gebhardt",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Squints",
+        "interaction": "Blustering"
+    }
+}

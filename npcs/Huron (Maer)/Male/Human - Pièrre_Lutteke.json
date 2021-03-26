@@ -1,0 +1,19 @@
+{
+    "given name": "Pièrre",
+    "surname": "Lutteke",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Honest"
+    }
+}

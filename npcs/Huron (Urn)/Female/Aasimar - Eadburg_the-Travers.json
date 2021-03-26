@@ -1,0 +1,19 @@
+{
+    "given name": "Eadburg",
+    "surname": "the-Travers",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Curious"
+    }
+}

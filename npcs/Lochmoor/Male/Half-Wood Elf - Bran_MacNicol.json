@@ -1,0 +1,19 @@
+{
+    "given name": "Bran",
+    "surname": "MacNicol",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Suspicious"
+    }
+}

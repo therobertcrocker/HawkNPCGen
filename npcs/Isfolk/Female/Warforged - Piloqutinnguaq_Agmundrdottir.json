@@ -1,0 +1,19 @@
+{
+    "given name": "Piloqutinnguaq",
+    "surname": "Agmundrdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Stares into the distance",
+        "interaction": "Quiet"
+    }
+}

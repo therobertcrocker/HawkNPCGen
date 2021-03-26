@@ -1,0 +1,19 @@
+{
+    "given name": "Hunila",
+    "surname": "Corre",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Friendly"
+    }
+}

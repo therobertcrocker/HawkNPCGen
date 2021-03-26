@@ -1,0 +1,19 @@
+{
+    "given name": "Sidonie",
+    "surname": "Maret",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Irritable"
+    }
+}

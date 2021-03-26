@@ -1,0 +1,19 @@
+{
+    "given name": "Mabyn",
+    "surname": "Bligh",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Argumentative"
+    }
+}

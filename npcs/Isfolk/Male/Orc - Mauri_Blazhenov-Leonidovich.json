@@ -1,0 +1,19 @@
+{
+    "given name": "Mauri",
+    "surname": "Blazhenov-Leonidovich",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Orc"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Quiet"
+    }
+}

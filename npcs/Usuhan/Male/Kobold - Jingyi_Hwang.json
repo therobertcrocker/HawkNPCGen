@@ -1,0 +1,19 @@
+{
+    "given name": "Jingyi",
+    "surname": "Hwang",
+    "base": {
+        "gender": "Male",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Speaks loudly",
+        "interaction": "Irritable"
+    }
+}

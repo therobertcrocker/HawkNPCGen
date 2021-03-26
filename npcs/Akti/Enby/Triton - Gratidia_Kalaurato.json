@@ -1,0 +1,19 @@
+{
+    "given name": "Gratidia",
+    "surname": "Kalaurato",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Triton"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "Irritable"
+    }
+}

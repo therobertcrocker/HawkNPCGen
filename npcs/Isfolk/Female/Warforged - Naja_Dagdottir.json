@@ -1,0 +1,19 @@
+{
+    "given name": "Naja",
+    "surname": "Dagdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Friendly"
+    }
+}

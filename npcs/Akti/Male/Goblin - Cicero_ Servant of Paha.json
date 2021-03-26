@@ -1,0 +1,19 @@
+{
+    "given name": "Cicero",
+    "surname": " Servant of Paha",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Goblin"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "Rude"
+    }
+}

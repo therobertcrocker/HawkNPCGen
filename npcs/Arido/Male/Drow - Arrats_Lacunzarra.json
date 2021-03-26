@@ -1,0 +1,19 @@
+{
+    "given name": "Arrats",
+    "surname": "Lacunzarra",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Ponderous"
+    }
+}

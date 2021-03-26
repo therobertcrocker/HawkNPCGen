@@ -1,0 +1,19 @@
+{
+    "given name": "Elimor",
+    "surname": "Hodoke",
+    "base": {
+        "gender": "Enby",
+        "culture": "Akti",
+        "race": "Sea-Elf"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Whispers",
+        "interaction": "Quiet"
+    }
+}

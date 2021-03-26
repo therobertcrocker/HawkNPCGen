@@ -1,0 +1,19 @@
+{
+    "given name": "Ireneus",
+    "surname": "Son of Pideioto of Methi",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Hill Dwarf"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Suspicious"
+    }
+}

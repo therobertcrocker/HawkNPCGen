@@ -1,0 +1,19 @@
+{
+    "given name": "Florimond",
+    "surname": "Wachsmuth",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Unusual skin color",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Speaks loudly",
+        "interaction": "Suspicious"
+    }
+}

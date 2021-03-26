@@ -1,0 +1,19 @@
+{
+    "given name": "Léa",
+    "surname": "The Devil",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Rock Gnome"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Friendly"
+    }
+}

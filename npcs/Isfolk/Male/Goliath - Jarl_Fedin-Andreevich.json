@@ -1,0 +1,19 @@
+{
+    "given name": "Jarl",
+    "surname": "Fedin-Andreevich",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Curious"
+    }
+}

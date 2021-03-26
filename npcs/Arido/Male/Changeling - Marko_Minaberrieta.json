@@ -1,0 +1,19 @@
+{
+    "given name": "Marko",
+    "surname": "Minaberrieta",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "Hot tempered"
+    }
+}

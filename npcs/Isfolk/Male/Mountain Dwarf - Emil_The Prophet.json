@@ -1,0 +1,19 @@
+{
+    "given name": "Emil",
+    "surname": "The Prophet",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Mountain Dwarf"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "Arrogant"
+    }
+}

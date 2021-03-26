@@ -1,0 +1,19 @@
+{
+    "given name": "Tuilelaith",
+    "surname": "Mac-Cárthaigh",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Unusual eye color (or two different colors)",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Irritable"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Morrigan",
+    "surname": "Böckler",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Ponderous"
+    }
+}

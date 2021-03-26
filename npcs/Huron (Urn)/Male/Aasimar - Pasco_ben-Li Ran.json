@@ -1,0 +1,19 @@
+{
+    "given name": "Pasco",
+    "surname": "ben-Li Ran",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Pronounced scar",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Fidgets",
+        "interaction": "Hot tempered"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Danel",
+    "surname": "Mayordomo",
+    "base": {
+        "gender": "Male",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Stares into the distance",
+        "interaction": "Friendly"
+    }
+}

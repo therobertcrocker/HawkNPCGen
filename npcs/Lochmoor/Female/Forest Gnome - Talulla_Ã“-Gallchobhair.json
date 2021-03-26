@@ -1,0 +1,19 @@
+{
+    "given name": "Talulla",
+    "surname": "Ó-Gallchobhair",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Squints",
+        "interaction": "Irritable"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Cruzita",
+    "surname": "Arroquy",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Tabaxi"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Blustering"
+    }
+}

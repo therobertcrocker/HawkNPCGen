@@ -1,0 +1,19 @@
+{
+    "given name": "Ji-Woo",
+    "surname": "Xiao",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Kenku"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "Argumentative"
+    }
+}

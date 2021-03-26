@@ -1,0 +1,19 @@
+{
+    "given name": "Haul",
+    "surname": "Kesby",
+    "base": {
+        "gender": "Male",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Bites fingernails",
+        "interaction": "Suspicious"
+    }
+}

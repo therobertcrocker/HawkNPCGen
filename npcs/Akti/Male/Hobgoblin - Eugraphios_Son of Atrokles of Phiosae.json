@@ -1,0 +1,19 @@
+{
+    "given name": "Eugraphios",
+    "surname": "Son of Atrokles of Phiosae",
+    "base": {
+        "gender": "Male",
+        "culture": "Akti",
+        "race": "Hobgoblin"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Friendly"
+    }
+}

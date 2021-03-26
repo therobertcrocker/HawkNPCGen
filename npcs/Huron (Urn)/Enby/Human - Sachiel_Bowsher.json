@@ -1,0 +1,19 @@
+{
+    "given name": "Sachiel",
+    "surname": "Bowsher",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Paces",
+        "interaction": "Honest"
+    }
+}

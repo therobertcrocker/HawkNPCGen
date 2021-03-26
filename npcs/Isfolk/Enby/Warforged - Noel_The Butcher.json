@@ -1,0 +1,19 @@
+{
+    "given name": "Noel",
+    "surname": "The Butcher",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "Irritable"
+    }
+}

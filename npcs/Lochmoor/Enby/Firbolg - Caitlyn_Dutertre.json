@@ -1,0 +1,19 @@
+{
+    "given name": "Caitlyn",
+    "surname": "Dutertre",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "Rude"
+    }
+}

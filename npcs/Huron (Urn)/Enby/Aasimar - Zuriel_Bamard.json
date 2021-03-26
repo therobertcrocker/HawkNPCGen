@@ -1,0 +1,19 @@
+{
+    "given name": "Zuriel",
+    "surname": "Bamard",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Bites fingernails",
+        "interaction": "Suspicious"
+    }
+}

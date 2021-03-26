@@ -1,0 +1,19 @@
+{
+    "given name": "Willemein",
+    "surname": "Krieger",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Honest"
+    }
+}

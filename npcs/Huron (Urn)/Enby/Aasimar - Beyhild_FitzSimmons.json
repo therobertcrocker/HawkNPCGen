@@ -1,0 +1,19 @@
+{
+    "given name": "Beyhild",
+    "surname": "FitzSimmons",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Friendly"
+    }
+}

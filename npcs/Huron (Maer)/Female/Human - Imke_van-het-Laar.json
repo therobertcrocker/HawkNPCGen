@@ -1,0 +1,19 @@
+{
+    "given name": "Imke",
+    "surname": "van-het-Laar",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Suspicious"
+    }
+}

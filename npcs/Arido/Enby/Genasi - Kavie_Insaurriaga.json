@@ -1,0 +1,19 @@
+{
+    "given name": "Kavie",
+    "surname": "Insaurriaga",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Charisma - dull, boring"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "Irritable"
+    }
+}

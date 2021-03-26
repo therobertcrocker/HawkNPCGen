@@ -1,0 +1,19 @@
+{
+    "given name": "Sorne",
+    "surname": "Carla Luso-Luso Cabungcal",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Exceptionally beautiful",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Irritable"
+    }
+}

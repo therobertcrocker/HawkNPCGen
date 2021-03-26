@@ -1,0 +1,19 @@
+{
+    "given name": "Evrawg",
+    "surname": "Wieters",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Wood Elf"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Honest"
+    }
+}

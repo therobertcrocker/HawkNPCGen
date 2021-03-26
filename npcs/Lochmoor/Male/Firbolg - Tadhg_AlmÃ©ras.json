@@ -1,0 +1,19 @@
+{
+    "given name": "Tadhg",
+    "surname": "Alméras",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Braided beard or hair",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Speaks loudly",
+        "interaction": "Irritable"
+    }
+}

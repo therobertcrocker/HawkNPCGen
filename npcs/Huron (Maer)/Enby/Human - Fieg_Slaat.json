@@ -1,0 +1,19 @@
+{
+    "given name": "Fieg",
+    "surname": "Slaat",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Bites fingernails",
+        "interaction": "Quiet"
+    }
+}

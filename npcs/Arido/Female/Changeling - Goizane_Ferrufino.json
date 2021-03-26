@@ -1,0 +1,19 @@
+{
+    "given name": "Goizane",
+    "surname": "Ferrufino",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Fidgets",
+        "interaction": "Friendly"
+    }
+}

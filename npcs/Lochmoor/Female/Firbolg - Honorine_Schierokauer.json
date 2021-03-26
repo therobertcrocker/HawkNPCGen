@@ -1,0 +1,19 @@
+{
+    "given name": "Honorine",
+    "surname": "Schierokauer",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Distinctive posture (crooked or rigid)",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Curious"
+    }
+}

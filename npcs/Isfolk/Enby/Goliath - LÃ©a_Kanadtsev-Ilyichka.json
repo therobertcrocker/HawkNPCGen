@@ -1,0 +1,19 @@
+{
+    "given name": "Léa",
+    "surname": "Kanadtsev-Ilyichka",
+    "base": {
+        "gender": "Enby",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Nervous eye twitch",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Hot tempered"
+    }
+}

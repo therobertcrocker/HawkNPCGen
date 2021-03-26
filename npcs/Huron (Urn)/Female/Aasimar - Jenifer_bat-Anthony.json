@@ -1,0 +1,19 @@
+{
+    "given name": "Jenifer",
+    "surname": "bat-Anthony",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Urn)",
+        "race": "Aasimar"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "Quiet"
+    }
+}

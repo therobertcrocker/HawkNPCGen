@@ -1,0 +1,19 @@
+{
+    "given name": "Maialen",
+    "surname": "Muñoz",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Drow"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "Irritable"
+    }
+}

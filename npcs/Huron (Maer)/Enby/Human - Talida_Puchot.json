@@ -1,0 +1,19 @@
+{
+    "given name": "Talida",
+    "surname": "Puchot",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Missing teeth",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "Rude"
+    }
+}

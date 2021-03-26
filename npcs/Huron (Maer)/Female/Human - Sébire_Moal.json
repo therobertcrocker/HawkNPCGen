@@ -1,0 +1,19 @@
+{
+    "given name": "Sébire",
+    "surname": "Moal",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Chews something",
+        "interaction": "Irritable"
+    }
+}

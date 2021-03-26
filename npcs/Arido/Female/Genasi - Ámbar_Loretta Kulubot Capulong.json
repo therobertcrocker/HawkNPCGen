@@ -1,0 +1,19 @@
+{
+    "given name": "Ámbar",
+    "surname": "Loretta Kulubot Capulong",
+    "base": {
+        "gender": "Female",
+        "culture": "Arido",
+        "race": "Genasi"
+    },
+    "traits": {
+        "appearance": "Birthmark",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Whispers",
+        "interaction": "Blustering"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Tuija",
+    "surname": "Halldisdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Half-Orc"
+    },
+    "traits": {
+        "appearance": "Distinctive nose",
+        "high ability": "Strength - powerful, brawny, strong as an ox",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Friendly"
+    }
+}

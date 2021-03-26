@@ -1,0 +1,19 @@
+{
+    "given name": "Piloqutinnguaq",
+    "surname": "Chelomtseva-Yegorovna",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Warforged"
+    },
+    "traits": {
+        "appearance": "Ragged, dirty clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Hot tempered"
+    }
+}

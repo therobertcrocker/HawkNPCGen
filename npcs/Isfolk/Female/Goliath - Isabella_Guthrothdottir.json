@@ -1,0 +1,19 @@
+{
+    "given name": "Isabella",
+    "surname": "Guthrothdottir",
+    "base": {
+        "gender": "Female",
+        "culture": "Isfolk",
+        "race": "Goliath"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Arrogant"
+    }
+}

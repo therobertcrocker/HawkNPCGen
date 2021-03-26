@@ -1,0 +1,19 @@
+{
+    "given name": "Willowdance",
+    "surname": "Mac-Cartaine",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Forest Gnome"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "Ponderous"
+    }
+}

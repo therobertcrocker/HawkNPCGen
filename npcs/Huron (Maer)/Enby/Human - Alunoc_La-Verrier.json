@@ -1,0 +1,19 @@
+{
+    "given name": "Alunoc",
+    "surname": "La-Verrier",
+    "base": {
+        "gender": "Enby",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Whispers",
+        "interaction": "Curious"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Yannig",
+    "surname": "Kergoat",
+    "base": {
+        "gender": "Female",
+        "culture": "Huron (Maer)",
+        "race": "Human"
+    },
+    "traits": {
+        "appearance": "Bald",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Dexterity - clumsy, fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "Quiet"
+    }
+}

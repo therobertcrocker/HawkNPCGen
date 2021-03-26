@@ -1,0 +1,19 @@
+{
+    "given name": "Aelwyd",
+    "surname": "Eichenberg",
+    "base": {
+        "gender": "Enby",
+        "culture": "Lochmoor",
+        "race": "Shifter"
+    },
+    "traits": {
+        "appearance": "Formal, clean clothes",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Wisdom - oblivious, absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Argumentative"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "given name": "Rosario",
+    "surname": "Insaurriaga",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Unusual hair color",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Hot tempered"
+    }
+}

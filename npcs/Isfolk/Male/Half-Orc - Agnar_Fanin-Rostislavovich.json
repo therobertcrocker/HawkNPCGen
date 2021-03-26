@@ -1,0 +1,19 @@
+{
+    "given name": "Agnar",
+    "surname": "Fanin-Rostislavovich",
+    "base": {
+        "gender": "Male",
+        "culture": "Isfolk",
+        "race": "Half-Orc"
+    },
+    "traits": {
+        "appearance": "Exceptionally ugly",
+        "high ability": "Charisma - persuasive, forceful, born leader",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "Suspicious"
+    }
+}

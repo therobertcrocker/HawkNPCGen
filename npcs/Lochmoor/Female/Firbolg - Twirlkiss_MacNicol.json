@@ -1,0 +1,19 @@
+{
+    "given name": "Twirlkiss",
+    "surname": "MacNicol",
+    "base": {
+        "gender": "Female",
+        "culture": "Lochmoor",
+        "race": "Firbolg"
+    },
+    "traits": {
+        "appearance": "Missing fingers",
+        "high ability": "Intelligence - studious, learned, inquisitive",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "Blustering"
+    }
+}

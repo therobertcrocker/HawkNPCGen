@@ -1,0 +1,19 @@
+{
+    "given name": "Isidora",
+    "surname": "Mayordomo",
+    "base": {
+        "gender": "Enby",
+        "culture": "Arido",
+        "race": "Changeling"
+    },
+    "traits": {
+        "appearance": "Flamboyant or outlandish clothes",
+        "high ability": "Constitution - hardy, hale, healthy",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Honest"
+    }
+}

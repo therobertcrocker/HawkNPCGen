@@ -1,0 +1,19 @@
+{
+    "given name": "Marciana",
+    "surname": "Diusenius ",
+    "base": {
+        "gender": "Female",
+        "culture": "Akti",
+        "race": "Hill Dwarf"
+    },
+    "traits": {
+        "appearance": "Tattoos",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Intelligence - dim-witted, slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "Curious"
+    }
+}

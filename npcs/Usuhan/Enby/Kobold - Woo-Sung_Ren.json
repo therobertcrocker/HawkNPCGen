@@ -1,0 +1,19 @@
+{
+    "given name": "Woo-Sung",
+    "surname": "Ren",
+    "base": {
+        "gender": "Enby",
+        "culture": "Usuhan",
+        "race": "Kobold"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Wisdom - perceptive, spiritual, insightful",
+        "low ability": "Strength - feeble, scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Argumentative"
+    }
+}

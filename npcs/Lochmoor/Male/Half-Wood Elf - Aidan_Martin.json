@@ -1,0 +1,19 @@
+{
+    "given name": "Aidan",
+    "surname": "Martin",
+    "base": {
+        "gender": "Male",
+        "culture": "Lochmoor",
+        "race": "Half-Wood Elf"
+    },
+    "traits": {
+        "appearance": "Piercings",
+        "high ability": "Dexterity - lithe, agile, graceful",
+        "low ability": "Constitution - sickly, pale"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "Curious"
+    }
+}
