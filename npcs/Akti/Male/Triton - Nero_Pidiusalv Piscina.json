@@ -2,12 +2,12 @@
     "Full Name": "Nero, Pidiusalv Piscina",
     "base": "Male | Akti - Triton",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Taps fingers",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Gyeong, Kung",
     "base": "Female | Usuhan - Kobold",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "wants something from the Party"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is always honest with the Party"
     }
 }

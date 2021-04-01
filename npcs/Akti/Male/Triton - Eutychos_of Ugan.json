@@ -2,12 +2,12 @@
     "Full Name": "Eutychos, of Ugan",
     "base": "Male | Akti - Triton",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Taps fingers",
-        "interaction": "is curious about one member of the Party"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is always honest with the Party"
     }
 }

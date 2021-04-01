@@ -2,12 +2,12 @@
     "Full Name": "Tuilelaith, MacCathasaigh",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Uses flowery speech or long words",
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "is suspicious of the Party"
     }
 }

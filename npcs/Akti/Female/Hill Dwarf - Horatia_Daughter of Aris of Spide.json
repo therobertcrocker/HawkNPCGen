@@ -2,12 +2,12 @@
     "Full Name": "Horatia, Daughter of Aris of Spide",
     "base": "Female | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is argumentative with the Party"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is keeping a secret from the Party"
     }
 }

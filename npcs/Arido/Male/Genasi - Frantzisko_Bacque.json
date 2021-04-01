@@ -2,12 +2,12 @@
     "Full Name": "Frantzisko, Bacque",
     "base": "Male | Arido - Genasi",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has braided beard or hair",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is always honest with the Party"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is suspicious of the Party"
     }
 }

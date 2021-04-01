@@ -2,12 +2,12 @@
     "Full Name": "Baldovin, Böckler",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Squints",
-        "interaction": "is suspicious of the Party"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is easily irritated by the Party"
     }
 }

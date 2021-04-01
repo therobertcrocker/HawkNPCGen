@@ -2,12 +2,12 @@
     "Full Name": "Bran, Ó-Muineaog",
     "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "has a hot temper around the Party"
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "wants something from the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Oskari, The Love Fool",
     "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "is curious about one member of the Party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is quiet around the party"
     }
 }

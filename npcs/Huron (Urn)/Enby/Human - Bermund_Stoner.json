@@ -2,12 +2,12 @@
     "Full Name": "Bermund, Stoner",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "is easily irritated by the Party"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is quiet around the party"
     }
 }

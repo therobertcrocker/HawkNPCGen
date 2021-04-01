@@ -2,12 +2,12 @@
     "Full Name": "Ámbar, Loretta Kulubot Capulong",
     "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Paces",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is easily irritated by the Party"
     }
 }

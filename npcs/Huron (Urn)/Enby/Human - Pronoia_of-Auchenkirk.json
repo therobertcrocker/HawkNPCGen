@@ -2,12 +2,12 @@
     "Full Name": "Pronoia, of-Auchenkirk",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "wants something from the Party"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is suspicious of the Party"
     }
 }

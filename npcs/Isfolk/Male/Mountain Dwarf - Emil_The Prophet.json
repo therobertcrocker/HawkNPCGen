@@ -2,12 +2,12 @@
     "Full Name": "Emil, The Prophet",
     "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "finds the Party fascinating"
     }
 }

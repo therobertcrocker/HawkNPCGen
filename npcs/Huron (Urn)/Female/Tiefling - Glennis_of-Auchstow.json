@@ -2,12 +2,12 @@
     "Full Name": "Glennis, of-Auchstow",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "is argumentative with the Party"
+        "talent": "Expert cook",
+        "mannerism": "Paces",
+        "interaction": "has a hot temper around the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Lavi, ben-Kinor",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "wants something from the Party"
     }
 }

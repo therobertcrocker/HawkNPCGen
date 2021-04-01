@@ -3,11 +3,11 @@
     "base": "Female | Usuhan - Tortle",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "is friendly towards the Party"
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is keeping a secret from the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Alda, MacDhonnchaidh",
     "base": "Female | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "is argumentative with the Party"
+        "talent": "Great at one game",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is friendly towards the Party"
     }
 }

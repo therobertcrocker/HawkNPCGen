@@ -2,12 +2,12 @@
     "Full Name": "Anna, Warren",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "is missing teeth",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Whispers",
-        "interaction": "is quiet around the party"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Bites fingernails",
+        "interaction": "has a hot temper around the Party"
     }
 }

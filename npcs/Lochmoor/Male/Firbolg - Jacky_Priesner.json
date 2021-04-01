@@ -2,12 +2,12 @@
     "Full Name": "Jacky, Priesner",
     "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Particularly low or high voice",
-        "interaction": "believes themselves of higher status than the Party"
+        "interaction": "is always honest with the Party"
     }
 }

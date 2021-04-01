@@ -2,12 +2,12 @@
     "Full Name": "Oscar, Fichte",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has visible piercings",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "has a hot temper around the Party"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is curious about one member of the Party"
     }
 }

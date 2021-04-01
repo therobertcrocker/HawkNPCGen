@@ -2,12 +2,12 @@
     "Full Name": "Gwaeddan, Ó-Déaghain",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "wants something from the Party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "has a hot temper around the Party"
     }
 }

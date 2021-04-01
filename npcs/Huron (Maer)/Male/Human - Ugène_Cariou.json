@@ -2,12 +2,12 @@
     "Full Name": "Ugène, Cariou",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
+        "talent": "Sings beautifully",
+        "mannerism": "Particularly low or high voice",
         "interaction": "is easily irritated by the Party"
     }
 }

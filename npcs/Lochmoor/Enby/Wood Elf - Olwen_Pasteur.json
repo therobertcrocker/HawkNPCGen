@@ -3,11 +3,11 @@
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "finds the Party fascinating"
     }
 }

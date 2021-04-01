@@ -2,12 +2,12 @@
     "Full Name": "Stasya, Birningdottir",
     "base": "Female | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Chews something",
-        "interaction": "is always honest with the Party"
+        "talent": "Great with children",
+        "mannerism": "Taps fingers",
+        "interaction": "is keeping a secret from the Party"
     }
 }

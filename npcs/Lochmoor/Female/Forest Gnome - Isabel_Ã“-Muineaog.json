@@ -2,12 +2,12 @@
     "Full Name": "Isabel, Ó-Muineaog",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has an unusual skin color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is always honest with the Party"
     }
 }

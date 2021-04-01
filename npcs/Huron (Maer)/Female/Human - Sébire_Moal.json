@@ -2,12 +2,12 @@
     "Full Name": "Sébire, Moal",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Knows thievesâ€™ cant",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is argumentative with the Party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "finds the Party fascinating"
     }
 }

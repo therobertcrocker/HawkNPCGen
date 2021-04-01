@@ -2,12 +2,12 @@
     "Full Name": "Renaud, Thiers",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great with animals",
+        "talent": "Sings beautifully",
         "mannerism": "Frequently uses the wrong word",
-        "interaction": "is quiet around the party"
+        "interaction": "is keeping a secret from the Party"
     }
 }

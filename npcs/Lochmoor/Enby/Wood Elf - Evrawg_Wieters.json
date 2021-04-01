@@ -2,12 +2,12 @@
     "Full Name": "Evrawg, Wieters",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "is quiet around the party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is argumentative with the Party"
     }
 }

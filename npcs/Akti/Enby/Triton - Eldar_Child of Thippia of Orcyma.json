@@ -2,12 +2,12 @@
     "Full Name": "Eldar, Child of Thippia of Orcyma",
     "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
+        "appearance": "is missing one or more fingers",
         "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
+        "talent": "Plays a musical instrument",
+        "mannerism": "Whispers",
         "interaction": "finds the Party fascinating"
     }
 }

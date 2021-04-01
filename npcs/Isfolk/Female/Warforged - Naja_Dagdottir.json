@@ -3,11 +3,11 @@
     "base": "Female | Isfolk - Warforged",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is curious about one member of the Party"
+        "talent": "Draws beautifully",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is keeping a secret from the Party"
     }
 }

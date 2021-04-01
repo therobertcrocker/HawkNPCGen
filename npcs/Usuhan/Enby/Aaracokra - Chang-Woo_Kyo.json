@@ -2,12 +2,12 @@
     "Full Name": "Chang-Woo, Kyo",
     "base": "Enby | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Squints",
-        "interaction": "is curious about one member of the Party"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is argumentative with the Party"
     }
 }

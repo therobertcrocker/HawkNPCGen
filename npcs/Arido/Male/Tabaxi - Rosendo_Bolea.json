@@ -2,12 +2,12 @@
     "Full Name": "Rosendo, Bolea",
     "base": "Male | Arido - Tabaxi",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "finds the Party fascinating"
+        "talent": "Expert cook",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is keeping a secret from the Party"
     }
 }

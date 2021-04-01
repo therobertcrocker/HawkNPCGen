@@ -2,12 +2,12 @@
     "Full Name": "Inka, Fokkens",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "is always honest with the Party"
+        "mannerism": "Whispers",
+        "interaction": "is quiet around the party"
     }
 }

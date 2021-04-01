@@ -2,12 +2,12 @@
     "Full Name": "Tiburtius,  Servant of Zabin",
     "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Speaks loudly",
-        "interaction": "is argumentative with the Party"
+        "interaction": "is curious about one member of the Party"
     }
 }

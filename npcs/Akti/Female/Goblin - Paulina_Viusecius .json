@@ -2,12 +2,12 @@
     "Full Name": "Paulina, Viusecius ",
     "base": "Female | Akti - Goblin",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "has a hot temper around the Party"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is quiet around the party"
     }
 }

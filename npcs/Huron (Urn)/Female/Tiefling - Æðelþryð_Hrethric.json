@@ -2,12 +2,12 @@
     "Full Name": "Æðelþryð, Hrethric",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is easily irritated by the Party"
     }
 }

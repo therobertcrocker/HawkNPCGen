@@ -2,12 +2,12 @@
     "Full Name": "Gratianus, Ipys",
     "base": "Male | Akti - Sea-Elf",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is quiet around the party"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is friendly towards the Party"
     }
 }

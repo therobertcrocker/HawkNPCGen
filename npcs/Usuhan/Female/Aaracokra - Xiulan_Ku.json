@@ -2,12 +2,12 @@
     "Full Name": "Xiulan, Ku",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "has a hot temper around the Party"
     }
 }

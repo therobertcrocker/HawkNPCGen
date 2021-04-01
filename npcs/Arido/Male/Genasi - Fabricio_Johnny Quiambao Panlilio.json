@@ -2,12 +2,12 @@
     "Full Name": "Fabricio, Johnny Quiambao Panlilio",
     "base": "Male | Arido - Genasi",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "is easily irritated by the Party"
+        "talent": "Great with children",
+        "mannerism": "Speaks loudly",
+        "interaction": "is friendly towards the Party"
     }
 }

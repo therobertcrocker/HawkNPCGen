@@ -2,12 +2,12 @@
     "Full Name": "Marciana, Diusenius ",
     "base": "Female | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "is exceptionally beautiful",
+        "appearance": "wears ragged, dirty clothes",
         "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Paces",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is argumentative with the Party"
     }
 }

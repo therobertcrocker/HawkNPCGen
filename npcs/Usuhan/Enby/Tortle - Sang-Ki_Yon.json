@@ -2,12 +2,12 @@
     "Full Name": "Sang-Ki, Yon",
     "base": "Enby | Usuhan - Tortle",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is argumentative with the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Woo-Sung, Ren",
     "base": "Enby | Usuhan - Kobold",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Bites fingernails",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "has a hot temper around the Party"
     }
 }

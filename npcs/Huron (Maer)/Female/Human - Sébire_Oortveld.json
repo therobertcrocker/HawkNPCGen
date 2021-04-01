@@ -2,12 +2,12 @@
     "Full Name": "Sébire, Oortveld",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is rude to just one member of the Party"
     }
 }

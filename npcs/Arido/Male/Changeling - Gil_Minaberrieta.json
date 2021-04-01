@@ -2,12 +2,12 @@
     "Full Name": "Gil, Minaberrieta",
     "base": "Male | Arido - Changeling",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "has braided beard or hair",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "is friendly towards the Party"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "wants something from the Party"
     }
 }

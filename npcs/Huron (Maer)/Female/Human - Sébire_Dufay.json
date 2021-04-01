@@ -2,12 +2,12 @@
     "Full Name": "Sébire, Dufay",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Draws beautifully",
+        "talent": "Great at solving puzzles",
         "mannerism": "Uses flowery speech or long words",
-        "interaction": "is quiet around the party"
+        "interaction": "has a hot temper around the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Patricius, Kyrytharmia",
     "base": "Enby | Akti - High-Elf",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "finds the Party fascinating"
+        "mannerism": "Speaks loudly",
+        "interaction": "wants something from the Party"
     }
 }

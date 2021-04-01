@@ -2,12 +2,12 @@
     "Full Name": "Ibb, Cushway",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Paces",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Bites fingernails",
+        "interaction": "is curious about one member of the Party"
     }
 }

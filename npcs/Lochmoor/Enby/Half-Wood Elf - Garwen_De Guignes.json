@@ -2,12 +2,12 @@
     "Full Name": "Garwen, De Guignes",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "is quiet around the party"
+        "talent": "Perfect memory",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "wants something from the Party"
     }
 }

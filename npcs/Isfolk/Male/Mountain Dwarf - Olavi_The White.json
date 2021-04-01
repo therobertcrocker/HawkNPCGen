@@ -2,12 +2,12 @@
     "Full Name": "Olavi, The White",
     "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is quiet around the party"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "finds the Party fascinating"
     }
 }

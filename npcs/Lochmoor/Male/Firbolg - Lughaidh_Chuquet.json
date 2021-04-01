@@ -2,12 +2,12 @@
     "Full Name": "Lughaidh, Chuquet",
     "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "wants something from the Party"
     }
 }

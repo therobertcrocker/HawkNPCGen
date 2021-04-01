@@ -3,11 +3,11 @@
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Stares into the distance",
-        "interaction": "is friendly towards the Party"
+        "talent": "Great at impersonations",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "finds the Party fascinating"
     }
 }

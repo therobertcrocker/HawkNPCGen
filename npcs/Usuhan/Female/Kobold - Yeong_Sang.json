@@ -2,12 +2,12 @@
     "Full Name": "Yeong, Sang",
     "base": "Female | Usuhan - Kobold",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "has a hot temper around the Party"
     }
 }

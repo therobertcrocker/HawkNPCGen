@@ -2,12 +2,12 @@
     "Full Name": "Qillaq, Tankov-Vitalievich",
     "base": "Male | Isfolk - Orc",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Squints",
+        "mannerism": "Particularly low or high voice",
         "interaction": "is rude to just one member of the Party"
     }
 }

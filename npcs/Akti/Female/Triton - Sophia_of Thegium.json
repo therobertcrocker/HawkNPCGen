@@ -2,12 +2,12 @@
     "Full Name": "Sophia, of Thegium",
     "base": "Female | Akti - Triton",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Great with animals",
+        "mannerism": "Fidgets",
+        "interaction": "wants something from the Party"
     }
 }

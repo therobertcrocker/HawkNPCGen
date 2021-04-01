@@ -3,11 +3,11 @@
     "base": "Female | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Chews something",
+        "talent": "Expert cook",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
         "interaction": "is suspicious of the Party"
     }
 }

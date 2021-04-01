@@ -2,12 +2,12 @@
     "Full Name": "Sébire, Jellema",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is quiet around the party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is argumentative with the Party"
     }
 }

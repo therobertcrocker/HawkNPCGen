@@ -3,11 +3,11 @@
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is suspicious of the Party"
     }
 }

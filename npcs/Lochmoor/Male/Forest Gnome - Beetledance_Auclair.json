@@ -2,12 +2,12 @@
     "Full Name": "Beetledance, Auclair",
     "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "is suspicious of the Party"
+        "mannerism": "Taps fingers",
+        "interaction": "is always honest with the Party"
     }
 }

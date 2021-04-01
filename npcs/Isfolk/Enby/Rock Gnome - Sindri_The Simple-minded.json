@@ -2,12 +2,12 @@
     "Full Name": "Sindri, The Simple-minded",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "has a hot temper around the Party"
+        "mannerism": "Bites fingernails",
+        "interaction": "is keeping a secret from the Party"
     }
 }

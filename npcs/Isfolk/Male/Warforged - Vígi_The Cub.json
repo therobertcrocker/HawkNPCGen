@@ -2,12 +2,12 @@
     "Full Name": "Vígi, The Cub",
     "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is easily irritated by the Party"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Amílcar, Vargas",
     "base": "Male | Arido - Tabaxi",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "has visible tattoos",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "wants something from the Party"
     }
 }

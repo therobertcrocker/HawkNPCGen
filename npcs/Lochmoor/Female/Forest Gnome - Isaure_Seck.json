@@ -2,12 +2,12 @@
     "Full Name": "Isaure, Seck",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is quiet around the party"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is keeping a secret from the Party"
     }
 }

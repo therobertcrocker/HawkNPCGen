@@ -2,12 +2,12 @@
     "Full Name": "Osric, Trezona",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Stares into the distance",
-        "interaction": "is curious about one member of the Party"
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "has a hot temper around the Party"
     }
 }

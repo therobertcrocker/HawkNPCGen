@@ -2,12 +2,12 @@
     "Full Name": "Elvira, Bolea",
     "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "is quiet around the party"
+        "talent": "Skilled dancer",
+        "mannerism": "Squints",
+        "interaction": "is always honest with the Party"
     }
 }

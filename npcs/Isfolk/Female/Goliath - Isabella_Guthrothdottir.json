@@ -2,12 +2,12 @@
     "Full Name": "Isabella, Guthrothdottir",
     "base": "Female | Isfolk - Goliath",
     "traits": {
-        "appearance": " has a nervous tick",
+        "appearance": "is exceptionally beautiful",
         "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "finds the Party fascinating"
+        "mannerism": "Fidgets",
+        "interaction": "has a hot temper around the Party"
     }
 }

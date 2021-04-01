@@ -2,12 +2,12 @@
     "Full Name": "Svatava, Callaway",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Fidgets",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is keeping a secret from the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Aputsiaq, Hermundson",
     "base": "Male | Isfolk - Orc",
     "traits": {
-        "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "wants something from the Party"
+        "mannerism": "Speaks loudly",
+        "interaction": "is friendly towards the Party"
     }
 }

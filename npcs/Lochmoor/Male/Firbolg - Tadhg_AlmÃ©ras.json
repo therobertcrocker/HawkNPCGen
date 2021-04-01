@@ -2,12 +2,12 @@
     "Full Name": "Tadhg, Alméras",
     "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Bites fingernails",
+        "interaction": "wants something from the Party"
     }
 }

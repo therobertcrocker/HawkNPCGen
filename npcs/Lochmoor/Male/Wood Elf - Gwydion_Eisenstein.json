@@ -2,12 +2,12 @@
     "Full Name": "Gwydion, Eisenstein",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has an unusual skin color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Squints",
-        "interaction": "is argumentative with the Party"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "finds the Party fascinating"
     }
 }

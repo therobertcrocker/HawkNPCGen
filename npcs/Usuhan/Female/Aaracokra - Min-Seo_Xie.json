@@ -2,12 +2,12 @@
     "Full Name": "Min-Seo, Xie",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is suspicious of the Party"
+        "mannerism": "Particularly low or high voice",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

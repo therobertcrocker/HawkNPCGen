@@ -2,12 +2,12 @@
     "Full Name": "Ugène, Van-Der-Kooi",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is friendly towards the Party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "finds the Party fascinating"
     }
 }

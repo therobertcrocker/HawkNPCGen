@@ -2,12 +2,12 @@
     "Full Name": "Eimile, Fichte",
     "base": "Enby | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is friendly towards the Party"
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is curious about one member of the Party"
     }
 }

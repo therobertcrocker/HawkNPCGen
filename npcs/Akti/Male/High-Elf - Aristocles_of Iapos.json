@@ -2,12 +2,12 @@
     "Full Name": "Aristocles, of Iapos",
     "base": "Male | Akti - High-Elf",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "finds the Party fascinating"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is curious about one member of the Party"
     }
 }

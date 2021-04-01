@@ -2,12 +2,12 @@
     "Full Name": "Sanno, Yukhtrits-Vladislavovnchka",
     "base": "Enby | Isfolk - Warforged",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is always honest with the Party"
+        "talent": "Great at impersonations",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "finds the Party fascinating"
     }
 }

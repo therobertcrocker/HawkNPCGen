@@ -2,12 +2,12 @@
     "Full Name": "Theotleip, Wolf",
     "base": "Male | Lochmoor - Shifter",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "is easily irritated by the Party"
+        "mannerism": "Taps fingers",
+        "interaction": "wants something from the Party"
     }
 }

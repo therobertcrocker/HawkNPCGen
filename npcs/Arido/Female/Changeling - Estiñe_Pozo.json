@@ -2,12 +2,12 @@
     "Full Name": "Estiñe, Pozo",
     "base": "Female | Arido - Changeling",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Paces",
-        "interaction": "is suspicious of the Party"
+        "talent": "Expert cook",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is friendly towards the Party"
     }
 }

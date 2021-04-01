@@ -2,12 +2,12 @@
     "Full Name": "Ailbhe, Ó-Labhradha",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "finds the Party fascinating"
+        "talent": "Skilled dancer",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "wants something from the Party"
     }
 }

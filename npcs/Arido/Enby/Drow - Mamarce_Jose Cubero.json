@@ -2,12 +2,12 @@
     "Full Name": "Mamarce, Jose Cubero",
     "base": "Enby | Arido - Drow",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "is quiet around the party"
+        "talent": "Great with animals",
+        "mannerism": "Stares into the distance",
+        "interaction": "has a hot temper around the Party"
     }
 }

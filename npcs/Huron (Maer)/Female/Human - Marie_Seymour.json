@@ -2,12 +2,12 @@
     "Full Name": "Marie, Seymour",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "finds the Party fascinating"
     }
 }

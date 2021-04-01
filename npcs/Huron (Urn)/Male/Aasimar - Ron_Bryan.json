@@ -2,12 +2,12 @@
     "Full Name": "Ron, Bryan",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Stares into the distance",
+        "interaction": "finds the Party fascinating"
     }
 }

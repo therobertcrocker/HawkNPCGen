@@ -2,12 +2,12 @@
     "Full Name": "Mael, Loonstra",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "finds the Party fascinating"
+        "talent": "Skilled dancer",
+        "mannerism": "Bites fingernails",
+        "interaction": "wants something from the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Sébire, Loonstra",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Fidgets",
+        "interaction": "is quiet around the party"
     }
 }

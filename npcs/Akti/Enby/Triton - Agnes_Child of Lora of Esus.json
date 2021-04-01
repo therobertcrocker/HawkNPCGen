@@ -2,12 +2,12 @@
     "Full Name": "Agnes, Child of Lora of Esus",
     "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "is friendly towards the Party"
+        "talent": "Perfect memory",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is quiet around the party"
     }
 }

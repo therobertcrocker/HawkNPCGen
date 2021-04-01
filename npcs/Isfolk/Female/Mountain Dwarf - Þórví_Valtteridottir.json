@@ -2,12 +2,12 @@
     "Full Name": "Þórví, Valtteridottir",
     "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "is quiet around the party"
+        "talent": "Great with animals",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is argumentative with the Party"
     }
 }

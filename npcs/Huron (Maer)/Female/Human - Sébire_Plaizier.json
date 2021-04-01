@@ -2,12 +2,12 @@
     "Full Name": "Sébire, Plaizier",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "is quiet around the party"
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is friendly towards the Party"
     }
 }

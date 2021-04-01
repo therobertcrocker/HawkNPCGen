@@ -2,12 +2,12 @@
     "Full Name": "Oddvör, The Gentle",
     "base": "Enby | Isfolk - Goliath",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Paints beautifully",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is keeping a secret from the Party"
     }
 }

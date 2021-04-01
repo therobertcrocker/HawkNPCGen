@@ -2,12 +2,12 @@
     "Full Name": "Feofan, Blazhenov-Leonidovich",
     "base": "Male | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

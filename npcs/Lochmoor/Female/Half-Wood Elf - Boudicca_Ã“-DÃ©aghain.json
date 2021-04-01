@@ -2,12 +2,12 @@
     "Full Name": "Boudicca, Ó-Déaghain",
     "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is quiet around the party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Paces",
+        "interaction": "finds the Party fascinating"
     }
 }

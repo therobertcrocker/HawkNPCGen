@@ -2,12 +2,12 @@
     "Full Name": "Leofflæd, of-Nanafon",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is suspicious of the Party"
+        "talent": "Expert cook",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is keeping a secret from the Party"
     }
 }

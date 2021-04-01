@@ -2,12 +2,12 @@
     "Full Name": "Batel, Daelyngridge",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is quiet around the party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Taps fingers",
+        "interaction": "is friendly towards the Party"
     }
 }

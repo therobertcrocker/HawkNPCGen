@@ -2,12 +2,12 @@
     "Full Name": "Tite, Beldad",
     "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Bites fingernails",
-        "interaction": "wants something from the Party"
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is easily irritated by the Party"
     }
 }

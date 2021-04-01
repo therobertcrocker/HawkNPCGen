@@ -2,12 +2,12 @@
     "Full Name": "Theophila, Viusecius ",
     "base": "Female | Akti - Hobgoblin",
     "traits": {
-        "appearance": "has an unusual skin color",
+        "appearance": "has an unusual hair color",
         "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is quiet around the party"
     }
 }

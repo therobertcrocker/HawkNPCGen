@@ -2,12 +2,12 @@
     "Full Name": "Basilius, Cianiusorn Perstiusa",
     "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is easily irritated by the Party"
     }
 }

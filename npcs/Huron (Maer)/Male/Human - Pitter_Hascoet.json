@@ -2,12 +2,12 @@
     "Full Name": "Pitter, Hascoet",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Fidgets",
+        "talent": "Plays a musical instrument",
+        "mannerism": "Squints",
         "interaction": "finds the Party fascinating"
     }
 }

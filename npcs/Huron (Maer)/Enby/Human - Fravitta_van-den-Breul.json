@@ -2,12 +2,12 @@
     "Full Name": "Fravitta, van-den-Breul",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is always honest with the Party"
     }
 }

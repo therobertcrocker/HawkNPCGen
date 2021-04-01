@@ -2,12 +2,12 @@
     "Full Name": "Imke, van-het-Laar",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "has a visible birthmark",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is argumentative with the Party"
+        "talent": "Great at one game",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is keeping a secret from the Party"
     }
 }

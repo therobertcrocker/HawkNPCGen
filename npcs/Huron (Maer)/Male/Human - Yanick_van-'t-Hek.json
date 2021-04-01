@@ -3,11 +3,11 @@
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "is quiet around the party"
+        "talent": "Perfect memory",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Marko, Minaberrieta",
     "base": "Male | Arido - Changeling",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "is quiet around the party"
     }
 }

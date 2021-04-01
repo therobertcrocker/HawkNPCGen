@@ -2,12 +2,12 @@
     "Full Name": "Cruzita, Arroquy",
     "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Squints",
-        "interaction": "finds the Party fascinating"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "wants something from the Party"
     }
 }

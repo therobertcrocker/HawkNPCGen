@@ -2,12 +2,12 @@
     "Full Name": "Eilert, de-Moustiers",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "finds the Party fascinating"
+        "mannerism": "Paces",
+        "interaction": "is argumentative with the Party"
     }
 }

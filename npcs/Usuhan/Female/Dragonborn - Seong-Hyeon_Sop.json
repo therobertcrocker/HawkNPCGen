@@ -2,12 +2,12 @@
     "Full Name": "Seong-Hyeon, Sop",
     "base": "Female | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is quiet around the party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is keeping a secret from the Party"
     }
 }

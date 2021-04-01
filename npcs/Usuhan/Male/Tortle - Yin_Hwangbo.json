@@ -2,12 +2,12 @@
     "Full Name": "Yin, Hwangbo",
     "base": "Male | Usuhan - Tortle",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "is easily irritated by the Party"
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is argumentative with the Party"
     }
 }

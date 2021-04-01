@@ -2,12 +2,12 @@
     "Full Name": "Daan, Droullin",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "has a pronounced scar",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is quiet around the party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Chews something",
+        "interaction": "is argumentative with the Party"
     }
 }

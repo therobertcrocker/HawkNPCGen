@@ -2,12 +2,12 @@
     "Full Name": "Eugraphios, of Melis",
     "base": "Male | Akti - Sea-Elf",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "wants something from the Party"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is rude to just one member of the Party"
     }
 }

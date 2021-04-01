@@ -2,12 +2,12 @@
     "Full Name": "Hwan, Su",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "is easily irritated by the Party"
+        "mannerism": "Squints",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -3,11 +3,11 @@
     "base": "Enby | Isfolk - Warforged",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is always honest with the Party"
     }
 }

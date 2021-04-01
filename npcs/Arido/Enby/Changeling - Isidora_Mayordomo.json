@@ -2,12 +2,12 @@
     "Full Name": "Isidora, Mayordomo",
     "base": "Enby | Arido - Changeling",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Prone to predictions of doom",
+        "talent": "Paints beautifully",
+        "mannerism": "Enunciates overly clearly",
         "interaction": "is suspicious of the Party"
     }
 }

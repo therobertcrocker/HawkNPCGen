@@ -2,12 +2,12 @@
     "Full Name": "Raimundo, Fraga",
     "base": "Enby | Arido - Changeling",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "is quiet around the party"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "wants something from the Party"
     }
 }

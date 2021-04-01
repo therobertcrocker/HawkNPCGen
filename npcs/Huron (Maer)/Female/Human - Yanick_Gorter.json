@@ -2,12 +2,12 @@
     "Full Name": "Yanick, Gorter",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is always honest with the Party"
     }
 }

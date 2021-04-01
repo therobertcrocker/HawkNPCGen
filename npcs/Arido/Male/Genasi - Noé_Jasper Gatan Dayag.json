@@ -2,12 +2,12 @@
     "Full Name": "Noé, Jasper Gatan Dayag",
     "base": "Male | Arido - Genasi",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "has a hot temper around the Party"
+        "talent": "Expert juggler",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "wants something from the Party"
     }
 }

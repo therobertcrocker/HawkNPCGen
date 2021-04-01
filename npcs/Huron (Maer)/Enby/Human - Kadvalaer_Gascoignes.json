@@ -2,12 +2,12 @@
     "Full Name": "Kadvalaer, Gascoignes",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great at one game",
+        "talent": "None",
         "mannerism": "Stares into the distance",
-        "interaction": "is suspicious of the Party"
+        "interaction": "finds the Party fascinating"
     }
 }

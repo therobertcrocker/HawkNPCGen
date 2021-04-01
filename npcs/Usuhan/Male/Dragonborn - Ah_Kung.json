@@ -2,12 +2,12 @@
     "Full Name": "Ah, Kung",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "wants something from the Party"
+        "talent": "Perfect memory",
+        "mannerism": "Fidgets",
+        "interaction": "is always honest with the Party"
     }
 }

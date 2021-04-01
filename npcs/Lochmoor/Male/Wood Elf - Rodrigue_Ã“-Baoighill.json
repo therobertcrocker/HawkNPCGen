@@ -2,12 +2,12 @@
     "Full Name": "Rodrigue, Ó-Baoighill",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Whispers",
-        "interaction": "is friendly towards the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

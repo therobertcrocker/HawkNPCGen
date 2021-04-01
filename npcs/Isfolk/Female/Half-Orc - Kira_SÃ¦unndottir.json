@@ -3,11 +3,11 @@
     "base": "Female | Isfolk - Half-Orc",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Stares into the distance",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is quiet around the party"
     }
 }

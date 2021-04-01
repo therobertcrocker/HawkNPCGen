@@ -2,12 +2,12 @@
     "Full Name": "Kavie, Insaurriaga",
     "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "is always honest with the Party"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is easily irritated by the Party"
     }
 }

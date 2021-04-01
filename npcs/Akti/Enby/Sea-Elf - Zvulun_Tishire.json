@@ -2,12 +2,12 @@
     "Full Name": "Zvulun, Tishire",
     "base": "Enby | Akti - Sea-Elf",
     "traits": {
-        "appearance": "wears formal, clean clothes",
+        "appearance": "wears ragged, dirty clothes",
         "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Chews something",
-        "interaction": "is friendly towards the Party"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is curious about one member of the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Eryi, Mac-Loinsigh",
     "base": "Enby | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "has braided beard or hair",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Paces",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Pyong-Ho, Cha",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "appearance": " is bald",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "is quiet around the party"
+        "talent": "Skilled dancer",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is curious about one member of the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Junia, Ketine",
     "base": "Female | Akti - Triton",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is quiet around the party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Chews something",
+        "interaction": "finds the Party fascinating"
     }
 }

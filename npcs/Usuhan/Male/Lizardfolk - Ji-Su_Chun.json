@@ -2,12 +2,12 @@
     "Full Name": "Ji-Su, Chun",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Fidgets",
-        "interaction": "finds the Party fascinating"
+        "talent": "Expert cook",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is argumentative with the Party"
     }
 }

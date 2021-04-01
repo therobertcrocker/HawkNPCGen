@@ -2,12 +2,12 @@
     "Full Name": "Yong, Ye",
     "base": "Male | Usuhan - Kobold",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "is quiet around the party"
+        "mannerism": "Chews something",
+        "interaction": "is argumentative with the Party"
     }
 }

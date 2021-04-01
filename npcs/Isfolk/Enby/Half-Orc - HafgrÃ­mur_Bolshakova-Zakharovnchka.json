@@ -2,12 +2,12 @@
     "Full Name": "Hafgrímur, Bolshakova-Zakharovnchka",
     "base": "Enby | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Bites fingernails",
         "interaction": "is friendly towards the Party"
     }
 }

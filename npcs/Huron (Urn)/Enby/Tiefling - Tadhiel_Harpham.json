@@ -2,12 +2,12 @@
     "Full Name": "Tadhiel, Harpham",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "wants something from the Party"
     }
 }

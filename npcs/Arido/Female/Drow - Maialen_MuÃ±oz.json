@@ -2,12 +2,12 @@
     "Full Name": "Maialen, Muñoz",
     "base": "Female | Arido - Drow",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Chews something",
-        "interaction": "is easily irritated by the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Taps fingers",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Arja, Putilova-Savelievna",
     "base": "Female | Isfolk - Warforged",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
+        "talent": "Great at one game",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "wants something from the Party"
     }
 }

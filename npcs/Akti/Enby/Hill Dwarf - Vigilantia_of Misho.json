@@ -2,12 +2,12 @@
     "Full Name": "Vigilantia, of Misho",
     "base": "Enby | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert carpenter",
+        "talent": "Expert dart thrower and rock skipper",
         "mannerism": "Chews something",
-        "interaction": "is curious about one member of the Party"
+        "interaction": "is argumentative with the Party"
     }
 }

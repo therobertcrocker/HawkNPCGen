@@ -2,12 +2,12 @@
     "Full Name": "Imke, Renan",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is easily irritated by the Party"
+        "talent": "Expert juggler",
+        "mannerism": "Chews something",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

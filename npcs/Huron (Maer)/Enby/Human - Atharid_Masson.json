@@ -2,12 +2,12 @@
     "Full Name": "Atharid, Masson",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
+        "talent": "Expert juggler",
+        "mannerism": "Chews something",
         "interaction": "is quiet around the party"
     }
 }

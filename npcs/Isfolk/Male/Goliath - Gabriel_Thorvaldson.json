@@ -2,12 +2,12 @@
     "Full Name": "Gabriel, Thorvaldson",
     "base": "Male | Isfolk - Goliath",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "finds the Party fascinating"
+        "mannerism": "Stares into the distance",
+        "interaction": "has a hot temper around the Party"
     }
 }

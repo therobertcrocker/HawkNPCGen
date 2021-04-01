@@ -2,12 +2,12 @@
     "Full Name": "Vespasien, Eisenstein",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Draws beautifully",
         "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "is friendly towards the Party"
+        "interaction": "is curious about one member of the Party"
     }
 }

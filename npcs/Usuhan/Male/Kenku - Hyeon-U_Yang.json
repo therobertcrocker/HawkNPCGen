@@ -2,12 +2,12 @@
     "Full Name": "Hyeon-U, Yang",
     "base": "Male | Usuhan - Kenku",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is easily irritated by the Party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is friendly towards the Party"
     }
 }

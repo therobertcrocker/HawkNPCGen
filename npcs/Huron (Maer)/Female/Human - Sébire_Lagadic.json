@@ -2,12 +2,12 @@
     "Full Name": "Sébire, Lagadic",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "wants something from the Party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Stares into the distance",
+        "interaction": "is argumentative with the Party"
     }
 }

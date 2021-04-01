@@ -2,12 +2,12 @@
     "Full Name": "Gurguy, Le-Mee",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is quiet around the party"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "wants something from the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Sébire, Alberda-van-Ekenstein",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is suspicious of the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

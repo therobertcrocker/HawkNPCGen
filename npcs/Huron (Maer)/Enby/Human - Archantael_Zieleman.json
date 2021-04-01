@@ -2,12 +2,12 @@
     "Full Name": "Archantael, Zieleman",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Fidgets",
+        "talent": "Paints beautifully",
+        "mannerism": "Speaks loudly",
         "interaction": "is quiet around the party"
     }
 }

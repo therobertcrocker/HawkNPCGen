@@ -2,12 +2,12 @@
     "Full Name": "Senin, Lacunzarra",
     "base": "Enby | Arido - Changeling",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Perfect memory",
+        "talent": "Plays a musical instrument",
         "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "is curious about one member of the Party"
+        "interaction": "finds the Party fascinating"
     }
 }

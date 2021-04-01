@@ -2,12 +2,12 @@
     "Full Name": "Ye-Jin, Su",
     "base": "Enby | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Paces",
-        "interaction": "is curious about one member of the Party"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

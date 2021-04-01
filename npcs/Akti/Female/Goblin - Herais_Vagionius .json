@@ -2,12 +2,12 @@
     "Full Name": "Herais, Vagionius ",
     "base": "Female | Akti - Goblin",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Taps fingers",
+        "talent": "Sings beautifully",
+        "mannerism": "Stares into the distance",
         "interaction": "has a hot temper around the Party"
     }
 }

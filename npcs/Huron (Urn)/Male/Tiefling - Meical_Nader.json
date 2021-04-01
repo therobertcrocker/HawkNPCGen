@@ -2,12 +2,12 @@
     "Full Name": "Meical, Nader",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is keeping a secret from the Party"
     }
 }

@@ -3,11 +3,11 @@
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "has a hot temper around the Party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is keeping a secret from the Party"
     }
 }

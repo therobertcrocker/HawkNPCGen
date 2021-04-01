@@ -2,12 +2,12 @@
     "Full Name": "Luigsech, Schierokauer",
     "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Squints",
-        "interaction": "wants something from the Party"
+        "talent": "Great with children",
+        "mannerism": "Taps fingers",
+        "interaction": "is suspicious of the Party"
     }
 }

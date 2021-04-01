@@ -2,12 +2,12 @@
     "Full Name": "Araceli, Villegas",
     "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "is easily irritated by the Party"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "wants something from the Party"
     }
 }

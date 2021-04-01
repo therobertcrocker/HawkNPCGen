@@ -2,12 +2,12 @@
     "Full Name": "Euria, Dario Tiolengco Braña",
     "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is friendly towards the Party"
+        "talent": "Perfect memory",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is keeping a secret from the Party"
     }
 }

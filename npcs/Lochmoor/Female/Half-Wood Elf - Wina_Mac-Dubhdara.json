@@ -3,11 +3,11 @@
     "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "is friendly towards the Party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Bites fingernails",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

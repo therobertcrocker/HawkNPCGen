@@ -2,12 +2,12 @@
     "Full Name": "Jeong-Suk, Ma",
     "base": "Female | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "is quiet around the party"
     }
 }

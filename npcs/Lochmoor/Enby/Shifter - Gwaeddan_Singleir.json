@@ -2,12 +2,12 @@
     "Full Name": "Gwaeddan, Singleir",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Great at impersonations",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is friendly towards the Party"
     }
 }

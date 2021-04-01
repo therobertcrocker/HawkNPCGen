@@ -3,11 +3,11 @@
     "base": "Female | Arido - Changeling",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "is always honest with the Party"
+        "talent": "Great with children",
+        "mannerism": "Taps fingers",
+        "interaction": "is friendly towards the Party"
     }
 }

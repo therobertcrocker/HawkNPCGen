@@ -2,12 +2,12 @@
     "Full Name": "Matariel, the-Frobisher",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "finds the Party fascinating"
     }
 }

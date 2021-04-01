@@ -2,12 +2,12 @@
     "Full Name": "Zuriel, Bamard",
     "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Squints",
-        "interaction": "is always honest with the Party"
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "finds the Party fascinating"
     }
 }

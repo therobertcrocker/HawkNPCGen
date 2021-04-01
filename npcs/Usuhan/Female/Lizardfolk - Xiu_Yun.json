@@ -2,12 +2,12 @@
     "Full Name": "Xiu, Yun",
     "base": "Female | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "is rude to just one member of the Party"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is keeping a secret from the Party"
     }
 }

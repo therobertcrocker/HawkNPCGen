@@ -2,12 +2,12 @@
     "Full Name": "Yong, Pang",
     "base": "Male | Usuhan - Tortle",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Fidgets",
-        "interaction": "is argumentative with the Party"
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

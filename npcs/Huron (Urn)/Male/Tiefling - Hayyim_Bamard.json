@@ -2,12 +2,12 @@
     "Full Name": "Hayyim, Bamard",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Chews something",
-        "interaction": "is quiet around the party"
+        "talent": "Expert cook",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "has a hot temper around the Party"
     }
 }

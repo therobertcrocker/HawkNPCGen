@@ -2,12 +2,12 @@
     "Full Name": "Jip, de-Viuepont",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Bites fingernails",
+        "interaction": "is quiet around the party"
     }
 }

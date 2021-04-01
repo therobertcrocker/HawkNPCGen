@@ -2,12 +2,12 @@
     "Full Name": "Tuija, Halldisdottir",
     "base": "Female | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is argumentative with the Party"
+        "talent": "Great at impersonations",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

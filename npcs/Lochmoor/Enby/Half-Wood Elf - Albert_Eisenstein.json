@@ -2,12 +2,12 @@
     "Full Name": "Albert, Eisenstein",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "finds the Party fascinating"
+        "talent": "Perfect memory",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is rude to just one member of the Party"
     }
 }

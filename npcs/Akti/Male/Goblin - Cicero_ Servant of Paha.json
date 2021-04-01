@@ -3,11 +3,11 @@
     "base": "Male | Akti - Goblin",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Draws beautifully",
+        "talent": "None",
         "mannerism": "Chews something",
-        "interaction": "is suspicious of the Party"
+        "interaction": "has a hot temper around the Party"
     }
 }

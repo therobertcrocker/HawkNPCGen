@@ -2,12 +2,12 @@
     "Full Name": "Yona, of-Nanafon",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "has a hot temper around the Party"
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is always honest with the Party"
     }
 }

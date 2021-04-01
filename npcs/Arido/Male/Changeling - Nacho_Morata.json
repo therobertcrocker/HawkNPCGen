@@ -2,12 +2,12 @@
     "Full Name": "Nacho, Morata",
     "base": "Male | Arido - Changeling",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Whispers",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is friendly towards the Party"
     }
 }

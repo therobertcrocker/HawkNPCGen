@@ -2,12 +2,12 @@
     "Full Name": "Ricardo, Loretta Kulubot Capulong",
     "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "has a hot temper around the Party"
+        "talent": "Skilled dancer",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is easily irritated by the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Gréta, Chernetskaya-Vladimirovna",
     "base": "Female | Isfolk - Warforged",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is curious about one member of the Party"
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "is argumentative with the Party"
     }
 }

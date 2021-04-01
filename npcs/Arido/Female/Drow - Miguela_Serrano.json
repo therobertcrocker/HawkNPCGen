@@ -2,12 +2,12 @@
     "Full Name": "Miguela, Serrano",
     "base": "Female | Arido - Drow",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is quiet around the party"
+        "talent": "Skilled dancer",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is keeping a secret from the Party"
     }
 }

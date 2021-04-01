@@ -2,12 +2,12 @@
     "Full Name": "Laurien, Auclair",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "wants something from the Party"
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is easily irritated by the Party"
     }
 }

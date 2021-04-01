@@ -2,12 +2,12 @@
     "Full Name": "Ermo, ben-Kinor",
     "base": "Male | Huron (Urn) - Human",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is argumentative with the Party"
+        "talent": "Draws beautifully",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is always honest with the Party"
     }
 }

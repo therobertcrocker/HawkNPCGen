@@ -2,12 +2,12 @@
     "Full Name": "Folant, Andrewartha",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "wears formal, clean clothes",
+        "appearance": "has a visible birthmark",
         "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Speaks loudly",
+        "talent": "Expert carpenter",
+        "mannerism": "Bites fingernails",
         "interaction": "is argumentative with the Party"
     }
 }

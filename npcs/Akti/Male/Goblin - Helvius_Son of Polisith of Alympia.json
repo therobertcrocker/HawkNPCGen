@@ -2,12 +2,12 @@
     "Full Name": "Helvius, Son of Polisith of Alympia",
     "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "is friendly towards the Party"
+        "mannerism": "Speaks loudly",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

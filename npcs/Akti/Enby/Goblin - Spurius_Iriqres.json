@@ -2,12 +2,12 @@
     "Full Name": "Spurius, Iriqres",
     "base": "Enby | Akti - Goblin",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "is rude to just one member of the Party"
     }
 }

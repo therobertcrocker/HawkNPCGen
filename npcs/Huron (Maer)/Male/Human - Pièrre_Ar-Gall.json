@@ -2,12 +2,12 @@
     "Full Name": "Pièrre, Ar-Gall",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "is suspicious of the Party"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Chews something",
+        "interaction": "is always honest with the Party"
     }
 }

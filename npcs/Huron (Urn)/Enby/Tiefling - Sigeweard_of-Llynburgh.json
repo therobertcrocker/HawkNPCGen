@@ -2,12 +2,12 @@
     "Full Name": "Sigeweard, of-Llynburgh",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Bites fingernails",
-        "interaction": "is argumentative with the Party"
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Alunoc, La-Verrier",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "is curious about one member of the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is argumentative with the Party"
     }
 }

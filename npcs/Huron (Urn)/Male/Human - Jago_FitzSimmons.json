@@ -2,12 +2,12 @@
     "Full Name": "Jago, FitzSimmons",
     "base": "Male | Huron (Urn) - Human",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
         "interaction": "is quiet around the party"
     }
 }

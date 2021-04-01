@@ -2,12 +2,12 @@
     "Full Name": "Phul, Dunch",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "finds the Party fascinating"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "wants something from the Party"
     }
 }

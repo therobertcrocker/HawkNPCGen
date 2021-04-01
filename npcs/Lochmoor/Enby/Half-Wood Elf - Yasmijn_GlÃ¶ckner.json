@@ -2,12 +2,12 @@
     "Full Name": "Yasmijn, Glöckner",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "has visible tattoos",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is always honest with the Party"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is argumentative with the Party"
     }
 }

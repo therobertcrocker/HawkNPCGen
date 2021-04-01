@@ -2,12 +2,12 @@
     "Full Name": "Piloqutinnguaq, The Speaker",
     "base": "Female | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "is friendly towards the Party"
+        "talent": "Skilled dancer",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is keeping a secret from the Party"
     }
 }

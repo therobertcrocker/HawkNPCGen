@@ -2,12 +2,12 @@
     "Full Name": "Vaast, Le-Besco",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Twirls hair or tugs beard",
-        "interaction": "is suspicious of the Party"
+        "interaction": "is keeping a secret from the Party"
     }
 }

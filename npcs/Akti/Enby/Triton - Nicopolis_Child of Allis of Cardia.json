@@ -2,12 +2,12 @@
     "Full Name": "Nicopolis, Child of Allis of Cardia",
     "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "finds the Party fascinating"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is quiet around the party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Rhodopis, of Iapos",
     "base": "Female | Akti - Triton",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Bites fingernails",
-        "interaction": "is always honest with the Party"
+        "talent": "Skilled dancer",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "wants something from the Party"
     }
 }

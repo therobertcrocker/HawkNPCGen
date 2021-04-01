@@ -2,12 +2,12 @@
     "Full Name": "Ayano, Su",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "has a pronounced scar",
+        "appearance": "has an unusual eye color (or two different colors)",
         "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "wants something from the Party"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is curious about one member of the Party"
     }
 }

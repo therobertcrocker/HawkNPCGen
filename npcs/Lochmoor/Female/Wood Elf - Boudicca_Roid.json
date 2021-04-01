@@ -2,12 +2,12 @@
     "Full Name": "Boudicca, Roid",
     "base": "Female | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Chews something",
-        "interaction": "is argumentative with the Party"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is quiet around the party"
     }
 }

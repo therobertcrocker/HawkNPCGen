@@ -2,12 +2,12 @@
     "Full Name": "Xabier, Lyndsey Chuchu Lindo",
     "base": "Male | Arido - Tabaxi",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "has visible tattoos",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "wants something from the Party"
+        "mannerism": "Particularly low or high voice",
+        "interaction": "finds the Party fascinating"
     }
 }

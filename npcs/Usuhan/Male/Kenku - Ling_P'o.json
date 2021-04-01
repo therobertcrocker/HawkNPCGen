@@ -2,12 +2,12 @@
     "Full Name": "Ling, P'o",
     "base": "Male | Usuhan - Kenku",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "is rude to just one member of the Party"
+        "talent": "Skilled dancer",
+        "mannerism": "Squints",
+        "interaction": "is keeping a secret from the Party"
     }
 }

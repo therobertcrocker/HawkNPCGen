@@ -2,12 +2,12 @@
     "Full Name": "Honorine, Schierokauer",
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "is quiet around the party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is easily irritated by the Party"
     }
 }

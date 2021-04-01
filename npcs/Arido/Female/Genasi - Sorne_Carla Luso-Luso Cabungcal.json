@@ -3,11 +3,11 @@
     "base": "Female | Arido - Genasi",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is easily irritated by the Party"
+        "talent": "Great with animals",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is quiet around the party"
     }
 }

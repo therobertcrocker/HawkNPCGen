@@ -2,12 +2,12 @@
     "Full Name": "Ladislav, Yusupova-Rodionovnchka",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is quiet around the party"
     }
 }

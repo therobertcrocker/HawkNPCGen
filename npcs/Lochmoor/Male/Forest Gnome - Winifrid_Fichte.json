@@ -2,12 +2,12 @@
     "Full Name": "Winifrid, Fichte",
     "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

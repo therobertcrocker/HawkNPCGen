@@ -2,12 +2,12 @@
     "Full Name": "Léa, Kanadtsev-Ilyichka",
     "base": "Enby | Isfolk - Goliath",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Taps fingers",
-        "interaction": "is argumentative with the Party"
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "has a hot temper around the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Brichheve, Merrick",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is suspicious of the Party"
+        "talent": "Great with animals",
+        "mannerism": "Paces",
+        "interaction": "has a hot temper around the Party"
     }
 }

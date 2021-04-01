@@ -2,12 +2,12 @@
     "Full Name": "Yuudai, Paek",
     "base": "Male | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Whispers",
-        "interaction": "wants something from the Party"
+        "talent": "Great at impersonations",
+        "mannerism": "Speaks loudly",
+        "interaction": "is argumentative with the Party"
     }
 }

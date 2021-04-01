@@ -2,12 +2,12 @@
     "Full Name": "Torfey, Nesterova-Rodionovnchka",
     "base": "Enby | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Whispers",
+        "interaction": "is quiet around the party"
     }
 }

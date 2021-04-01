@@ -2,12 +2,12 @@
     "Full Name": "Eun-Jung, Nan",
     "base": "Female | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "has a hot temper around the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is argumentative with the Party"
     }
 }

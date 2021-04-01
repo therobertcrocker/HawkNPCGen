@@ -2,12 +2,12 @@
     "Full Name": "Antero, The Perfumed",
     "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "has a hot temper around the Party"
+        "talent": "Perfect memory",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

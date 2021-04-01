@@ -3,11 +3,11 @@
     "base": "Female | Usuhan - Kobold",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Taps fingers",
-        "interaction": "is argumentative with the Party"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is keeping a secret from the Party"
     }
 }

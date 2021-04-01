@@ -2,12 +2,12 @@
     "Full Name": "Hinata, Sung",
     "base": "Male | Usuhan - Tortle",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Speaks loudly",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "wants something from the Party"
     }
 }

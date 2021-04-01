@@ -2,12 +2,12 @@
     "Full Name": "Tomasa, Crotilda Lopa Deseo",
     "base": "Female | Arido - Changeling",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "is rude to just one member of the Party"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is keeping a secret from the Party"
     }
 }

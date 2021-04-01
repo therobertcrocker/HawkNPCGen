@@ -2,12 +2,12 @@
     "Full Name": "Chae-Won, Song",
     "base": "Female | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Chews something",
-        "interaction": "is argumentative with the Party"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is always honest with the Party"
     }
 }

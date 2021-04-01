@@ -2,12 +2,12 @@
     "Full Name": "Martîn, Heeringa",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

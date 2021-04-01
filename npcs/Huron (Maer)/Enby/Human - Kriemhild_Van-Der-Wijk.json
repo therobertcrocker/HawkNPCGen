@@ -2,12 +2,12 @@
     "Full Name": "Kriemhild, Van-Der-Wijk",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is always honest with the Party"
     }
 }

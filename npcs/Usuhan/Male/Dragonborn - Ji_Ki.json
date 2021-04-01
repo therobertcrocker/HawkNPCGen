@@ -2,12 +2,12 @@
     "Full Name": "Ji, Ki",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Bites fingernails",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Paces",
+        "interaction": "is suspicious of the Party"
     }
 }

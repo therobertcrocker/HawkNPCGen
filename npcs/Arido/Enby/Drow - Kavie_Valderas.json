@@ -2,11 +2,11 @@
     "Full Name": "Kavie, Valderas",
     "base": "Enby | Arido - Drow",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Knows thieves’ cant",
         "mannerism": "Paces",
         "interaction": "is friendly towards the Party"
     }

@@ -2,12 +2,12 @@
     "Full Name": "Oaktoes, Alméras",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has visible tattoos",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Chews something",
-        "interaction": "is argumentative with the Party"
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "wants something from the Party"
     }
 }

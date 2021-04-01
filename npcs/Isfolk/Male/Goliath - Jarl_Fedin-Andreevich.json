@@ -2,12 +2,12 @@
     "Full Name": "Jarl, Fedin-Andreevich",
     "base": "Male | Isfolk - Goliath",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at impersonations",
+        "talent": "None",
         "mannerism": "Enunciates overly clearly",
-        "interaction": "is always honest with the Party"
+        "interaction": "is keeping a secret from the Party"
     }
 }

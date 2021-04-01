@@ -2,12 +2,12 @@
     "Full Name": "Young-Gi, Xiao",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "is friendly towards the Party"
+        "mannerism": "Stares into the distance",
+        "interaction": "has a hot temper around the Party"
     }
 }

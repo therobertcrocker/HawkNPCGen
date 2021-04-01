@@ -2,12 +2,12 @@
     "Full Name": "Cynesige, ben-Andreia",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Bites fingernails",
-        "interaction": "is friendly towards the Party"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is keeping a secret from the Party"
     }
 }

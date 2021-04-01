@@ -2,12 +2,12 @@
     "Full Name": "Ælfheah, Trezise",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "appearance": "has a visible birthmark",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Sings beautifully",
         "mannerism": "Stares into the distance",
-        "interaction": "is quiet around the party"
+        "interaction": "is always honest with the Party"
     }
 }

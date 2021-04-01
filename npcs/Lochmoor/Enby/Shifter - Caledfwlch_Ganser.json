@@ -2,12 +2,12 @@
     "Full Name": "Caledfwlch, Ganser",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "is friendly towards the Party"
+        "talent": "Perfect memory",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is quiet around the party"
     }
 }

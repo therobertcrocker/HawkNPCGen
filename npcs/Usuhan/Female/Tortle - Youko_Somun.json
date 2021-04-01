@@ -2,12 +2,12 @@
     "Full Name": "Youko, Somun",
     "base": "Female | Usuhan - Tortle",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is rude to just one member of the Party"
+        "mannerism": "Taps fingers",
+        "interaction": "finds the Party fascinating"
     }
 }

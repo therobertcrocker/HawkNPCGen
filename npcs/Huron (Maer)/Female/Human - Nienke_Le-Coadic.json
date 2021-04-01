@@ -2,12 +2,12 @@
     "Full Name": "Nienke, Le-Coadic",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is exceptionally beautiful",
+        "appearance": "has an unusual skin color",
         "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Speaks loudly",
-        "interaction": "is curious about one member of the Party"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is friendly towards the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Amée, Uglow",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Whispers",
+        "mannerism": "Paces",
         "interaction": "wants something from the Party"
     }
 }

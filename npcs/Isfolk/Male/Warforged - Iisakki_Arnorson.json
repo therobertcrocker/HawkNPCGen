@@ -2,12 +2,12 @@
     "Full Name": "Iisakki, Arnorson",
     "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "is missing teeth",
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
         "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "has a hot temper around the Party"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is argumentative with the Party"
     }
 }

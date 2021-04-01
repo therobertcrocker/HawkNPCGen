@@ -2,12 +2,12 @@
     "Full Name": "Katsuro, Ki",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "is friendly towards the Party"
+        "talent": "Paints beautifully",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is curious about one member of the Party"
     }
 }

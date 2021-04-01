@@ -2,12 +2,12 @@
     "Full Name": "Arianwen, Roid",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is friendly towards the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is argumentative with the Party"
     }
 }

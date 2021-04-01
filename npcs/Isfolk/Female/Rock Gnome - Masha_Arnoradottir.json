@@ -2,12 +2,12 @@
     "Full Name": "Masha, Arnoradottir",
     "base": "Female | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Fidgets",
-        "interaction": "is always honest with the Party"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is easily irritated by the Party"
     }
 }

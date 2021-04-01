@@ -2,12 +2,12 @@
     "Full Name": "Baudouin, Traube",
     "base": "Male | Lochmoor - Shifter",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "has visible tattoos",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Squints",
-        "interaction": "is always honest with the Party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is curious about one member of the Party"
     }
 }

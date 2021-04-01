@@ -2,12 +2,12 @@
     "Full Name": "Matityahu, of Sina",
     "base": "Enby | Akti - Hill Dwarf",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Perfect memory",
+        "mannerism": "Taps fingers",
+        "interaction": "wants something from the Party"
     }
 }

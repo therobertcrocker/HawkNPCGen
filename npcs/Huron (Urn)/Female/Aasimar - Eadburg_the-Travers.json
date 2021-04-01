@@ -2,12 +2,12 @@
     "Full Name": "Eadburg, the-Travers",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "finds the Party fascinating"
     }
 }

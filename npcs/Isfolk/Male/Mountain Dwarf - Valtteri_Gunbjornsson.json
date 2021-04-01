@@ -2,12 +2,12 @@
     "Full Name": "Valtteri, Gunbjornsson",
     "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "appearance": "has visible piercings",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Paces",
+        "interaction": "is keeping a secret from the Party"
     }
 }

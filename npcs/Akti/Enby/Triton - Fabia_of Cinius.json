@@ -2,12 +2,12 @@
     "Full Name": "Fabia, of Cinius",
     "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is curious about one member of the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is quiet around the party"
     }
 }

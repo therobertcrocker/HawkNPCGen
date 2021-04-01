@@ -2,12 +2,12 @@
     "Full Name": "Areagne, Gorter",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "is argumentative with the Party"
+        "talent": "Great with children",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is always honest with the Party"
     }
 }

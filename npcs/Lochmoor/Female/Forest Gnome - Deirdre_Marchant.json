@@ -2,12 +2,12 @@
     "Full Name": "Deirdre, Marchant",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Stares into the distance",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is easily irritated by the Party"
     }
 }

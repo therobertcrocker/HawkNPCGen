@@ -2,12 +2,12 @@
     "Full Name": "Cerdic, Laken",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "wants something from the Party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is easily irritated by the Party"
     }
 }

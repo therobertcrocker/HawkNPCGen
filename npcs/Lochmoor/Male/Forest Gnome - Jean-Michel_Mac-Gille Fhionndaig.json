@@ -2,12 +2,12 @@
     "Full Name": "Jean-Michel, Mac-Gille Fhionndaig",
     "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is curious about one member of the Party"
+        "mannerism": "Particularly low or high voice",
+        "interaction": "has a hot temper around the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Su-Bin, Yun",
     "base": "Female | Usuhan - Kobold",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is friendly towards the Party"
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "is argumentative with the Party"
     }
 }

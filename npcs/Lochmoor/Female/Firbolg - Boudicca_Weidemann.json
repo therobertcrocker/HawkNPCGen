@@ -2,12 +2,12 @@
     "Full Name": "Boudicca, Weidemann",
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Speaks loudly",
-        "interaction": "wants something from the Party"
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is easily irritated by the Party"
     }
 }

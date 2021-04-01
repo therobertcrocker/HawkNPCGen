@@ -2,12 +2,12 @@
     "Full Name": "Hrafn, Thorarinson",
     "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "is suspicious of the Party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Whispers",
+        "interaction": "is keeping a secret from the Party"
     }
 }

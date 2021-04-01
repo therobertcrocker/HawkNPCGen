@@ -2,12 +2,12 @@
     "Full Name": "Aalissa, Hidde-Zeilstra",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
+        "talent": "None",
         "mannerism": "Stares into the distance",
-        "interaction": "is always honest with the Party"
+        "interaction": "is keeping a secret from the Party"
     }
 }

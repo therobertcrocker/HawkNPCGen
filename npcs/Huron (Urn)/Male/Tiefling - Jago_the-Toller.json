@@ -2,12 +2,12 @@
     "Full Name": "Jago, the-Toller",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is easily irritated by the Party"
+        "talent": "Great with children",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is suspicious of the Party"
     }
 }

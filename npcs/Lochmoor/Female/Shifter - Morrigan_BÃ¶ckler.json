@@ -2,12 +2,12 @@
     "Full Name": "Morrigan, Böckler",
     "base": "Female | Lochmoor - Shifter",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is quiet around the party"
+        "mannerism": "Fidgets",
+        "interaction": "is suspicious of the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Jeltje, Meinsma",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Squints",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is easily irritated by the Party"
     }
 }

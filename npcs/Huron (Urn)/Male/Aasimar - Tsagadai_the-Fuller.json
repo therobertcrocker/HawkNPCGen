@@ -2,12 +2,12 @@
     "Full Name": "Tsagadai, the-Fuller",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Particularly low or high voice",
+        "talent": "Great at impersonations",
+        "mannerism": "Squints",
         "interaction": "is always honest with the Party"
     }
 }

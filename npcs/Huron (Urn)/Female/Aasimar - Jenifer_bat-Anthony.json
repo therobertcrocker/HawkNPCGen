@@ -2,12 +2,12 @@
     "Full Name": "Jenifer, bat-Anthony",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is always honest with the Party"
     }
 }

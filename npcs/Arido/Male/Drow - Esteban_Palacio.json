@@ -3,11 +3,11 @@
     "base": "Male | Arido - Drow",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is curious about one member of the Party"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is always honest with the Party"
     }
 }

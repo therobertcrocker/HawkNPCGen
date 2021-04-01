@@ -2,12 +2,12 @@
     "Full Name": "Margh, Bamard",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "is easily irritated by the Party"
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "is quiet around the party"
     }
 }

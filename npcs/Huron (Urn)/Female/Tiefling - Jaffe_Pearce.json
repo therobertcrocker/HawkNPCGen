@@ -2,12 +2,12 @@
     "Full Name": "Jaffe, Pearce",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Taps fingers",
-        "interaction": "is suspicious of the Party"
+        "interaction": "wants something from the Party"
     }
 }

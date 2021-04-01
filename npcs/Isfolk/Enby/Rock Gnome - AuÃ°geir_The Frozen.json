@@ -2,12 +2,12 @@
     "Full Name": "Auðgeir, The Frozen",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is always honest with the Party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is argumentative with the Party"
     }
 }

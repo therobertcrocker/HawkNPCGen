@@ -2,12 +2,12 @@
     "Full Name": "Nes, Moal",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is always honest with the Party"
+        "talent": "Draws beautifully",
+        "mannerism": "Speaks loudly",
+        "interaction": "has a hot temper around the Party"
     }
 }

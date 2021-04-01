@@ -2,12 +2,12 @@
     "Full Name": "Estebe, Ibataogamarra",
     "base": "Male | Arido - Genasi",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Chews something",
+        "interaction": "finds the Party fascinating"
     }
 }

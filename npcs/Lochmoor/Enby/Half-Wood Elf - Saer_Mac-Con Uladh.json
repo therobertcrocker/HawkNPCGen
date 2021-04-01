@@ -2,12 +2,12 @@
     "Full Name": "Saer, Mac-Con Uladh",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "is curious about one member of the Party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is argumentative with the Party"
     }
 }

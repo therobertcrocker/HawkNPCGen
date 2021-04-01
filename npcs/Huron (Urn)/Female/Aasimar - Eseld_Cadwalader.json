@@ -2,12 +2,12 @@
     "Full Name": "Eseld, Cadwalader",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "finds the Party fascinating"
+        "talent": "Great with children",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is friendly towards the Party"
     }
 }

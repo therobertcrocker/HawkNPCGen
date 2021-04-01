@@ -2,12 +2,12 @@
     "Full Name": "Na, Ogum",
     "base": "Female | Usuhan - Kobold",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert cook",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is easily irritated by the Party"
     }
 }

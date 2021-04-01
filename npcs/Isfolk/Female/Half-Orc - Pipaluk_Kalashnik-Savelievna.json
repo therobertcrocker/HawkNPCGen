@@ -2,12 +2,12 @@
     "Full Name": "Pipaluk, Kalashnik-Savelievna",
     "base": "Female | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is easily irritated by the Party"
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is keeping a secret from the Party"
     }
 }

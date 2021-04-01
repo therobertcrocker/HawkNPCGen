@@ -2,12 +2,12 @@
     "Full Name": "Arnórr, Thorvaldson",
     "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

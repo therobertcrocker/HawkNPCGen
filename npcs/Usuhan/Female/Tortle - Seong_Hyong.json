@@ -2,12 +2,12 @@
     "Full Name": "Seong, Hyong",
     "base": "Female | Usuhan - Tortle",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Chews something",
-        "interaction": "is quiet around the party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Paces",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

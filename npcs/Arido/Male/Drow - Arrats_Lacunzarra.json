@@ -2,12 +2,12 @@
     "Full Name": "Arrats, Lacunzarra",
     "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "is easily irritated by the Party"
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Juana, Céspedes",
     "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is quiet around the party"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Paces",
+        "interaction": "is rude to just one member of the Party"
     }
 }

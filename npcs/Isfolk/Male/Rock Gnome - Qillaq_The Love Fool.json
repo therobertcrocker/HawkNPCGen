@@ -2,12 +2,12 @@
     "Full Name": "Qillaq, The Love Fool",
     "base": "Male | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "is rude to just one member of the Party"
+        "talent": "Sings beautifully",
+        "mannerism": "Speaks loudly",
+        "interaction": "finds the Party fascinating"
     }
 }

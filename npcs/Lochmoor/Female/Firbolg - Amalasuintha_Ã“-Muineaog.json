@@ -2,12 +2,12 @@
     "Full Name": "Amalasuintha, Ó-Muineaog",
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "finds the Party fascinating"
     }
 }

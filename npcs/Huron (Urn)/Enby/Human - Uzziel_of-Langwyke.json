@@ -2,12 +2,12 @@
     "Full Name": "Uzziel, of-Langwyke",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Expert dart thrower and rock skipper",
         "mannerism": "Taps fingers",
-        "interaction": "is easily irritated by the Party"
+        "interaction": "is always honest with the Party"
     }
 }

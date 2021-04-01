@@ -2,12 +2,12 @@
     "Full Name": "Marko, Cerecero",
     "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Twirls hair or tugs beard",
+        "talent": "Draws beautifully",
+        "mannerism": "Squints",
         "interaction": "is always honest with the Party"
     }
 }

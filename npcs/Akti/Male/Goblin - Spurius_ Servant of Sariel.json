@@ -2,12 +2,12 @@
     "Full Name": "Spurius,  Servant of Sariel",
     "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is always honest with the Party"
     }
 }

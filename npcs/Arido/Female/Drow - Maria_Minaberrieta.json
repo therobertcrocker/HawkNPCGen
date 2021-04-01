@@ -2,12 +2,12 @@
     "Full Name": "Maria, Minaberrieta",
     "base": "Female | Arido - Drow",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Paces",
+        "interaction": "is friendly towards the Party"
     }
 }

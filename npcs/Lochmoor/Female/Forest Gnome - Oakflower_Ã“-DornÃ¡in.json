@@ -2,12 +2,12 @@
     "Full Name": "Oakflower, Ó-Dornáin",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "is exceptionally ugly",
+        "appearance": "has an unusual skin color",
         "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "is suspicious of the Party"
+        "talent": "Draws beautifully",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

@@ -3,11 +3,11 @@
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "has a hot temper around the Party"
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is friendly towards the Party"
     }
 }

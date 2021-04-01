@@ -2,12 +2,12 @@
     "Full Name": "Rebekka, Cariou",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": " has a nervous tick",
+        "appearance": "has a distinctive posture (crooked or rigid)",
         "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is suspicious of the Party"
     }
 }

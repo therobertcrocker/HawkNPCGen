@@ -2,12 +2,12 @@
     "Full Name": "Berta, Lyndsey Chuchu Lindo",
     "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "is rude to just one member of the Party"
+        "talent": "Paints beautifully",
+        "mannerism": "Stares into the distance",
+        "interaction": "has a hot temper around the Party"
     }
 }

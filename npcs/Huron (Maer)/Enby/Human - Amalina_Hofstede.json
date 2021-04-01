@@ -2,12 +2,12 @@
     "Full Name": "Amalina, Hofstede",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is quiet around the party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Bites fingernails",
+        "interaction": "has a hot temper around the Party"
     }
 }

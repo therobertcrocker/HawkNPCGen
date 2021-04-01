@@ -2,12 +2,12 @@
     "Full Name": "Amirel, of Misho",
     "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "appearance": "has a visible birthmark",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Paces",
-        "interaction": "is curious about one member of the Party"
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is rude to just one member of the Party"
     }
 }

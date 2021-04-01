@@ -2,12 +2,12 @@
     "Full Name": "Afanen, Herle",
     "base": "Female | Huron (Urn) - Human",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Stares into the distance",
-        "interaction": "is curious about one member of the Party"
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is keeping a secret from the Party"
     }
 }

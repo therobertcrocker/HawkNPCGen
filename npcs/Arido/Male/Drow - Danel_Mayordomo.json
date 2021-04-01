@@ -2,12 +2,12 @@
     "Full Name": "Danel, Mayordomo",
     "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Whispers",
+        "interaction": "has a hot temper around the Party"
     }
 }

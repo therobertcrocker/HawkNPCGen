@@ -2,12 +2,12 @@
     "Full Name": "Theano, Nesemkhue",
     "base": "Female | Akti - High-Elf",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is suspicious of the Party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "wants something from the Party"
     }
 }

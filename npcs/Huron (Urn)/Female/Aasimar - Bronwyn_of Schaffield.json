@@ -2,12 +2,12 @@
     "Full Name": "Bronwyn, of Schaffield",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has an unusual hair color",
+        "appearance": "has an unusual eye color (or two different colors)",
         "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is friendly towards the Party"
     }
 }

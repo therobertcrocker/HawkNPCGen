@@ -2,12 +2,12 @@
     "Full Name": "Udane, Leguizamo",
     "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "is friendly towards the Party"
     }
 }

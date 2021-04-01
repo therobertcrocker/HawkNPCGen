@@ -2,12 +2,12 @@
     "Full Name": "Stadiel, Domgeat",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Taps fingers",
-        "interaction": "is friendly towards the Party"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is quiet around the party"
     }
 }

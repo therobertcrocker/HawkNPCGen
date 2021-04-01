@@ -2,12 +2,12 @@
     "Full Name": "Young-Ho, Pang",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Paces",
-        "interaction": "is easily irritated by the Party"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is quiet around the party"
     }
 }

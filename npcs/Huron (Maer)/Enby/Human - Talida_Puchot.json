@@ -2,12 +2,12 @@
     "Full Name": "Talida, Puchot",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "finds the Party fascinating"
+        "mannerism": "Fidgets",
+        "interaction": "wants something from the Party"
     }
 }

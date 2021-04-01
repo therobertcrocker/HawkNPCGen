@@ -2,12 +2,12 @@
     "Full Name": "Euanthe, of Phuggia",
     "base": "Female | Akti - Goblin",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "is quiet around the party"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

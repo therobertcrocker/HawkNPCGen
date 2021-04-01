@@ -2,12 +2,12 @@
     "Full Name": "Ffraid, Böckler",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "is keeping a secret from the Party"
     }
 }

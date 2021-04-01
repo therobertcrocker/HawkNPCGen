@@ -2,12 +2,12 @@
     "Full Name": "Pasco, ben-Li Ran",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is suspicious of the Party"
+        "mannerism": "Paces",
+        "interaction": "wants something from the Party"
     }
 }

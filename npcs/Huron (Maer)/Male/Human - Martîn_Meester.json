@@ -2,12 +2,12 @@
     "Full Name": "Martîn, Meester",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is argumentative with the Party"
     }
 }

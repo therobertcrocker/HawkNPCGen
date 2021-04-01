@@ -2,12 +2,12 @@
     "Full Name": "Pronoia, Erewaker",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "is suspicious of the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is friendly towards the Party"
     }
 }

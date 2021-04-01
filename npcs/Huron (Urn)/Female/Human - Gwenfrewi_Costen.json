@@ -2,12 +2,12 @@
     "Full Name": "Gwenfrewi, Costen",
     "base": "Female | Huron (Urn) - Human",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is argumentative with the Party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Taps fingers",
+        "interaction": "is keeping a secret from the Party"
     }
 }

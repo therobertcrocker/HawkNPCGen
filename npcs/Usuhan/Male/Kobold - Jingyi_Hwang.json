@@ -2,12 +2,12 @@
     "Full Name": "Jingyi, Hwang",
     "base": "Male | Usuhan - Kobold",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Bites fingernails",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Expert juggler",
+        "mannerism": "Stares into the distance",
+        "interaction": "is keeping a secret from the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Mabyn, Bligh",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Fidgets",
-        "interaction": "has a hot temper around the Party"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Whispers",
+        "interaction": "is keeping a secret from the Party"
     }
 }

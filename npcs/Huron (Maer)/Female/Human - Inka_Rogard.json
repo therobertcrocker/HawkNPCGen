@@ -2,12 +2,12 @@
     "Full Name": "Inka, Rogard",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "wants something from the Party"
+        "mannerism": "Chews something",
+        "interaction": "is easily irritated by the Party"
     }
 }

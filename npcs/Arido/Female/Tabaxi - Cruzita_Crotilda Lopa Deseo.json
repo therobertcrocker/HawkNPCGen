@@ -2,12 +2,12 @@
     "Full Name": "Cruzita, Crotilda Lopa Deseo",
     "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "appearance": " has a nervous tick",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Stares into the distance",
-        "interaction": "is curious about one member of the Party"
+        "talent": "Perfect memory",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is argumentative with the Party"
     }
 }

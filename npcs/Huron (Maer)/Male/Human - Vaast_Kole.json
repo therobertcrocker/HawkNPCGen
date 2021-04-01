@@ -2,12 +2,12 @@
     "Full Name": "Vaast, Kole",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Stares into the distance",
-        "interaction": "is easily irritated by the Party"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is always honest with the Party"
     }
 }

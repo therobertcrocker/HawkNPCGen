@@ -2,12 +2,12 @@
     "Full Name": "Dionysius, of Egatu",
     "base": "Male | Akti - Triton",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is friendly towards the Party"
+        "talent": "Perfect memory",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is quiet around the party"
     }
 }

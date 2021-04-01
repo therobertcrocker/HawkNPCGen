@@ -2,12 +2,12 @@
     "Full Name": "Goueznou, Le-Coadic",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Stares into the distance",
-        "interaction": "finds the Party fascinating"
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is curious about one member of the Party"
     }
 }

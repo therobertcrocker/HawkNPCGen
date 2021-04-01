@@ -2,12 +2,12 @@
     "Full Name": "Goswin, Fokkens",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "is argumentative with the Party"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is always honest with the Party"
     }
 }

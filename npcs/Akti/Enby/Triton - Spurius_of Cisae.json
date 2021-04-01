@@ -2,12 +2,12 @@
     "Full Name": "Spurius, of Cisae",
     "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Prone to predictions of doom",
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
         "interaction": "is friendly towards the Party"
     }
 }

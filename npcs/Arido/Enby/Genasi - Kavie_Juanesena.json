@@ -2,12 +2,12 @@
     "Full Name": "Kavie, Juanesena",
     "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is friendly towards the Party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is keeping a secret from the Party"
     }
 }

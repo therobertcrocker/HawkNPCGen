@@ -2,12 +2,12 @@
     "Full Name": "Vlasta, Ashpole",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "wants something from the Party"
     }
 }

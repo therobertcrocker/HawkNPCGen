@@ -3,11 +3,11 @@
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Whispers",
-        "interaction": "is argumentative with the Party"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Squints",
+        "interaction": "finds the Party fascinating"
     }
 }

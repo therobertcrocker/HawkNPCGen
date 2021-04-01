@@ -2,12 +2,12 @@
     "Full Name": "Pièrre, Hofstede",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "wants something from the Party"
+        "mannerism": "Speaks loudly",
+        "interaction": "finds the Party fascinating"
     }
 }

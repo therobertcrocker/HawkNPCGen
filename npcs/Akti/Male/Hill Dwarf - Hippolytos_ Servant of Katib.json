@@ -3,11 +3,11 @@
     "base": "Male | Akti - Hill Dwarf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Fidgets",
+        "interaction": "is friendly towards the Party"
     }
 }

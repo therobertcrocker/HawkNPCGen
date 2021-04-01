@@ -2,12 +2,12 @@
     "Full Name": "Mi-Suk, Geng",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Bites fingernails",
-        "interaction": "is suspicious of the Party"
+        "talent": "Draws beautifully",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is always honest with the Party"
     }
 }

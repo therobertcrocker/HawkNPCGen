@@ -2,12 +2,12 @@
     "Full Name": "Piloqutinnguaq, Agmundrdottir",
     "base": "Female | Isfolk - Warforged",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Taps fingers",
+        "interaction": "is keeping a secret from the Party"
     }
 }

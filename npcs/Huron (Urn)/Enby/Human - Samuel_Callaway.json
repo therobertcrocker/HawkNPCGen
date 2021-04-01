@@ -2,12 +2,12 @@
     "Full Name": "Samuel, Callaway",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "is friendly towards the Party"
+        "talent": "Paints beautifully",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is keeping a secret from the Party"
     }
 }

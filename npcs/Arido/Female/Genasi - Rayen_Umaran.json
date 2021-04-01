@@ -2,12 +2,12 @@
     "Full Name": "Rayen, Umaran",
     "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "is friendly towards the Party"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "finds the Party fascinating"
     }
 }

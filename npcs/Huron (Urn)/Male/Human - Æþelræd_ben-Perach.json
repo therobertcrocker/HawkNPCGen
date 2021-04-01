@@ -2,12 +2,12 @@
     "Full Name": "Æþelræd, ben-Perach",
     "base": "Male | Huron (Urn) - Human",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is curious about one member of the Party"
+        "talent": "Skilled dancer",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is friendly towards the Party"
     }
 }

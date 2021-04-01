@@ -2,12 +2,12 @@
     "Full Name": "Eryi, Ó-Maol Máirthín",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "appearance": "has a pronounced scar",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "wants something from the Party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is argumentative with the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Sioned, Gellner",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "has a hot temper around the Party"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Fidgets",
+        "interaction": "finds the Party fascinating"
     }
 }

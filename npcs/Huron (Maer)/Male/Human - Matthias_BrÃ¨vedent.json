@@ -2,12 +2,12 @@
     "Full Name": "Matthias, Brèvedent",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is argumentative with the Party"
+        "talent": "Skilled dancer",
+        "mannerism": "Chews something",
+        "interaction": "is keeping a secret from the Party"
     }
 }

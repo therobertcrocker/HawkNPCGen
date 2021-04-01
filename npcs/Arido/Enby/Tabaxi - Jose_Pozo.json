@@ -3,11 +3,11 @@
     "base": "Enby | Arido - Tabaxi",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "is argumentative with the Party"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is easily irritated by the Party"
     }
 }

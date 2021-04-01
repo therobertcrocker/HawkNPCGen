@@ -2,12 +2,12 @@
     "Full Name": "Radagaisus, Hidde-Zeilstra",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "is friendly towards the Party"
+        "mannerism": "Bites fingernails",
+        "interaction": "finds the Party fascinating"
     }
 }

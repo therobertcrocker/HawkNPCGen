@@ -2,12 +2,12 @@
     "Full Name": "Aelwyd, Traube",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "has a hot temper around the Party"
     }
 }

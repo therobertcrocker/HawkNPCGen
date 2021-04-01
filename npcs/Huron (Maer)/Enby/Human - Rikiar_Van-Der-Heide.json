@@ -2,12 +2,12 @@
     "Full Name": "Rikiar, Van-Der-Heide",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "is missing one or more fingers",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "is quiet around the party"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Taps fingers",
+        "interaction": "is keeping a secret from the Party"
     }
 }

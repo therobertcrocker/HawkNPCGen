@@ -2,12 +2,12 @@
     "Full Name": "Léa, Sibbibarn",
     "base": "Enby | Isfolk - Warforged",
     "traits": {
-        "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Great with animals",
+        "mannerism": "Fidgets",
+        "interaction": "is suspicious of the Party"
     }
 }

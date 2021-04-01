@@ -2,12 +2,12 @@
     "Full Name": "Do-Yeon, Yon",
     "base": "Enby | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is rude to just one member of the Party"
+        "mannerism": "Speaks loudly",
+        "interaction": "is suspicious of the Party"
     }
 }

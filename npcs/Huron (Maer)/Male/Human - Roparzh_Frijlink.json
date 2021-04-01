@@ -2,12 +2,12 @@
     "Full Name": "Roparzh, Frijlink",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a visible birthmark",
+        "appearance": "has visible piercings",
         "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Squints",
-        "interaction": "is always honest with the Party"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Fidgets",
+        "interaction": "is friendly towards the Party"
     }
 }

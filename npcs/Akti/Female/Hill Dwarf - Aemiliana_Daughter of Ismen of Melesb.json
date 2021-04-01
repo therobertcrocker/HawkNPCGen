@@ -2,12 +2,12 @@
     "Full Name": "Aemiliana, Daughter of Ismen of Melesb",
     "base": "Female | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "is friendly towards the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is suspicious of the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Liberato, Costa",
     "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "is friendly towards the Party"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Paces",
+        "interaction": "is keeping a secret from the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Rebeca, Muñoz",
     "base": "Female | Arido - Drow",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "finds the Party fascinating"
+        "talent": "Great at one game",
+        "mannerism": "Fidgets",
+        "interaction": "is keeping a secret from the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Aristodemos, Cianiusorn Perstiusa",
     "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": "has braided beard or hair",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great at one game",
+        "talent": "Draws beautifully",
         "mannerism": "Makes constant jokes or puns",
-        "interaction": "is quiet around the party"
+        "interaction": "is friendly towards the Party"
     }
 }

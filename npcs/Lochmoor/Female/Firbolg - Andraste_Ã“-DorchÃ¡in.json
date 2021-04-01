@@ -2,12 +2,12 @@
     "Full Name": "Andraste, Ó-Dorcháin",
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Taps fingers",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "finds the Party fascinating"
     }
 }

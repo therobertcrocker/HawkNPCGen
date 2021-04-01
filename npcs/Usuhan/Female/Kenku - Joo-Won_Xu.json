@@ -2,12 +2,12 @@
     "Full Name": "Joo-Won, Xu",
     "base": "Female | Usuhan - Kenku",
     "traits": {
-        "appearance": "has visible tattoos",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "is always honest with the Party"
+        "mannerism": "Chews something",
+        "interaction": "wants something from the Party"
     }
 }

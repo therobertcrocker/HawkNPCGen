@@ -2,12 +2,12 @@
     "Full Name": "Cadarn, Dutertre",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Squints",
-        "interaction": "wants something from the Party"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "is always honest with the Party"
     }
 }

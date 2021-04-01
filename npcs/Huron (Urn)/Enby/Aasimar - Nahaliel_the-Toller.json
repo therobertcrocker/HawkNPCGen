@@ -2,12 +2,12 @@
     "Full Name": "Nahaliel, the-Toller",
     "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "appearance": " is bald",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is always honest with the Party"
+        "talent": "Expert juggler",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is keeping a secret from the Party"
     }
 }

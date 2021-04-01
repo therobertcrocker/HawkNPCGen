@@ -2,12 +2,12 @@
     "Full Name": "Yuuki, An",
     "base": "Male | Usuhan - Kenku",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is friendly towards the Party"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

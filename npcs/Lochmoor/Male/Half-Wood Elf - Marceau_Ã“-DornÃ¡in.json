@@ -2,12 +2,12 @@
     "Full Name": "Marceau, Ó-Dornáin",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "is quiet around the party"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Irati, Ericka O'Neal Sevilla",
     "base": "Female | Arido - Drow",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Whispers",
-        "interaction": "is friendly towards the Party"
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is suspicious of the Party"
     }
 }

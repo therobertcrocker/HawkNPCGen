@@ -2,12 +2,12 @@
     "Full Name": "Jaime, Vargas",
     "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "has a hot temper around the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is keeping a secret from the Party"
     }
 }

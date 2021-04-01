@@ -2,12 +2,12 @@
     "Full Name": "Patricius, of Paestium",
     "base": "Enby | Akti - Hobgoblin",
     "traits": {
-        "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Bites fingernails",
-        "interaction": "is friendly towards the Party"
+        "talent": "Expert carpenter",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is suspicious of the Party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Sabinus, of Dusae",
     "base": "Male | Akti - High-Elf",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "has a hot temper around the Party"
+        "mannerism": "Chews something",
+        "interaction": "finds the Party fascinating"
     }
 }

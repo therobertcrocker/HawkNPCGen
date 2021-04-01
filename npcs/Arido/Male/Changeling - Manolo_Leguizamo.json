@@ -2,12 +2,12 @@
     "Full Name": "Manolo, Leguizamo",
     "base": "Male | Arido - Changeling",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "believes themselves of higher status than the Party"
+        "mannerism": "Speaks loudly",
+        "interaction": "is keeping a secret from the Party"
     }
 }

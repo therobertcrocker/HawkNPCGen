@@ -2,12 +2,12 @@
     "Full Name": "Boudica, Ó-Maol Máirthín",
     "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "talent": "Great at impersonations",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is rude to just one member of the Party"
     }
 }

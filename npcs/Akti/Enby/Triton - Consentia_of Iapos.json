@@ -2,12 +2,12 @@
     "Full Name": "Consentia, of Iapos",
     "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Speaks loudly",
-        "interaction": "is easily irritated by the Party"
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is curious about one member of the Party"
     }
 }

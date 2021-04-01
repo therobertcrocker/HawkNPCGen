@@ -2,12 +2,12 @@
     "Full Name": "Eztebe, Leguizamo",
     "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "has an unusual hair color",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "Great with animals",
+        "mannerism": "Taps fingers",
+        "interaction": "is argumentative with the Party"
     }
 }

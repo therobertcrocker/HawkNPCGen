@@ -2,12 +2,12 @@
     "Full Name": "Eun-Yeong, Kang",
     "base": "Female | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "is always honest with the Party"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is argumentative with the Party"
     }
 }

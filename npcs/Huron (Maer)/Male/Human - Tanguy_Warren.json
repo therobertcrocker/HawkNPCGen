@@ -2,12 +2,12 @@
     "Full Name": "Tanguy, Warren",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "is quiet around the party"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "finds the Party fascinating"
     }
 }

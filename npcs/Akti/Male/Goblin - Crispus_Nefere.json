@@ -2,12 +2,12 @@
     "Full Name": "Crispus, Nefere",
     "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Squints",
-        "interaction": "believes themselves of higher status than the Party"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "is argumentative with the Party"
     }
 }

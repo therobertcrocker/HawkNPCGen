@@ -2,12 +2,12 @@
     "Full Name": "Jung-Hee, P'il",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Uses flowery speech or long words",
+        "talent": "Expert juggler",
+        "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "is argumentative with the Party"
     }
 }

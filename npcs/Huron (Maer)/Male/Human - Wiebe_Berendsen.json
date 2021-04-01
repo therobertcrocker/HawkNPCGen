@@ -2,12 +2,12 @@
     "Full Name": "Wiebe, Berendsen",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Paces",
-        "interaction": "is rude to just one member of the Party"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "finds the Party fascinating"
     }
 }

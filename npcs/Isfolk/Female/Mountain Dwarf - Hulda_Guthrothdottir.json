@@ -3,11 +3,11 @@
     "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is rude to just one member of the Party"
     }
 }

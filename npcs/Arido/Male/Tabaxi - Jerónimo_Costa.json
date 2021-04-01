@@ -2,12 +2,12 @@
     "Full Name": "Jerónimo, Costa",
     "base": "Male | Arido - Tabaxi",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is argumentative with the Party"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Stares into the distance",
+        "interaction": "is quiet around the party"
     }
 }

@@ -2,12 +2,12 @@
     "Full Name": "Katja, Oortveld",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is friendly towards the Party"
     }
 }

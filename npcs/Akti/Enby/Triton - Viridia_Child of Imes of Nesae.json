@@ -2,12 +2,12 @@
     "Full Name": "Viridia, Child of Imes of Nesae",
     "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "has an unusual hair color",
+        "appearance": "has braided beard or hair",
         "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Whispers",
-        "interaction": "wants something from the Party"
+        "talent": "Sings beautifully",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is keeping a secret from the Party"
     }
 }

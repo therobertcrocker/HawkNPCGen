@@ -2,12 +2,12 @@
     "Full Name": "Yeong-Ja, Wu",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is friendly towards the Party"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is keeping a secret from the Party"
     }
 }

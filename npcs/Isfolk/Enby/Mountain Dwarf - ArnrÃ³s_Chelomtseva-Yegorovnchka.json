@@ -2,12 +2,12 @@
     "Full Name": "Arnrós, Chelomtseva-Yegorovnchka",
     "base": "Enby | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "is suspicious of the Party"
+        "talent": "Great with animals",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

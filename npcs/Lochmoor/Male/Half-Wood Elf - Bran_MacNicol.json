@@ -2,12 +2,12 @@
     "Full Name": "Bran, MacNicol",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "has a visible birthmark",
+        "appearance": "wears ragged, dirty clothes",
         "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Prone to predictions of doom",
+        "talent": "Great at one game",
+        "mannerism": "Stares into the distance",
         "interaction": "is always honest with the Party"
     }
 }

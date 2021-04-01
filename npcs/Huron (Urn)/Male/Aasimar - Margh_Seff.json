@@ -2,12 +2,12 @@
     "Full Name": "Margh, Seff",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "is suspicious of the Party"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is always honest with the Party"
     }
 }

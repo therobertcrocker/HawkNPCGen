@@ -2,12 +2,12 @@
     "Full Name": "Klaas, Hoekstra",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has a pronounced scar",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Taps fingers",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

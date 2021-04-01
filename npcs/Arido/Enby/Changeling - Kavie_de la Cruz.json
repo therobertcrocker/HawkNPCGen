@@ -2,12 +2,12 @@
     "Full Name": "Kavie, de la Cruz",
     "base": "Enby | Arido - Changeling",
     "traits": {
-        "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "has a hot temper around the Party"
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

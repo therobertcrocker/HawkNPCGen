@@ -2,12 +2,12 @@
     "Full Name": "Jin-Ho, Kwok",
     "base": "Enby | Usuhan - Kenku",
     "traits": {
-        "appearance": " is bald",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "is quiet around the party"
+        "talent": "Expert juggler",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is argumentative with the Party"
     }
 }

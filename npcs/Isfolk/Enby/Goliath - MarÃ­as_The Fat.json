@@ -2,12 +2,12 @@
     "Full Name": "Marías, The Fat",
     "base": "Enby | Isfolk - Goliath",
     "traits": {
-        "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "has a hot temper around the Party"
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is argumentative with the Party"
     }
 }

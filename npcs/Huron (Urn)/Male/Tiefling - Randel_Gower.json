@@ -2,12 +2,12 @@
     "Full Name": "Randel, Gower",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "wears formal, clean clothes",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is suspicious of the Party"
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is keeping a secret from the Party"
     }
 }

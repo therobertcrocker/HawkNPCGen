@@ -2,12 +2,12 @@
     "Full Name": "Justiina, Kalyagina-Zakharovna",
     "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "is exceptionally beautiful",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "is friendly towards the Party"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }
