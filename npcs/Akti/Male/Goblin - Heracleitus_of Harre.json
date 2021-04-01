@@ -1,0 +1,13 @@
+{
+    "Full Name": "Heracleitus, of Harre",
+    "base": "Male | Akti - Goblin",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "is easily irritated by the Party"
+    }
+}

@@ -1,19 +1,13 @@
 {
-    "given name": "Glennis",
-    "surname": "of-Auchstow",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Glennis, of-Auchstow",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Rude"
+        "mannerism": "Speaks loudly",
+        "interaction": "is argumentative with the Party"
     }
 }

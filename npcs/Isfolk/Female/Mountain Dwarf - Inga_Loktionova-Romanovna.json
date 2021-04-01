@@ -1,19 +1,13 @@
 {
-    "given name": "Inga",
-    "surname": "Loktionova-Romanovna",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Inga, Loktionova-Romanovna",
+    "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Honest"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

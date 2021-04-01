@@ -1,0 +1,13 @@
+{
+    "Full Name": "Ealdwine, Laken",
+    "base": "Male | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "believes themselves of higher status than the Party"
+    }
+}

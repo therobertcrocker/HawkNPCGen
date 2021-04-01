@@ -1,19 +1,13 @@
 {
-    "given name": "Ekain",
-    "surname": "Céspedes",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Ekain, Céspedes",
+    "base": "Male | Arido - Genasi",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Curious"
+        "talent": "Great at one game",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "wants something from the Party"
     }
 }

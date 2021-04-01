@@ -1,19 +1,13 @@
 {
-    "given name": "Gwydion",
-    "surname": "Eisenstein",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Gwydion, Eisenstein",
+    "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Hot tempered"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Squints",
+        "interaction": "is argumentative with the Party"
     }
 }

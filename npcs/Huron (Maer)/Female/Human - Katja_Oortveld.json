@@ -1,19 +1,13 @@
 {
-    "given name": "Katja",
-    "surname": "Oortveld",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Katja, Oortveld",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Quiet"
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is argumentative with the Party"
     }
 }

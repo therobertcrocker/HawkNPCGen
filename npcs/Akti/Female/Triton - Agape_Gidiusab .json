@@ -1,19 +1,13 @@
 {
-    "given name": "Agape",
-    "surname": "Gidiusab ",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Agape, Gidiusab ",
+    "base": "Female | Akti - Triton",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Squints",
-        "interaction": "Hot tempered"
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "finds the Party fascinating"
     }
 }

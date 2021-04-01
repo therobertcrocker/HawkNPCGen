@@ -1,0 +1,13 @@
+{
+    "Full Name": "Sigurður, Shchetkin-Romanovich",
+    "base": "Male | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is friendly towards the Party"
+    }
+}

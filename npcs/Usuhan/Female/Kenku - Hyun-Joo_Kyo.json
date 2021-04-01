@@ -1,19 +1,13 @@
 {
-    "given name": "Hyun-Joo",
-    "surname": "Kyo",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Kenku"
-    },
+    "Full Name": "Hyun-Joo, Kyo",
+    "base": "Female | Usuhan - Kenku",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Paces",
-        "interaction": "Ponderous"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is argumentative with the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Shevon",
-    "surname": "Mac-Dubhdara",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Shevon, Mac-Dubhdara",
+    "base": "Female | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Irritable"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "finds the Party fascinating"
     }
 }

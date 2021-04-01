@@ -1,0 +1,13 @@
+{
+    "Full Name": "Kira, Sæunndottir",
+    "base": "Female | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Stares into the distance",
+        "interaction": "finds the Party fascinating"
+    }
+}

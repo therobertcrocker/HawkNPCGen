@@ -1,19 +1,13 @@
 {
-    "given name": "Euanthe",
-    "surname": "of Phuggia",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Euanthe, of Phuggia",
+    "base": "Female | Akti - Goblin",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Taps fingers",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "is quiet around the party"
     }
 }

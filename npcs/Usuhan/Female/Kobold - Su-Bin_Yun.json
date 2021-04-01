@@ -1,19 +1,13 @@
 {
-    "given name": "Su-Bin",
-    "surname": "Yun",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Kobold"
-    },
+    "Full Name": "Su-Bin, Yun",
+    "base": "Female | Usuhan - Kobold",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Irritable"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is friendly towards the Party"
     }
 }

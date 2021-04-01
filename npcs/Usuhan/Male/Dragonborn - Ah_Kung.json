@@ -1,19 +1,13 @@
 {
-    "given name": "Ah",
-    "surname": "Kung",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Ah, Kung",
+    "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Curious"
+        "mannerism": "Paces",
+        "interaction": "wants something from the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Kavie",
-    "surname": "Insaurriaga",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Kavie, Insaurriaga",
+    "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Irritable"
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "is always honest with the Party"
     }
 }

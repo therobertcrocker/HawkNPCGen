@@ -1,19 +1,13 @@
 {
-    "given name": "Baldehuia",
-    "surname": "wife-of-Freothul",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Baldehuia, wife-of-Freothul",
+    "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Irritable"
+        "talent": "Expert carpenter",
+        "mannerism": "Taps fingers",
+        "interaction": "is easily irritated by the Party"
     }
 }

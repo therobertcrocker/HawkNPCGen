@@ -1,19 +1,13 @@
 {
-    "given name": "Fravitta",
-    "surname": "van-den-Breul",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Fravitta, van-den-Breul",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Argumentative"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

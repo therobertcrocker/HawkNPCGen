@@ -1,19 +1,13 @@
 {
-    "given name": "Amirel",
-    "surname": "of Misho",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Amirel, of Misho",
+    "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Skilled actor and master of disguise",
         "mannerism": "Paces",
-        "interaction": "Rude"
+        "interaction": "is curious about one member of the Party"
     }
 }

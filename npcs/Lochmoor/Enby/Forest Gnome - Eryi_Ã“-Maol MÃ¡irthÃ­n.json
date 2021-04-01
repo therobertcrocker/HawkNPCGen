@@ -1,19 +1,13 @@
 {
-    "given name": "Eryi",
-    "surname": "Ó-Maol Máirthín",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Eryi, Ó-Maol Máirthín",
+    "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Blustering"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "wants something from the Party"
     }
 }

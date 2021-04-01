@@ -1,19 +1,13 @@
 {
-    "given name": "Sandrine",
-    "surname": "Thiers",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Sandrine, Thiers",
+    "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Blustering"
+        "talent": "Expert juggler",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "wants something from the Party"
     }
 }

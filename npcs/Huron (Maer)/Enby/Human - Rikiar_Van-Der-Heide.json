@@ -1,19 +1,13 @@
 {
-    "given name": "Rikiar",
-    "surname": "Van-Der-Heide",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Rikiar, Van-Der-Heide",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Irritable"
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is quiet around the party"
     }
 }

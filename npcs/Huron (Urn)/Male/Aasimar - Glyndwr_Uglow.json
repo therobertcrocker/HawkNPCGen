@@ -1,0 +1,13 @@
+{
+    "Full Name": "Glyndwr, Uglow",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Chews something",
+        "interaction": "is easily irritated by the Party"
+    }
+}

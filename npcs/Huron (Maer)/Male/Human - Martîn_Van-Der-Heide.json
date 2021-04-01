@@ -1,19 +1,13 @@
 {
-    "given name": "Martîn",
-    "surname": "Van-Der-Heide",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Martîn, Van-Der-Heide",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Argumentative"
+        "talent": "Perfect memory",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is suspicious of the Party"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "Full Name": "Erla, The Deaf",
+    "base": "Enby | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "is argumentative with the Party"
+    }
+}

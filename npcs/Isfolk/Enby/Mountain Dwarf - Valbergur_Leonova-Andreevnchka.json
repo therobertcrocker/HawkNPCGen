@@ -1,19 +1,13 @@
 {
-    "given name": "Valbergur",
-    "surname": "Leonova-Andreevnchka",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Valbergur, Leonova-Andreevnchka",
+    "base": "Enby | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Friendly"
+        "talent": "Expert juggler",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is suspicious of the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Cadarn",
-    "surname": "Dutertre",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Cadarn, Dutertre",
+    "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Irritable"
+        "talent": "Expert juggler",
+        "mannerism": "Squints",
+        "interaction": "wants something from the Party"
     }
 }

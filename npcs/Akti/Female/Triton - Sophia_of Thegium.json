@@ -1,19 +1,13 @@
 {
-    "given name": "Sophia",
-    "surname": "of Thegium",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Sophia, of Thegium",
+    "base": "Female | Akti - Triton",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Suspicious"
+        "mannerism": "Whispers",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

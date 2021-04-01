@@ -1,0 +1,13 @@
+{
+    "Full Name": "Julius,  Servant of Rielaph",
+    "base": "Male | Akti - Triton",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is quiet around the party"
+    }
+}

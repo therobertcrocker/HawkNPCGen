@@ -1,19 +1,13 @@
 {
-    "given name": "Spurius",
-    "surname": " Servant of Sariel",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Spurius,  Servant of Sariel",
+    "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Argumentative"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

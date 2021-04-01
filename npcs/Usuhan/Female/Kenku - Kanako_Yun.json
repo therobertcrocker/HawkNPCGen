@@ -1,19 +1,13 @@
 {
-    "given name": "Kanako",
-    "surname": "Yun",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Kenku"
-    },
+    "Full Name": "Kanako, Yun",
+    "base": "Female | Usuhan - Kenku",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Ponderous"
+        "mannerism": "Taps fingers",
+        "interaction": "is argumentative with the Party"
     }
 }

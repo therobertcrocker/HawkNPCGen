@@ -1,19 +1,13 @@
 {
-    "given name": "Ji-Min",
-    "surname": "Wang",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Ji-Min, Wang",
+    "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Bites fingernails",
-        "interaction": "Friendly"
+        "talent": "Expert juggler",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is rude to just one member of the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Martîn",
-    "surname": "Heeringa",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Martîn, Heeringa",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Friendly"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "finds the Party fascinating"
     }
 }

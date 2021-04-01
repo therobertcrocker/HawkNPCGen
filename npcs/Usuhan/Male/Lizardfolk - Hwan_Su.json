@@ -1,19 +1,13 @@
 {
-    "given name": "Hwan",
-    "surname": "Su",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Lizardfolk"
-    },
+    "Full Name": "Hwan, Su",
+    "base": "Male | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Blustering"
+        "mannerism": "Speaks loudly",
+        "interaction": "is easily irritated by the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Nero",
-    "surname": "Pidiusalv Piscina",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Nero, Pidiusalv Piscina",
+    "base": "Male | Akti - Triton",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Constitution — hardy, hale, healthy",
-        "low ability": "Charisma — dull, boring"
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Arrogant"
+        "talent": "Skilled dancer",
+        "mannerism": "Taps fingers",
+        "interaction": "is always honest with the Party"
     }
 }

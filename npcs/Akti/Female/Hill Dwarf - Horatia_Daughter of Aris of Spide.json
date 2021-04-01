@@ -1,19 +1,13 @@
 {
-    "given name": "Horatia",
-    "surname": "Daughter of Aris of Spide",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Hill Dwarf"
-    },
+    "Full Name": "Horatia, Daughter of Aris of Spide",
+    "base": "Female | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Ponderous"
+        "talent": "Expert cook",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is argumentative with the Party"
     }
 }

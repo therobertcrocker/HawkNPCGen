@@ -1,19 +1,13 @@
 {
-    "given name": "Tikhvinskaya",
-    "surname": "The Razor",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Half-Orc"
-    },
+    "Full Name": "Tikhvinskaya, The Razor",
+    "base": "Enby | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Friendly"
+        "talent": "Expert juggler",
+        "mannerism": "Chews something",
+        "interaction": "is easily irritated by the Party"
     }
 }

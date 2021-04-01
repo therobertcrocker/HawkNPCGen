@@ -1,19 +1,13 @@
 {
-    "given name": "Isabel",
-    "surname": "Ó-Muineaog",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Isabel, Ó-Muineaog",
+    "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Chews something",
-        "interaction": "Hot tempered"
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

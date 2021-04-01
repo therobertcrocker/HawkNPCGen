@@ -1,19 +1,13 @@
 {
-    "given name": "Noé",
-    "surname": "Jasper Gatan Dayag",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Noé, Jasper Gatan Dayag",
+    "base": "Male | Arido - Genasi",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has braided beard or hair",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Quiet"
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "has a hot temper around the Party"
     }
 }

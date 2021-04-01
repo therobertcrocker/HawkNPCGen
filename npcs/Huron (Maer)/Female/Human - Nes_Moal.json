@@ -1,19 +1,13 @@
 {
-    "given name": "Nes",
-    "surname": "Moal",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Nes, Moal",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Blustering"
+        "talent": "Sings beautifully",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is always honest with the Party"
     }
 }

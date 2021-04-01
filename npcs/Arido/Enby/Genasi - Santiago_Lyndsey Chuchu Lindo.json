@@ -1,19 +1,13 @@
 {
-    "given name": "Santiago",
-    "surname": "Lyndsey Chuchu Lindo",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Santiago, Lyndsey Chuchu Lindo",
+    "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing teeth",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
+        "talent": "Unbelievably lucky",
         "mannerism": "Bites fingernails",
-        "interaction": "Irritable"
+        "interaction": "finds the Party fascinating"
     }
 }

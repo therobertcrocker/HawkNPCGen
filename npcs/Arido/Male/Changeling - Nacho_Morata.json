@@ -1,19 +1,13 @@
 {
-    "given name": "Nacho",
-    "surname": "Morata",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Changeling"
-    },
+    "Full Name": "Nacho, Morata",
+    "base": "Male | Arido - Changeling",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Suspicious"
+        "talent": "Skilled dancer",
+        "mannerism": "Whispers",
+        "interaction": "is quiet around the party"
     }
 }

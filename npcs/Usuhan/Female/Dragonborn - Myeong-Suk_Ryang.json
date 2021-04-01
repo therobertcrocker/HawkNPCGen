@@ -1,19 +1,13 @@
 {
-    "given name": "Myeong-Suk",
-    "surname": "Ryang",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Myeong-Suk, Ryang",
+    "base": "Female | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is missing teeth",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Friendly"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Chews something",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

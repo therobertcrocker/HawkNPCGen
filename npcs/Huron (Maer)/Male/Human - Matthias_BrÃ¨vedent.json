@@ -1,19 +1,13 @@
 {
-    "given name": "Matthias",
-    "surname": "Brèvedent",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Matthias, Brèvedent",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "is argumentative with the Party"
     }
 }

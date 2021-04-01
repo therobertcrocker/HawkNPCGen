@@ -1,19 +1,13 @@
 {
-    "given name": "Æthelthryth",
-    "surname": "Chauncey",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Æthelthryth, Chauncey",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Quiet"
+        "mannerism": "Fidgets",
+        "interaction": "is quiet around the party"
     }
 }

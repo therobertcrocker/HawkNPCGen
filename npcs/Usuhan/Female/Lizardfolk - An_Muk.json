@@ -1,19 +1,13 @@
 {
-    "given name": "An",
-    "surname": "Muk",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Lizardfolk"
-    },
+    "Full Name": "An, Muk",
+    "base": "Female | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has visible tattoos",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Ponderous"
+        "mannerism": "Squints",
+        "interaction": "is quiet around the party"
     }
 }

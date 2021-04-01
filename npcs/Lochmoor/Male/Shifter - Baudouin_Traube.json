@@ -1,19 +1,13 @@
 {
-    "given name": "Baudouin",
-    "surname": "Traube",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Baudouin, Traube",
+    "base": "Male | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Arrogant"
+        "talent": "Great with animals",
+        "mannerism": "Squints",
+        "interaction": "is always honest with the Party"
     }
 }

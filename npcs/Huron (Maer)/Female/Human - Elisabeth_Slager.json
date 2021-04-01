@@ -1,19 +1,13 @@
 {
-    "given name": "Elisabeth",
-    "surname": "Slager",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Elisabeth, Slager",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Quiet"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is suspicious of the Party"
     }
 }

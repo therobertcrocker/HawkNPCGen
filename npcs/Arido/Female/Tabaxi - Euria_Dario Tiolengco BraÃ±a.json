@@ -1,19 +1,13 @@
 {
-    "given name": "Euria",
-    "surname": "Dario Tiolengco Braña",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Euria, Dario Tiolengco Braña",
+    "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Charisma — persuasive, forceful, born leader",
-        "low ability": "Intelligence — dim-witted, slow"
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is friendly towards the Party"
     }
 }

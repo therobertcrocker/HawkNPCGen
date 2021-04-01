@@ -1,0 +1,13 @@
+{
+    "Full Name": "Ugène, ten-Hoeve",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is curious about one member of the Party"
+    }
+}

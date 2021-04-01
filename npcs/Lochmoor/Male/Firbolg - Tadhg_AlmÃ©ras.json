@@ -1,19 +1,13 @@
 {
-    "given name": "Tadhg",
-    "surname": "Alméras",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Tadhg, Alméras",
+    "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Speaks loudly",
-        "interaction": "Irritable"
+        "talent": "Expert juggler",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is always honest with the Party"
     }
 }

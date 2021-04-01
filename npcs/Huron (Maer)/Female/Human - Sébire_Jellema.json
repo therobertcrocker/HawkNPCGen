@@ -1,19 +1,13 @@
 {
-    "given name": "Sébire",
-    "surname": "Jellema",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Sébire, Jellema",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is quiet around the party"
     }
 }

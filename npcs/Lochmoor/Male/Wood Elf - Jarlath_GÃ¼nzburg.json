@@ -1,19 +1,13 @@
 {
-    "given name": "Jarlath",
-    "surname": "Günzburg",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Jarlath, Günzburg",
+    "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Rude"
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "wants something from the Party"
     }
 }

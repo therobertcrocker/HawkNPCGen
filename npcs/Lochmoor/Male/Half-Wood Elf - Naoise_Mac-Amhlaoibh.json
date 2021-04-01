@@ -1,19 +1,13 @@
 {
-    "given name": "Naoise",
-    "surname": "Mac-Amhlaoibh",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Naoise, Mac-Amhlaoibh",
+    "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": " has a nervous tick",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Honest"
+        "mannerism": "Taps fingers",
+        "interaction": "is suspicious of the Party"
     }
 }

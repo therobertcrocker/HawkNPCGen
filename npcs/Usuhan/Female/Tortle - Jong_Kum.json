@@ -1,19 +1,13 @@
 {
-    "given name": "Jong",
-    "surname": "Kum",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Jong, Kum",
+    "base": "Female | Usuhan - Tortle",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "is always honest with the Party"
     }
 }

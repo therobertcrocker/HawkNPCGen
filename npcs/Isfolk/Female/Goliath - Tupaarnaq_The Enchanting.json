@@ -1,19 +1,13 @@
 {
-    "given name": "Tupaarnaq",
-    "surname": "The Enchanting",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Goliath"
-    },
+    "Full Name": "Tupaarnaq, The Enchanting",
+    "base": "Female | Isfolk - Goliath",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Squints",
-        "interaction": "Honest"
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "is suspicious of the Party"
     }
 }

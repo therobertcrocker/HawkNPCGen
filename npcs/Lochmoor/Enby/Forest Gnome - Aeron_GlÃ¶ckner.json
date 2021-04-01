@@ -1,19 +1,13 @@
 {
-    "given name": "Aeron",
-    "surname": "Glöckner",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Aeron, Glöckner",
+    "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Irritable"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Fidgets",
+        "interaction": "is always honest with the Party"
     }
 }

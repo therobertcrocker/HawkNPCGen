@@ -1,19 +1,13 @@
 {
-    "given name": "Ceri",
-    "surname": "Cadwalader",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Ceri, Cadwalader",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "Blustering"
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is curious about one member of the Party"
     }
 }

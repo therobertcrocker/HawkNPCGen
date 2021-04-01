@@ -1,19 +1,13 @@
 {
-    "given name": "Ermingard",
-    "surname": "Kornhäusel",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Ermingard, Kornhäusel",
+    "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Curious"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is argumentative with the Party"
     }
 }

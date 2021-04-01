@@ -1,19 +1,13 @@
 {
-    "given name": "Rasha",
-    "surname": "Zeilstra",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Rasha, Zeilstra",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": " is bald",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Blustering"
+        "talent": "Perfect memory",
+        "mannerism": "Bites fingernails",
+        "interaction": "wants something from the Party"
     }
 }

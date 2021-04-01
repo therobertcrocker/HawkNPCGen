@@ -1,0 +1,13 @@
+{
+    "Full Name": "Elowen, Herle",
+    "base": "Female | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Bites fingernails",
+        "interaction": "is easily irritated by the Party"
+    }
+}

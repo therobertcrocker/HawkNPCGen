@@ -1,19 +1,13 @@
 {
-    "given name": "Æþelræd",
-    "surname": "ben-Perach",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Æþelræd, ben-Perach",
+    "base": "Male | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Hot tempered"
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is curious about one member of the Party"
     }
 }

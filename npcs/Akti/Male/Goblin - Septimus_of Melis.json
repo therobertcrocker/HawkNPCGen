@@ -1,0 +1,13 @@
+{
+    "Full Name": "Septimus, of Melis",
+    "base": "Male | Akti - Goblin",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Speaks loudly",
+        "interaction": "is always honest with the Party"
+    }
+}

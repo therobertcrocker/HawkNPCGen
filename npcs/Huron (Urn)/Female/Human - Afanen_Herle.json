@@ -1,19 +1,13 @@
 {
-    "given name": "Afanen",
-    "surname": "Herle",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Afanen, Herle",
+    "base": "Female | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Paces",
-        "interaction": "Blustering"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Stares into the distance",
+        "interaction": "is curious about one member of the Party"
     }
 }

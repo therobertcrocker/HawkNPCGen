@@ -1,19 +1,13 @@
 {
-    "given name": "Folant",
-    "surname": "Andrewartha",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Folant, Andrewartha",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Hot tempered"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Speaks loudly",
+        "interaction": "is argumentative with the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Meggan",
-    "surname": "MacUrchadain",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Meggan, MacUrchadain",
+    "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Honest"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "wants something from the Party"
     }
 }

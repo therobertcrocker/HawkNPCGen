@@ -1,19 +1,13 @@
 {
-    "given name": "Lughaidh",
-    "surname": "Chuquet",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Lughaidh, Chuquet",
+    "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Skilled dancer",
+        "talent": "Unbelievably lucky",
         "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Argumentative"
+        "interaction": "is quiet around the party"
     }
 }

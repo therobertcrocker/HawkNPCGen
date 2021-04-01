@@ -1,0 +1,13 @@
+{
+    "Full Name": "Keeva, Galopin",
+    "base": "Female | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is always honest with the Party"
+    }
+}

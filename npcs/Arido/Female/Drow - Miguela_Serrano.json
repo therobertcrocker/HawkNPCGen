@@ -1,0 +1,13 @@
+{
+    "Full Name": "Miguela, Serrano",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is quiet around the party"
+    }
+}

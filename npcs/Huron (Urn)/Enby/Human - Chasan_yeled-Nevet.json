@@ -1,19 +1,13 @@
 {
-    "given name": "Chasan",
-    "surname": "yeled-Nevet",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Chasan, yeled-Nevet",
+    "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "has a hot temper around the Party"
     }
 }

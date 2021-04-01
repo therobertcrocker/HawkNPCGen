@@ -1,19 +1,13 @@
 {
-    "given name": "Rasha",
-    "surname": "Slaat",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Rasha, Slaat",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Suspicious"
+        "talent": "Skilled dancer",
+        "mannerism": "Taps fingers",
+        "interaction": "is rude to just one member of the Party"
     }
 }

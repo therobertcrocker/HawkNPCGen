@@ -1,19 +1,13 @@
 {
-    "given name": "Haneul",
-    "surname": "No",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Lizardfolk"
-    },
+    "Full Name": "Haneul, No",
+    "base": "Male | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
+        "talent": "Draws beautifully",
         "mannerism": "Makes constant jokes or puns",
-        "interaction": "Irritable"
+        "interaction": "is easily irritated by the Party"
     }
 }

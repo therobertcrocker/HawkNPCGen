@@ -1,19 +1,13 @@
 {
-    "given name": "Aristoteles",
-    "surname": "Riusutia Feriuso",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "High-Elf"
-    },
+    "Full Name": "Aristoteles, Riusutia Feriuso",
+    "base": "Male | Akti - High-Elf",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "Hot tempered"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is friendly towards the Party"
     }
 }

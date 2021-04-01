@@ -1,19 +1,13 @@
 {
-    "given name": "Hyginos",
-    "surname": " Servant of Surach",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Hobgoblin"
-    },
+    "Full Name": "Hyginos,  Servant of Surach",
+    "base": "Male | Akti - Hobgoblin",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Irritable"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is argumentative with the Party"
     }
 }

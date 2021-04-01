@@ -1,19 +1,13 @@
 {
-    "given name": "Myung-Ki",
-    "surname": "Roe",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Myung-Ki, Roe",
+    "base": "Enby | Usuhan - Tortle",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Irritable"
+        "mannerism": "Taps fingers",
+        "interaction": "is easily irritated by the Party"
     }
 }

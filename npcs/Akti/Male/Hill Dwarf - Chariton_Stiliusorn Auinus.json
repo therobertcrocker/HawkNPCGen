@@ -1,19 +1,13 @@
 {
-    "given name": "Chariton",
-    "surname": "Stiliusorn Auinus",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Hill Dwarf"
-    },
+    "Full Name": "Chariton, Stiliusorn Auinus",
+    "base": "Male | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Wisdom — perceptive, spiritual, insightful",
-        "low ability": "Charisma — dull, boring"
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Plays a musical instrument",
         "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Argumentative"
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

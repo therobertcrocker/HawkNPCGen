@@ -1,19 +1,13 @@
 {
-    "given name": "Isabella",
-    "surname": "Guthrothdottir",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Goliath"
-    },
+    "Full Name": "Isabella, Guthrothdottir",
+    "base": "Female | Isfolk - Goliath",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "finds the Party fascinating"
     }
 }

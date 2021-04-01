@@ -1,19 +1,13 @@
 {
-    "given name": "Hulda",
-    "surname": "Guthrothdottir",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Hulda, Guthrothdottir",
+    "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Irritable"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is suspicious of the Party"
     }
 }

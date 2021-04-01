@@ -1,19 +1,13 @@
 {
-    "given name": "Tanguy",
-    "surname": "Warren",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Tanguy, Warren",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Argumentative"
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is quiet around the party"
     }
 }

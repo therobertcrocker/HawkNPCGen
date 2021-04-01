@@ -1,19 +1,13 @@
 {
-    "given name": "Min-Seo",
-    "surname": "Roe",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Min-Seo, Roe",
+    "base": "Enby | Usuhan - Tortle",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "Honest"
+        "talent": "Draws beautifully",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "has a hot temper around the Party"
     }
 }

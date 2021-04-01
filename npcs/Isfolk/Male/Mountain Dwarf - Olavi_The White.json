@@ -1,19 +1,13 @@
 {
-    "given name": "Olavi",
-    "surname": "The White",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Olavi, The White",
+    "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Quiet"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is quiet around the party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Fabricia",
-    "surname": "of Melis",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "High-Elf"
-    },
+    "Full Name": "Fabricia, of Melis",
+    "base": "Female | Akti - High-Elf",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Suspicious"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Whispers",
+        "interaction": "has a hot temper around the Party"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "Full Name": "Drusilla, Tatabu",
+    "base": "Female | Akti - Goblin",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is quiet around the party"
+    }
+}

@@ -1,19 +1,13 @@
 {
-    "given name": "Brendan",
-    "surname": "Glöckner",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Brendan, Glöckner",
+    "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Blustering"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is easily irritated by the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Angantýr",
-    "surname": "The Guest",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Angantýr, The Guest",
+    "base": "Enby | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has visible piercings",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is rude to just one member of the Party"
     }
 }

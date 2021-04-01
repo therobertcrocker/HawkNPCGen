@@ -1,19 +1,13 @@
 {
-    "given name": "Pitter",
-    "surname": "Hascoet",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Pitter, Hascoet",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Constitution — hardy, hale, healthy",
-        "low ability": "Strength — feeble, scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Arrogant"
+        "talent": "Paints beautifully",
+        "mannerism": "Fidgets",
+        "interaction": "finds the Party fascinating"
     }
 }

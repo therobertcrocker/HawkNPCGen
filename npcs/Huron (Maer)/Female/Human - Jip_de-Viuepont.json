@@ -1,19 +1,13 @@
 {
-    "given name": "Jip",
-    "surname": "de-Viuepont",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Jip, de-Viuepont",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Paces",
-        "interaction": "Suspicious"
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

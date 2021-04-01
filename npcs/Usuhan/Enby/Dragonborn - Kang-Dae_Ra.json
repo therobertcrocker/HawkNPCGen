@@ -1,19 +1,13 @@
 {
-    "given name": "Kang-Dae",
-    "surname": "Ra",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Kang-Dae, Ra",
+    "base": "Enby | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Ponderous"
+        "talent": "Paints beautifully",
+        "mannerism": "Paces",
+        "interaction": "is curious about one member of the Party"
     }
 }

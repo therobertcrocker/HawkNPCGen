@@ -1,19 +1,13 @@
 {
-    "given name": "Yuudai",
-    "surname": "Paek",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Yuudai, Paek",
+    "base": "Male | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Chews something",
-        "interaction": "Ponderous"
+        "talent": "Perfect memory",
+        "mannerism": "Whispers",
+        "interaction": "wants something from the Party"
     }
 }

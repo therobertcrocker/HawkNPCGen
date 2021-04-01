@@ -1,0 +1,13 @@
+{
+    "Full Name": "Edelmiro, Toledo",
+    "base": "Male | Arido - Changeling",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is friendly towards the Party"
+    }
+}

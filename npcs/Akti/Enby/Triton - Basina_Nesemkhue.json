@@ -1,19 +1,13 @@
 {
-    "given name": "Basina",
-    "surname": "Nesemkhue",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Basina, Nesemkhue",
+    "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Irritable"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is rude to just one member of the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Juan",
-    "surname": "Collazo",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Juan, Collazo",
+    "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Ponderous"
+        "talent": "Skilled dancer",
+        "mannerism": "Chews something",
+        "interaction": "is easily irritated by the Party"
     }
 }

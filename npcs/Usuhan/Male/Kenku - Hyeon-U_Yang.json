@@ -1,19 +1,13 @@
 {
-    "given name": "Hyeon-U",
-    "surname": "Yang",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Kenku"
-    },
+    "Full Name": "Hyeon-U, Yang",
+    "base": "Male | Usuhan - Kenku",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Speaks loudly",
-        "interaction": "Suspicious"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is easily irritated by the Party"
     }
 }

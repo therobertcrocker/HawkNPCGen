@@ -1,19 +1,13 @@
 {
-    "given name": "Yannig",
-    "surname": "Kergoat",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Yannig, Kergoat",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Quiet"
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is argumentative with the Party"
     }
 }

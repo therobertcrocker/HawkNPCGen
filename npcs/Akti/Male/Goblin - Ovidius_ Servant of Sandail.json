@@ -1,19 +1,13 @@
 {
-    "given name": "Ovidius",
-    "surname": " Servant of Sandail",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Ovidius,  Servant of Sandail",
+    "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Irritable"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Stares into the distance",
+        "interaction": "is quiet around the party"
     }
 }

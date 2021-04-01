@@ -1,19 +1,13 @@
 {
-    "given name": "Wymond",
-    "surname": "Treweek",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Wymond, Treweek",
+    "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Suspicious"
+        "talent": "Great with children",
+        "mannerism": "Stares into the distance",
+        "interaction": "is friendly towards the Party"
     }
 }

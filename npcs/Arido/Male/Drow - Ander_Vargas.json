@@ -1,19 +1,13 @@
 {
-    "given name": "Ander",
-    "surname": "Vargas",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Drow"
-    },
+    "Full Name": "Ander, Vargas",
+    "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Arrogant"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Whispers",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

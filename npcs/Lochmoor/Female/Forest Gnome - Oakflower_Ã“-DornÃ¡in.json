@@ -1,19 +1,13 @@
 {
-    "given name": "Oakflower",
-    "surname": "Ó-Dornáin",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Oakflower, Ó-Dornáin",
+    "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Speaks loudly",
-        "interaction": "Blustering"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is suspicious of the Party"
     }
 }

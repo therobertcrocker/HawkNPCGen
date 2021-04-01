@@ -1,19 +1,13 @@
 {
-    "given name": "Agilmar",
-    "surname": "MacRoithridh",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Agilmar, MacRoithridh",
+    "base": "Male | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Ponderous"
+        "talent": "Expert juggler",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Hroldan",
-    "surname": "The Cook",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Half-Orc"
-    },
+    "Full Name": "Hroldan, The Cook",
+    "base": "Male | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Blustering"
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is curious about one member of the Party"
     }
 }

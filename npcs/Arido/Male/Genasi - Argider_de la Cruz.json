@@ -1,19 +1,13 @@
 {
-    "given name": "Argider",
-    "surname": "de la Cruz",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Argider, de la Cruz",
+    "base": "Male | Arido - Genasi",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Arrogant"
+        "talent": "Skilled dancer",
+        "mannerism": "Fidgets",
+        "interaction": "is quiet around the party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Azeneth",
-    "surname": "Jose Cubero",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Azeneth, Jose Cubero",
+    "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "Hot tempered"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is suspicious of the Party"
     }
 }

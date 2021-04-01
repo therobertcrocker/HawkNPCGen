@@ -1,19 +1,13 @@
 {
-    "given name": "Herais",
-    "surname": "Vagionius ",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Herais, Vagionius ",
+    "base": "Female | Akti - Goblin",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Paces",
-        "interaction": "Rude"
+        "talent": "Draws beautifully",
+        "mannerism": "Taps fingers",
+        "interaction": "has a hot temper around the Party"
     }
 }

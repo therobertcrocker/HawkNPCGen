@@ -1,19 +1,13 @@
 {
-    "given name": "Olwen",
-    "surname": "Pasteur",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Olwen, Pasteur",
+    "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Irritable"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

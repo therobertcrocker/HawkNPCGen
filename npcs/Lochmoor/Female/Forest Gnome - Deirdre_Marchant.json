@@ -1,19 +1,13 @@
 {
-    "given name": "Deirdre",
-    "surname": "Marchant",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Deirdre, Marchant",
+    "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Suspicious"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Stares into the distance",
+        "interaction": "is suspicious of the Party"
     }
 }

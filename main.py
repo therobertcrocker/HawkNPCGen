@@ -1,6 +1,7 @@
 import json
 from NPC import NPC
 import time
+from npcs import walk_dir
 import random
 import os
 
@@ -33,3 +34,4 @@ def make_many_culture(num, culture):
             print("Something went wrong")
         finally:
             time.sleep(3)
+

@@ -1,19 +1,13 @@
 {
-    "given name": "Martîn",
-    "surname": "Meester",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Martîn, Meester",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Stares into the distance",
-        "interaction": "Friendly"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is suspicious of the Party"
     }
 }

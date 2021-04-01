@@ -1,19 +1,13 @@
 {
-    "given name": "Jun-Seo",
-    "surname": "Dong",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Jun-Seo, Dong",
+    "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Strength — powerful, brawny, strong as an ox",
-        "low ability": "Constitution — sickly, pale"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Speaks loudly",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is always honest with the Party"
     }
 }

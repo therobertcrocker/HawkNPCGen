@@ -1,19 +1,13 @@
 {
-    "given name": "Renaud",
-    "surname": "Thiers",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Renaud, Thiers",
+    "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Squints",
-        "interaction": "Quiet"
+        "talent": "Great with animals",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is quiet around the party"
     }
 }

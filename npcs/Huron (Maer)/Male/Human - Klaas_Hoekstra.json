@@ -1,19 +1,13 @@
 {
-    "given name": "Klaas",
-    "surname": "Hoekstra",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Klaas, Hoekstra",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Taps fingers",
-        "interaction": "Blustering"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is argumentative with the Party"
     }
 }

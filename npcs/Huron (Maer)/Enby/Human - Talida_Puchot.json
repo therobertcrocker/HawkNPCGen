@@ -1,19 +1,13 @@
 {
-    "given name": "Talida",
-    "surname": "Puchot",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Talida, Puchot",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Rude"
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

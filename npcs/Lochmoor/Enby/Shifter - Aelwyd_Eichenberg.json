@@ -1,19 +1,13 @@
 {
-    "given name": "Aelwyd",
-    "surname": "Eichenberg",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Aelwyd, Eichenberg",
+    "base": "Enby | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Argumentative"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Squints",
+        "interaction": "is argumentative with the Party"
     }
 }

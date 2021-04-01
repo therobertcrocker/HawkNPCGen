@@ -1,19 +1,13 @@
 {
-    "given name": "Hyo-Jung",
-    "surname": "Xiao",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Hyo-Jung, Xiao",
+    "base": "Enby | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is argumentative with the Party"
     }
 }

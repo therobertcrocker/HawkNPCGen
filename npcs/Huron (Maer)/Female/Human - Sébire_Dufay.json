@@ -1,19 +1,13 @@
 {
-    "given name": "Sébire",
-    "surname": "Dufay",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Sébire, Dufay",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Wisdom â€” perceptive, spiritual, insightful",
-        "low ability": "Intelligence â€” dim-witted, slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Friendly"
+        "talent": "Draws beautifully",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is quiet around the party"
     }
 }

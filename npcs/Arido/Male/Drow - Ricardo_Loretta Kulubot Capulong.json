@@ -1,19 +1,13 @@
 {
-    "given name": "Ricardo",
-    "surname": "Loretta Kulubot Capulong",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Drow"
-    },
+    "Full Name": "Ricardo, Loretta Kulubot Capulong",
+    "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Strength — powerful, brawny, strong as an ox",
-        "low ability": "Constitution — sickly, pale"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Ponderous"
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "has a hot temper around the Party"
     }
 }

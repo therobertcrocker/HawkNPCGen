@@ -1,19 +1,13 @@
 {
-    "given name": "Hye-Jin",
-    "surname": "P'il",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Kobold"
-    },
+    "Full Name": "Hye-Jin, P'il",
+    "base": "Female | Usuhan - Kobold",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has a pronounced scar",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Suspicious"
+        "talent": "Skilled dancer",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is rude to just one member of the Party"
     }
 }

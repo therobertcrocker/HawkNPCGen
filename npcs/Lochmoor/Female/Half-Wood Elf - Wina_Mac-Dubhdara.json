@@ -1,19 +1,13 @@
 {
-    "given name": "Wina",
-    "surname": "Mac-Dubhdara",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Wina, Mac-Dubhdara",
+    "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "is friendly towards the Party"
     }
 }

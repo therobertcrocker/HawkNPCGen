@@ -1,19 +1,13 @@
 {
-    "given name": "Danel",
-    "surname": "Mayordomo",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Drow"
-    },
+    "Full Name": "Danel, Mayordomo",
+    "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great at one game",
+        "talent": "None",
         "mannerism": "Stares into the distance",
-        "interaction": "Friendly"
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

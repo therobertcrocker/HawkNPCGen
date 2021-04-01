@@ -1,19 +1,13 @@
 {
-    "given name": "Manolo",
-    "surname": "Leguizamo",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Changeling"
-    },
+    "Full Name": "Manolo, Leguizamo",
+    "base": "Male | Arido - Changeling",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Blustering"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

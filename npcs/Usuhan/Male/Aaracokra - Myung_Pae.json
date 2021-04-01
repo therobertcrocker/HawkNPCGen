@@ -1,19 +1,13 @@
 {
-    "given name": "Myung",
-    "surname": "Pae",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Myung, Pae",
+    "base": "Male | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Fidgets",
-        "interaction": "Hot tempered"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

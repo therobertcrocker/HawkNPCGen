@@ -1,19 +1,13 @@
 {
-    "given name": "Sidonie",
-    "surname": "Maret",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Sidonie, Maret",
+    "base": "Female | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Irritable"
+        "talent": "Great at impersonations",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "wants something from the Party"
     }
 }

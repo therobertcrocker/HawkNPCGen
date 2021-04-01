@@ -414,20 +414,20 @@
   },
   "traits": {
     "appearance": [
-      "Distinctive jewelry: earrings, necklace, circlet, bracelets", "Piercings", "Flamboyant or outlandish clothes",
-      "Formal, clean clothes", "Ragged, dirty clothes", "Pronounced scar", "Missing teeth", "Missing fingers",
-      "Unusual eye color (or two different colors)", "Tattoos", "Birthmark", "Unusual skin color", "Bald",
-      "Braided beard or hair", "Unusual hair color", "Nervous eye twitch", "Distinctive nose",
-      "Distinctive posture (crooked or rigid)", "Exceptionally beautiful", "Exceptionally ugly"
+      "wears distinctive jewelry: earrings, necklace, circlet, bracelets", "has visible piercings", "wears flamboyant or outlandish clothes",
+      "wears formal, clean clothes", "wears ragged, dirty clothes", "has a pronounced scar", "is missing teeth", "is missing one or more fingers",
+      "has an unusual eye color (or two different colors)", "has visible tattoos", "has a visible birthmark", "has an unusual skin color", " is bald",
+      "has braided beard or hair", "has an unusual hair color", " has a nervous tick", "has a distinctive posture (crooked or rigid)",
+      "is exceptionally beautiful", "is exceptionally ugly"
     ],
     "high ability": [
-      "Strength - powerful, brawny, strong as an ox", "Dexterity - lithe, agile, graceful",
-      "Constitution - hardy, hale, healthy", "Intelligence - studious, learned, inquisitive",
-      "Wisdom - perceptive, spiritual, insightful", "Charisma - persuasive, forceful, born leader"
+      "is powerful, brawny, and strong as an ox", "is lithe, agile, and graceful",
+      "is hardy, hale, and healthy", "is studious, learned, and inquisitive",
+      "is perceptive, spiritual, and insightful", "is persuasive, forceful, and a born leader"
     ],
     "low ability": [
-      "Strength - feeble, scrawny", "Dexterity - clumsy, fumbling", "Constitution - sickly, pale",
-      "Intelligence - dim-witted, slow", "Wisdom - oblivious, absentminded", "Charisma - dull, boring"
+      "but is feeble and scrawny", "but is clumsy and fumbling", "but is sickly and pale",
+      "but is dim-witted and slow", "but is oblivious and absentminded", "but is dull and boring"
     ],
     "talent": [
       "Plays a musical instrument", "Speaks several languages fluently", "Unbelievably lucky", "Perfect memory",
@@ -445,8 +445,10 @@
       "Twirls hair or tugs beard"
     ],
     "interaction": [
-      "Argumentative", "Arrogant", "Blustering", "Rude", "Curious", "Friendly", "Honest", "Hot tempered", "Irritable",
-      "Ponderous", "Quiet", "Suspicious"
+      "is argumentative with the Party", "believes themselves of higher status than the Party", "wants something from the Party",
+      "is rude to just one member of the Party", "is curious about one member of the Party", "is friendly towards the Party",
+      "is always honest with the Party", "has a hot temper around the Party", "is easily irritated by the Party",
+      "finds the Party fascinating", "is quiet around the party", "is suspicious of the Party"
     ]
   }
 }

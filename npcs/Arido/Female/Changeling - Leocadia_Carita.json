@@ -1,19 +1,13 @@
 {
-    "given name": "Leocadia",
-    "surname": "Carita",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Changeling"
-    },
+    "Full Name": "Leocadia, Carita",
+    "base": "Female | Arido - Changeling",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Strength — powerful, brawny, strong as an ox",
-        "low ability": "Intelligence — dim-witted, slow"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Friendly"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "finds the Party fascinating"
     }
 }

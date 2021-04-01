@@ -1,19 +1,13 @@
 {
-    "given name": "Cosme",
-    "surname": "Murillo",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Cosme, Murillo",
+    "base": "Enby | Arido - Tabaxi",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Speaks loudly",
-        "interaction": "Rude"
+        "talent": "Expert juggler",
+        "mannerism": "Stares into the distance",
+        "interaction": "has a hot temper around the Party"
     }
 }

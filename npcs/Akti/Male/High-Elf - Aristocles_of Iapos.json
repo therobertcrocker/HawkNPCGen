@@ -1,19 +1,13 @@
 {
-    "given name": "Aristocles",
-    "surname": "of Iapos",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "High-Elf"
-    },
+    "Full Name": "Aristocles, of Iapos",
+    "base": "Male | Akti - High-Elf",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Squints",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "finds the Party fascinating"
     }
 }

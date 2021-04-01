@@ -1,19 +1,13 @@
 {
-    "given name": "Augusta",
-    "surname": "Theophena",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "High-Elf"
-    },
+    "Full Name": "Augusta, Theophena",
+    "base": "Female | Akti - High-Elf",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Suspicious"
+        "talent": "Paints beautifully",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is suspicious of the Party"
     }
 }

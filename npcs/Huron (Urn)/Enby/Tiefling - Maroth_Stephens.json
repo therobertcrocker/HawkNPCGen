@@ -1,0 +1,13 @@
+{
+    "Full Name": "Maroth, Stephens",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Stares into the distance",
+        "interaction": "believes themselves of higher status than the Party"
+    }
+}

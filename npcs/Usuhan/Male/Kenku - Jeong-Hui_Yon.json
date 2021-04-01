@@ -1,19 +1,13 @@
 {
-    "given name": "Jeong-Hui",
-    "surname": "Yon",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Kenku"
-    },
+    "Full Name": "Jeong-Hui, Yon",
+    "base": "Male | Usuhan - Kenku",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Blustering"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

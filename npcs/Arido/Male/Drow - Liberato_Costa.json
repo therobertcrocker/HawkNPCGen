@@ -1,0 +1,13 @@
+{
+    "Full Name": "Liberato, Costa",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "is friendly towards the Party"
+    }
+}

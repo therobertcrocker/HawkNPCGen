@@ -1,19 +1,13 @@
 {
-    "given name": "Luigsech",
-    "surname": "Schierokauer",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Luigsech, Schierokauer",
+    "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Strength — powerful, brawny, strong as an ox",
-        "low ability": "Dexterity — clumsy, fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Suspicious"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Squints",
+        "interaction": "wants something from the Party"
     }
 }

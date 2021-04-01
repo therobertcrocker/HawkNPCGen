@@ -1,19 +1,13 @@
 {
-    "given name": "Boudica",
-    "surname": "Priesner",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Boudica, Priesner",
+    "base": "Female | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Arrogant"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "wants something from the Party"
     }
 }

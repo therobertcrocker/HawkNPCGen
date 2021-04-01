@@ -1,0 +1,13 @@
+{
+    "Full Name": "Myfanwy, Price",
+    "base": "Female | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "finds the Party fascinating"
+    }
+}

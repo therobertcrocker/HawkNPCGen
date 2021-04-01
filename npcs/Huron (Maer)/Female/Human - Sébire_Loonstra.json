@@ -1,19 +1,13 @@
 {
-    "given name": "Sébire",
-    "surname": "Loonstra",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Sébire, Loonstra",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Intelligence â€” studious, learned, inquisitive",
-        "low ability": "Strength â€” feeble, scrawny"
+        "appearance": " has a nervous tick",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Friendly"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is always honest with the Party"
     }
 }

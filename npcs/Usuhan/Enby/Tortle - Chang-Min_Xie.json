@@ -1,19 +1,13 @@
 {
-    "given name": "Chang-Min",
-    "surname": "Xie",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Chang-Min, Xie",
+    "base": "Enby | Usuhan - Tortle",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Whispers",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is friendly towards the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Rhosyn",
-    "surname": "Herle",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Rhosyn, Herle",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Fidgets",
-        "interaction": "Ponderous"
+        "talent": "Paints beautifully",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is always honest with the Party"
     }
 }

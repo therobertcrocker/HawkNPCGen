@@ -1,19 +1,13 @@
 {
-    "given name": "Talulla",
-    "surname": "Ó-Gallchobhair",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Talulla, Ó-Gallchobhair",
+    "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Squints",
-        "interaction": "Irritable"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Stares into the distance",
+        "interaction": "is argumentative with the Party"
     }
 }

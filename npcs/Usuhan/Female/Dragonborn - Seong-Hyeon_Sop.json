@@ -1,19 +1,13 @@
 {
-    "given name": "Seong-Hyeon",
-    "surname": "Sop",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Seong-Hyeon, Sop",
+    "base": "Female | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Hot tempered"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is quiet around the party"
     }
 }

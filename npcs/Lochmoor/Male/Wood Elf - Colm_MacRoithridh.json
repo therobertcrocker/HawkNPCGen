@@ -1,19 +1,13 @@
 {
-    "given name": "Colm",
-    "surname": "MacRoithridh",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Colm, MacRoithridh",
+    "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Arrogant"
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "has a hot temper around the Party"
     }
 }

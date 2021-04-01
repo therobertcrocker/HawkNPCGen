@@ -1,19 +1,13 @@
 {
-    "given name": "Ji-Su",
-    "surname": "Chun",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Lizardfolk"
-    },
+    "Full Name": "Ji-Su, Chun",
+    "base": "Male | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Argumentative"
+        "talent": "Great at one game",
+        "mannerism": "Fidgets",
+        "interaction": "finds the Party fascinating"
     }
 }

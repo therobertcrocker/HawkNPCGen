@@ -1,19 +1,13 @@
 {
-    "given name": "Iisakki",
-    "surname": "Arnorson",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Iisakki, Arnorson",
+    "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Irritable"
+        "mannerism": "Bites fingernails",
+        "interaction": "has a hot temper around the Party"
     }
 }

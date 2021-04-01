@@ -1,19 +1,13 @@
 {
-    "given name": "Kavie",
-    "surname": "Juanesena",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Kavie, Juanesena",
+    "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Chews something",
-        "interaction": "Blustering"
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is friendly towards the Party"
     }
 }

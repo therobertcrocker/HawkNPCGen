@@ -1,19 +1,13 @@
 {
-    "given name": "Aranth",
-    "surname": "Arroquy",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Aranth, Arroquy",
+    "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Blustering"
+        "mannerism": "Bites fingernails",
+        "interaction": "is curious about one member of the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Seo-Yeon",
-    "surname": "Pyon",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Kenku"
-    },
+    "Full Name": "Seo-Yeon, Pyon",
+    "base": "Female | Usuhan - Kenku",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Irritable"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "has a hot temper around the Party"
     }
 }

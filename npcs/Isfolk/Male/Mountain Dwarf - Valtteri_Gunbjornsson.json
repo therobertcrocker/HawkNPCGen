@@ -1,19 +1,13 @@
 {
-    "given name": "Valtteri",
-    "surname": "Gunbjornsson",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Valtteri, Gunbjornsson",
+    "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Dexterity — lithe, agile, graceful",
-        "low ability": "Constitution — sickly, pale"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Hot tempered"
+        "mannerism": "Taps fingers",
+        "interaction": "is always honest with the Party"
     }
 }

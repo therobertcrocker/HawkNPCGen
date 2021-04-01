@@ -1,0 +1,13 @@
+{
+    "Full Name": "Theophilos, of Harre",
+    "base": "Male | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is easily irritated by the Party"
+    }
+}

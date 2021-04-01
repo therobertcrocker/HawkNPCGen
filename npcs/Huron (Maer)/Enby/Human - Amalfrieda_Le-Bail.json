@@ -1,19 +1,13 @@
 {
-    "given name": "Amalfrieda",
-    "surname": "Le-Bail",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Amalfrieda, Le-Bail",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Ponderous"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is friendly towards the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Yong",
-    "surname": "Pang",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Yong, Pang",
+    "base": "Male | Usuhan - Tortle",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Suspicious"
+        "talent": "Sings beautifully",
+        "mannerism": "Fidgets",
+        "interaction": "is argumentative with the Party"
     }
 }

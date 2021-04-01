@@ -1,0 +1,13 @@
+{
+    "Full Name": "Athanas, Vediusep Ennius",
+    "base": "Male | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is curious about one member of the Party"
+    }
+}

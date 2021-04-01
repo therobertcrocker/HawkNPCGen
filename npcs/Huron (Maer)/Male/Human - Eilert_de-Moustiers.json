@@ -1,19 +1,13 @@
 {
-    "given name": "Eilert",
-    "surname": "de-Moustiers",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Eilert, de-Moustiers",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Hot tempered"
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "finds the Party fascinating"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "Full Name": "Piloqutinnguaq, Yridottir",
+    "base": "Female | Isfolk - Warforged",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Stares into the distance",
+        "interaction": "is suspicious of the Party"
+    }
+}

@@ -1,19 +1,13 @@
 {
-    "given name": "Avihu",
-    "surname": "Garcia",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Avihu, Garcia",
+    "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is easily irritated by the Party"
     }
 }

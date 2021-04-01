@@ -1,19 +1,13 @@
 {
-    "given name": "Bronwyn",
-    "surname": "of Schaffield",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Bronwyn, of Schaffield",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Constitution — hardy, hale, healthy",
-        "low ability": "Wisdom — oblivious, absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Suspicious"
+        "talent": "Expert juggler",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is suspicious of the Party"
     }
 }

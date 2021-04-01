@@ -1,19 +1,13 @@
 {
-    "given name": "Jean-Michel",
-    "surname": "Mac-Gille Fhionndaig",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Jean-Michel, Mac-Gille Fhionndaig",
+    "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Speaks loudly",
-        "interaction": "Rude"
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is curious about one member of the Party"
     }
 }

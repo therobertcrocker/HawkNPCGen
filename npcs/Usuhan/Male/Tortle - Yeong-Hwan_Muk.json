@@ -1,19 +1,13 @@
 {
-    "given name": "Yeong-Hwan",
-    "surname": "Muk",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Yeong-Hwan, Muk",
+    "base": "Male | Usuhan - Tortle",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Stares into the distance",
-        "interaction": "Hot tempered"
+        "talent": "Paints beautifully",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "has a hot temper around the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Fernanda",
-    "surname": "Gutiérrez",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Fernanda, Gutiérrez",
+    "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has a visible birthmark",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Suspicious"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is curious about one member of the Party"
     }
 }

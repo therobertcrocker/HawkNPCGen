@@ -1,19 +1,13 @@
 {
-    "given name": "Hinata",
-    "surname": "Sung",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Hinata, Sung",
+    "base": "Male | Usuhan - Tortle",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Whispers",
-        "interaction": "Suspicious"
+        "talent": "Expert carpenter",
+        "mannerism": "Speaks loudly",
+        "interaction": "is quiet around the party"
     }
 }

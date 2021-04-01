@@ -1,19 +1,13 @@
 {
-    "given name": "Emmerich",
-    "surname": "Mac-Cartaine",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Emmerich, Mac-Cartaine",
+    "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Rude"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "is argumentative with the Party"
     }
 }

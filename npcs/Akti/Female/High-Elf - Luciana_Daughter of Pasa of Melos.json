@@ -1,0 +1,13 @@
+{
+    "Full Name": "Luciana, Daughter of Pasa of Melos",
+    "base": "Female | Akti - High-Elf",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "finds the Party fascinating"
+    }
+}

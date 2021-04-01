@@ -1,19 +1,13 @@
 {
-    "given name": "Maríuerla",
-    "surname": "The Devil",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Orc"
-    },
+    "Full Name": "Maríuerla, The Devil",
+    "base": "Enby | Isfolk - Orc",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Argumentative"
+        "talent": "Sings beautifully",
+        "mannerism": "Squints",
+        "interaction": "finds the Party fascinating"
     }
 }

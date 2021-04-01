@@ -1,19 +1,13 @@
 {
-    "given name": "Delcho",
-    "surname": "Chuprakov-Larionoychka",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Goliath"
-    },
+    "Full Name": "Delcho, Chuprakov-Larionoychka",
+    "base": "Enby | Isfolk - Goliath",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Speaks loudly",
-        "interaction": "Suspicious"
+        "talent": "Paints beautifully",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "wants something from the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Tuilelaith",
-    "surname": "MacCathasaigh",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Tuilelaith, MacCathasaigh",
+    "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Suspicious"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is suspicious of the Party"
     }
 }

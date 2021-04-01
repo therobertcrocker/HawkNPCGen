@@ -16,8 +16,7 @@ class NPC:
         self.name = ""
         self.surname = ""
         self.appearance = ""
-        self.high_ability = ""
-        self.low_ability = ""
+        self.ability = ""
         self.talent = ""
         self.mannerism = ""
         self.interaction = ""
@@ -27,15 +26,17 @@ class NPC:
         with open(file) as g:
             npc = json.load(g)
         if "base" in npc:
-            self.culture = npc["base"]["culture"]
-            self.race = npc["base"]["race"]
-            self.gender = npc["base"]["gender"]
-            self.name = npc["given name"]
-            self.surname = npc["surname"]
+            self.culture = npc["base"].split(" | ")[1].split(" - ")[0]
+            self.race = npc["base"].split(" | ")[1].split(" - ")[1]
+            self.gender = npc["base"].split(" | ")[0]
+            self.name = npc["Full Name"].split(", ")[0]
+            self.surname = npc["Full Name"].split(", ")[1]
         if "traits" in npc:
             self.appearance = npc["traits"]["appearance"]
-            self.high_ability = npc["traits"]["high ability"]
-            self.low_ability = npc["traits"]["low ability"]
+            if "high ability" in npc["traits"]:
+                self.ability = npc["traits"]["high ability"] + ", " + npc["traits"]["low ability"]
+            elif "abilities" in npc["traits"]:
+                self.ability = npc["traits"]["abilities"]
         if "personality" in npc:
             self.talent = npc["personality"]["talent"]
             self.mannerism = npc["personality"]["mannerism"]
@@ -71,17 +72,11 @@ class NPC:
 
     def make_data(self):
         self.data = {
-            "given name": self.name,
-            "surname": self.surname,
-            "base": {
-                "gender": self.gender,
-                "culture": self.culture,
-                "race": self.race
-            },
+            "Full Name": self.name + ", " + self.surname,
+            "base": self.gender + " | " + self.culture + " - " + self.race,
             "traits": {
                 "appearance":self.appearance,
-                "high ability": self.high_ability,
-                "low ability": self.low_ability,
+                "abilities": self.ability
             },
             "personality": {
                 "talent": self.talent,
@@ -116,8 +111,7 @@ class NPC:
         low_pick = random.choice(ability_list)
         while high_pick == low_pick:
             low_pick = random.choice(ability_list)
-        self.high_ability = data["traits"]["high ability"][high_pick]
-        self.low_ability = data["traits"]["low ability"][low_pick]
+        self.ability = data["traits"]["high ability"][high_pick] + ", " + data["traits"]["low ability"][low_pick]
         if talent == 1:
             self.talent = random.choice(data["traits"]["talent"])
         else:

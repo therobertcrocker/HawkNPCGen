@@ -1,19 +1,13 @@
 {
-    "given name": "Alodia",
-    "surname": "Valderas",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Alodia, Valderas",
+    "base": "Enby | Arido - Tabaxi",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Quiet"
+        "talent": "Draws beautifully",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is easily irritated by the Party"
     }
 }

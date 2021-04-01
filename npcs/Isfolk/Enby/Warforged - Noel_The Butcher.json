@@ -1,19 +1,13 @@
 {
-    "given name": "Noel",
-    "surname": "The Butcher",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Noel, The Butcher",
+    "base": "Enby | Isfolk - Warforged",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Irritable"
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

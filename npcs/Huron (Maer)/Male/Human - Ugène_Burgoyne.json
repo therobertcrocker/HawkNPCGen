@@ -1,0 +1,13 @@
+{
+    "Full Name": "Ugène, Burgoyne",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "believes themselves of higher status than the Party"
+    }
+}

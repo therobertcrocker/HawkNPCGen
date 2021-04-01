@@ -1,19 +1,13 @@
 {
-    "given name": "Aslanova",
-    "surname": "Bergljotbarn",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Goliath"
-    },
+    "Full Name": "Aslanova, Bergljotbarn",
+    "base": "Enby | Isfolk - Goliath",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Whispers",
-        "interaction": "Friendly"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "wants something from the Party"
     }
 }

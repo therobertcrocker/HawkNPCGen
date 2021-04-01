@@ -1,19 +1,13 @@
 {
-    "given name": "Justiina",
-    "surname": "Kalyagina-Zakharovna",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Justiina, Kalyagina-Zakharovna",
+    "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Charisma — persuasive, forceful, born leader",
-        "low ability": "Dexterity — clumsy, fumbling"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Hot tempered"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is friendly towards the Party"
     }
 }

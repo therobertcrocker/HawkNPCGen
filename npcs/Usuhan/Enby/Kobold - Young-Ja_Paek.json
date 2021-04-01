@@ -1,19 +1,13 @@
 {
-    "given name": "Young-Ja",
-    "surname": "Paek",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Kobold"
-    },
+    "Full Name": "Young-Ja, Paek",
+    "base": "Enby | Usuhan - Kobold",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Ponderous"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Taps fingers",
+        "interaction": "is rude to just one member of the Party"
     }
 }

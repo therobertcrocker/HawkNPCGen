@@ -1,19 +1,13 @@
 {
-    "given name": "Daan",
-    "surname": "Droullin",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Daan, Droullin",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Stares into the distance",
-        "interaction": "Irritable"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is quiet around the party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Gwaeddan",
-    "surname": "Ó-Déaghain",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Gwaeddan, Ó-Déaghain",
+    "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Honest"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "wants something from the Party"
     }
 }

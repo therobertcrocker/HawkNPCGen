@@ -1,19 +1,13 @@
 {
-    "given name": "Martinus",
-    "surname": "Tjedaa",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Martinus, Tjedaa",
+    "base": "Male | Akti - Triton",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Charisma — persuasive, forceful, born leader",
-        "low ability": "Dexterity — clumsy, fumbling"
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Arrogant"
+        "mannerism": "Bites fingernails",
+        "interaction": "is curious about one member of the Party"
     }
 }

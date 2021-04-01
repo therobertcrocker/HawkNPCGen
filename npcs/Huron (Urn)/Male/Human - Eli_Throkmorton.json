@@ -1,19 +1,13 @@
 {
-    "given name": "Eli",
-    "surname": "Throkmorton",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Eli, Throkmorton",
+    "base": "Male | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Ponderous"
+        "talent": "Great at one game",
+        "mannerism": "Whispers",
+        "interaction": "finds the Party fascinating"
     }
 }

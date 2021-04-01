@@ -1,19 +1,13 @@
 {
-    "given name": "Roparzh",
-    "surname": "Frijlink",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Roparzh, Frijlink",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Whispers",
-        "interaction": "Friendly"
+        "mannerism": "Squints",
+        "interaction": "is always honest with the Party"
     }
 }

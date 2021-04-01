@@ -1,19 +1,13 @@
 {
-    "given name": "Gautier",
-    "surname": "Guaire",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Gautier, Guaire",
+    "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Honest"
+        "talent": "Draws beautifully",
+        "mannerism": "Chews something",
+        "interaction": "is quiet around the party"
     }
 }

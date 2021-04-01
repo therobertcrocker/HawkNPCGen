@@ -1,19 +1,13 @@
 {
-    "given name": "Ji",
-    "surname": "Ki",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Ji, Ki",
+    "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Quiet"
+        "talent": "Expert carpenter",
+        "mannerism": "Bites fingernails",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

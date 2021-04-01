@@ -1,0 +1,13 @@
+{
+    "Full Name": "Bozhidar, Davy",
+    "base": "Male | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Fidgets",
+        "interaction": "is curious about one member of the Party"
+    }
+}

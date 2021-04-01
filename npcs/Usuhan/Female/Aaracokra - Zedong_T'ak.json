@@ -1,19 +1,13 @@
 {
-    "given name": "Zedong",
-    "surname": "T'ak",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Zedong, T'ak",
+    "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Arrogant"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

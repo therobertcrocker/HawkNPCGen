@@ -1,0 +1,13 @@
+{
+    "Full Name": "Ruarc, Auch",
+    "base": "Male | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Fidgets",
+        "interaction": "believes themselves of higher status than the Party"
+    }
+}

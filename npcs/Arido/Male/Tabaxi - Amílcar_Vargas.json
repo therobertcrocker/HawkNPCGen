@@ -1,19 +1,13 @@
 {
-    "given name": "Amílcar",
-    "surname": "Vargas",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Amílcar, Vargas",
+    "base": "Male | Arido - Tabaxi",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Blustering"
+        "talent": "Great with animals",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is suspicious of the Party"
     }
 }

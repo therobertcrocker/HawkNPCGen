@@ -1,19 +1,13 @@
 {
-    "given name": "Agila",
-    "surname": "de-Viuepont",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Agila, de-Viuepont",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Friendly"
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "finds the Party fascinating"
     }
 }

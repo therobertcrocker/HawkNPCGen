@@ -1,19 +1,13 @@
 {
-    "given name": "Ailbhe",
-    "surname": "Ó-Labhradha",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Ailbhe, Ó-Labhradha",
+    "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Honest"
+        "mannerism": "Stares into the distance",
+        "interaction": "finds the Party fascinating"
     }
 }

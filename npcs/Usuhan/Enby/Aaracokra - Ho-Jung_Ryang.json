@@ -1,19 +1,13 @@
 {
-    "given name": "Ho-Jung",
-    "surname": "Ryang",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Ho-Jung, Ryang",
+    "base": "Enby | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual skin color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Honest"
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is rude to just one member of the Party"
     }
 }

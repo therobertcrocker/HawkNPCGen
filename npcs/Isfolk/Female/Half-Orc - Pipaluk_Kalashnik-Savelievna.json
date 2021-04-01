@@ -1,19 +1,13 @@
 {
-    "given name": "Pipaluk",
-    "surname": "Kalashnik-Savelievna",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Half-Orc"
-    },
+    "Full Name": "Pipaluk, Kalashnik-Savelievna",
+    "base": "Female | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Hot tempered"
+        "talent": "Draws beautifully",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is easily irritated by the Party"
     }
 }

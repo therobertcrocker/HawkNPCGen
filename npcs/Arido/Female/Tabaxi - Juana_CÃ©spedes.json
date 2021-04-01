@@ -1,19 +1,13 @@
 {
-    "given name": "Juana",
-    "surname": "Céspedes",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Juana, Céspedes",
+    "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Irritable"
+        "mannerism": "Fidgets",
+        "interaction": "is quiet around the party"
     }
 }

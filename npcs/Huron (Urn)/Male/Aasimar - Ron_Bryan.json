@@ -1,19 +1,13 @@
 {
-    "given name": "Ron",
-    "surname": "Bryan",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Ron, Bryan",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Draws beautifully",
-        "mannerism": "Taps fingers",
-        "interaction": "Honest"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is argumentative with the Party"
     }
 }

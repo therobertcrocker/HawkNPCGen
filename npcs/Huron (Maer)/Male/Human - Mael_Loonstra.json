@@ -1,19 +1,13 @@
 {
-    "given name": "Mael",
-    "surname": "Loonstra",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Mael, Loonstra",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Bites fingernails",
-        "interaction": "Blustering"
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Phul",
-    "surname": "Dunch",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Phul, Dunch",
+    "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Suspicious"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

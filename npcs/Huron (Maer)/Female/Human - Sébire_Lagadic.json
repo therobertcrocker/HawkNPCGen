@@ -1,19 +1,13 @@
 {
-    "given name": "Sébire",
-    "surname": "Lagadic",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Sébire, Lagadic",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Speaks loudly",
-        "interaction": "Honest"
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "wants something from the Party"
     }
 }

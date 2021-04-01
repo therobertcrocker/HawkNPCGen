@@ -1,19 +1,13 @@
 {
-    "given name": "Arnrós",
-    "surname": "Chelomtseva-Yegorovnchka",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Arnrós, Chelomtseva-Yegorovnchka",
+    "base": "Enby | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Hot tempered"
+        "mannerism": "Squints",
+        "interaction": "is suspicious of the Party"
     }
 }

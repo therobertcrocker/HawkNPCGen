@@ -1,0 +1,13 @@
+{
+    "Full Name": "Hippolytos, Child of Allis of Cardia",
+    "base": "Enby | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is argumentative with the Party"
+    }
+}

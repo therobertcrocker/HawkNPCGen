@@ -1,19 +1,13 @@
 {
-    "given name": "Jerónimo",
-    "surname": "Costa",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Jerónimo, Costa",
+    "base": "Male | Arido - Tabaxi",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Constitution â€” hardy, hale, healthy",
-        "low ability": "Dexterity â€” clumsy, fumbling"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Irritable"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is argumentative with the Party"
     }
 }

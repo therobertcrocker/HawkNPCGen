@@ -1,19 +1,13 @@
 {
-    "given name": "Malik",
-    "surname": "Ormson",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Half-Orc"
-    },
+    "Full Name": "Malik, Ormson",
+    "base": "Male | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Expert dart thrower and rock skipper",
         "mannerism": "Prone to predictions of doom",
-        "interaction": "Blustering"
+        "interaction": "is suspicious of the Party"
     }
 }

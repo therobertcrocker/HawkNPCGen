@@ -1,19 +1,13 @@
 {
-    "given name": "Elimor",
-    "surname": "Hodoke",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Sea-Elf"
-    },
+    "Full Name": "Elimor, Hodoke",
+    "base": "Enby | Akti - Sea-Elf",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual skin color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Whispers",
-        "interaction": "Quiet"
+        "talent": "Expert carpenter",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "finds the Party fascinating"
     }
 }

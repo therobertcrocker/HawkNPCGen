@@ -1,19 +1,13 @@
 {
-    "given name": "Alexius",
-    "surname": " Servant of Bezoph",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "High-Elf"
-    },
+    "Full Name": "Alexius,  Servant of Bezoph",
+    "base": "Male | Akti - High-Elf",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Ponderous"
+        "mannerism": "Taps fingers",
+        "interaction": "is easily irritated by the Party"
     }
 }

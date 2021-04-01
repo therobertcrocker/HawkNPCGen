@@ -1,19 +1,13 @@
 {
-    "given name": "Dar�o",
-    "surname": "Gistaín",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Changeling"
-    },
+    "Full Name": "Dar�o, Gistaín",
+    "base": "Male | Arido - Changeling",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Dexterity — lithe, agile, graceful",
-        "low ability": "Charisma — dull, boring"
+        "appearance": "has visible tattoos",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Argumentative"
+        "talent": "Great with children",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "wants something from the Party"
     }
 }

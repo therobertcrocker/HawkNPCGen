@@ -1,19 +1,13 @@
 {
-    "given name": "Marko",
-    "surname": "Cerecero",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Drow"
-    },
+    "Full Name": "Marko, Cerecero",
+    "base": "Male | Arido - Drow",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Blustering"
+        "talent": "Great at one game",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is always honest with the Party"
     }
 }

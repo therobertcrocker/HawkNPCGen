@@ -1,19 +1,13 @@
 {
-    "given name": "Éigneachán",
-    "surname": "Ó-Floinn",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Éigneachán, Ó-Floinn",
+    "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Rude"
+        "mannerism": "Paces",
+        "interaction": "is friendly towards the Party"
     }
 }

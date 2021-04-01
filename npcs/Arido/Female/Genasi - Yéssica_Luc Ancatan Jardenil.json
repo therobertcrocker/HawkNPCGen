@@ -1,19 +1,13 @@
 {
-    "given name": "Yéssica",
-    "surname": "Luc Ancatan Jardenil",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Yéssica, Luc Ancatan Jardenil",
+    "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Ponderous"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Whispers",
+        "interaction": "is curious about one member of the Party"
     }
 }

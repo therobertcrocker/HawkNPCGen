@@ -1,19 +1,13 @@
 {
-    "given name": "Sébire",
-    "surname": "Oortveld",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Sébire, Oortveld",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Honest"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is argumentative with the Party"
     }
 }

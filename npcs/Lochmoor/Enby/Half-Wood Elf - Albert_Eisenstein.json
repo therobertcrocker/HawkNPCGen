@@ -1,19 +1,13 @@
 {
-    "given name": "Albert",
-    "surname": "Eisenstein",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Albert, Eisenstein",
+    "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Blustering"
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "finds the Party fascinating"
     }
 }

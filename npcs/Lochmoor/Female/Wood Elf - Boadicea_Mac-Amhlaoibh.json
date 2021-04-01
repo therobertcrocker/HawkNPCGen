@@ -1,0 +1,13 @@
+{
+    "Full Name": "Boadicea, Mac-Amhlaoibh",
+    "base": "Female | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Fidgets",
+        "interaction": "is argumentative with the Party"
+    }
+}

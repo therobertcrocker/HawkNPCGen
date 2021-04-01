@@ -1,19 +1,13 @@
 {
-    "given name": "Beyhild",
-    "surname": "FitzSimmons",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Beyhild, FitzSimmons",
+    "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Friendly"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is curious about one member of the Party"
     }
 }

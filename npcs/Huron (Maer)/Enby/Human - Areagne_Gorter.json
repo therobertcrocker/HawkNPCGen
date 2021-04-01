@@ -1,19 +1,13 @@
 {
-    "given name": "Areagne",
-    "surname": "Gorter",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Areagne, Gorter",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Curious"
+        "talent": "Expert cook",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is argumentative with the Party"
     }
 }

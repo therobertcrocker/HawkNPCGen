@@ -1,19 +1,13 @@
 {
-    "given name": "Woo-Sung",
-    "surname": "Ren",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Kobold"
-    },
+    "Full Name": "Woo-Sung, Ren",
+    "base": "Enby | Usuhan - Kobold",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Argumentative"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Bites fingernails",
+        "interaction": "is suspicious of the Party"
     }
 }

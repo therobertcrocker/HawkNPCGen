@@ -1,19 +1,13 @@
 {
-    "given name": "Rebeca",
-    "surname": "Muñoz",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Drow"
-    },
+    "Full Name": "Rebeca, Muñoz",
+    "base": "Female | Arido - Drow",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Paces",
-        "interaction": "Ponderous"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "finds the Party fascinating"
     }
 }

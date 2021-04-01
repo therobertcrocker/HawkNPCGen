@@ -1,19 +1,13 @@
 {
-    "given name": "Margh",
-    "surname": "Bamard",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Margh, Bamard",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Constitution — hardy, hale, healthy",
-        "low ability": "Charisma — dull, boring"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Hot tempered"
+        "talent": "Perfect memory",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is easily irritated by the Party"
     }
 }

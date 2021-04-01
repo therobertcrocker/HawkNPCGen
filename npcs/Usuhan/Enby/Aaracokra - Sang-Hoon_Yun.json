@@ -1,19 +1,13 @@
 {
-    "given name": "Sang-Hoon",
-    "surname": "Yun",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Sang-Hoon, Yun",
+    "base": "Enby | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Suspicious"
+        "talent": "Perfect memory",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

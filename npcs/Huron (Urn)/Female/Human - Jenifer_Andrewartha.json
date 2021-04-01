@@ -1,19 +1,13 @@
 {
-    "given name": "Jenifer",
-    "surname": "Andrewartha",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Jenifer, Andrewartha",
+    "base": "Female | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Charisma — persuasive, forceful, born leader",
-        "low ability": "Constitution — sickly, pale"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Arrogant"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is suspicious of the Party"
     }
 }

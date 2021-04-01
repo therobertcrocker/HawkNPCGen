@@ -1,0 +1,13 @@
+{
+    "Full Name": "Floriana, Daughter of Neira of Sosia",
+    "base": "Female | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is easily irritated by the Party"
+    }
+}

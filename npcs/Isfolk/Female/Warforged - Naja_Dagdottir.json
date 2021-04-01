@@ -1,19 +1,13 @@
 {
-    "given name": "Naja",
-    "surname": "Dagdottir",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Naja, Dagdottir",
+    "base": "Female | Isfolk - Warforged",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Friendly"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is curious about one member of the Party"
     }
 }

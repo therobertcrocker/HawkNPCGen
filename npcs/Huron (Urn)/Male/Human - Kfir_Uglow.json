@@ -1,19 +1,13 @@
 {
-    "given name": "Kfir",
-    "surname": "Uglow",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Kfir, Uglow",
+    "base": "Male | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " is bald",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Ponderous"
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is argumentative with the Party"
     }
 }

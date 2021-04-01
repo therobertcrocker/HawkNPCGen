@@ -1,19 +1,13 @@
 {
-    "given name": "Consentia",
-    "surname": "of Iapos",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Consentia, of Iapos",
+    "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Arrogant"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Speaks loudly",
+        "interaction": "is easily irritated by the Party"
     }
 }

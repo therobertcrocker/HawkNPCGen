@@ -1,19 +1,13 @@
 {
-    "given name": "Gyeong",
-    "surname": "Kung",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Kobold"
-    },
+    "Full Name": "Gyeong, Kung",
+    "base": "Female | Usuhan - Kobold",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "wants something from the Party"
     }
 }

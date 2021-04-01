@@ -1,19 +1,13 @@
 {
-    "given name": "Inka",
-    "surname": "Fokkens",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Inka, Fokkens",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Friendly"
+        "mannerism": "Stares into the distance",
+        "interaction": "is always honest with the Party"
     }
 }

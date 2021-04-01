@@ -1,19 +1,13 @@
 {
-    "given name": "Yezekael",
-    "surname": "Wenmerink",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Yezekael, Wenmerink",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Suspicious"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "wants something from the Party"
     }
 }

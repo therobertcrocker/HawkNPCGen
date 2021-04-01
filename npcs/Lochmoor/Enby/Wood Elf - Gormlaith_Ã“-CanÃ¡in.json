@@ -1,19 +1,13 @@
 {
-    "given name": "Gormlaith",
-    "surname": "Ó-Canáin",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Gormlaith, Ó-Canáin",
+    "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Ponderous"
+        "talent": "Great with animals",
+        "mannerism": "Fidgets",
+        "interaction": "is curious about one member of the Party"
     }
 }

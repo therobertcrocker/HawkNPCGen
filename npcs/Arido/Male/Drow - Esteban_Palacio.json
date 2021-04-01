@@ -1,0 +1,13 @@
+{
+    "Full Name": "Esteban, Palacio",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "is curious about one member of the Party"
+    }
+}

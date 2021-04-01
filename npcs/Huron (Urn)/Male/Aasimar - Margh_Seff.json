@@ -1,19 +1,13 @@
 {
-    "given name": "Margh",
-    "surname": "Seff",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Margh, Seff",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Argumentative"
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is suspicious of the Party"
     }
 }

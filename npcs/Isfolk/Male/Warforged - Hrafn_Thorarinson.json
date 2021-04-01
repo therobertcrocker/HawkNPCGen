@@ -1,19 +1,13 @@
 {
-    "given name": "Hrafn",
-    "surname": "Thorarinson",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Hrafn, Thorarinson",
+    "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Charisma — persuasive, forceful, born leader",
-        "low ability": "Dexterity — clumsy, fumbling"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Quiet"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is suspicious of the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Éimhín",
-    "surname": "Stahnke",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Éimhín, Stahnke",
+    "base": "Enby | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "Arrogant"
+        "talent": "Paints beautifully",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "finds the Party fascinating"
     }
 }

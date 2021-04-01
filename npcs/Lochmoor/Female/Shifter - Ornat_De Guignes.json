@@ -1,19 +1,13 @@
 {
-    "given name": "Ornat",
-    "surname": "De Guignes",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Ornat, De Guignes",
+    "base": "Female | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Argumentative"
+        "mannerism": "Bites fingernails",
+        "interaction": "has a hot temper around the Party"
     }
 }

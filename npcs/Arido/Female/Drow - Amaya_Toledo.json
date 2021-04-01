@@ -1,19 +1,13 @@
 {
-    "given name": "Amaya",
-    "surname": "Toledo",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Drow"
-    },
+    "Full Name": "Amaya, Toledo",
+    "base": "Female | Arido - Drow",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Hot tempered"
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is argumentative with the Party"
     }
 }

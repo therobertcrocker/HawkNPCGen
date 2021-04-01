@@ -1,19 +1,13 @@
 {
-    "given name": "Laura",
-    "surname": "Dufay",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Laura, Dufay",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Friendly"
+        "interaction": "is curious about one member of the Party"
     }
 }

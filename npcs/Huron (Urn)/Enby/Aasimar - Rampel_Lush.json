@@ -1,19 +1,13 @@
 {
-    "given name": "Rampel",
-    "surname": "Lush",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Rampel, Lush",
+    "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "Argumentative"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is friendly towards the Party"
     }
 }

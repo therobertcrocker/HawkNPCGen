@@ -1,19 +1,13 @@
 {
-    "given name": "Oscar",
-    "surname": "Fichte",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Oscar, Fichte",
+    "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "has a hot temper around the Party"
     }
 }

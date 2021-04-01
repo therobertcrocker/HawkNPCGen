@@ -1,0 +1,13 @@
+{
+    "Full Name": "Erna, The Brilliant Mind",
+    "base": "Female | Isfolk - Goliath",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "wants something from the Party"
+    }
+}

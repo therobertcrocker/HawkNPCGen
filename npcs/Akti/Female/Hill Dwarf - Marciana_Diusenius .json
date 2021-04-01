@@ -1,19 +1,13 @@
 {
-    "given name": "Marciana",
-    "surname": "Diusenius ",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Hill Dwarf"
-    },
+    "Full Name": "Marciana, Diusenius ",
+    "base": "Female | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Skilled dancer",
         "mannerism": "Paces",
-        "interaction": "Curious"
+        "interaction": "is quiet around the party"
     }
 }

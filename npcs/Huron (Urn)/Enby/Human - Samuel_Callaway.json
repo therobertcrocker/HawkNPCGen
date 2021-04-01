@@ -1,19 +1,13 @@
 {
-    "given name": "Samuel",
-    "surname": "Callaway",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Samuel, Callaway",
+    "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Suspicious"
+        "mannerism": "Squints",
+        "interaction": "is friendly towards the Party"
     }
 }

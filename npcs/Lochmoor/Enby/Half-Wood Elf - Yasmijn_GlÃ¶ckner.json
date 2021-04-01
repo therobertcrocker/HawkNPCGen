@@ -1,19 +1,13 @@
 {
-    "given name": "Yasmijn",
-    "surname": "Glöckner",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Yasmijn, Glöckner",
+    "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Speaks loudly",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is always honest with the Party"
     }
 }

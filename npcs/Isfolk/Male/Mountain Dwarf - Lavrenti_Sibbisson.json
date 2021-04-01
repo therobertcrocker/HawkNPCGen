@@ -1,19 +1,13 @@
 {
-    "given name": "Lavrenti",
-    "surname": "Sibbisson",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Lavrenti, Sibbisson",
+    "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Suspicious"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "wants something from the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Louri",
-    "surname": "Dufay",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Louri, Dufay",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Stares into the distance",
-        "interaction": "Ponderous"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Bites fingernails",
+        "interaction": "is always honest with the Party"
     }
 }

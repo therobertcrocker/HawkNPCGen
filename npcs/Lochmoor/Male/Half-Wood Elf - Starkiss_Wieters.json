@@ -1,19 +1,13 @@
 {
-    "given name": "Starkiss",
-    "surname": "Wieters",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Starkiss, Wieters",
+    "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is friendly towards the Party"
     }
 }

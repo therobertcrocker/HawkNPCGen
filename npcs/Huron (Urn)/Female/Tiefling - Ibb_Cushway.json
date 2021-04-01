@@ -1,19 +1,13 @@
 {
-    "given name": "Ibb",
-    "surname": "Cushway",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Ibb, Cushway",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Dexterity — lithe, agile, graceful",
-        "low ability": "Charisma — dull, boring"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Quiet"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Paces",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

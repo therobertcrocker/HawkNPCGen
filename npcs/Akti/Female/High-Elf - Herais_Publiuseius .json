@@ -1,0 +1,13 @@
+{
+    "Full Name": "Herais, Publiuseius ",
+    "base": "Female | Akti - High-Elf",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is always honest with the Party"
+    }
+}

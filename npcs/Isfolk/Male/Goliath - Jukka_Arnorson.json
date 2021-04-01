@@ -1,0 +1,13 @@
+{
+    "Full Name": "Jukka, Arnorson",
+    "base": "Male | Isfolk - Goliath",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "is curious about one member of the Party"
+    }
+}

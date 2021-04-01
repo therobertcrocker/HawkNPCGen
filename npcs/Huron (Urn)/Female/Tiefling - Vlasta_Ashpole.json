@@ -1,19 +1,13 @@
 {
-    "given name": "Vlasta",
-    "surname": "Ashpole",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Vlasta, Ashpole",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Friendly"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

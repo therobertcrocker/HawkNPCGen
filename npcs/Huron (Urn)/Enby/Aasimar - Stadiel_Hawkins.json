@@ -1,19 +1,13 @@
 {
-    "given name": "Stadiel",
-    "surname": "Hawkins",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Stadiel, Hawkins",
+    "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Stares into the distance",
-        "interaction": "Curious"
+        "talent": "Sings beautifully",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "wants something from the Party"
     }
 }

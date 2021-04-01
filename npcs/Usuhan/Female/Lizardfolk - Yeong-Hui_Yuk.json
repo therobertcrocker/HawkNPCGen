@@ -1,19 +1,13 @@
 {
-    "given name": "Yeong-Hui",
-    "surname": "Yuk",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Lizardfolk"
-    },
+    "Full Name": "Yeong-Hui, Yuk",
+    "base": "Female | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Arrogant"
+        "talent": "Great at one game",
+        "mannerism": "Chews something",
+        "interaction": "is suspicious of the Party"
     }
 }

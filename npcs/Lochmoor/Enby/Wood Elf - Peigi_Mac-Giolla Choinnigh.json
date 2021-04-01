@@ -1,19 +1,13 @@
 {
-    "given name": "Peigi",
-    "surname": "Mac-Giolla Choinnigh",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Peigi, Mac-Giolla Choinnigh",
+    "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Suspicious"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "wants something from the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Mauri",
-    "surname": "Blazhenov-Leonidovich",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Orc"
-    },
+    "Full Name": "Mauri, Blazhenov-Leonidovich",
+    "base": "Male | Isfolk - Orc",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is missing teeth",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
+        "talent": "Knows thieves’ cant",
         "mannerism": "Taps fingers",
-        "interaction": "Quiet"
+        "interaction": "has a hot temper around the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Patricius",
-    "surname": "of Paestium",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Hobgoblin"
-    },
+    "Full Name": "Patricius, of Paestium",
+    "base": "Enby | Akti - Hobgoblin",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Irritable"
+        "talent": "Paints beautifully",
+        "mannerism": "Bites fingernails",
+        "interaction": "is friendly towards the Party"
     }
 }

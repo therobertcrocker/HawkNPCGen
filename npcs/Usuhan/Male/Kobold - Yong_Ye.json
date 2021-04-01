@@ -1,19 +1,13 @@
 {
-    "given name": "Yong",
-    "surname": "Ye",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Kobold"
-    },
+    "Full Name": "Yong, Ye",
+    "base": "Male | Usuhan - Kobold",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is quiet around the party"
     }
 }

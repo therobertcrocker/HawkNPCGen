@@ -1,19 +1,13 @@
 {
-    "given name": "Ambrosio",
-    "surname": "Serrano",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Ambrosio, Serrano",
+    "base": "Enby | Arido - Genasi",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Argumentative"
+        "mannerism": "Whispers",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

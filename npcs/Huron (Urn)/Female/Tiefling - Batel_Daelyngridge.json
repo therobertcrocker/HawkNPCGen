@@ -1,19 +1,13 @@
 {
-    "given name": "Batel",
-    "surname": "Daelyngridge",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Batel, Daelyngridge",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Dexterity — lithe, agile, graceful",
-        "low ability": "Strength — feeble, scrawny"
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Rude"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is quiet around the party"
     }
 }

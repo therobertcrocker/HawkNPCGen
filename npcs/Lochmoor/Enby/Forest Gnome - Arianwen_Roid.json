@@ -1,19 +1,13 @@
 {
-    "given name": "Arianwen",
-    "surname": "Roid",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Arianwen, Roid",
+    "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": " is bald",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Ponderous"
+        "mannerism": "Fidgets",
+        "interaction": "is friendly towards the Party"
     }
 }

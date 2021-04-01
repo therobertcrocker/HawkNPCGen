@@ -1,19 +1,13 @@
 {
-    "given name": "Emil",
-    "surname": "The Prophet",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Emil, The Prophet",
+    "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

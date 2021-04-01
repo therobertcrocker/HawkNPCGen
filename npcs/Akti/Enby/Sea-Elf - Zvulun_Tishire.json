@@ -1,19 +1,13 @@
 {
-    "given name": "Zvulun",
-    "surname": "Tishire",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Sea-Elf"
-    },
+    "Full Name": "Zvulun, Tishire",
+    "base": "Enby | Akti - Sea-Elf",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Honest"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Chews something",
+        "interaction": "is friendly towards the Party"
     }
 }

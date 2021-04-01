@@ -1,19 +1,13 @@
 {
-    "given name": "Boudicca",
-    "surname": "Weidemann",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Boudicca, Weidemann",
+    "base": "Female | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Irritable"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Speaks loudly",
+        "interaction": "wants something from the Party"
     }
 }

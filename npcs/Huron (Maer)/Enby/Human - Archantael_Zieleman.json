@@ -1,19 +1,13 @@
 {
-    "given name": "Archantael",
-    "surname": "Zieleman",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Archantael, Zieleman",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Blustering"
+        "talent": "Skilled dancer",
+        "mannerism": "Fidgets",
+        "interaction": "is quiet around the party"
     }
 }

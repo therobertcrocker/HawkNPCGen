@@ -1,19 +1,13 @@
 {
-    "given name": "Twirlwind",
-    "surname": "Krieger",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Twirlwind, Krieger",
+    "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Honest"
+        "talent": "Great at one game",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "finds the Party fascinating"
     }
 }

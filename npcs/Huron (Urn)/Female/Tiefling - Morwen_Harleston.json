@@ -1,19 +1,13 @@
 {
-    "given name": "Morwen",
-    "surname": "Harleston",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Morwen, Harleston",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Speaks loudly",
-        "interaction": "Argumentative"
+        "talent": "Paints beautifully",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "has a hot temper around the Party"
     }
 }

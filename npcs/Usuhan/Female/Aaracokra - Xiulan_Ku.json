@@ -1,19 +1,13 @@
 {
-    "given name": "Xiulan",
-    "surname": "Ku",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Xiulan, Ku",
+    "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Arrogant"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "has a hot temper around the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Spurius",
-    "surname": "Menkhesy",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Sea-Elf"
-    },
+    "Full Name": "Spurius, Menkhesy",
+    "base": "Enby | Akti - Sea-Elf",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Rude"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "wants something from the Party"
     }
 }

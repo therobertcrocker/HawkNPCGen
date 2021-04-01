@@ -1,19 +1,13 @@
 {
-    "given name": "Samandiriel",
-    "surname": "Fitton",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Samandiriel, Fitton",
+    "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "has a hot temper around the Party"
     }
 }

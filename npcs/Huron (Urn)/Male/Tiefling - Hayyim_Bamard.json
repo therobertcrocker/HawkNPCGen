@@ -1,19 +1,13 @@
 {
-    "given name": "Hayyim",
-    "surname": "Bamard",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Hayyim, Bamard",
+    "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Hot tempered"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Chews something",
+        "interaction": "is quiet around the party"
     }
 }

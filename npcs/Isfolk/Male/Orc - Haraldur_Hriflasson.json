@@ -1,19 +1,13 @@
 {
-    "given name": "Haraldur",
-    "surname": "Hriflasson",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Orc"
-    },
+    "Full Name": "Haraldur, Hriflasson",
+    "base": "Male | Isfolk - Orc",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Suspicious"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "has a hot temper around the Party"
     }
 }

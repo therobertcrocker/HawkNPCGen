@@ -1,0 +1,13 @@
+{
+    "Full Name": "Su-Jin, Kum",
+    "base": "Male | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Stares into the distance",
+        "interaction": "is friendly towards the Party"
+    }
+}

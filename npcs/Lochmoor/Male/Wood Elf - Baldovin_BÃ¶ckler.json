@@ -1,19 +1,13 @@
 {
-    "given name": "Baldovin",
-    "surname": "Böckler",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Baldovin, Böckler",
+    "base": "Male | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Suspicious"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Squints",
+        "interaction": "is suspicious of the Party"
     }
 }

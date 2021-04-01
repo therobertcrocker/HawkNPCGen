@@ -1,19 +1,13 @@
 {
-    "given name": "Gotzon",
-    "surname": "Feijoo",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Changeling"
-    },
+    "Full Name": "Gotzon, Feijoo",
+    "base": "Male | Arido - Changeling",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Ponderous"
+        "talent": "Great with children",
+        "mannerism": "Paces",
+        "interaction": "is curious about one member of the Party"
     }
 }

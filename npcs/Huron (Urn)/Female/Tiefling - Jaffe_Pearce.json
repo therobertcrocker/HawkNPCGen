@@ -1,19 +1,13 @@
 {
-    "given name": "Jaffe",
-    "surname": "Pearce",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Jaffe, Pearce",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Irritable"
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "is suspicious of the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Alkeld",
-    "surname": "Hughes",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Alkeld, Hughes",
+    "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Arrogant"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Whispers",
+        "interaction": "is curious about one member of the Party"
     }
 }

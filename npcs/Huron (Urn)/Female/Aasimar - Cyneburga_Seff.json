@@ -1,19 +1,13 @@
 {
-    "given name": "Cyneburga",
-    "surname": "Seff",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Cyneburga, Seff",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Curious"
+        "talent": "Draws beautifully",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "finds the Party fascinating"
     }
 }

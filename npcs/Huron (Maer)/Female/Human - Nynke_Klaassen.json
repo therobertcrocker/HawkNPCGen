@@ -1,19 +1,13 @@
 {
-    "given name": "Nynke",
-    "surname": "Klaassen",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Nynke, Klaassen",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Rude"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Chews something",
+        "interaction": "is curious about one member of the Party"
     }
 }

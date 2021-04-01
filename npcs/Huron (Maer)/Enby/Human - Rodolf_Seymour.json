@@ -1,19 +1,13 @@
 {
-    "given name": "Rodolf",
-    "surname": "Seymour",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Rodolf, Seymour",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Irritable"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is easily irritated by the Party"
     }
 }

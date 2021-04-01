@@ -1,19 +1,13 @@
 {
-    "given name": "Meical",
-    "surname": "Nader",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Meical, Nader",
+    "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Arrogant"
+        "talent": "Perfect memory",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is quiet around the party"
     }
 }

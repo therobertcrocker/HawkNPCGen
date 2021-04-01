@@ -1,0 +1,13 @@
+{
+    "Full Name": "Lavrenti, Asketillson",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "believes themselves of higher status than the Party"
+    }
+}

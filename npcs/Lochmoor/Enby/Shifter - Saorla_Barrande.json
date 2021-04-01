@@ -1,19 +1,13 @@
 {
-    "given name": "Saorla",
-    "surname": "Barrande",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Saorla, Barrande",
+    "base": "Enby | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Ponderous"
+        "talent": "Great at one game",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is curious about one member of the Party"
     }
 }

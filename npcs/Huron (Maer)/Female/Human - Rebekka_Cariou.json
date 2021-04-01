@@ -1,19 +1,13 @@
 {
-    "given name": "Rebekka",
-    "surname": "Cariou",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Rebekka, Cariou",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Quiet"
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

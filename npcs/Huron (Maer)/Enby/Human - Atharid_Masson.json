@@ -1,19 +1,13 @@
 {
-    "given name": "Atharid",
-    "surname": "Masson",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Atharid, Masson",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is quiet around the party"
     }
 }

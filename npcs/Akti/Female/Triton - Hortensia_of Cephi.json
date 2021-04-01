@@ -1,19 +1,13 @@
 {
-    "given name": "Hortensia",
-    "surname": "of Cephi",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Hortensia, of Cephi",
+    "base": "Female | Akti - Triton",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Rude"
+        "talent": "Great with animals",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "finds the Party fascinating"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Randel",
-    "surname": "Gower",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Randel, Gower",
+    "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Hot tempered"
+        "talent": "Expert cook",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is suspicious of the Party"
     }
 }

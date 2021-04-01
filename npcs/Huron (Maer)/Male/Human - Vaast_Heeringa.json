@@ -1,19 +1,13 @@
 {
-    "given name": "Vaast",
-    "surname": "Heeringa",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Vaast, Heeringa",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Argumentative"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Speaks loudly",
+        "interaction": "is suspicious of the Party"
     }
 }

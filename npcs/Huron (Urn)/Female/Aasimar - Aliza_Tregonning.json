@@ -1,19 +1,13 @@
 {
-    "given name": "Aliza",
-    "surname": "Tregonning",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Aliza, Tregonning",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "Ponderous"
+        "mannerism": "Bites fingernails",
+        "interaction": "is curious about one member of the Party"
     }
 }

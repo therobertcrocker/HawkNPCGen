@@ -1,19 +1,13 @@
 {
-    "given name": "Jacky",
-    "surname": "Priesner",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Jacky, Priesner",
+    "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Fidgets",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

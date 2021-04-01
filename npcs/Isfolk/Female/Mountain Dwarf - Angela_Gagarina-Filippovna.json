@@ -1,19 +1,13 @@
 {
-    "given name": "Angela",
-    "surname": "Gagarina-Filippovna",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Angela, Gagarina-Filippovna",
+    "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Speaks loudly",
-        "interaction": "Suspicious"
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is curious about one member of the Party"
     }
 }

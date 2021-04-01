@@ -1,19 +1,13 @@
 {
-    "given name": "Eldar",
-    "surname": "Child of Thippia of Orcyma",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Eldar, Child of Thippia of Orcyma",
+    "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Paces",
-        "interaction": "Rude"
+        "interaction": "finds the Party fascinating"
     }
 }

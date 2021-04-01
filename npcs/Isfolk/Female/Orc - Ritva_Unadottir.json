@@ -1,19 +1,13 @@
 {
-    "given name": "Ritva",
-    "surname": "Unadottir",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Orc"
-    },
+    "Full Name": "Ritva, Unadottir",
+    "base": "Female | Isfolk - Orc",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Speaks loudly",
-        "interaction": "Arrogant"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Paces",
+        "interaction": "wants something from the Party"
     }
 }

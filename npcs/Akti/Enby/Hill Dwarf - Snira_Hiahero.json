@@ -1,19 +1,13 @@
 {
-    "given name": "Snira",
-    "surname": "Hiahero",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Hill Dwarf"
-    },
+    "Full Name": "Snira, Hiahero",
+    "base": "Enby | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Argumentative"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Honeysprig",
-    "surname": "Uí-Daire",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Honeysprig, Uí-Daire",
+    "base": "Female | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Suspicious"
+        "mannerism": "Chews something",
+        "interaction": "finds the Party fascinating"
     }
 }

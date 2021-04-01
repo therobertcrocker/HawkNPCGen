@@ -1,19 +1,13 @@
 {
-    "given name": "Sang-Ki",
-    "surname": "Yon",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Sang-Ki, Yon",
+    "base": "Enby | Usuhan - Tortle",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a visible birthmark",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Suspicious"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "Full Name": "Eevi, Tselner-Svyatoslavovna",
+    "base": "Female | Isfolk - Goliath",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is friendly towards the Party"
+    }
+}

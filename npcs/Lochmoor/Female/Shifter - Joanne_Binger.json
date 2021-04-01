@@ -1,19 +1,13 @@
 {
-    "given name": "Joanne",
-    "surname": "Binger",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Joanne, Binger",
+    "base": "Female | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Perfect memory",
         "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Argumentative"
+        "interaction": "is friendly towards the Party"
     }
 }

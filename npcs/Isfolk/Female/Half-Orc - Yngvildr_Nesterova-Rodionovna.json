@@ -1,0 +1,13 @@
+{
+    "Full Name": "Yngvildr, Nesterova-Rodionovna",
+    "base": "Female | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is suspicious of the Party"
+    }
+}

@@ -1,19 +1,13 @@
 {
-    "given name": "Gethin",
-    "surname": "Palmer",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Gethin, Palmer",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Friendly"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is suspicious of the Party"
     }
 }

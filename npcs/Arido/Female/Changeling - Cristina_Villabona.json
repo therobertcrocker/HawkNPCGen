@@ -1,19 +1,13 @@
 {
-    "given name": "Cristina",
-    "surname": "Villabona",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Changeling"
-    },
+    "Full Name": "Cristina, Villabona",
+    "base": "Female | Arido - Changeling",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Chews something",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "wants something from the Party"
     }
 }

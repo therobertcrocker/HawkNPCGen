@@ -1,19 +1,13 @@
 {
-    "given name": "Sébire",
-    "surname": "Plaizier",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Sébire, Plaizier",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Friendly"
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "is quiet around the party"
     }
 }

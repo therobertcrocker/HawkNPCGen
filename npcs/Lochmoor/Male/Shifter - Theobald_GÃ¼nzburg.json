@@ -1,19 +1,13 @@
 {
-    "given name": "Theobald",
-    "surname": "Günzburg",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Theobald, Günzburg",
+    "base": "Male | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Hot tempered"
+        "mannerism": "Whispers",
+        "interaction": "is suspicious of the Party"
     }
 }

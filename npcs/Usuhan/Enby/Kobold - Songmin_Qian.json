@@ -1,19 +1,13 @@
 {
-    "given name": "Songmin",
-    "surname": "Qian",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Kobold"
-    },
+    "Full Name": "Songmin, Qian",
+    "base": "Enby | Usuhan - Kobold",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Quiet"
+        "talent": "Great with animals",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is easily irritated by the Party"
     }
 }

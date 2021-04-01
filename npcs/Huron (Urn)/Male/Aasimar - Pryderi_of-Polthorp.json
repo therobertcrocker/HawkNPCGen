@@ -1,0 +1,13 @@
+{
+    "Full Name": "Pryderi, of-Polthorp",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "finds the Party fascinating"
+    }
+}

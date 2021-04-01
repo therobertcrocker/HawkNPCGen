@@ -1,19 +1,13 @@
 {
-    "given name": "Jessé",
-    "surname": "Wilpert",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Jessé, Wilpert",
+    "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Blustering"
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is easily irritated by the Party"
     }
 }

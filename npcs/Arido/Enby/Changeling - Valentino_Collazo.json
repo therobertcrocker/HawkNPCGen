@@ -1,19 +1,13 @@
 {
-    "given name": "Valentino",
-    "surname": "Collazo",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Changeling"
-    },
+    "Full Name": "Valentino, Collazo",
+    "base": "Enby | Arido - Changeling",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is easily irritated by the Party"
     }
 }

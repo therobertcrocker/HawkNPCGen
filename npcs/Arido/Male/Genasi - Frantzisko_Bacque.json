@@ -1,19 +1,13 @@
 {
-    "given name": "Frantzisko",
-    "surname": "Bacque",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Frantzisko, Bacque",
+    "base": "Male | Arido - Genasi",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Honest"
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Sophokles",
-    "surname": "Tairure",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "High-Elf"
-    },
+    "Full Name": "Sophokles, Tairure",
+    "base": "Male | Akti - High-Elf",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Ponderous"
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is curious about one member of the Party"
     }
 }

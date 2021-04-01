@@ -1,19 +1,13 @@
 {
-    "given name": "Sung",
-    "surname": "Kwok",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Lizardfolk"
-    },
+    "Full Name": "Sung, Kwok",
+    "base": "Male | Usuhan - Lizardfolk",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Arrogant"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

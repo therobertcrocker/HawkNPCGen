@@ -1,0 +1,13 @@
+{
+    "Full Name": "Karen, Hjortdottir",
+    "base": "Female | Isfolk - Goliath",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Fidgets",
+        "interaction": "is quiet around the party"
+    }
+}

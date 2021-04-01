@@ -1,19 +1,13 @@
 {
-    "given name": "Sabinus",
-    "surname": "of Dusae",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "High-Elf"
-    },
+    "Full Name": "Sabinus, of Dusae",
+    "base": "Male | Akti - High-Elf",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Ponderous"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "has a hot temper around the Party"
     }
 }

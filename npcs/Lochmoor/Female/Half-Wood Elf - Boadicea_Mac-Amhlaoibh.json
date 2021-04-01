@@ -1,19 +1,13 @@
 {
-    "given name": "Boadicea",
-    "surname": "Mac-Amhlaoibh",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Boadicea, Mac-Amhlaoibh",
+    "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Whispers",
-        "interaction": "Ponderous"
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Taps fingers",
+        "interaction": "is curious about one member of the Party"
     }
 }

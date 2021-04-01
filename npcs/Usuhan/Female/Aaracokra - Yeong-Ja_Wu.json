@@ -1,19 +1,13 @@
 {
-    "given name": "Yeong-Ja",
-    "surname": "Wu",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Yeong-Ja, Wu",
+    "base": "Female | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Speaks loudly",
-        "interaction": "Suspicious"
+        "talent": "None",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is friendly towards the Party"
     }
 }

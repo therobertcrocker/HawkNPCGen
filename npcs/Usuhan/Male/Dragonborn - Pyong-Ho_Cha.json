@@ -1,19 +1,13 @@
 {
-    "given name": "Pyong-Ho",
-    "surname": "Cha",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Pyong-Ho, Cha",
+    "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "Argumentative"
+        "mannerism": "Bites fingernails",
+        "interaction": "is quiet around the party"
     }
 }

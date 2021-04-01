@@ -1,19 +1,13 @@
 {
-    "given name": "Lefsued",
-    "surname": "Chegwin",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Lefsued, Chegwin",
+    "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Fidgets",
-        "interaction": "Ponderous"
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Jouko",
-    "surname": "Inshov-Victorovich",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Rock Gnome"
-    },
+    "Full Name": "Jouko, Inshov-Victorovich",
+    "base": "Male | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing teeth",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Honest"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "has a hot temper around the Party"
     }
 }

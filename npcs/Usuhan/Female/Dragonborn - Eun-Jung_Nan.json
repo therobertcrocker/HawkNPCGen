@@ -1,19 +1,13 @@
 {
-    "given name": "Eun-Jung",
-    "surname": "Nan",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Eun-Jung, Nan",
+    "base": "Female | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Hot tempered"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "has a hot temper around the Party"
     }
 }

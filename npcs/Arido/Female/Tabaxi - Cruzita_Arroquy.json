@@ -1,19 +1,13 @@
 {
-    "given name": "Cruzita",
-    "surname": "Arroquy",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Cruzita, Arroquy",
+    "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Blustering"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Squints",
+        "interaction": "finds the Party fascinating"
     }
 }

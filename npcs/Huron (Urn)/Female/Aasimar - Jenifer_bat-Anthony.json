@@ -1,19 +1,13 @@
 {
-    "given name": "Jenifer",
-    "surname": "bat-Anthony",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Jenifer, bat-Anthony",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Quiet"
+        "talent": "Paints beautifully",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is quiet around the party"
     }
 }

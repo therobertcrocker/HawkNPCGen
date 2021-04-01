@@ -1,19 +1,13 @@
 {
-    "given name": "Piloqutinnguaq",
-    "surname": "Agmundrdottir",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Piloqutinnguaq, Agmundrdottir",
+    "base": "Female | Isfolk - Warforged",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Stares into the distance",
-        "interaction": "Quiet"
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is argumentative with the Party"
     }
 }

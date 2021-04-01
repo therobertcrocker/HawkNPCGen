@@ -1,19 +1,13 @@
 {
-    "given name": "Bermund",
-    "surname": "Stoner",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Bermund, Stoner",
+    "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Intelligence — studious, learned, inquisitive",
-        "low ability": "Dexterity — clumsy, fumbling"
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "is easily irritated by the Party"
     }
 }

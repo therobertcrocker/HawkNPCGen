@@ -1,19 +1,13 @@
 {
-    "given name": "Lucianus",
-    "surname": "Sianiuson Siusorio",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Hill Dwarf"
-    },
+    "Full Name": "Lucianus, Sianiuson Siusorio",
+    "base": "Male | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

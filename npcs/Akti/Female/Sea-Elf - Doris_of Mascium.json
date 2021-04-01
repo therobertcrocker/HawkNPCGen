@@ -1,19 +1,13 @@
 {
-    "given name": "Doris",
-    "surname": "of Mascium",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Sea-Elf"
-    },
+    "Full Name": "Doris, of Mascium",
+    "base": "Female | Akti - Sea-Elf",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Suspicious"
+        "talent": "Plays a musical instrument",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

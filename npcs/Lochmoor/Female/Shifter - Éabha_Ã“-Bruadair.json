@@ -1,19 +1,13 @@
 {
-    "given name": "Éabha",
-    "surname": "Ã“-Bruadair",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Éabha, Ã“-Bruadair",
+    "base": "Female | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Blustering"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is curious about one member of the Party"
     }
 }

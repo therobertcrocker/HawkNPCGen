@@ -1,19 +1,13 @@
 {
-    "given name": "Jung-Hee",
-    "surname": "P'il",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Jung-Hee, P'il",
+    "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Rude"
+        "talent": "Skilled dancer",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is argumentative with the Party"
     }
 }

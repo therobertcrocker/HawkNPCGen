@@ -1,19 +1,13 @@
 {
-    "given name": "Eryi",
-    "surname": "Mac-Loinsigh",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Eryi, Mac-Loinsigh",
+    "base": "Enby | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Quiet"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Paces",
+        "interaction": "is quiet around the party"
     }
 }

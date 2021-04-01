@@ -1,19 +1,13 @@
 {
-    "given name": "Ambrosio",
-    "surname": "Mesonero",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Drow"
-    },
+    "Full Name": "Ambrosio, Mesonero",
+    "base": "Enby | Arido - Drow",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "Arrogant"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Bites fingernails",
+        "interaction": "is always honest with the Party"
     }
 }

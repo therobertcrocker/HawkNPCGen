@@ -1,19 +1,13 @@
 {
-    "given name": "Mildgyð",
-    "surname": "bat-Anthony",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Mildgyð, bat-Anthony",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Constitution â€” hardy, hale, healthy",
-        "low ability": "Wisdom â€” oblivious, absentminded"
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Fidgets",
-        "interaction": "Hot tempered"
+        "talent": "Great at one game",
+        "mannerism": "Squints",
+        "interaction": "is argumentative with the Party"
     }
 }

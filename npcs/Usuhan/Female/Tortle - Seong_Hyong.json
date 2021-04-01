@@ -1,19 +1,13 @@
 {
-    "given name": "Seong",
-    "surname": "Hyong",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Tortle"
-    },
+    "Full Name": "Seong, Hyong",
+    "base": "Female | Usuhan - Tortle",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Hot tempered"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Chews something",
+        "interaction": "is quiet around the party"
     }
 }

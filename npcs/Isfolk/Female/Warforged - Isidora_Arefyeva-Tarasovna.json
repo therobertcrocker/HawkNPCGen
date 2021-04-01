@@ -1,19 +1,13 @@
 {
-    "given name": "Isidora",
-    "surname": "Arefyeva-Tarasovna",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Isidora, Arefyeva-Tarasovna",
+    "base": "Female | Isfolk - Warforged",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Whispers",
-        "interaction": "Rude"
+        "talent": "Expert cook",
+        "mannerism": "Taps fingers",
+        "interaction": "is suspicious of the Party"
     }
 }

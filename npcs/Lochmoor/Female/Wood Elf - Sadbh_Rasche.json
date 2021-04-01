@@ -1,19 +1,13 @@
 {
-    "given name": "Sadbh",
-    "surname": "Rasche",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Sadbh, Rasche",
+    "base": "Female | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Hot tempered"
+        "talent": "Expert cook",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Jeltje",
-    "surname": "Meinsma",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Jeltje, Meinsma",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Blustering"
+        "talent": "Perfect memory",
+        "mannerism": "Squints",
+        "interaction": "finds the Party fascinating"
     }
 }

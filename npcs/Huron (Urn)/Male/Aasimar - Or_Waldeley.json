@@ -1,19 +1,13 @@
 {
-    "given name": "Or",
-    "surname": "Waldeley",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Or, Waldeley",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Unbelievably lucky",
-        "mannerism": "Paces",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is friendly towards the Party"
     }
 }

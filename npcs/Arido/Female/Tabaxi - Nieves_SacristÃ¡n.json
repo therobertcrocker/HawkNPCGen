@@ -1,0 +1,13 @@
+{
+    "Full Name": "Nieves, Sacristán",
+    "base": "Female | Arido - Tabaxi",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is easily irritated by the Party"
+    }
+}

@@ -1,19 +1,13 @@
 {
-    "given name": "Sanno",
-    "surname": "Yukhtrits-Vladislavovnchka",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Sanno, Yukhtrits-Vladislavovnchka",
+    "base": "Enby | Isfolk - Warforged",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "is always honest with the Party"
     }
 }

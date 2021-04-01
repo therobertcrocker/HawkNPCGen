@@ -1,19 +1,13 @@
 {
-    "given name": "Aemiliana",
-    "surname": "Daughter of Ismen of Melesb",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Hill Dwarf"
-    },
+    "Full Name": "Aemiliana, Daughter of Ismen of Melesb",
+    "base": "Female | Akti - Hill Dwarf",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Quiet"
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is friendly towards the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Gratidia",
-    "surname": "Kalaurato",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Gratidia, Kalaurato",
+    "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Irritable"
+        "talent": "Perfect memory",
+        "mannerism": "Squints",
+        "interaction": "is suspicious of the Party"
     }
 }

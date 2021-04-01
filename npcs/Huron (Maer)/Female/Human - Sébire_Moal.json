@@ -1,19 +1,13 @@
 {
-    "given name": "Sébire",
-    "surname": "Moal",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Sébire, Moal",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Chews something",
-        "interaction": "Irritable"
+        "talent": "Knows thievesâ€™ cant",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is argumentative with the Party"
     }
 }

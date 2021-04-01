@@ -1,19 +1,13 @@
 {
-    "given name": "Spurius",
-    "surname": "of Cisae",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Spurius, of Cisae",
+    "base": "Enby | Akti - Triton",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Blustering"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is friendly towards the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Jeong-Hui",
-    "surname": "Su",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Kobold"
-    },
+    "Full Name": "Jeong-Hui, Su",
+    "base": "Male | Usuhan - Kobold",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "Rude"
+        "mannerism": "Paces",
+        "interaction": "finds the Party fascinating"
     }
 }

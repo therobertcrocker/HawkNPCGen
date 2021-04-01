@@ -1,19 +1,13 @@
 {
-    "given name": "Bran",
-    "surname": "MacNicol",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Bran, MacNicol",
+    "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Suspicious"
+        "talent": "Great with animals",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is always honest with the Party"
     }
 }

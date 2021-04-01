@@ -1,19 +1,13 @@
 {
-    "given name": "Svatava",
-    "surname": "Callaway",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Svatava, Callaway",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has braided beard or hair",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Chews something",
-        "interaction": "Curious"
+        "talent": "Great at one game",
+        "mannerism": "Fidgets",
+        "interaction": "is suspicious of the Party"
     }
 }

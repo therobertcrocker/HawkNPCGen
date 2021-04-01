@@ -1,19 +1,13 @@
 {
-    "given name": "Maria",
-    "surname": "Minaberrieta",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Drow"
-    },
+    "Full Name": "Maria, Minaberrieta",
+    "base": "Female | Arido - Drow",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Ponderous"
+        "mannerism": "Speaks loudly",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

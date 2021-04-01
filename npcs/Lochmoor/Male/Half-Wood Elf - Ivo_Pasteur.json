@@ -1,0 +1,13 @@
+{
+    "Full Name": "Ivo, Pasteur",
+    "base": "Male | Lochmoor - Half-Wood Elf",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "finds the Party fascinating"
+    }
+}

@@ -1,19 +1,13 @@
 {
-    "given name": "Pièrre",
-    "surname": "Ar-Gall",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Pièrre, Ar-Gall",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is suspicious of the Party"
     }
 }

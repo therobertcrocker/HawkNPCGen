@@ -1,19 +1,13 @@
 {
-    "given name": "Yezekael",
-    "surname": "Kole",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Yezekael, Kole",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Formal, clean clothes",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Arrogant"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "finds the Party fascinating"
     }
 }

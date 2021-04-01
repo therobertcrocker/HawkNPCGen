@@ -1,19 +1,13 @@
 {
-    "given name": "Osric",
-    "surname": "Trezona",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Osric, Trezona",
+    "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Particularly low or high voice",
-        "interaction": "Ponderous"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Stares into the distance",
+        "interaction": "is curious about one member of the Party"
     }
 }

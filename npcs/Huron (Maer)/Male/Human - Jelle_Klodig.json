@@ -1,19 +1,13 @@
 {
-    "given name": "Jelle",
-    "surname": "Klodig",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Jelle, Klodig",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Honest"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is curious about one member of the Party"
     }
 }

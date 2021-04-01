@@ -1,19 +1,13 @@
 {
-    "given name": "Imke",
-    "surname": "van-het-Laar",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Imke, van-het-Laar",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Suspicious"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is argumentative with the Party"
     }
 }

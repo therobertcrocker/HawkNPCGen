@@ -1,19 +1,13 @@
 {
-    "given name": "Eadburg",
-    "surname": "the-Frobisher",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Eadburg, the-Frobisher",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Great with animals",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Curious"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "finds the Party fascinating"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Marcella",
-    "surname": "of Arsan",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Marcella, of Arsan",
+    "base": "Female | Akti - Triton",
     "traits": {
-        "appearance": "Distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Suspicious"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "has a hot temper around the Party"
     }
 }

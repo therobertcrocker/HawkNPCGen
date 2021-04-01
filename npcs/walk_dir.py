@@ -21,3 +21,17 @@ def rename():
                 new_name = npc.race + " - " + npc.name + "_" + npc.surname + ".json"
                 os.rename(root + '/' + str(file), root + '/' + str(new_name))
 
+def refactor():
+    for root, dirs, files in os.walk(dir_path):
+        for file in files:
+            npc = NPC()
+
+        # change the extension from '.mp3' to
+        # the one of your choice.
+            if file.endswith('.json'):
+                npc.load(root + '/' + str(file))
+                print("loaded: " + str(file))
+                npc.gen_traits()
+                npc.make_data()
+                npc.save_data()
+                print("    - saved: " + str(file))

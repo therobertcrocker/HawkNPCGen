@@ -1,19 +1,13 @@
 {
-    "given name": "Eiríkur",
-    "surname": "Parshikov-Konstantinovich",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Eiríkur, Parshikov-Konstantinovich",
+    "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "Exceptionally ugly",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Irritable"
+        "talent": "Expert juggler",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is suspicious of the Party"
     }
 }

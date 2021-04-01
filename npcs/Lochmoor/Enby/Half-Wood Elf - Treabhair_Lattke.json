@@ -1,19 +1,13 @@
 {
-    "given name": "Treabhair",
-    "surname": "Lattke",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Treabhair, Lattke",
+    "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
+        "talent": "Expert dart thrower and rock skipper",
         "mannerism": "Squints",
-        "interaction": "Suspicious"
+        "interaction": "finds the Party fascinating"
     }
 }

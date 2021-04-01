@@ -1,19 +1,13 @@
 {
-    "given name": "Haul",
-    "surname": "Kesby",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Haul, Kesby",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Bites fingernails",
-        "interaction": "Suspicious"
+        "talent": "Expert juggler",
+        "mannerism": "Stares into the distance",
+        "interaction": "finds the Party fascinating"
     }
 }

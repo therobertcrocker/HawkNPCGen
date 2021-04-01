@@ -1,19 +1,13 @@
 {
-    "given name": "Aristodemos",
-    "surname": "Cianiusorn Perstiusa",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Aristodemos, Cianiusorn Perstiusa",
+    "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Constitution — hardy, hale, healthy",
-        "low ability": "Wisdom — oblivious, absentminded"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Skilled actor and master of disguise",
-        "mannerism": "Bites fingernails",
-        "interaction": "Suspicious"
+        "talent": "Great at one game",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is quiet around the party"
     }
 }

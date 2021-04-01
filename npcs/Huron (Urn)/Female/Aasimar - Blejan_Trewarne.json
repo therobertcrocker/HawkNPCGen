@@ -1,19 +1,13 @@
 {
-    "given name": "Blejan",
-    "surname": "Trewarne",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Blejan, Trewarne",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Arrogant"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is friendly towards the Party"
     }
 }

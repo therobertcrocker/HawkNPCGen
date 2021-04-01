@@ -1,19 +1,13 @@
 {
-    "given name": "Sachiel",
-    "surname": "Bowsher",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Sachiel, Bowsher",
+    "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Paces",
-        "interaction": "Honest"
+        "talent": "None",
+        "mannerism": "Speaks loudly",
+        "interaction": "wants something from the Party"
     }
 }

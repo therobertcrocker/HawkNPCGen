@@ -1,0 +1,13 @@
+{
+    "Full Name": "Margot, Tremblay",
+    "base": "Female | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "has a hot temper around the Party"
+    }
+}

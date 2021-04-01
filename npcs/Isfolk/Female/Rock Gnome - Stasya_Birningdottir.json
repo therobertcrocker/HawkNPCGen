@@ -1,19 +1,13 @@
 {
-    "given name": "Stasya",
-    "surname": "Birningdottir",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Rock Gnome"
-    },
+    "Full Name": "Stasya, Birningdottir",
+    "base": "Female | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Squints",
-        "interaction": "Argumentative"
+        "talent": "Skilled dancer",
+        "mannerism": "Chews something",
+        "interaction": "is always honest with the Party"
     }
 }

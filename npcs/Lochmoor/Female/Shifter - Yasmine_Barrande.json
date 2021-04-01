@@ -1,19 +1,13 @@
 {
-    "given name": "Yasmine",
-    "surname": "Barrande",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Yasmine, Barrande",
+    "base": "Female | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Expert carpenter",
-        "mannerism": "Prone to predictions of doom",
-        "interaction": "Ponderous"
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is quiet around the party"
     }
 }

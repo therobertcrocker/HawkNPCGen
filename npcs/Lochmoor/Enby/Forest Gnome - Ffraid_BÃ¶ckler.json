@@ -1,19 +1,13 @@
 {
-    "given name": "Ffraid",
-    "surname": "Böckler",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Ffraid, Böckler",
+    "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert juggler",
-        "mannerism": "Taps fingers",
-        "interaction": "Irritable"
+        "talent": "Perfect memory",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "finds the Party fascinating"
     }
 }

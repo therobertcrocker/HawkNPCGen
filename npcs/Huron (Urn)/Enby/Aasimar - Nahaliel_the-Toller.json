@@ -1,19 +1,13 @@
 {
-    "given name": "Nahaliel",
-    "surname": "the-Toller",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Nahaliel, the-Toller",
+    "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has a visible birthmark",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Speaks loudly",
-        "interaction": "Irritable"
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Oddvör",
-    "surname": "The Gentle",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Goliath"
-    },
+    "Full Name": "Oddvör, The Gentle",
+    "base": "Enby | Isfolk - Goliath",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Perfect memory",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Irritable"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

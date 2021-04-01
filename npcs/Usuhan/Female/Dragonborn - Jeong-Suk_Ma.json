@@ -1,19 +1,13 @@
 {
-    "given name": "Jeong-Suk",
-    "surname": "Ma",
-    "base": {
-        "gender": "Female",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Jeong-Suk, Ma",
+    "base": "Female | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great at solving puzzles",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Ponderous"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is suspicious of the Party"
     }
 }

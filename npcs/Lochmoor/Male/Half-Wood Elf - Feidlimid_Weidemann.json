@@ -1,19 +1,13 @@
 {
-    "given name": "Feidlimid",
-    "surname": "Weidemann",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Half-Wood Elf"
-    },
+    "Full Name": "Feidlimid, Weidemann",
+    "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Blustering"
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is curious about one member of the Party"
     }
 }

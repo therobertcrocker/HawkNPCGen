@@ -1,19 +1,13 @@
 {
-    "given name": "Dae-Jung",
-    "surname": "Kan",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Aaracokra"
-    },
+    "Full Name": "Dae-Jung, Kan",
+    "base": "Enby | Usuhan - Aaracokra",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Speaks several languages fluently",
-        "mannerism": "Taps fingers",
-        "interaction": "Irritable"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "is curious about one member of the Party"
     }
 }

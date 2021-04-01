@@ -1,0 +1,13 @@
+{
+    "Full Name": "Taavetti, Singasvensson",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Squints",
+        "interaction": "is easily irritated by the Party"
+    }
+}

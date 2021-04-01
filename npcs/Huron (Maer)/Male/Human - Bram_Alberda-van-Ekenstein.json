@@ -1,0 +1,13 @@
+{
+    "Full Name": "Bram, Alberda-van-Ekenstein",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is argumentative with the Party"
+    }
+}

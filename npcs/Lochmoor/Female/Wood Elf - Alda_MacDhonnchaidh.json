@@ -1,19 +1,13 @@
 {
-    "given name": "Alda",
-    "surname": "MacDhonnchaidh",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Alda, MacDhonnchaidh",
+    "base": "Female | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Quiet"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "is argumentative with the Party"
     }
 }

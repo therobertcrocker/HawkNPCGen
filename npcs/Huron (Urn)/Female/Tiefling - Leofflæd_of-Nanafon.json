@@ -1,19 +1,13 @@
 {
-    "given name": "Leofflæd",
-    "surname": "of-Nanafon",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Leofflæd, of-Nanafon",
+    "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
-        "talent": "Knows thievesâ€™ cant",
-        "mannerism": "Taps fingers",
-        "interaction": "Hot tempered"
+        "talent": "Paints beautifully",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is suspicious of the Party"
     }
 }

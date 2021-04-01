@@ -1,19 +1,13 @@
 {
-    "given name": "Gwaeddan",
-    "surname": "Singleir",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Gwaeddan, Singleir",
+    "base": "Enby | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "Friendly"
+        "mannerism": "Paces",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

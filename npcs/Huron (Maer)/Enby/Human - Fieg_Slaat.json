@@ -1,19 +1,13 @@
 {
-    "given name": "Fieg",
-    "surname": "Slaat",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Fieg, Slaat",
+    "base": "Enby | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Bites fingernails",
-        "interaction": "Quiet"
+        "talent": "None",
+        "mannerism": "Whispers",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

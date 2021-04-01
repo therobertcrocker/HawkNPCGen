@@ -1,19 +1,13 @@
 {
-    "given name": "Albin",
-    "surname": "MacNicol",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Albin, MacNicol",
+    "base": "Male | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Argumentative"
+        "talent": "Draws beautifully",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is always honest with the Party"
     }
 }

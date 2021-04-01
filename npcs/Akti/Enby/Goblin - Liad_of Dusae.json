@@ -1,19 +1,13 @@
 {
-    "given name": "Liad",
-    "surname": "of Dusae",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Liad, of Dusae",
+    "base": "Enby | Akti - Goblin",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Ponderous"
+        "talent": "Perfect memory",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is easily irritated by the Party"
     }
 }

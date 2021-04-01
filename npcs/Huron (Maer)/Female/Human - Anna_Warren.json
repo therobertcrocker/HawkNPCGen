@@ -1,19 +1,13 @@
 {
-    "given name": "Anna",
-    "surname": "Warren",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Anna, Warren",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Suspicious"
+        "talent": "Expert carpenter",
+        "mannerism": "Whispers",
+        "interaction": "is quiet around the party"
     }
 }

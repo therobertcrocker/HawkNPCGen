@@ -1,19 +1,13 @@
 {
-    "given name": "Sébire",
-    "surname": "Bakker",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Sébire, Bakker",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Rude"
+        "talent": "Expert carpenter",
+        "mannerism": "Chews something",
+        "interaction": "finds the Party fascinating"
     }
 }

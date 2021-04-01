@@ -1,19 +1,13 @@
 {
-    "given name": "Jago",
-    "surname": "FitzSimmons",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Jago, FitzSimmons",
+    "base": "Male | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Chews something",
-        "interaction": "Honest"
+        "talent": "Unbelievably lucky",
+        "mannerism": "Slurs words, lisps, or stutters",
+        "interaction": "is quiet around the party"
     }
 }

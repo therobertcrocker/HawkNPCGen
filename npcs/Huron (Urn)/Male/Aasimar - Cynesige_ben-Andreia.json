@@ -1,19 +1,13 @@
 {
-    "given name": "Cynesige",
-    "surname": "ben-Andreia",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Cynesige, ben-Andreia",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Drinks everyone under the table",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Arrogant"
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Bites fingernails",
+        "interaction": "is friendly towards the Party"
     }
 }

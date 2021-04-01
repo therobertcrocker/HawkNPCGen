@@ -1,19 +1,13 @@
 {
-    "given name": "Hrafn",
-    "surname": "Vikashev-Igorevich",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Hrafn, Vikashev-Igorevich",
+    "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Suspicious"
+        "talent": "Great with children",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is curious about one member of the Party"
     }
 }

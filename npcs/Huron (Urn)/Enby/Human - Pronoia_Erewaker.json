@@ -1,19 +1,13 @@
 {
-    "given name": "Pronoia",
-    "surname": "Erewaker",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Pronoia, Erewaker",
+    "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Rude"
+        "mannerism": "Whispers",
+        "interaction": "is suspicious of the Party"
     }
 }

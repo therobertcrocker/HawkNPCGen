@@ -1,19 +1,13 @@
 {
-    "given name": "Zuriel",
-    "surname": "Bamard",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Zuriel, Bamard",
+    "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Paints beautifully",
-        "mannerism": "Bites fingernails",
-        "interaction": "Suspicious"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Squints",
+        "interaction": "is always honest with the Party"
     }
 }

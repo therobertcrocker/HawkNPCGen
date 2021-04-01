@@ -1,19 +1,13 @@
 {
-    "given name": "Agrippina",
-    "surname": "Nesemkhue",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Agrippina, Nesemkhue",
+    "base": "Female | Akti - Goblin",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Hot tempered"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "finds the Party fascinating"
     }
 }

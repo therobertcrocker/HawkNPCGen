@@ -1,19 +1,13 @@
 {
-    "given name": "Dagrún",
-    "surname": "Khurtina-Borisovna",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Dagrún, Khurtina-Borisovna",
+    "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is exceptionally ugly",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Skilled dancer",
+        "talent": "Drinks everyone under the table",
         "mannerism": "Prone to predictions of doom",
-        "interaction": "Ponderous"
+        "interaction": "is always honest with the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Torfey",
-    "surname": "Nesterova-Rodionovnchka",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Half-Orc"
-    },
+    "Full Name": "Torfey, Nesterova-Rodionovnchka",
+    "base": "Enby | Isfolk - Half-Orc",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Hot tempered"
+        "mannerism": "Squints",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Anna",
-    "surname": "Dufay",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Anna, Dufay",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
-        "interaction": "Friendly"
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "has a hot temper around the Party"
     }
 }

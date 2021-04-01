@@ -1,19 +1,13 @@
 {
-    "given name": "Wiebe",
-    "surname": "Berendsen",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Wiebe, Berendsen",
+    "base": "Male | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Rude"
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Paces",
+        "interaction": "is rude to just one member of the Party"
     }
 }

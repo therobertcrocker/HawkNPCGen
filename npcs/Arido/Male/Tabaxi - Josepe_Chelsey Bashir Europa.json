@@ -1,19 +1,13 @@
 {
-    "given name": "Josepe",
-    "surname": "Chelsey Bashir Europa",
-    "base": {
-        "gender": "Male",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Josepe, Chelsey Bashir Europa",
+    "base": "Male | Arido - Tabaxi",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
-        "interaction": "Curious"
+        "mannerism": "Taps fingers",
+        "interaction": "finds the Party fascinating"
     }
 }

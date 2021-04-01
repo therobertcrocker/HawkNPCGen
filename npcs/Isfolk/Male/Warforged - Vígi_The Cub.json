@@ -1,19 +1,13 @@
 {
-    "given name": "Vígi",
-    "surname": "The Cub",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Warforged"
-    },
+    "Full Name": "Vígi, The Cub",
+    "base": "Male | Isfolk - Warforged",
     "traits": {
-        "appearance": "Flamboyant or outlandish clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Blustering"
+        "talent": "Expert cook",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is easily irritated by the Party"
     }
 }

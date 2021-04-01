@@ -1,19 +1,13 @@
 {
-    "given name": "Eelco",
-    "surname": "Mac-Cárthaigh",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Eelco, Mac-Cárthaigh",
+    "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Blustering"
+        "mannerism": "Paces",
+        "interaction": "is rude to just one member of the Party"
     }
 }

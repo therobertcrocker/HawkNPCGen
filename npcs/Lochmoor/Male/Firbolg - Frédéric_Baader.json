@@ -1,19 +1,13 @@
 {
-    "given name": "Frédéric",
-    "surname": "Baader",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Frédéric, Baader",
+    "base": "Male | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Squints",
-        "interaction": "Arrogant"
+        "talent": "Perfect memory",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is curious about one member of the Party"
     }
 }

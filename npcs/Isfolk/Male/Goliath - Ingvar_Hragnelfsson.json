@@ -1,19 +1,13 @@
 {
-    "given name": "Ingvar",
-    "surname": "Hragnelfsson",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Goliath"
-    },
+    "Full Name": "Ingvar, Hragnelfsson",
+    "base": "Male | Isfolk - Goliath",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has braided beard or hair",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
-        "interaction": "Ponderous"
+        "talent": "Great at one game",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

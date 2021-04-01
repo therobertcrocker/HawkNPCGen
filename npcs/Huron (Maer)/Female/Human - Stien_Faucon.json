@@ -1,19 +1,13 @@
 {
-    "given name": "Stien",
-    "surname": "Faucon",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Maer)",
-        "race": "Human"
-    },
+    "Full Name": "Stien, Faucon",
+    "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Curious"
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is suspicious of the Party"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Ámbar",
-    "surname": "Loretta Kulubot Capulong",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Ámbar, Loretta Kulubot Capulong",
+    "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Intelligence - dim-witted, slow"
+        "appearance": "has visible tattoos",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Whispers",
-        "interaction": "Blustering"
+        "talent": "Draws beautifully",
+        "mannerism": "Paces",
+        "interaction": "finds the Party fascinating"
     }
 }

@@ -1,19 +1,13 @@
 {
-    "given name": "Ælfheah",
-    "surname": "Trezise",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Ælfheah, Trezise",
+    "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
-        "interaction": "Suspicious"
+        "mannerism": "Stares into the distance",
+        "interaction": "is quiet around the party"
     }
 }

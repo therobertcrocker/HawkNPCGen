@@ -1,19 +1,13 @@
 {
-    "given name": "Twirlkiss",
-    "surname": "MacNicol",
-    "base": {
-        "gender": "Female",
-        "culture": "Lochmoor",
-        "race": "Firbolg"
-    },
+    "Full Name": "Twirlkiss, MacNicol",
+    "base": "Female | Lochmoor - Firbolg",
     "traits": {
-        "appearance": "Missing fingers",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
-        "interaction": "Blustering"
+        "mannerism": "Squints",
+        "interaction": "is easily irritated by the Party"
     }
 }

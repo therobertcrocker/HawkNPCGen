@@ -1,19 +1,13 @@
 {
-    "given name": "Brichheve",
-    "surname": "Merrick",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Brichheve, Merrick",
+    "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Braided beard or hair",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "Honest"
+        "mannerism": "Fidgets",
+        "interaction": "is suspicious of the Party"
     }
 }

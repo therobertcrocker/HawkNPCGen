@@ -1,0 +1,13 @@
+{
+    "Full Name": "Atsuko, Ki",
+    "base": "Female | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "has a hot temper around the Party"
+    }
+}

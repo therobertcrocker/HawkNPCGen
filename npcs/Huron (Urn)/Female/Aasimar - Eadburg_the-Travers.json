@@ -1,19 +1,13 @@
 {
-    "given name": "Eadburg",
-    "surname": "the-Travers",
-    "base": {
-        "gender": "Female",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Eadburg, the-Travers",
+    "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Uses flowery speech or long words",
-        "interaction": "Curious"
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

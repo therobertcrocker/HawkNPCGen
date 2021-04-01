@@ -1,19 +1,13 @@
 {
-    "given name": "Twan",
-    "surname": "Gérard",
-    "base": {
-        "gender": "Enby",
-        "culture": "Lochmoor",
-        "race": "Wood Elf"
-    },
+    "Full Name": "Twan, Gérard",
+    "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Suspicious"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "wants something from the Party"
     }
 }

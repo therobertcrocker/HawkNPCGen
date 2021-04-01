@@ -1,19 +1,13 @@
 {
-    "given name": "Venerandus",
-    "surname": "Aesinus Siagena",
-    "base": {
-        "gender": "Enby",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Venerandus, Aesinus Siagena",
+    "base": "Enby | Akti - Goblin",
     "traits": {
-        "appearance": "Distinctive nose",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Blustering"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is suspicious of the Party"
     }
 }

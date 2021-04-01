@@ -1,19 +1,13 @@
 {
-    "given name": "Basilius",
-    "surname": "Cianiusorn Perstiusa",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Basilius, Cianiusorn Perstiusa",
+    "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Taps fingers",
-        "interaction": "Curious"
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "finds the Party fascinating"
     }
 }

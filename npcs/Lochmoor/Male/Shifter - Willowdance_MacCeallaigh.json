@@ -1,19 +1,13 @@
 {
-    "given name": "Willowdance",
-    "surname": "MacCeallaigh",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Shifter"
-    },
+    "Full Name": "Willowdance, MacCeallaigh",
+    "base": "Male | Lochmoor - Shifter",
     "traits": {
-        "appearance": "Ragged, dirty clothes",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Charisma - dull, boring"
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
-        "interaction": "Suspicious"
+        "talent": "None",
+        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "interaction": "is suspicious of the Party"
     }
 }

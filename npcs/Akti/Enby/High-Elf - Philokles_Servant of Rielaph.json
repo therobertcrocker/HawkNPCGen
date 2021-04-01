@@ -1,0 +1,13 @@
+{
+    "Full Name": "Philokles, Servant of Rielaph",
+    "base": "Enby | Akti - High-Elf",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Whispers",
+        "interaction": "is quiet around the party"
+    }
+}

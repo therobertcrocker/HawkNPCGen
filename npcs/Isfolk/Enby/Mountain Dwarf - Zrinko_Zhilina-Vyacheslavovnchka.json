@@ -1,19 +1,13 @@
 {
-    "given name": "Zrinko",
-    "surname": "Zhilina-Vyacheslavovnchka",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Zrinko, Zhilina-Vyacheslavovnchka",
+    "base": "Enby | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Nervous eye twitch",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
-        "interaction": "Quiet"
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is rude to just one member of the Party"
     }
 }

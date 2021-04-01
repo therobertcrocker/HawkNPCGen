@@ -1,19 +1,13 @@
 {
-    "given name": "Uzziel",
-    "surname": "of-Langwyke",
-    "base": {
-        "gender": "Enby",
-        "culture": "Huron (Urn)",
-        "race": "Human"
-    },
+    "Full Name": "Uzziel, of-Langwyke",
+    "base": "Enby | Huron (Urn) - Human",
     "traits": {
-        "appearance": "Missing teeth",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
-        "interaction": "Arrogant"
+        "mannerism": "Taps fingers",
+        "interaction": "is easily irritated by the Party"
     }
 }

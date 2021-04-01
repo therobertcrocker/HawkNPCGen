@@ -1,19 +1,13 @@
 {
-    "given name": "Hyo-Joo",
-    "surname": "Kye",
-    "base": {
-        "gender": "Enby",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Hyo-Joo, Kye",
+    "base": "Enby | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Birthmark",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Great at one game",
-        "mannerism": "Taps fingers",
-        "interaction": "Honest"
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is always honest with the Party"
     }
 }

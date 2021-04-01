@@ -1,19 +1,13 @@
 {
-    "given name": "Crispus",
-    "surname": "Nefere",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Goblin"
-    },
+    "Full Name": "Crispus, Nefere",
+    "base": "Male | Akti - Goblin",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Whispers",
-        "interaction": "Blustering"
+        "talent": "Sings beautifully",
+        "mannerism": "Squints",
+        "interaction": "believes themselves of higher status than the Party"
     }
 }

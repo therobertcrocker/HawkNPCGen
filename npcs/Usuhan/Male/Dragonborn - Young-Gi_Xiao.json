@@ -1,19 +1,13 @@
 {
-    "given name": "Young-Gi",
-    "surname": "Xiao",
-    "base": {
-        "gender": "Male",
-        "culture": "Usuhan",
-        "race": "Dragonborn"
-    },
+    "Full Name": "Young-Gi, Xiao",
+    "base": "Male | Usuhan - Dragonborn",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Chews something",
-        "interaction": "Irritable"
+        "interaction": "is friendly towards the Party"
     }
 }

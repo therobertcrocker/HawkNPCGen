@@ -1,19 +1,13 @@
 {
-    "given name": "Delia",
-    "surname": "Cerecero",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Tabaxi"
-    },
+    "Full Name": "Delia, Cerecero",
+    "base": "Female | Arido - Tabaxi",
     "traits": {
-        "appearance": "Piercings",
-        "high ability": "Wisdom - perceptive, spiritual, insightful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Expert carpenter",
+        "talent": "None",
         "mannerism": "Prone to predictions of doom",
-        "interaction": "Quiet"
+        "interaction": "has a hot temper around the Party"
     }
 }

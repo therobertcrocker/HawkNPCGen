@@ -1,19 +1,13 @@
 {
-    "given name": "Pasco",
-    "surname": "ben-Li Ran",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Aasimar"
-    },
+    "Full Name": "Pasco, ben-Li Ran",
+    "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
-        "appearance": "Pronounced scar",
-        "high ability": "Charisma - persuasive, forceful, born leader",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
-        "mannerism": "Fidgets",
-        "interaction": "Hot tempered"
+        "talent": "None",
+        "mannerism": "Particularly low or high voice",
+        "interaction": "is suspicious of the Party"
     }
 }

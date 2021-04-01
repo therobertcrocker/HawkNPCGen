@@ -1,19 +1,13 @@
 {
-    "given name": "Aputsiaq",
-    "surname": "Hermundson",
-    "base": {
-        "gender": "Male",
-        "culture": "Isfolk",
-        "race": "Orc"
-    },
+    "Full Name": "Aputsiaq, Hermundson",
+    "base": "Male | Isfolk - Orc",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Skilled dancer",
-        "mannerism": "Squints",
-        "interaction": "Ponderous"
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "wants something from the Party"
     }
 }

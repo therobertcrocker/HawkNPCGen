@@ -1,19 +1,13 @@
 {
-    "given name": "Sorne",
-    "surname": "Carla Luso-Luso Cabungcal",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Sorne, Carla Luso-Luso Cabungcal",
+    "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": "Exceptionally beautiful",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Strength - feeble, scrawny"
+        "appearance": "is missing teeth",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
-        "interaction": "Irritable"
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is easily irritated by the Party"
     }
 }

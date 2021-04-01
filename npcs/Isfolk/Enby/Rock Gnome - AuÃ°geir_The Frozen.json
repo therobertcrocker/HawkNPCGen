@@ -1,19 +1,13 @@
 {
-    "given name": "Auðgeir",
-    "surname": "The Frozen",
-    "base": {
-        "gender": "Enby",
-        "culture": "Isfolk",
-        "race": "Rock Gnome"
-    },
+    "Full Name": "Auðgeir, The Frozen",
+    "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
-        "appearance": "Bald",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Dexterity - clumsy, fumbling"
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Great with children",
-        "mannerism": "Twirls hair or tugs beard",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "is always honest with the Party"
     }
 }

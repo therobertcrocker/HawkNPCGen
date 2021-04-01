@@ -1,19 +1,13 @@
 {
-    "given name": "Quickcloud",
-    "surname": "Wolf",
-    "base": {
-        "gender": "Male",
-        "culture": "Lochmoor",
-        "race": "Forest Gnome"
-    },
+    "Full Name": "Quickcloud, Wolf",
+    "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Fidgets",
-        "interaction": "Quiet"
+        "talent": "Great at one game",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is quiet around the party"
     }
 }

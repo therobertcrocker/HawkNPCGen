@@ -1,19 +1,13 @@
 {
-    "given name": "Bihotz",
-    "surname": "Taryn Abucay Agbayani",
-    "base": {
-        "gender": "Female",
-        "culture": "Arido",
-        "race": "Genasi"
-    },
+    "Full Name": "Bihotz, Taryn Abucay Agbayani",
+    "base": "Female | Arido - Genasi",
     "traits": {
-        "appearance": "Unusual eye color (or two different colors)",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "has a visible birthmark",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Hot tempered"
+        "talent": "Great at solving puzzles",
+        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "interaction": "is suspicious of the Party"
     }
 }

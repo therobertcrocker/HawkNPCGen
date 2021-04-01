@@ -1,19 +1,13 @@
 {
-    "given name": "Eugraphios",
-    "surname": "of Melis",
-    "base": {
-        "gender": "Male",
-        "culture": "Akti",
-        "race": "Sea-Elf"
-    },
+    "Full Name": "Eugraphios, of Melis",
+    "base": "Male | Akti - Sea-Elf",
     "traits": {
-        "appearance": "Distinctive posture (crooked or rigid)",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Constitution - sickly, pale"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Sings beautifully",
-        "mannerism": "Stares into the distance",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "wants something from the Party"
     }
 }

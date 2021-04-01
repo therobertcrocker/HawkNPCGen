@@ -1,19 +1,13 @@
 {
-    "given name": "Rani",
-    "surname": "of-Llynburgh",
-    "base": {
-        "gender": "Male",
-        "culture": "Huron (Urn)",
-        "race": "Tiefling"
-    },
+    "Full Name": "Rani, of-Llynburgh",
+    "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Dexterity - lithe, agile, graceful",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Expert cook",
-        "mannerism": "Slurs words, lisps, or stutters",
-        "interaction": "Friendly"
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is quiet around the party"
     }
 }

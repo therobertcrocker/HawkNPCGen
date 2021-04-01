@@ -1,19 +1,13 @@
 {
-    "given name": "Þórví",
-    "surname": "Valtteridottir",
-    "base": {
-        "gender": "Female",
-        "culture": "Isfolk",
-        "race": "Mountain Dwarf"
-    },
+    "Full Name": "Þórví, Valtteridottir",
+    "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "Unusual hair color",
-        "high ability": "Intelligence - studious, learned, inquisitive",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Plays a musical instrument",
-        "mannerism": "Taps fingers",
-        "interaction": "Argumentative"
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "is quiet around the party"
     }
 }

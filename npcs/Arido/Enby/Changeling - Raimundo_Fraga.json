@@ -1,19 +1,13 @@
 {
-    "given name": "Raimundo",
-    "surname": "Fraga",
-    "base": {
-        "gender": "Enby",
-        "culture": "Arido",
-        "race": "Changeling"
-    },
+    "Full Name": "Raimundo, Fraga",
+    "base": "Enby | Arido - Changeling",
     "traits": {
-        "appearance": "Tattoos",
-        "high ability": "Constitution - hardy, hale, healthy",
-        "low ability": "Wisdom - oblivious, absentminded"
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
-        "interaction": "Arrogant"
+        "mannerism": "Speaks loudly",
+        "interaction": "is quiet around the party"
     }
 }

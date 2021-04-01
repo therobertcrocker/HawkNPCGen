@@ -1,19 +1,13 @@
 {
-    "given name": "Rhodopis",
-    "surname": "of Iapos",
-    "base": {
-        "gender": "Female",
-        "culture": "Akti",
-        "race": "Triton"
-    },
+    "Full Name": "Rhodopis, of Iapos",
+    "base": "Female | Akti - Triton",
     "traits": {
-        "appearance": "Unusual skin color",
-        "high ability": "Strength - powerful, brawny, strong as an ox",
-        "low ability": "Charisma - dull, boring"
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
-        "talent": "Great at impersonations",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "Curious"
+        "talent": "Great with children",
+        "mannerism": "Bites fingernails",
+        "interaction": "is always honest with the Party"
     }
 }

@@ -1,0 +1,13 @@
+{
+    "Full Name": "Lyubochka, Hallbjorndottir",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Enunciates overly clearly",
+        "interaction": "has a hot temper around the Party"
+    }
+}
