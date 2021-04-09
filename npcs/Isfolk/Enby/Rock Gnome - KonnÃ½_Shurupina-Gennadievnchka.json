@@ -1,0 +1,19 @@
+{
+    "name": "Konný, Shurupina-Gennadievnchka",
+    "base": "Enby | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Sighs after each sentence"
+    }
+}

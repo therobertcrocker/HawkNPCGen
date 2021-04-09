@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gwanwyn, Seck",
+    "name": "Gwanwyn, Seck",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "clenched teeth"
     }
 }

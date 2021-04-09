@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hippolytos, Child of Allis of Cardia",
+    "name": "Hippolytos, Child of Allis of Cardia",
     "base": "Enby | Akti - Hill Dwarf",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Monotonous"
     }
 }

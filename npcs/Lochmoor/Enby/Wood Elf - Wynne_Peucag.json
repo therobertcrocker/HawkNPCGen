@@ -1,13 +1,19 @@
 {
-    "Full Name": "Wynne, Peucag",
+    "name": "Wynne, Peucag",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Bites fingernails",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Katja, Oortveld",
+    "name": "Katja, Oortveld",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Baldehuia, wife-of-Freothul",
+    "name": "Baldehuia, wife-of-Freothul",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Fidgets",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "severe overbite"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Atsuko, Ki",
+    "name": "Atsuko, Ki",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Chews something",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gil, Minaberrieta",
+    "name": "Gil, Minaberrieta",
     "base": "Male | Arido - Changeling",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Speaks several languages fluently",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "talks in third person"
     }
 }

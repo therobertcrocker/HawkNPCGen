@@ -1,13 +1,19 @@
 {
-    "Full Name": "Mathias, Gislibarn",
+    "name": "Mathias, Gislibarn",
     "base": "Enby | Isfolk - Half-Orc",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Stares into the distance",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

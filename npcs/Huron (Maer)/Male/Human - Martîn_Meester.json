@@ -1,13 +1,19 @@
 {
-    "Full Name": "Martîn, Meester",
+    "name": "Martîn, Meester",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

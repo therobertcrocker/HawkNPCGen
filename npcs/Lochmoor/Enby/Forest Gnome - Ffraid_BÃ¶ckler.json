@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ffraid, Böckler",
+    "name": "Ffraid, Böckler",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

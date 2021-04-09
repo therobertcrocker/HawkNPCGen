@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tadhg, Alméras",
+    "name": "Tadhg, Alméras",
     "base": "Male | Lochmoor - Firbolg",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

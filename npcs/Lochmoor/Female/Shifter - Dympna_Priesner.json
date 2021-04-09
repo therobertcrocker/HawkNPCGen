@@ -1,13 +1,19 @@
 {
-    "Full Name": "Dympna, Priesner",
+    "name": "Dympna, Priesner",
     "base": "Female | Lochmoor - Shifter",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Always over-exaggerates"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Joanne, Binger",
+    "name": "Joanne, Binger",
     "base": "Female | Lochmoor - Shifter",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Paces",
+        "mannerism": "Glances out the window ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "barely opens lips"
     }
 }

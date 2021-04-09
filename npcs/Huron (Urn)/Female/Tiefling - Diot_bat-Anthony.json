@@ -1,0 +1,19 @@
+{
+    "name": "Diot, bat-Anthony",
+    "base": "Female | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Will always end their sentences going upwards in tone"
+    }
+}

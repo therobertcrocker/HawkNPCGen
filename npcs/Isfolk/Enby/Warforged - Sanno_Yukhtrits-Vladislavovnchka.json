@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sanno, Yukhtrits-Vladislavovnchka",
+    "name": "Sanno, Yukhtrits-Vladislavovnchka",
     "base": "Enby | Isfolk - Warforged",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Always looks as if they are chewing on something ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "mouth is always full when talking"
     }
 }

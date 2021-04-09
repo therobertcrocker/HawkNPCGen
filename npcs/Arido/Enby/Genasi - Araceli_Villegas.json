@@ -1,13 +1,19 @@
 {
-    "Full Name": "Araceli, Villegas",
+    "name": "Araceli, Villegas",
     "base": "Enby | Arido - Genasi",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Fearful at the sight of drawn weapons ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Light lisp"
     }
 }

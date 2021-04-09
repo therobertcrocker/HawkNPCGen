@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tsagadai, the-Fuller",
+    "name": "Tsagadai, the-Fuller",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Squints",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "severe underbite"
     }
 }

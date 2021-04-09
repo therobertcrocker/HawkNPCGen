@@ -1,13 +1,19 @@
 {
-    "Full Name": "Matariel, the-Frobisher",
+    "name": "Matariel, the-Frobisher",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Licks lips while speaking",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "talks in third person"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Mark, Grimhildbarn",
+    "base": "Enby | Isfolk - Orc",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "uses thee's and thou's"
+    }
+}

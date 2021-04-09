@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gurutze, Ascorbebeitia",
+    "name": "Gurutze, Ascorbebeitia",
     "base": "Female | Arido - Genasi",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Taps fingers",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Light lisp"
     }
 }

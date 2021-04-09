@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hafgrímur, Bolshakova-Zakharovnchka",
+    "name": "Hafgrímur, Bolshakova-Zakharovnchka",
     "base": "Enby | Isfolk - Half-Orc",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Never looks in people's eyes ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hadariel, Prideaux",
+    "name": "Hadariel, Prideaux",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Licks lips while speaking",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "stuffy nose"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cruzita, Arroquy",
+    "name": "Cruzita, Arroquy",
     "base": "Female | Arido - Tabaxi",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "Speaks several languages fluently",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Clicks tongue",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "clenched teeth"
     }
 }

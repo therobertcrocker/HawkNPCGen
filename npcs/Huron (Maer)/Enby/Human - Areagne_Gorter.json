@@ -1,13 +1,19 @@
 {
-    "Full Name": "Areagne, Gorter",
+    "name": "Areagne, Gorter",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
     }
 }

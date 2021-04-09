@@ -1,13 +1,19 @@
 {
-    "Full Name": "Marko, Cerecero",
+    "name": "Marko, Cerecero",
     "base": "Male | Arido - Drow",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Squints",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats the last word you say before responding"
     }
 }

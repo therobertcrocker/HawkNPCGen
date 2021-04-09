@@ -1,13 +1,19 @@
 {
-    "Full Name": "Renaud, Thiers",
+    "name": "Renaud, Thiers",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Fidgets",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "severe underbite"
     }
 }

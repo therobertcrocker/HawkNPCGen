@@ -1,13 +1,19 @@
 {
-    "Full Name": "Wymond, Treweek",
+    "name": "Wymond, Treweek",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Never looks in people's eyes ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

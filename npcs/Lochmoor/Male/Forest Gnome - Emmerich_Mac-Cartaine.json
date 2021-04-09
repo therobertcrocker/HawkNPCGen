@@ -1,13 +1,19 @@
 {
-    "Full Name": "Emmerich, Mac-Cartaine",
+    "name": "Emmerich, Mac-Cartaine",
     "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Nervously flips a coin through fingers ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "mutters to self"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Agrippina, Nesemkhue",
+    "name": "Agrippina, Nesemkhue",
     "base": "Female | Akti - Goblin",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Never sits down while talking ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "stuffy nose"
     }
 }

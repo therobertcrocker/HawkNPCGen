@@ -1,0 +1,19 @@
+{
+    "name": "Tuilelaith, Ó-hAimheirgin",
+    "base": "Enby | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "severe underbite"
+    }
+}

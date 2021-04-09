@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tomasa, Crotilda Lopa Deseo",
+    "name": "Tomasa, Crotilda Lopa Deseo",
     "base": "Female | Arido - Changeling",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "talks in third person"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rikuto, Ham",
+    "name": "Rikuto, Ham",
     "base": "Male | Usuhan - Kenku",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Won't stop itching",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Till, Sibbibarn",
+    "base": "Enby | Isfolk - Orc",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

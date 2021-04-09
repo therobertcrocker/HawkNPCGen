@@ -1,0 +1,19 @@
+{
+    "name": "Martîn, Boeks",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

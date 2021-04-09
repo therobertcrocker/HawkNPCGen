@@ -1,13 +1,19 @@
 {
-    "Full Name": "Fabia, of Cinius",
+    "name": "Fabia, of Cinius",
     "base": "Enby | Akti - Triton",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "pauses often"
     }
 }

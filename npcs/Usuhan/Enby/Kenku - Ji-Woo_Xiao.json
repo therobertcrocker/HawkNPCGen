@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ji-Woo, Xiao",
+    "name": "Ji-Woo, Xiao",
     "base": "Enby | Usuhan - Kenku",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

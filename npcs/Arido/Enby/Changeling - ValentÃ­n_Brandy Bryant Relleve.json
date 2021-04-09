@@ -1,0 +1,19 @@
+{
+    "name": "Valentín, Brandy Bryant Relleve",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Constantly taps elbow ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "slurrs words"
+    }
+}

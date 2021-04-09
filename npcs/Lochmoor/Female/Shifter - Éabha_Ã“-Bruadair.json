@@ -1,13 +1,19 @@
 {
-    "Full Name": "Éabha, Ã“-Bruadair",
+    "name": "Éabha, Ã“-Bruadair",
     "base": "Female | Lochmoor - Shifter",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Squints",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "staccato speech"
     }
 }

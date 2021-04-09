@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kristenn, Wiegerink",
+    "name": "Kristenn, Wiegerink",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

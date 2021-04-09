@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jago, the-Toller",
+    "name": "Jago, the-Toller",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Chews something",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
     }
 }

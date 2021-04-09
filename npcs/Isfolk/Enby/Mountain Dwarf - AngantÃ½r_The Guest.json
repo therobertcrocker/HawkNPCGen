@@ -1,13 +1,19 @@
 {
-    "Full Name": "Angantýr, The Guest",
+    "name": "Angantýr, The Guest",
     "base": "Enby | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Chews something",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "pauses often"
     }
 }

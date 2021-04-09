@@ -1,13 +1,19 @@
 {
-    "Full Name": "Till, Agmundrbarn",
+    "name": "Till, Agmundrbarn",
     "base": "Enby | Isfolk - Goliath",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Squints",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "severe overbite"
     }
 }

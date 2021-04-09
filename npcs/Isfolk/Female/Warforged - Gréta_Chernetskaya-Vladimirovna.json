@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gréta, Chernetskaya-Vladimirovna",
+    "name": "Gréta, Chernetskaya-Vladimirovna",
     "base": "Female | Isfolk - Warforged",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Constantly slouches ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "never stops to breathe"
     }
 }

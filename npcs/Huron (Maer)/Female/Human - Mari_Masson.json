@@ -1,0 +1,19 @@
+{
+    "name": "Mari, Masson",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly slouches ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

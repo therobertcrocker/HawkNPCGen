@@ -1,0 +1,19 @@
+{
+    "name": "Phul, yeled-Or-Chen",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Inka, Fokkens",
+    "name": "Inka, Fokkens",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Stutters"
     }
 }

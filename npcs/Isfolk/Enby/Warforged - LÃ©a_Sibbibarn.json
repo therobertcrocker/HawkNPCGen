@@ -1,13 +1,19 @@
 {
-    "Full Name": "Léa, Sibbibarn",
+    "name": "Léa, Sibbibarn",
     "base": "Enby | Isfolk - Warforged",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Fidgets",
+        "mannerism": "Readjusts belt when speaking ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

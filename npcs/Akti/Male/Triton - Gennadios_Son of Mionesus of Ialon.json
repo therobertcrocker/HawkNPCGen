@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gennadios, Son of Mionesus of Ialon",
+    "name": "Gennadios, Son of Mionesus of Ialon",
     "base": "Male | Akti - Triton",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "stuffy nose"
     }
 }

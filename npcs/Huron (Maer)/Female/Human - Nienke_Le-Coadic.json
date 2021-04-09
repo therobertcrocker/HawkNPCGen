@@ -1,13 +1,19 @@
 {
-    "Full Name": "Nienke, Le-Coadic",
+    "name": "Nienke, Le-Coadic",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "stuffy nose"
     }
 }

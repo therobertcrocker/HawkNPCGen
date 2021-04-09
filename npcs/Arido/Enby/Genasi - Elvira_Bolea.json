@@ -1,13 +1,19 @@
 {
-    "Full Name": "Elvira, Bolea",
+    "name": "Elvira, Bolea",
     "base": "Enby | Arido - Genasi",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Squints",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }

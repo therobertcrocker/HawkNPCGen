@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ealdwine, Laken",
+    "name": "Ealdwine, Laken",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

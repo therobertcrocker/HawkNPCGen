@@ -1,13 +1,19 @@
 {
-    "Full Name": "Randel, Gower",
+    "name": "Randel, Gower",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "clenched teeth"
     }
 }

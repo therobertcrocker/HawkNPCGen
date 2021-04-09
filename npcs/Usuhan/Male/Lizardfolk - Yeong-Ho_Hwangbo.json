@@ -1,0 +1,19 @@
+{
+    "name": "Yeong-Ho, Hwangbo",
+    "base": "Male | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Fearful at the sight of drawn weapons ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "opens mouth too wide"
+    }
+}

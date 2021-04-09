@@ -1,13 +1,19 @@
 {
-    "Full Name": "Myeong, Hong",
+    "name": "Myeong, Hong",
     "base": "Male | Usuhan - Kenku",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Paces",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

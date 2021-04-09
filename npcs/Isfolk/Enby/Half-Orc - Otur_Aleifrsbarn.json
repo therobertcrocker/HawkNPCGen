@@ -1,13 +1,19 @@
 {
-    "Full Name": "Otur, Aleifrsbarn",
+    "name": "Otur, Aleifrsbarn",
     "base": "Enby | Isfolk - Half-Orc",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Chews something",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "staccato speech"
     }
 }

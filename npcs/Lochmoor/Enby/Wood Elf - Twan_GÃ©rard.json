@@ -1,13 +1,19 @@
 {
-    "Full Name": "Twan, Gérard",
+    "name": "Twan, Gérard",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "clenched teeth"
     }
 }

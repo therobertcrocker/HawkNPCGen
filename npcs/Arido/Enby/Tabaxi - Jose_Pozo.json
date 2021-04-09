@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jose, Pozo",
+    "name": "Jose, Pozo",
     "base": "Enby | Arido - Tabaxi",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "stuffy nose"
     }
 }

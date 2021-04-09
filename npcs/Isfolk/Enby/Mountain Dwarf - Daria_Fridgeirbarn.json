@@ -1,0 +1,19 @@
+{
+    "name": "Daria, Fridgeirbarn",
+    "base": "Enby | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

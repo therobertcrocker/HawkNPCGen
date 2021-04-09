@@ -1,13 +1,19 @@
 {
-    "Full Name": "Belén, Mesonero",
+    "name": "Belén, Mesonero",
     "base": "Female | Arido - Genasi",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Is constantly hungry ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

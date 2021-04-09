@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ailbhe, Ó-Labhradha",
+    "name": "Ailbhe, Ó-Labhradha",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Clicks tongue",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "stuffy nose"
     }
 }

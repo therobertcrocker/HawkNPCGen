@@ -1,0 +1,19 @@
+{
+    "name": "Agnes, Ketine",
+    "base": "Female | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

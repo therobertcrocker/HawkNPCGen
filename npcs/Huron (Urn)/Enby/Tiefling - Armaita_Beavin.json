@@ -1,0 +1,19 @@
+{
+    "name": "Armaita, Beavin",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "severe overbite"
+    }
+}

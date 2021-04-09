@@ -1,13 +1,19 @@
 {
-    "Full Name": "Leofflæd, of-Nanafon",
+    "name": "Leofflæd, of-Nanafon",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Won't stop itching",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

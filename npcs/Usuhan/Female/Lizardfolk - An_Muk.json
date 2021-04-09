@@ -1,13 +1,19 @@
 {
-    "Full Name": "An, Muk",
+    "name": "An, Muk",
     "base": "Female | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Bites fingernails",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Carthach, Alméras",
+    "name": "Carthach, Alméras",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Agrees with everything a particular PC says ",
         "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "lots of like"
     }
 }

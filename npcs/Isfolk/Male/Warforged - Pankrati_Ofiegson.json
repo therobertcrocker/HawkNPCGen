@@ -1,13 +1,19 @@
 {
-    "Full Name": "Pankrati, Ofiegson",
+    "name": "Pankrati, Ofiegson",
     "base": "Male | Isfolk - Warforged",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Squints",
+        "mannerism": "Fearful at the sight of drawn weapons ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Stutters"
     }
 }

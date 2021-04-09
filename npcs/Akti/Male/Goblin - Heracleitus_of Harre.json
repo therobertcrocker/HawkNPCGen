@@ -1,13 +1,19 @@
 {
-    "Full Name": "Heracleitus, of Harre",
+    "name": "Heracleitus, of Harre",
     "base": "Male | Akti - Goblin",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

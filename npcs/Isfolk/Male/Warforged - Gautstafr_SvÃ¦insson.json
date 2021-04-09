@@ -1,0 +1,19 @@
+{
+    "name": "Gautstafr, Svæinsson",
+    "base": "Male | Isfolk - Warforged",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

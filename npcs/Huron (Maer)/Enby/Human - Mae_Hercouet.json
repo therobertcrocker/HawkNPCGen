@@ -1,13 +1,19 @@
 {
-    "Full Name": "Mae, Hercouet",
+    "name": "Mae, Hercouet",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Paces",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Incoherent except for a few key words"
     }
 }

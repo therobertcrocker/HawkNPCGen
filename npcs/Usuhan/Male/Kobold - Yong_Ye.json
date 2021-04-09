@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yong, Ye",
+    "name": "Yong, Ye",
     "base": "Male | Usuhan - Kobold",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Prone to predictions of doom",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Stutters"
     }
 }

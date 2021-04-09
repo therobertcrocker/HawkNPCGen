@@ -1,0 +1,19 @@
+{
+    "name": "Evrawg, Ó-Maol Máirthín",
+    "base": "Enby | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "never stops to breathe"
+    }
+}

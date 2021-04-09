@@ -1,13 +1,19 @@
 {
-    "Full Name": "Azeneth, Jose Cubero",
+    "name": "Azeneth, Jose Cubero",
     "base": "Female | Arido - Tabaxi",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Is constantly hungry ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats the last word you say before responding"
     }
 }

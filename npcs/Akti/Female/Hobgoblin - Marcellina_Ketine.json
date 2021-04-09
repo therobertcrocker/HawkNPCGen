@@ -1,0 +1,19 @@
+{
+    "name": "Marcellina, Ketine",
+    "base": "Female | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Never looks in people's eyes ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "staccato speech"
+    }
+}

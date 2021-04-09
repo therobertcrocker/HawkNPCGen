@@ -1,0 +1,19 @@
+{
+    "name": "Oanez, Seymour",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Stares into the distance",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "uses thee's and thou's"
+    }
+}

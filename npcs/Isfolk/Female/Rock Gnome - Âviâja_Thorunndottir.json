@@ -1,13 +1,19 @@
 {
-    "Full Name": "Âviâja, Thorunndottir",
+    "name": "Âviâja, Thorunndottir",
     "base": "Female | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Clicks tongue",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "all Th-sounds become Z-sounds"
     }
 }

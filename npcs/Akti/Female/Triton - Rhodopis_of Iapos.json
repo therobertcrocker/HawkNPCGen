@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rhodopis, of Iapos",
+    "name": "Rhodopis, of Iapos",
     "base": "Female | Akti - Triton",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Won't stop itching",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "stuffy nose"
     }
 }

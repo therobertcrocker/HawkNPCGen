@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yannig, Duursma",
+    "name": "Yannig, Duursma",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "slurrs words"
     }
 }

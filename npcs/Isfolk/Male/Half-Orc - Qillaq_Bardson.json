@@ -1,0 +1,19 @@
+{
+    "name": "Qillaq, Bardson",
+    "base": "Male | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Clicks tongue",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Monotonous"
+    }
+}

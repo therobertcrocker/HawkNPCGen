@@ -1,0 +1,19 @@
+{
+    "name": "Mildþryð, Treweek",
+    "base": "Female | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "lots of like"
+    }
+}

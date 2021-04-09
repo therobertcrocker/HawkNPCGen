@@ -1,13 +1,19 @@
 {
-    "Full Name": "Doirend, Ó-Labhradha",
+    "name": "Doirend, Ó-Labhradha",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

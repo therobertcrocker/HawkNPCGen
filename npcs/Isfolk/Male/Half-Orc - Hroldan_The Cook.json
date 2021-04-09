@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hroldan, The Cook",
+    "name": "Hroldan, The Cook",
     "base": "Male | Isfolk - Half-Orc",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "slurrs words"
     }
 }

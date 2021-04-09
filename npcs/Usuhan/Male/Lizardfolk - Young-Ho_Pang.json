@@ -1,13 +1,19 @@
 {
-    "Full Name": "Young-Ho, Pang",
+    "name": "Young-Ho, Pang",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "stuffy nose"
     }
 }

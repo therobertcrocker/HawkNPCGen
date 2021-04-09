@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sébire, Jellema",
+    "name": "Sébire, Jellema",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Constantly slouches ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "stuffy nose"
     }
 }

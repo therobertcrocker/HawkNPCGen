@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yin, Hwangbo",
+    "name": "Yin, Hwangbo",
     "base": "Male | Usuhan - Tortle",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Sways when standing ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "sings everything"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Xiu, Yun",
+    "name": "Xiu, Yun",
     "base": "Female | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
     }
 }

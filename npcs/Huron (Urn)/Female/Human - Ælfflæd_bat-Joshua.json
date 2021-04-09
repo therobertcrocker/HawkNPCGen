@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ælfflæd, bat-Joshua",
+    "name": "Ælfflæd, bat-Joshua",
     "base": "Female | Huron (Urn) - Human",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

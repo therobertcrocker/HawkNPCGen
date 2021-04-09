@@ -1,0 +1,19 @@
+{
+    "name": "Liam, Arnold Fitzpatrick Masangkay",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

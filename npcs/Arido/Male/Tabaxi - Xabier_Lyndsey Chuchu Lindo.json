@@ -1,13 +1,19 @@
 {
-    "Full Name": "Xabier, Lyndsey Chuchu Lindo",
+    "name": "Xabier, Lyndsey Chuchu Lindo",
     "base": "Male | Arido - Tabaxi",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "lots of like"
     }
 }

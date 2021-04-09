@@ -1,13 +1,19 @@
 {
-    "Full Name": "Agilmar, MacRoithridh",
+    "name": "Agilmar, MacRoithridh",
     "base": "Male | Lochmoor - Shifter",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Light lisp"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Marciana, Diusenius ",
+    "name": "Marciana, Diusenius ",
     "base": "Female | Akti - Hill Dwarf",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "severe overbite"
     }
 }

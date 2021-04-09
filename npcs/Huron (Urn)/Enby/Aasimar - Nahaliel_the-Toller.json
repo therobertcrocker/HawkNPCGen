@@ -1,13 +1,19 @@
 {
-    "Full Name": "Nahaliel, the-Toller",
+    "name": "Nahaliel, the-Toller",
     "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

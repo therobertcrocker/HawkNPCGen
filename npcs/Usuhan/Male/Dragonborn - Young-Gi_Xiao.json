@@ -1,5 +1,5 @@
 {
-    "Full Name": "Young-Gi, Xiao",
+    "name": "Young-Gi, Xiao",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
         "appearance": " has a nervous tick",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Light lisp"
     }
 }

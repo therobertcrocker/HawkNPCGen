@@ -1,0 +1,19 @@
+{
+    "name": "Ælfthryth, bat-Tal-Shahar",
+    "base": "Female | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "slurrs words"
+    }
+}

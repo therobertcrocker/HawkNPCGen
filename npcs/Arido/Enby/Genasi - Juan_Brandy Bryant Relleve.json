@@ -1,0 +1,19 @@
+{
+    "name": "Juan, Brandy Bryant Relleve",
+    "base": "Enby | Arido - Genasi",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "stuffy nose"
+    }
+}

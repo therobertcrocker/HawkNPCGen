@@ -1,13 +1,19 @@
 {
-    "Full Name": "Arnórr, Thorvaldson",
+    "name": "Arnórr, Thorvaldson",
     "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Drags feet when walking ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "barely opens lips"
     }
 }

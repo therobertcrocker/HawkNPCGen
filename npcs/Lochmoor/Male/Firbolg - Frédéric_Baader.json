@@ -1,13 +1,19 @@
 {
-    "Full Name": "Frédéric, Baader",
+    "name": "Frédéric, Baader",
     "base": "Male | Lochmoor - Firbolg",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "lots of um"
     }
 }

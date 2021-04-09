@@ -1,13 +1,19 @@
 {
-    "Full Name": "Dazzlestar, Gellner",
+    "name": "Dazzlestar, Gellner",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Fidgets",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
     }
 }

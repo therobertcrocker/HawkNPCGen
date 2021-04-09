@@ -1,13 +1,19 @@
 {
-    "Full Name": "Lilja, Halldisdottir",
+    "name": "Lilja, Halldisdottir",
     "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Light lisp"
     }
 }

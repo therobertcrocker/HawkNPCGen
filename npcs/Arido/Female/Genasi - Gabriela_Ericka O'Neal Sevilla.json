@@ -1,0 +1,19 @@
+{
+    "name": "Gabriela, Ericka O'Neal Sevilla",
+    "base": "Female | Arido - Genasi",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Paces",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Will always end their sentences going upwards in tone"
+    }
+}

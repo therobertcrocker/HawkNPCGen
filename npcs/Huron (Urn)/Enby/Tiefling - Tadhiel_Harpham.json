@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tadhiel, Harpham",
+    "name": "Tadhiel, Harpham",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Is constantly hungry ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

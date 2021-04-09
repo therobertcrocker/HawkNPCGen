@@ -1,13 +1,19 @@
 {
-    "Full Name": "Nieves, Sacristán",
+    "name": "Nieves, Sacristán",
     "base": "Female | Arido - Tabaxi",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "clenched teeth"
     }
 }

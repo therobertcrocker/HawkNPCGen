@@ -1,0 +1,19 @@
+{
+    "name": "Jere, Fomichyov-Afanasievich",
+    "base": "Male | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
+    }
+}

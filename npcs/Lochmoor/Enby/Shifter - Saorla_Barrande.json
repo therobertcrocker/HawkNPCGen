@@ -1,13 +1,19 @@
 {
-    "Full Name": "Saorla, Barrande",
+    "name": "Saorla, Barrande",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "talks in third person"
     }
 }

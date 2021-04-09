@@ -1,13 +1,19 @@
 {
-    "Full Name": "Laurien, Auclair",
+    "name": "Laurien, Auclair",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Constantly slouches ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "always pouting"
     }
 }

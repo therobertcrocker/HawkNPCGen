@@ -1,13 +1,19 @@
 {
-    "Full Name": "Juan, Collazo",
+    "name": "Juan, Collazo",
     "base": "Enby | Arido - Genasi",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Never looks in people's eyes ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "barely opens lips"
     }
 }

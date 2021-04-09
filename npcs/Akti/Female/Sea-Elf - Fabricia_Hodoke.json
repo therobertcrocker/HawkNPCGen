@@ -1,0 +1,19 @@
+{
+    "name": "Fabricia, Hodoke",
+    "base": "Female | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
+    }
+}

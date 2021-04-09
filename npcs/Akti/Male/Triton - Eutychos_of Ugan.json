@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eutychos, of Ugan",
+    "name": "Eutychos, of Ugan",
     "base": "Male | Akti - Triton",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Drinks everyone under the table",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "clenched teeth"
     }
 }

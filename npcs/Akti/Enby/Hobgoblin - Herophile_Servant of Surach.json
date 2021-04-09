@@ -1,13 +1,19 @@
 {
-    "Full Name": "Herophile, Servant of Surach",
+    "name": "Herophile, Servant of Surach",
     "base": "Enby | Akti - Hobgoblin",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Fixes hair constantly ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

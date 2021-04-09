@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yona, of-Nanafon",
+    "name": "Yona, of-Nanafon",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Plays around with ring on finger ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "slurrs words"
     }
 }

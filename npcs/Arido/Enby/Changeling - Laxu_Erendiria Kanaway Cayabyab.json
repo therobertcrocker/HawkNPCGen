@@ -1,13 +1,19 @@
 {
-    "Full Name": "Laxu, Erendiria Kanaway Cayabyab",
+    "name": "Laxu, Erendiria Kanaway Cayabyab",
     "base": "Enby | Arido - Changeling",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

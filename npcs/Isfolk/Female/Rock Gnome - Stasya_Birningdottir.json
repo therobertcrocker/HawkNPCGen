@@ -1,13 +1,19 @@
 {
-    "Full Name": "Stasya, Birningdottir",
+    "name": "Stasya, Birningdottir",
     "base": "Female | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Taps fingers",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "never uses contractions"
     }
 }

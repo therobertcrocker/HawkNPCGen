@@ -1,13 +1,19 @@
 {
-    "Full Name": "Nynke, Klaassen",
+    "name": "Nynke, Klaassen",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Taps fingers",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
     }
 }

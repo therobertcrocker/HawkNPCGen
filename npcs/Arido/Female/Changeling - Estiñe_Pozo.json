@@ -1,13 +1,19 @@
 {
-    "Full Name": "Estiñe, Pozo",
+    "name": "Estiñe, Pozo",
     "base": "Female | Arido - Changeling",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Readjusts belt when speaking ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

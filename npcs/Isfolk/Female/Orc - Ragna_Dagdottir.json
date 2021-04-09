@@ -1,5 +1,5 @@
 {
-    "Full Name": "Ragna, Dagdottir",
+    "name": "Ragna, Dagdottir",
     "base": "Female | Isfolk - Orc",
     "traits": {
         "appearance": "has an unusual hair color",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Bites fingernails",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

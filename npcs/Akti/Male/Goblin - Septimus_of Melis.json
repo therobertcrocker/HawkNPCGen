@@ -1,13 +1,19 @@
 {
-    "Full Name": "Septimus, of Melis",
+    "name": "Septimus, of Melis",
     "base": "Male | Akti - Goblin",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Chews something",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Light lisp"
     }
 }

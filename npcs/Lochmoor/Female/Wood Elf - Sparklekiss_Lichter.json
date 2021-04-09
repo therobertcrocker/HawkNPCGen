@@ -1,0 +1,19 @@
+{
+    "name": "Sparklekiss, Lichter",
+    "base": "Female | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Keeps smelling their hands ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

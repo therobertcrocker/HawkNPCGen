@@ -1,13 +1,19 @@
 {
-    "Full Name": "Wiebe, Berendsen",
+    "name": "Wiebe, Berendsen",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "Drinks everyone under the table",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Never looks in people's eyes ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

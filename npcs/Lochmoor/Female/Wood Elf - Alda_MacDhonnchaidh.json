@@ -1,13 +1,19 @@
 {
-    "Full Name": "Alda, MacDhonnchaidh",
+    "name": "Alda, MacDhonnchaidh",
     "base": "Female | Lochmoor - Wood Elf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

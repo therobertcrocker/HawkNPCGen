@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yuudai, Paek",
+    "name": "Yuudai, Paek",
     "base": "Male | Usuhan - Aaracokra",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Drags feet when walking ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

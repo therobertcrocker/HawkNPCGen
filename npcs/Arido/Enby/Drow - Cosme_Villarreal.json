@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cosme, Villarreal",
+    "name": "Cosme, Villarreal",
     "base": "Enby | Arido - Drow",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Chews something",
+        "mannerism": "Taps fingers",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

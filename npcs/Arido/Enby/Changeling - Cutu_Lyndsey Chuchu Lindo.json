@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cutu, Lyndsey Chuchu Lindo",
+    "name": "Cutu, Lyndsey Chuchu Lindo",
     "base": "Enby | Arido - Changeling",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Paces",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Whiny"
     }
 }

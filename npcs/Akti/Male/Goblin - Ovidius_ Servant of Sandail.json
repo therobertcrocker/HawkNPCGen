@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ovidius,  Servant of Sandail",
+    "name": "Ovidius,  Servant of Sandail",
     "base": "Male | Akti - Goblin",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

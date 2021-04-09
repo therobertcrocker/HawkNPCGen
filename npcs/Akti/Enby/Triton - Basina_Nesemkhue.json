@@ -1,13 +1,19 @@
 {
-    "Full Name": "Basina, Nesemkhue",
+    "name": "Basina, Nesemkhue",
     "base": "Enby | Akti - Triton",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Paces",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

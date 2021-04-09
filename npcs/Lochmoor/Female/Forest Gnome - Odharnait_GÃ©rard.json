@@ -1,13 +1,19 @@
 {
-    "Full Name": "Odharnait, Gérard",
+    "name": "Odharnait, Gérard",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

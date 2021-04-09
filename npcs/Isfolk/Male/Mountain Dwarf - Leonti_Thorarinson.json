@@ -1,0 +1,19 @@
+{
+    "name": "Leonti, Thorarinson",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly slouches ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

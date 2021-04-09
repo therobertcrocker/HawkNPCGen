@@ -1,13 +1,19 @@
 {
-    "Full Name": "Garwen, De Guignes",
+    "name": "Garwen, De Guignes",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

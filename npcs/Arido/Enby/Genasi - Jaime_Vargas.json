@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jaime, Vargas",
+    "name": "Jaime, Vargas",
     "base": "Enby | Arido - Genasi",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

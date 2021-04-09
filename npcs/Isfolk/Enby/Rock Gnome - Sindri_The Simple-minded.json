@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sindri, The Simple-minded",
+    "name": "Sindri, The Simple-minded",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Agrees with everything a particular PC says ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Noel, The Butcher",
+    "name": "Noel, The Butcher",
     "base": "Enby | Isfolk - Warforged",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Squints",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Monotonous"
     }
 }

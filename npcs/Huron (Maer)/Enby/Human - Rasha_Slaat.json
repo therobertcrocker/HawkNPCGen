@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rasha, Slaat",
+    "name": "Rasha, Slaat",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Taps fingers",
+        "mannerism": "Chews something",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "all Th-sounds become Z-sounds"
     }
 }

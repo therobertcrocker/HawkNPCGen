@@ -1,13 +1,19 @@
 {
-    "Full Name": "Theotleip, Wolf",
+    "name": "Theotleip, Wolf",
     "base": "Male | Lochmoor - Shifter",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Always looks as if they are chewing on something ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "mouth is always full when talking"
     }
 }

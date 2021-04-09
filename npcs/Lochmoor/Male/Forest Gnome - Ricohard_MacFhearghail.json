@@ -1,0 +1,19 @@
+{
+    "name": "Ricohard, MacFhearghail",
+    "base": "Male | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Light lisp"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Lucretius, Retbithue",
+    "name": "Lucretius, Retbithue",
     "base": "Male | Akti - Hobgoblin",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Chews something",
+        "mannerism": "Won't stop itching",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

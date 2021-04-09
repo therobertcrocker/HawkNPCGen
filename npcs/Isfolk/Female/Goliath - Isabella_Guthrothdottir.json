@@ -1,13 +1,19 @@
 {
-    "Full Name": "Isabella, Guthrothdottir",
+    "name": "Isabella, Guthrothdottir",
     "base": "Female | Isfolk - Goliath",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

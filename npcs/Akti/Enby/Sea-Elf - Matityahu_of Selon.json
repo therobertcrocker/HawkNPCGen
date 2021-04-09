@@ -1,0 +1,19 @@
+{
+    "name": "Matityahu, of Selon",
+    "base": "Enby | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "lots of like"
+    }
+}

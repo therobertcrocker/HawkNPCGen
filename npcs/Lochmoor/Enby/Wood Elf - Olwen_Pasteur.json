@@ -1,13 +1,19 @@
 {
-    "Full Name": "Olwen, Pasteur",
+    "name": "Olwen, Pasteur",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Clicks tongue",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "slurrs words"
     }
 }

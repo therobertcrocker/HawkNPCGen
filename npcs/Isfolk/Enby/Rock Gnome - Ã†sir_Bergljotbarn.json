@@ -1,13 +1,19 @@
 {
-    "Full Name": "Æsir, Bergljotbarn",
+    "name": "Æsir, Bergljotbarn",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Glances out the window ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "all Th-sounds become Z-sounds"
     }
 }

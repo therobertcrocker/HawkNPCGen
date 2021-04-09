@@ -1,0 +1,19 @@
+{
+    "name": "Bihotz, Carpentier",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
+    }
+}

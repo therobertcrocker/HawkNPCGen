@@ -1,0 +1,19 @@
+{
+    "name": "Borisu, Pearce",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "pauses often"
+    }
+}

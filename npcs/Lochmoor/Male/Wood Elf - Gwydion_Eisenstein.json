@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gwydion, Eisenstein",
+    "name": "Gwydion, Eisenstein",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "always pouting"
     }
 }

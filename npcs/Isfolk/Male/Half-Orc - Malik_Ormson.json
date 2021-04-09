@@ -1,13 +1,19 @@
 {
-    "Full Name": "Malik, Ormson",
+    "name": "Malik, Ormson",
     "base": "Male | Isfolk - Half-Orc",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Licks lips while speaking",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

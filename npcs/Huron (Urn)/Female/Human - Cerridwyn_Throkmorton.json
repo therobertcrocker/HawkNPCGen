@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cerridwyn, Throkmorton",
+    "name": "Cerridwyn, Throkmorton",
     "base": "Female | Huron (Urn) - Human",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "lots of um"
     }
 }

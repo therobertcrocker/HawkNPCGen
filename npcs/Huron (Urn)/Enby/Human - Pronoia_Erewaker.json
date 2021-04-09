@@ -1,13 +1,19 @@
 {
-    "Full Name": "Pronoia, Erewaker",
+    "name": "Pronoia, Erewaker",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Expert carpenter",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Always over-exaggerates"
     }
 }

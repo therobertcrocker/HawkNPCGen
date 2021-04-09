@@ -1,13 +1,19 @@
 {
-    "Full Name": "Isidora, Arefyeva-Tarasovna",
+    "name": "Isidora, Arefyeva-Tarasovna",
     "base": "Female | Isfolk - Warforged",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Chews something",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Always over-exaggerates"
     }
 }

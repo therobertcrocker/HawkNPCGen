@@ -1,13 +1,19 @@
 {
-    "Full Name": "Honeysprig, Uí-Daire",
+    "name": "Honeysprig, Uí-Daire",
     "base": "Female | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "slurrs words"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ugène, Van-Der-Kooi",
+    "name": "Ugène, Van-Der-Kooi",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
     }
 }

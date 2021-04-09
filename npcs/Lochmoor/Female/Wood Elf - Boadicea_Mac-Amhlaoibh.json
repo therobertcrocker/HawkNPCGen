@@ -1,13 +1,19 @@
 {
-    "Full Name": "Boadicea, Mac-Amhlaoibh",
+    "name": "Boadicea, Mac-Amhlaoibh",
     "base": "Female | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "all Th-sounds become Z-sounds"
     }
 }

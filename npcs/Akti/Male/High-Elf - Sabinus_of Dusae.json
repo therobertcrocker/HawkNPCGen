@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sabinus, of Dusae",
+    "name": "Sabinus, of Dusae",
     "base": "Male | Akti - High-Elf",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "never stops to breathe"
     }
 }

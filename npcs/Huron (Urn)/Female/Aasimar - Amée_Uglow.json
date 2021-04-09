@@ -1,13 +1,19 @@
 {
-    "Full Name": "Amée, Uglow",
+    "name": "Amée, Uglow",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Paces",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "barely opens lips"
     }
 }

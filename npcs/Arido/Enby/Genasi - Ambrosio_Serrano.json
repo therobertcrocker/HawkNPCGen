@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ambrosio, Serrano",
+    "name": "Ambrosio, Serrano",
     "base": "Enby | Arido - Genasi",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

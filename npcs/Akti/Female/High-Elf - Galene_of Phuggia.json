@@ -1,13 +1,19 @@
 {
-    "Full Name": "Galene, of Phuggia",
+    "name": "Galene, of Phuggia",
     "base": "Female | Akti - High-Elf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Clicks tongue",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

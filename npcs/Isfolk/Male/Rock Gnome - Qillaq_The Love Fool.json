@@ -1,13 +1,19 @@
 {
-    "Full Name": "Qillaq, The Love Fool",
+    "name": "Qillaq, The Love Fool",
     "base": "Male | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

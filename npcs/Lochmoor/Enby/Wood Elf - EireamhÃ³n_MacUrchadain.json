@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eireamhón, MacUrchadain",
+    "name": "Eireamhón, MacUrchadain",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Chews something",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "stuffy nose"
     }
 }

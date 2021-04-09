@@ -1,0 +1,19 @@
+{
+    "name": "Shufen, Cho",
+    "base": "Female | Usuhan - Kobold",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Sarcastic to conversation/threats ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aelia, Daughter of Thippia of Orcyma",
+    "name": "Aelia, Daughter of Thippia of Orcyma",
     "base": "Female | Akti - High-Elf",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

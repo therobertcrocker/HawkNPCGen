@@ -1,0 +1,19 @@
+{
+    "name": "Porcia, Publiuseius ",
+    "base": "Female | Akti - High-Elf",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
+    }
+}

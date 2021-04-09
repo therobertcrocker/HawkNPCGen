@@ -1,0 +1,19 @@
+{
+    "name": "Rosalía, Toli Ancatan Bondoc",
+    "base": "Female | Arido - Genasi",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Never looks in people's eyes ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "opens mouth too wide"
+    }
+}

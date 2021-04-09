@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ah, Kung",
+    "name": "Ah, Kung",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Fidgets",
+        "mannerism": "Constantly slouches ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "barely opens lips"
     }
 }

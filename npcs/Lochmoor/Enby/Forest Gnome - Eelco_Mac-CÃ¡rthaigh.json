@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eelco, Mac-Cárthaigh",
+    "name": "Eelco, Mac-Cárthaigh",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Clicks tongue",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "mouth is always full when talking"
     }
 }

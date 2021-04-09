@@ -1,13 +1,19 @@
 {
-    "Full Name": "Floriana, Daughter of Neira of Sosia",
+    "name": "Floriana, Daughter of Neira of Sosia",
     "base": "Female | Akti - Sea-Elf",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Prone to predictions of doom",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "lots of um"
     }
 }

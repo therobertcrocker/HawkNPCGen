@@ -1,13 +1,19 @@
 {
-    "Full Name": "Lian, Chom",
+    "name": "Lian, Chom",
     "base": "Female | Usuhan - Kenku",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Fixes hair constantly ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

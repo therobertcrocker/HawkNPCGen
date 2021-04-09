@@ -1,13 +1,19 @@
 {
-    "Full Name": "Oddvör, The Gentle",
+    "name": "Oddvör, The Gentle",
     "base": "Enby | Isfolk - Goliath",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "severe overbite"
     }
 }

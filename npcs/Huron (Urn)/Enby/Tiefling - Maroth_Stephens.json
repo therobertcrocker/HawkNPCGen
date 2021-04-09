@@ -1,13 +1,19 @@
 {
-    "Full Name": "Maroth, Stephens",
+    "name": "Maroth, Stephens",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Speaks several languages fluently",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Always looks as if they are chewing on something ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

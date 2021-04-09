@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jip, de-Viuepont",
+    "name": "Jip, de-Viuepont",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

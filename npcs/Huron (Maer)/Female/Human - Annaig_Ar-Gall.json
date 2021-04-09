@@ -1,13 +1,19 @@
 {
-    "Full Name": "Annaig, Ar-Gall",
+    "name": "Annaig, Ar-Gall",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

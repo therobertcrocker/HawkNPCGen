@@ -1,13 +1,19 @@
 {
-    "Full Name": "Fionnghuala, Roid",
+    "name": "Fionnghuala, Roid",
     "base": "Female | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "Speaks several languages fluently",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Licks lips while speaking",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "never stops to breathe"
     }
 }

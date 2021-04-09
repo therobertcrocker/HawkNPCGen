@@ -1,13 +1,19 @@
 {
-    "Full Name": "Udane, Leguizamo",
+    "name": "Udane, Leguizamo",
     "base": "Female | Arido - Genasi",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

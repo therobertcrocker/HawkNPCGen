@@ -1,0 +1,19 @@
+{
+    "name": "Lydie, Ganser",
+    "base": "Female | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Licks lips while speaking",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

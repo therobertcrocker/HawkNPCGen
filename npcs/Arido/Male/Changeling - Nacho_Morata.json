@@ -1,13 +1,19 @@
 {
-    "Full Name": "Nacho, Morata",
+    "name": "Nacho, Morata",
     "base": "Male | Arido - Changeling",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

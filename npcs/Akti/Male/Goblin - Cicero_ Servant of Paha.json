@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cicero,  Servant of Paha",
+    "name": "Cicero,  Servant of Paha",
     "base": "Male | Akti - Goblin",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
     }
 }

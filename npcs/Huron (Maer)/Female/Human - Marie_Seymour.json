@@ -1,13 +1,19 @@
 {
-    "Full Name": "Marie, Seymour",
+    "name": "Marie, Seymour",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

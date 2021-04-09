@@ -1,13 +1,19 @@
 {
-    "Full Name": "Amirel, of Misho",
+    "name": "Amirel, of Misho",
     "base": "Enby | Akti - Triton",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Squints",
         "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "staccato speech"
     }
 }

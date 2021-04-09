@@ -1,0 +1,19 @@
+{
+    "name": "Mari, Thorleifdottir",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Sways when standing ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

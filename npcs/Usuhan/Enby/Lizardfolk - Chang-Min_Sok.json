@@ -1,0 +1,19 @@
+{
+    "name": "Chang-Min, Sok",
+    "base": "Enby | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Intense dislike to a particular race/PC ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

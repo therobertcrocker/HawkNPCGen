@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ye-Jin, Su",
+    "name": "Ye-Jin, Su",
     "base": "Enby | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Never sits down while talking ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "severe overbite"
     }
 }

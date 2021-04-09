@@ -1,13 +1,19 @@
 {
-    "Full Name": "Euria, Dario Tiolengco Braña",
+    "name": "Euria, Dario Tiolengco Braña",
     "base": "Female | Arido - Tabaxi",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Agrees with everything a particular PC says ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

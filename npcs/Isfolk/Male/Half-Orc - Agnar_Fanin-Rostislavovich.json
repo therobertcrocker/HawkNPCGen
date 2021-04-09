@@ -1,13 +1,19 @@
 {
-    "Full Name": "Agnar, Fanin-Rostislavovich",
+    "name": "Agnar, Fanin-Rostislavovich",
     "base": "Male | Isfolk - Half-Orc",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Drinks everyone under the table",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

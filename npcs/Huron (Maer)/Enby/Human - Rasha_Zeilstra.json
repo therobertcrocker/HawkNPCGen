@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rasha, Zeilstra",
+    "name": "Rasha, Zeilstra",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Won't stop itching",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "sings everything"
     }
 }

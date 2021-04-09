@@ -1,0 +1,19 @@
+{
+    "name": "Gunnvaldr, Kabbisson",
+    "base": "Male | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Fearful at the sight of drawn weapons ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

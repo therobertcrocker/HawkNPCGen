@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eun-Jung, Nan",
+    "name": "Eun-Jung, Nan",
     "base": "Female | Usuhan - Dragonborn",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

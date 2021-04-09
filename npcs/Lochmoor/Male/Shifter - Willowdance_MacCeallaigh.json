@@ -1,13 +1,19 @@
 {
-    "Full Name": "Willowdance, MacCeallaigh",
+    "name": "Willowdance, MacCeallaigh",
     "base": "Male | Lochmoor - Shifter",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "severe overbite"
     }
 }

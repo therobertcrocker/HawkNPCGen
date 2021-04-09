@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ivo, Pasteur",
+    "name": "Ivo, Pasteur",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

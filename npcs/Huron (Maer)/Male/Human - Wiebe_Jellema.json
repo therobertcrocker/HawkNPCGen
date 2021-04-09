@@ -1,13 +1,19 @@
 {
-    "Full Name": "Wiebe, Jellema",
+    "name": "Wiebe, Jellema",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "clenched teeth"
     }
 }

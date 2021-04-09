@@ -1,0 +1,19 @@
+{
+    "name": "Victor, Fraga",
+    "base": "Enby | Arido - Tabaxi",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "never stops to breathe"
+    }
+}

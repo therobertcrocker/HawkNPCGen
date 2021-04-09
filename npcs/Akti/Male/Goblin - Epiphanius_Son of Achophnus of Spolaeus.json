@@ -1,0 +1,19 @@
+{
+    "name": "Epiphanius, Son of Achophnus of Spolaeus",
+    "base": "Male | Akti - Goblin",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Taps fingers",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

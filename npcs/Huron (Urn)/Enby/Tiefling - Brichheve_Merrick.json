@@ -1,5 +1,5 @@
 {
-    "Full Name": "Brichheve, Merrick",
+    "name": "Brichheve, Merrick",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "is exceptionally ugly",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Paces",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

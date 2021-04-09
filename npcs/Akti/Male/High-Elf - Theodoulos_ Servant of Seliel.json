@@ -1,13 +1,19 @@
 {
-    "Full Name": "Theodoulos,  Servant of Seliel",
+    "name": "Theodoulos,  Servant of Seliel",
     "base": "Male | Akti - High-Elf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Never looks in people's eyes ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "talks in third person"
     }
 }

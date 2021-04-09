@@ -1,0 +1,19 @@
+{
+    "name": "Anthousa, of Tiarea",
+    "base": "Female | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

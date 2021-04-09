@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gyeong, Kung",
+    "name": "Gyeong, Kung",
     "base": "Female | Usuhan - Kobold",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Taps fingers",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

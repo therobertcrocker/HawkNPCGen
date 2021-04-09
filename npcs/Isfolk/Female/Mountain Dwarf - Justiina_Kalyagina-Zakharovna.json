@@ -1,13 +1,19 @@
 {
-    "Full Name": "Justiina, Kalyagina-Zakharovna",
+    "name": "Justiina, Kalyagina-Zakharovna",
     "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Never sits down while talking ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

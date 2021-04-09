@@ -1,0 +1,19 @@
+{
+    "name": "Yechezkel, Fromond",
+    "base": "Male | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fixes hair constantly ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
+    }
+}

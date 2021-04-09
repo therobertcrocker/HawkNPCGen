@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sidonie, Maret",
+    "name": "Sidonie, Maret",
     "base": "Female | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Constantly slouches ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

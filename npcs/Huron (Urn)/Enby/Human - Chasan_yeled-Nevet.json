@@ -1,13 +1,19 @@
 {
-    "Full Name": "Chasan, yeled-Nevet",
+    "name": "Chasan, yeled-Nevet",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Clicks tongue",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "stuffy nose"
     }
 }

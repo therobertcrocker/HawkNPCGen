@@ -1,13 +1,19 @@
 {
-    "Full Name": "Spurius, Menkhesy",
+    "name": "Spurius, Menkhesy",
     "base": "Enby | Akti - Sea-Elf",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Constantly slouches ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

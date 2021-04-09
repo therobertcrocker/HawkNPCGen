@@ -1,13 +1,19 @@
 {
-    "Full Name": "Valentino, Collazo",
+    "name": "Valentino, Collazo",
     "base": "Enby | Arido - Changeling",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Incoherent except for a few key words"
     }
 }

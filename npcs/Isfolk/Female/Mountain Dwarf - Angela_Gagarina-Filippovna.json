@@ -1,13 +1,19 @@
 {
-    "Full Name": "Angela, Gagarina-Filippovna",
+    "name": "Angela, Gagarina-Filippovna",
     "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Expert cook",
         "mannerism": "Bites fingernails",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "all Th-sounds become Z-sounds"
     }
 }

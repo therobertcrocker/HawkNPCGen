@@ -1,13 +1,19 @@
 {
-    "Full Name": "Phul, Dunch",
+    "name": "Phul, Dunch",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Won't stop itching",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

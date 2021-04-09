@@ -1,0 +1,19 @@
+{
+    "name": "Roslindis, Glöckner",
+    "base": "Female | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

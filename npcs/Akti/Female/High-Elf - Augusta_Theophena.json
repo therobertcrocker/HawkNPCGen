@@ -1,13 +1,19 @@
 {
-    "Full Name": "Augusta, Theophena",
+    "name": "Augusta, Theophena",
     "base": "Female | Akti - High-Elf",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Whispers",
+        "mannerism": "Constantly slouches ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

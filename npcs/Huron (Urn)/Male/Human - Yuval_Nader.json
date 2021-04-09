@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yuval, Nader",
+    "name": "Yuval, Nader",
     "base": "Male | Huron (Urn) - Human",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Intense dislike to a particular race/PC ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Responds in the form of questions"
     }
 }

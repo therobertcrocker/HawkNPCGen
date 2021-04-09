@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gratianus, Ipys",
+    "name": "Gratianus, Ipys",
     "base": "Male | Akti - Sea-Elf",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

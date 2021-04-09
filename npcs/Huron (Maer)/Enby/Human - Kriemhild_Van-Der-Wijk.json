@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kriemhild, Van-Der-Wijk",
+    "name": "Kriemhild, Van-Der-Wijk",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Daria, The Envious",
+    "name": "Daria, The Envious",
     "base": "Enby | Isfolk - Goliath",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

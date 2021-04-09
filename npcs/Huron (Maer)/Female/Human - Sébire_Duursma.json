@@ -1,0 +1,19 @@
+{
+    "name": "Sébire, Duursma",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of um"
+    }
+}

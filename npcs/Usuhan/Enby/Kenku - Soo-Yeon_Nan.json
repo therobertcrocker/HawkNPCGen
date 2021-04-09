@@ -1,0 +1,19 @@
+{
+    "name": "Soo-Yeon, Nan",
+    "base": "Enby | Usuhan - Kenku",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

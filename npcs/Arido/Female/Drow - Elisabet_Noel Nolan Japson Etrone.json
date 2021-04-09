@@ -1,0 +1,19 @@
+{
+    "name": "Elisabet, Noel Nolan Japson Etrone",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "stuffy nose"
+    }
+}

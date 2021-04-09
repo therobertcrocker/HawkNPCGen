@@ -1,13 +1,19 @@
 {
-    "Full Name": "Irati, Ericka O'Neal Sevilla",
+    "name": "Irati, Ericka O'Neal Sevilla",
     "base": "Female | Arido - Drow",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "clenched teeth"
     }
 }

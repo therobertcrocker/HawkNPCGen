@@ -1,13 +1,19 @@
 {
-    "Full Name": "Marceau, Ó-Dornáin",
+    "name": "Marceau, Ó-Dornáin",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
     }
 }

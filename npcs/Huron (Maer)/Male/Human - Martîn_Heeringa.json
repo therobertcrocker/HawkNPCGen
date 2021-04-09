@@ -1,13 +1,19 @@
 {
-    "Full Name": "Martîn, Heeringa",
+    "name": "Martîn, Heeringa",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Plays around with ring on finger ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Monotonous"
     }
 }

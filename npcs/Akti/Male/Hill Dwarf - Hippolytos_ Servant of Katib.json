@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hippolytos,  Servant of Katib",
+    "name": "Hippolytos,  Servant of Katib",
     "base": "Male | Akti - Hill Dwarf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Fidgets",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "always pouting"
     }
 }

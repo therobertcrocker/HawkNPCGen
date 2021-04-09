@@ -1,5 +1,5 @@
 {
-    "Full Name": "Mi-Suk, Geng",
+    "name": "Mi-Suk, Geng",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Nervously flips a coin through fingers ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Responds in the form of questions"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Inna, The Valiant",
+    "base": "Female | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Sways when standing ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Will always end their sentences going upwards in tone"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Marko, Minaberrieta",
+    "name": "Marko, Minaberrieta",
     "base": "Male | Arido - Changeling",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Won't stop itching",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Sighs after each sentence"
     }
 }

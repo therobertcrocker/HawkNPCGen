@@ -1,13 +1,19 @@
 {
-    "Full Name": "Conah, Peletoot",
+    "name": "Conah, Peletoot",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
     }
 }

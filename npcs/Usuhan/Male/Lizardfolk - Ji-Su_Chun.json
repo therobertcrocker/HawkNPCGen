@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ji-Su, Chun",
+    "name": "Ji-Su, Chun",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Stares into the distance",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

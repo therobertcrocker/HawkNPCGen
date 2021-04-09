@@ -1,13 +1,19 @@
 {
-    "Full Name": "Brendan, Glöckner",
+    "name": "Brendan, Glöckner",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Intense dislike to a particular race/PC ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Samandiriel, Fitton",
+    "name": "Samandiriel, Fitton",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

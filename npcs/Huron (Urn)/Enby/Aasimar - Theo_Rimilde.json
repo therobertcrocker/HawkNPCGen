@@ -1,0 +1,19 @@
+{
+    "name": "Theo, Rimilde",
+    "base": "Enby | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Intense dislike to a particular race/PC ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "barely opens lips"
+    }
+}

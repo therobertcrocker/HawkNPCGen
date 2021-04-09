@@ -1,13 +1,19 @@
 {
-    "Full Name": "Afanen, Herle",
+    "name": "Afanen, Herle",
     "base": "Female | Huron (Urn) - Human",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Always over-exaggerates"
     }
 }

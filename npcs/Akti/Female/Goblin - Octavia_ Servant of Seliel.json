@@ -1,0 +1,19 @@
+{
+    "name": "Octavia,  Servant of Seliel",
+    "base": "Female | Akti - Goblin",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Glances out the window ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "severe overbite"
+    }
+}

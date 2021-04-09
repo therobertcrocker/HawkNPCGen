@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yannig, Kergoat",
+    "name": "Yannig, Kergoat",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Paces",
+        "mannerism": "Licks lips while speaking",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }

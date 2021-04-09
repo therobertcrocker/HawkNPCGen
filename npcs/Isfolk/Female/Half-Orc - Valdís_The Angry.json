@@ -1,0 +1,19 @@
+{
+    "name": "Valdís, The Angry",
+    "base": "Female | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Constantly slouches ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
+    }
+}

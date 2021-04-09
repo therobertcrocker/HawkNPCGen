@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jenifer, bat-Anthony",
+    "name": "Jenifer, bat-Anthony",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "mouth is always full when talking"
     }
 }

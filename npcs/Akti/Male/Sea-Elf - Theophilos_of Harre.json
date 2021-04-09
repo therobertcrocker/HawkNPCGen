@@ -1,13 +1,19 @@
 {
-    "Full Name": "Theophilos, of Harre",
+    "name": "Theophilos, of Harre",
     "base": "Male | Akti - Sea-Elf",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Paces",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "mouth is always full when talking"
     }
 }

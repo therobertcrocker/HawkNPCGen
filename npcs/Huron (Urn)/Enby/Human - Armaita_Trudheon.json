@@ -1,0 +1,19 @@
+{
+    "name": "Armaita, Trudheon",
+    "base": "Enby | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly slouches ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

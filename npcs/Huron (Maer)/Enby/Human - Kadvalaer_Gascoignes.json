@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kadvalaer, Gascoignes",
+    "name": "Kadvalaer, Gascoignes",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

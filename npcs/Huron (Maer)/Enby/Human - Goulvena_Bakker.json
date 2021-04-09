@@ -1,0 +1,19 @@
+{
+    "name": "Goulvena, Bakker",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "lots of um"
+    }
+}

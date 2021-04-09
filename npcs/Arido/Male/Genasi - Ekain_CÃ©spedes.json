@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ekain, Céspedes",
+    "name": "Ekain, Céspedes",
     "base": "Male | Arido - Genasi",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Sways when standing ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

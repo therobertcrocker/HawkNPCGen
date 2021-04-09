@@ -1,13 +1,19 @@
 {
-    "Full Name": "Meical, Nader",
+    "name": "Meical, Nader",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

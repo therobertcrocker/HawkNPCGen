@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ander, Vargas",
+    "name": "Ander, Vargas",
     "base": "Male | Arido - Drow",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Plays around with ring on finger ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Whiny"
     }
 }

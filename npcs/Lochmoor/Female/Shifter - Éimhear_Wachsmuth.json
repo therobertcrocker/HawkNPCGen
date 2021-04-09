@@ -1,0 +1,19 @@
+{
+    "name": "Éimhear, Wachsmuth",
+    "base": "Female | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Often brags that they onceâ€™s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

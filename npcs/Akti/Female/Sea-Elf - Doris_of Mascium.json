@@ -1,5 +1,5 @@
 {
-    "Full Name": "Doris, of Mascium",
+    "name": "Doris, of Mascium",
     "base": "Female | Akti - Sea-Elf",
     "traits": {
         "appearance": " has a nervous tick",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "talks in third person"
     }
 }

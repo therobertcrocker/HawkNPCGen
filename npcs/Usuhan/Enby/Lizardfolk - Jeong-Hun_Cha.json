@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jeong-Hun, Cha",
+    "name": "Jeong-Hun, Cha",
     "base": "Enby | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Nero, Pidiusalv Piscina",
+    "name": "Nero, Pidiusalv Piscina",
     "base": "Male | Akti - Triton",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Won't stop itching",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
     }
 }

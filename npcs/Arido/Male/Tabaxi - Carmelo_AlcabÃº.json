@@ -1,0 +1,19 @@
+{
+    "name": "Carmelo, Alcabú",
+    "base": "Male | Arido - Tabaxi",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Glennis, of-Auchstow",
+    "name": "Glennis, of-Auchstow",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Paces",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

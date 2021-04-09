@@ -1,5 +1,5 @@
 {
-    "Full Name": "Ming, Hwangbo",
+    "name": "Ming, Hwangbo",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
         "appearance": " has a nervous tick",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Speaks several languages fluently",
-        "mannerism": "Squints",
+        "mannerism": "Clicks tongue",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "opens mouth too wide"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rina, bat-Shuki",
+    "name": "Rina, bat-Shuki",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Paces",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Whiny"
     }
 }

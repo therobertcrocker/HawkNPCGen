@@ -1,0 +1,19 @@
+{
+    "name": "Hadriel, Tregonning",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Whiny"
+    }
+}

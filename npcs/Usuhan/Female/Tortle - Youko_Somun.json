@@ -1,13 +1,19 @@
 {
-    "Full Name": "Youko, Somun",
+    "name": "Youko, Somun",
     "base": "Female | Usuhan - Tortle",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "never stops to breathe"
     }
 }

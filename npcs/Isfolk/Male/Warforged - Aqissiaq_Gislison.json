@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aqissiaq, Gislison",
+    "name": "Aqissiaq, Gislison",
     "base": "Male | Isfolk - Warforged",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Fidgets",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "clenched teeth"
     }
 }

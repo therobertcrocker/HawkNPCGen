@@ -1,13 +1,19 @@
 {
-    "Full Name": "Dardariel, yeled-Erno",
+    "name": "Dardariel, yeled-Erno",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Fidgets",
+        "mannerism": "Readjusts belt when speaking ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Monotonous"
     }
 }

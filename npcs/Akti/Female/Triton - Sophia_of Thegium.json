@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sophia, of Thegium",
+    "name": "Sophia, of Thegium",
     "base": "Female | Akti - Triton",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Fidgets",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "clenched teeth"
     }
 }

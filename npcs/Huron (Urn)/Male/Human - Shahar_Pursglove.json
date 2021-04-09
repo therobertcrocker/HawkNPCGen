@@ -1,0 +1,19 @@
+{
+    "name": "Shahar, Pursglove",
+    "base": "Male | Huron (Urn) - Human",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Fearful at the sight of drawn weapons ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "lots of swearing"
+    }
+}

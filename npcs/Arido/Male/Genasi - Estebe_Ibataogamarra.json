@@ -1,13 +1,19 @@
 {
-    "Full Name": "Estebe, Ibataogamarra",
+    "name": "Estebe, Ibataogamarra",
     "base": "Male | Arido - Genasi",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Never sits down while talking ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "stuffy nose"
     }
 }

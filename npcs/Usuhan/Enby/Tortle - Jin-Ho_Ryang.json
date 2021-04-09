@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jin-Ho, Ryang",
+    "name": "Jin-Ho, Ryang",
     "base": "Enby | Usuhan - Tortle",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Coughs frequently between sentences",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }

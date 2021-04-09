@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eryi, Mac-Loinsigh",
+    "name": "Eryi, Mac-Loinsigh",
     "base": "Enby | Lochmoor - Firbolg",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Squints",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "pauses often"
     }
 }

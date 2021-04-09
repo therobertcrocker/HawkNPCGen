@@ -1,13 +1,19 @@
 {
-    "Full Name": "Bermund, Stoner",
+    "name": "Bermund, Stoner",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Drinks everyone under the table",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Bites fingernails",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "talks in third person"
     }
 }

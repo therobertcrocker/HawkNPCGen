@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kyung-Hee, Ryu",
+    "name": "Kyung-Hee, Ryu",
     "base": "Enby | Usuhan - Kenku",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "never uses contractions"
     }
 }

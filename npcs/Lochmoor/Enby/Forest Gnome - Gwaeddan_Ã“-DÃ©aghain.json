@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gwaeddan, Ó-Déaghain",
+    "name": "Gwaeddan, Ó-Déaghain",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Paces",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

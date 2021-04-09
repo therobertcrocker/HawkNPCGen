@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jenifer, Blakeley",
+    "name": "Jenifer, Blakeley",
     "base": "Female | Huron (Urn) - Human",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Never sits down while talking ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

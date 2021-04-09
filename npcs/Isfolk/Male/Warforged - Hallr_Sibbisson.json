@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hallr, Sibbisson",
+    "name": "Hallr, Sibbisson",
     "base": "Male | Isfolk - Warforged",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

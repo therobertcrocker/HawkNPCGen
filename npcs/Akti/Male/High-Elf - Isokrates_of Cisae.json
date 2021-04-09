@@ -1,13 +1,19 @@
 {
-    "Full Name": "Isokrates, of Cisae",
+    "name": "Isokrates, of Cisae",
     "base": "Male | Akti - High-Elf",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Readjusts belt when speaking ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
     }
 }

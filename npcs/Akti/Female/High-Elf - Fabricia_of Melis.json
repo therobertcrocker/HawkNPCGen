@@ -1,13 +1,19 @@
 {
-    "Full Name": "Fabricia, of Melis",
+    "name": "Fabricia, of Melis",
     "base": "Female | Akti - High-Elf",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "never stops to breathe"
     }
 }

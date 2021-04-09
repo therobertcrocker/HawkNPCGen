@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ambrosio, Mesonero",
+    "name": "Ambrosio, Mesonero",
     "base": "Enby | Arido - Drow",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Expert carpenter",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Stutters"
     }
 }

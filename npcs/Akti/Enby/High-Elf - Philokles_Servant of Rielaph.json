@@ -1,13 +1,19 @@
 {
-    "Full Name": "Philokles, Servant of Rielaph",
+    "name": "Philokles, Servant of Rielaph",
     "base": "Enby | Akti - High-Elf",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Sways when standing ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "severe overbite"
     }
 }

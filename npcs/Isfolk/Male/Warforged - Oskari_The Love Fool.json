@@ -1,13 +1,19 @@
 {
-    "Full Name": "Oskari, The Love Fool",
+    "name": "Oskari, The Love Fool",
     "base": "Male | Isfolk - Warforged",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Clicks tongue",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "staccato speech"
     }
 }

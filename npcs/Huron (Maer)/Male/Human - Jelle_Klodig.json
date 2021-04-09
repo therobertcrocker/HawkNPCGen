@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jelle, Klodig",
+    "name": "Jelle, Klodig",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Squints",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "lots of um"
     }
 }

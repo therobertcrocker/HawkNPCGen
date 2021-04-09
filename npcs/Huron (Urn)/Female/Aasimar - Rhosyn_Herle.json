@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rhosyn, Herle",
+    "name": "Rhosyn, Herle",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
+        "mannerism": "Licks lips while speaking",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

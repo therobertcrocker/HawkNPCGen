@@ -1,13 +1,19 @@
 {
-    "Full Name": "Samuel, Callaway",
+    "name": "Samuel, Callaway",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Never sits down while talking ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "mutters to self"
     }
 }

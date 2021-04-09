@@ -1,13 +1,19 @@
 {
-    "Full Name": "Morrigan, Böckler",
+    "name": "Morrigan, Böckler",
     "base": "Female | Lochmoor - Shifter",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

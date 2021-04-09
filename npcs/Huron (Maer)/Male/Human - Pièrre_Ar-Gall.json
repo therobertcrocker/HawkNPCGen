@@ -1,13 +1,19 @@
 {
-    "Full Name": "Pièrre, Ar-Gall",
+    "name": "Pièrre, Ar-Gall",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Chews something",
+        "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "sings everything"
     }
 }

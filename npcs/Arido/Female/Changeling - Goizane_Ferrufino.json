@@ -1,5 +1,5 @@
 {
-    "Full Name": "Goizane, Ferrufino",
+    "name": "Goizane, Ferrufino",
     "base": "Female | Arido - Changeling",
     "traits": {
         "appearance": " has a nervous tick",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Constantly paces around ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

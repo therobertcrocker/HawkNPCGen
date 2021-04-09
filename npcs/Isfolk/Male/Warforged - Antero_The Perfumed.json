@@ -1,13 +1,19 @@
 {
-    "Full Name": "Antero, The Perfumed",
+    "name": "Antero, The Perfumed",
     "base": "Male | Isfolk - Warforged",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Never sits down while talking ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

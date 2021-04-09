@@ -1,0 +1,19 @@
+{
+    "name": "Phelim, Màrr",
+    "base": "Male | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Fiddles with their weapon ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

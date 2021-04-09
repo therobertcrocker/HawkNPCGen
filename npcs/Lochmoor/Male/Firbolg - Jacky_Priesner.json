@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jacky, Priesner",
+    "name": "Jacky, Priesner",
     "base": "Male | Lochmoor - Firbolg",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Glances out the window ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

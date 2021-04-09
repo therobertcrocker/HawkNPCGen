@@ -1,13 +1,19 @@
 {
-    "Full Name": "Talulla, Ó-Gallchobhair",
+    "name": "Talulla, Ó-Gallchobhair",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats the last word you say before responding"
     }
 }

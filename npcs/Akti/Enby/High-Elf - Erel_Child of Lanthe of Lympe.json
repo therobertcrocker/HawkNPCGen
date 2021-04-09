@@ -1,13 +1,19 @@
 {
-    "Full Name": "Erel, Child of Lanthe of Lympe",
+    "name": "Erel, Child of Lanthe of Lympe",
     "base": "Enby | Akti - High-Elf",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Fearful at the sight of drawn weapons ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

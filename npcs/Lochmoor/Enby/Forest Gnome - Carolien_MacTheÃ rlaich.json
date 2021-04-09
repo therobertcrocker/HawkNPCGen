@@ -1,13 +1,19 @@
 {
-    "Full Name": "Carolien, MacTheàrlaich",
+    "name": "Carolien, MacTheàrlaich",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Glances out the window ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "severe underbite"
     }
 }

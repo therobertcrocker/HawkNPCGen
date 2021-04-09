@@ -1,5 +1,5 @@
 {
-    "Full Name": "Antje, Hoekstra",
+    "name": "Antje, Hoekstra",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "is exceptionally beautiful",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Is constantly hungry ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

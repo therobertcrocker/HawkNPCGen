@@ -1,13 +1,19 @@
 {
-    "Full Name": "Alona, Penry",
+    "name": "Alona, Penry",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Makes circles with their fingers ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "severe overbite"
     }
 }

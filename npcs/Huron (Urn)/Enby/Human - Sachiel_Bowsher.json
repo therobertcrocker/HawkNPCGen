@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sachiel, Bowsher",
+    "name": "Sachiel, Bowsher",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Stares into the distance",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "talks in third person"
     }
 }

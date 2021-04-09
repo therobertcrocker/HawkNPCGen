@@ -1,13 +1,19 @@
 {
-    "Full Name": "Margh, Bamard",
+    "name": "Margh, Bamard",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
+        "mannerism": "Chews something",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

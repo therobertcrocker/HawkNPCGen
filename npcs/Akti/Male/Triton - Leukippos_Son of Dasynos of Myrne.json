@@ -1,13 +1,19 @@
 {
-    "Full Name": "Leukippos, Son of Dasynos of Myrne",
+    "name": "Leukippos, Son of Dasynos of Myrne",
     "base": "Male | Akti - Triton",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Fidgets",
+        "mannerism": "Fixes hair constantly ",
         "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "pauses often"
     }
 }

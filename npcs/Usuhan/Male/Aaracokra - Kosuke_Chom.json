@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kosuke, Chom",
+    "name": "Kosuke, Chom",
     "base": "Male | Usuhan - Aaracokra",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Fidgets",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Sighs after each sentence"
     }
 }

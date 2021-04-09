@@ -1,13 +1,19 @@
 {
-    "Full Name": "Amalfrieda, Le-Bail",
+    "name": "Amalfrieda, Le-Bail",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Taps fingers",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }

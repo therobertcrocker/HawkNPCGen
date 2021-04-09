@@ -1,13 +1,19 @@
 {
-    "Full Name": "Wibo, van-'t-Hek",
+    "name": "Wibo, van-'t-Hek",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

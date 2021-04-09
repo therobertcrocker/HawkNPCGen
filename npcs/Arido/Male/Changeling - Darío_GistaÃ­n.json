@@ -1,13 +1,19 @@
 {
-    "Full Name": "Darío, GistaÃ­n",
+    "name": "Darío, GistaÃ­n",
     "base": "Male | Arido - Changeling",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Never sits down while talking ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

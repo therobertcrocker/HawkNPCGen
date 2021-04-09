@@ -1,0 +1,19 @@
+{
+    "name": "Sébire, Terpstra",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Often brags that they onceâ€™s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

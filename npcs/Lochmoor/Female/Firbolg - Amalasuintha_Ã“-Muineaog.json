@@ -1,13 +1,19 @@
 {
-    "Full Name": "Amalasuintha, Ó-Muineaog",
+    "name": "Amalasuintha, Ó-Muineaog",
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Licks lips while speaking",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "opens mouth too wide"
     }
 }

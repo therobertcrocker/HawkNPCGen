@@ -1,13 +1,19 @@
 {
-    "Full Name": "Piloqutinnguaq, Agmundrdottir",
+    "name": "Piloqutinnguaq, Agmundrdottir",
     "base": "Female | Isfolk - Warforged",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of um"
     }
 }

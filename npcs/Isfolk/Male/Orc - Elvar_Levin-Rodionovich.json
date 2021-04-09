@@ -1,13 +1,19 @@
 {
-    "Full Name": "Elvar, Levin-Rodionovich",
+    "name": "Elvar, Levin-Rodionovich",
     "base": "Male | Isfolk - Orc",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

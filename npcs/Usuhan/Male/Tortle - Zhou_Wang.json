@@ -1,0 +1,19 @@
+{
+    "name": "Zhou, Wang",
+    "base": "Male | Usuhan - Tortle",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
+    }
+}

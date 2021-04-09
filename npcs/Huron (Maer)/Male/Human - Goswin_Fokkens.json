@@ -1,13 +1,19 @@
 {
-    "Full Name": "Goswin, Fokkens",
+    "name": "Goswin, Fokkens",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Aoibhin, Mac-Gille Fhionndaig",
+    "base": "Enby | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Sways when standing ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Stutters"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Patricius, Kyrytharmia",
+    "name": "Patricius, Kyrytharmia",
     "base": "Enby | Akti - High-Elf",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Incoherent except for a few key words"
     }
 }

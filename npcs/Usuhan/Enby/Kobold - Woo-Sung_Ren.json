@@ -1,13 +1,19 @@
 {
-    "Full Name": "Woo-Sung, Ren",
+    "name": "Woo-Sung, Ren",
     "base": "Enby | Usuhan - Kobold",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "always pouting"
     }
 }

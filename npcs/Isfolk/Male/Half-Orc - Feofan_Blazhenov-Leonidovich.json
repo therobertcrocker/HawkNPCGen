@@ -1,13 +1,19 @@
 {
-    "Full Name": "Feofan, Blazhenov-Leonidovich",
+    "name": "Feofan, Blazhenov-Leonidovich",
     "base": "Male | Isfolk - Half-Orc",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "sings everything"
     }
 }

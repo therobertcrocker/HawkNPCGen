@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hye-Jin, P'il",
+    "name": "Hye-Jin, P'il",
     "base": "Female | Usuhan - Kobold",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

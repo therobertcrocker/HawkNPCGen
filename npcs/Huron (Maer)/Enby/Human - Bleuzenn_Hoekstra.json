@@ -1,0 +1,19 @@
+{
+    "name": "Bleuzenn, Hoekstra",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "r-sounds become w-sounds"
+    }
+}

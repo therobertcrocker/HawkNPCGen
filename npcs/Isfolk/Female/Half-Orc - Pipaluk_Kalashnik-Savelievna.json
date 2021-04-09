@@ -1,13 +1,19 @@
 {
-    "Full Name": "Pipaluk, Kalashnik-Savelievna",
+    "name": "Pipaluk, Kalashnik-Savelievna",
     "base": "Female | Isfolk - Half-Orc",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Fearful at the sight of drawn weapons ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

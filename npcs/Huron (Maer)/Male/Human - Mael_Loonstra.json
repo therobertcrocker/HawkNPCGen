@@ -1,13 +1,19 @@
 {
-    "Full Name": "Mael, Loonstra",
+    "name": "Mael, Loonstra",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Squints",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

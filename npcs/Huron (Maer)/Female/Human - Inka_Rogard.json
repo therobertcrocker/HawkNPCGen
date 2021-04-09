@@ -1,13 +1,19 @@
 {
-    "Full Name": "Inka, Rogard",
+    "name": "Inka, Rogard",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Never sits down while talking ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

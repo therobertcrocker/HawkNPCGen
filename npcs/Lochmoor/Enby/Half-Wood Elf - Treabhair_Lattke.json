@@ -1,13 +1,19 @@
 {
-    "Full Name": "Treabhair, Lattke",
+    "name": "Treabhair, Lattke",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
+        "mannerism": "Always looks as if they are chewing on something ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "pauses often"
     }
 }

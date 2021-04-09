@@ -1,13 +1,19 @@
 {
-    "Full Name": "Martinus, Tjedaa",
+    "name": "Martinus, Tjedaa",
     "base": "Male | Akti - Triton",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Makes circles with their fingers ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "slurrs words"
     }
 }

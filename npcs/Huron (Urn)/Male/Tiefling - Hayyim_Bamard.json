@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hayyim, Bamard",
+    "name": "Hayyim, Bamard",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Readjusts belt when speaking ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "opens mouth too wide"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Lucianus, Sianiuson Siusorio",
+    "name": "Lucianus, Sianiuson Siusorio",
     "base": "Male | Akti - Hill Dwarf",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "pauses often"
     }
 }

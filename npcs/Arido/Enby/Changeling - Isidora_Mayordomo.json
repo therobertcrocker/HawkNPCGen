@@ -1,13 +1,19 @@
 {
-    "Full Name": "Isidora, Mayordomo",
+    "name": "Isidora, Mayordomo",
     "base": "Enby | Arido - Changeling",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Intense dislike to a particular race/PC ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "tongue stuck to back of teeth"
     }
 }

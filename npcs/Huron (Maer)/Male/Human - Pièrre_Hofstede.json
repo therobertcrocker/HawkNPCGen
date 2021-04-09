@@ -1,13 +1,19 @@
 {
-    "Full Name": "Pièrre, Hofstede",
+    "name": "Pièrre, Hofstede",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Chews something",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "staccato speech"
     }
 }

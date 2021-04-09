@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sébire, Auffrye",
+    "name": "Sébire, Auffrye",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

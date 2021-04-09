@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aalissa, Hidde-Zeilstra",
+    "name": "Aalissa, Hidde-Zeilstra",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

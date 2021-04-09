@@ -1,13 +1,19 @@
 {
-    "Full Name": "Delia, Cerecero",
+    "name": "Delia, Cerecero",
     "base": "Female | Arido - Tabaxi",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Agrees with everything a particular PC says ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "tongue stuck to back of teeth"
     }
 }

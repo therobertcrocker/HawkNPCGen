@@ -1,0 +1,19 @@
+{
+    "name": "Ivka, The Envious",
+    "base": "Enby | Isfolk - Warforged",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Clicks tongue",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

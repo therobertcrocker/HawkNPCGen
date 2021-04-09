@@ -1,13 +1,19 @@
 {
-    "Full Name": "Piloqutinnguaq, The Speaker",
+    "name": "Piloqutinnguaq, The Speaker",
     "base": "Female | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Squints",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

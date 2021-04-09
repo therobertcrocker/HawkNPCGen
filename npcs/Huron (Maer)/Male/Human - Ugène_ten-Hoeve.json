@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ugène, ten-Hoeve",
+    "name": "Ugène, ten-Hoeve",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Intense dislike to a particular race/PC ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

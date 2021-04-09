@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gormlaith, Ó-Canáin",
+    "name": "Gormlaith, Ó-Canáin",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Light lisp"
     }
 }

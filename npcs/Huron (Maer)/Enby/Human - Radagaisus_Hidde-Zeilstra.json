@@ -1,13 +1,19 @@
 {
-    "Full Name": "Radagaisus, Hidde-Zeilstra",
+    "name": "Radagaisus, Hidde-Zeilstra",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "clenched teeth"
     }
 }

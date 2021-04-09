@@ -1,0 +1,19 @@
+{
+    "name": "Eliseo, Carla Luso-Luso Cabungcal",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

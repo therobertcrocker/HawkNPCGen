@@ -1,0 +1,19 @@
+{
+    "name": "Patxi, Taryn Abucay Agbayani",
+    "base": "Male | Arido - Tabaxi",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Keeps smelling their hands ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "pauses often"
+    }
+}

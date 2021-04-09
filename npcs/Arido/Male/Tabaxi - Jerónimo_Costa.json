@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jerónimo, Costa",
+    "name": "Jerónimo, Costa",
     "base": "Male | Arido - Tabaxi",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "barely opens lips"
     }
 }

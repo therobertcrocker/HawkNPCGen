@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jouko, Inshov-Victorovich",
+    "name": "Jouko, Inshov-Victorovich",
     "base": "Male | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Taps fingers",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Always over-exaggerates"
     }
 }

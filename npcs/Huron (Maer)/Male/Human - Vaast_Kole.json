@@ -1,13 +1,19 @@
 {
-    "Full Name": "Vaast, Kole",
+    "name": "Vaast, Kole",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Pitter, Hascoet",
+    "name": "Pitter, Hascoet",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Squints",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

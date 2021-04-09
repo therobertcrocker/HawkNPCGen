@@ -1,13 +1,19 @@
 {
-    "Full Name": "Karen, Hjortdottir",
+    "name": "Karen, Hjortdottir",
     "base": "Female | Isfolk - Goliath",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Always over-exaggerates"
     }
 }

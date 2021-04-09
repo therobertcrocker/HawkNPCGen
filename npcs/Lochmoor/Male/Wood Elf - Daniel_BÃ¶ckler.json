@@ -1,13 +1,19 @@
 {
-    "Full Name": "Daniel, Böckler",
+    "name": "Daniel, Böckler",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Responds in the form of questions"
     }
 }

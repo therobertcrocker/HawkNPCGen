@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sébire, Dufay",
+    "name": "Sébire, Dufay",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "severe underbite"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eilert, de-Moustiers",
+    "name": "Eilert, de-Moustiers",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Intense dislike to a particular race/PC ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "severe underbite"
     }
 }

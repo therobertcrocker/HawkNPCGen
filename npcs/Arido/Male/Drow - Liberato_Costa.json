@@ -1,13 +1,19 @@
 {
-    "Full Name": "Liberato, Costa",
+    "name": "Liberato, Costa",
     "base": "Male | Arido - Drow",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Paces",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

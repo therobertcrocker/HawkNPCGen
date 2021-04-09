@@ -1,13 +1,19 @@
 {
-    "Full Name": "Margot, Tremblay",
+    "name": "Margot, Tremblay",
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Clicks tongue",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

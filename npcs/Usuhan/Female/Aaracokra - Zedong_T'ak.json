@@ -1,13 +1,19 @@
 {
-    "Full Name": "Zedong, T'ak",
+    "name": "Zedong, T'ak",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Squints",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

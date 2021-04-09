@@ -1,0 +1,19 @@
+{
+    "name": "Naulabates, Eliès",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Intense dislike to a particular race/PC ",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "severe overbite"
+    }
+}

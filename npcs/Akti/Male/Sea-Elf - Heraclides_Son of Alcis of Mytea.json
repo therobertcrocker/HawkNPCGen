@@ -1,0 +1,19 @@
+{
+    "name": "Heraclides, Son of Alcis of Mytea",
+    "base": "Male | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Taps fingers",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "never uses contractions"
+    }
+}

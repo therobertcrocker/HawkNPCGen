@@ -1,0 +1,19 @@
+{
+    "name": "Slavitsa, Dusteby",
+    "base": "Female | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fiddles with their weapon ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Esther, Valderas",
+    "name": "Esther, Valderas",
     "base": "Female | Arido - Changeling",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Taps fingers",
+        "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "staccato speech"
     }
 }

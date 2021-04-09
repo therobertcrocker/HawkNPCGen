@@ -1,13 +1,19 @@
 {
-    "Full Name": "Min-Seo, Wang",
+    "name": "Min-Seo, Wang",
     "base": "Female | Usuhan - Kobold",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "sings everything"
     }
 }

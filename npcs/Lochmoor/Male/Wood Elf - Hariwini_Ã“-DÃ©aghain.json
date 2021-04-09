@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hariwini, Ó-Déaghain",
+    "name": "Hariwini, Ó-Déaghain",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "pauses often"
     }
 }

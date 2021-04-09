@@ -1,13 +1,19 @@
 {
-    "Full Name": "Maria, Minaberrieta",
+    "name": "Maria, Minaberrieta",
     "base": "Female | Arido - Drow",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Makes circles with their fingers ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

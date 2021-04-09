@@ -1,0 +1,19 @@
+{
+    "name": "Camélia, AlmÃ©ras",
+    "base": "Female | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Constantly paces around ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Urbano, Insaurriaga",
+    "base": "Enby | Arido - Tabaxi",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "lots of swearing"
+    }
+}

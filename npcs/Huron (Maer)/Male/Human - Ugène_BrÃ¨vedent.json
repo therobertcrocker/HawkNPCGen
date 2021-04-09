@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ugène, BrÃ¨vedent",
+    "name": "Ugène, BrÃ¨vedent",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Often brags that they onceâ€™s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Responds in the form of questions"
     }
 }

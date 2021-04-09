@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yeong-Hui, Yuk",
+    "name": "Yeong-Hui, Yuk",
     "base": "Female | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of like"
     }
 }

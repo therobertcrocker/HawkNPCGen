@@ -1,0 +1,19 @@
+{
+    "name": "Adalgard, Binger",
+    "base": "Female | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Spurius,  Servant of Sariel",
+    "name": "Spurius,  Servant of Sariel",
     "base": "Male | Akti - Goblin",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats the last word you say before responding"
     }
 }

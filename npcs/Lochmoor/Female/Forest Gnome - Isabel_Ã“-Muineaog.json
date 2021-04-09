@@ -1,13 +1,19 @@
 {
-    "Full Name": "Isabel, Ó-Muineaog",
+    "name": "Isabel, Ó-Muineaog",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "mutters to self"
     }
 }

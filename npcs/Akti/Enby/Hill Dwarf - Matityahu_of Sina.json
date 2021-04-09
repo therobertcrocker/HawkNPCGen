@@ -1,13 +1,19 @@
 {
-    "Full Name": "Matityahu, of Sina",
+    "name": "Matityahu, of Sina",
     "base": "Enby | Akti - Hill Dwarf",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Taps fingers",
+        "mannerism": "Won't stop itching",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

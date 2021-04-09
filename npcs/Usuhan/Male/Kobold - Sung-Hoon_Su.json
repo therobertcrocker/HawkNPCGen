@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sung-Hoon, Su",
+    "name": "Sung-Hoon, Su",
     "base": "Male | Usuhan - Kobold",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
     }
 }

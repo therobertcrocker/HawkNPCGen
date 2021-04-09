@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ver, Gunbjornbarn",
+    "name": "Ver, Gunbjornbarn",
     "base": "Enby | Isfolk - Orc",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Speaks several languages fluently",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "staccato speech"
     }
 }

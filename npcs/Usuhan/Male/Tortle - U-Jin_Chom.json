@@ -1,0 +1,19 @@
+{
+    "name": "U-Jin, Chom",
+    "base": "Male | Usuhan - Tortle",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Sighs after each sentence"
+    }
+}

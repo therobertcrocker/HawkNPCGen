@@ -1,0 +1,19 @@
+{
+    "name": "Naya'il, Aethelheard",
+    "base": "Enby | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Whiny"
+    }
+}

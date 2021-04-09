@@ -1,5 +1,5 @@
 {
-    "Full Name": "Olavi, The White",
+    "name": "Olavi, The White",
     "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "is missing one or more fingers",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Speaks several languages fluently",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "sings everything"
     }
 }

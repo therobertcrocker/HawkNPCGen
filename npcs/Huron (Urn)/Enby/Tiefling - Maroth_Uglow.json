@@ -1,13 +1,19 @@
 {
-    "Full Name": "Maroth, Uglow",
+    "name": "Maroth, Uglow",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "pauses often"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "Full Name": "Jaffe, Pearce",
+    "name": "Jaffe, Pearce",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Drags feet when walking ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
     }
 }

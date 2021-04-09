@@ -1,0 +1,19 @@
+{
+    "name": "Anna, de-Felius",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Chews something",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

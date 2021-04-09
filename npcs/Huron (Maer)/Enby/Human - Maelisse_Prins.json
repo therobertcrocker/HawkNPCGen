@@ -1,0 +1,19 @@
+{
+    "name": "Maelisse, Prins",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

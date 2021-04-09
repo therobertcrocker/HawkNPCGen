@@ -1,13 +1,19 @@
 {
-    "Full Name": "Esteban, Palacio",
+    "name": "Esteban, Palacio",
     "base": "Male | Arido - Drow",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Constantly slouches ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

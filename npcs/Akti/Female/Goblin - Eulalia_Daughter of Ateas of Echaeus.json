@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eulalia, Daughter of Ateas of Echaeus",
+    "name": "Eulalia, Daughter of Ateas of Echaeus",
     "base": "Female | Akti - Goblin",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "severe underbite"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Archantael, Zieleman",
+    "name": "Archantael, Zieleman",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

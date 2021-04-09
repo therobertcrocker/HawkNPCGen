@@ -1,0 +1,19 @@
+{
+    "name": "Aquila, of Thegium",
+    "base": "Female | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Stutters"
+    }
+}

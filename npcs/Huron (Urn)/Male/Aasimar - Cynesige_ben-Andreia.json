@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cynesige, ben-Andreia",
+    "name": "Cynesige, ben-Andreia",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Chews something",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "tongue stuck to back of teeth"
     }
 }

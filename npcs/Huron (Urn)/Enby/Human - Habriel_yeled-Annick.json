@@ -1,0 +1,19 @@
+{
+    "name": "Habriel, yeled-Annick",
+    "base": "Enby | Huron (Urn) - Human",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "pauses often"
+    }
+}

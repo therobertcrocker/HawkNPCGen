@@ -1,0 +1,19 @@
+{
+    "name": "Hyun, Roe",
+    "base": "Male | Usuhan - Dragonborn",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of um"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Rampel, Mildthryth",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Incoherent except for a few key words"
+    }
+}

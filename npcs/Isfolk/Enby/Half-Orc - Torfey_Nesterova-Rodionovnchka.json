@@ -1,13 +1,19 @@
 {
-    "Full Name": "Torfey, Nesterova-Rodionovnchka",
+    "name": "Torfey, Nesterova-Rodionovnchka",
     "base": "Enby | Isfolk - Half-Orc",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "pauses often"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Avilius, Son of Dasynos of Myrne",
+    "base": "Male | Akti - Triton",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fidgets",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

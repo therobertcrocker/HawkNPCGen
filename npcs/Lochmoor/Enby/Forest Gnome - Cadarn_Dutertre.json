@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cadarn, Dutertre",
+    "name": "Cadarn, Dutertre",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Won't stop itching",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

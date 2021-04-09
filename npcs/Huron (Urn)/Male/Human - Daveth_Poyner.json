@@ -1,13 +1,19 @@
 {
-    "Full Name": "Daveth, Poyner",
+    "name": "Daveth, Poyner",
     "base": "Male | Huron (Urn) - Human",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Whispers",
+        "mannerism": "Glances out the window ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "mouth is always full when talking"
     }
 }

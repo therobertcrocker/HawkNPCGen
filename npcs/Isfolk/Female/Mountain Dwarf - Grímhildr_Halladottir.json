@@ -1,0 +1,19 @@
+{
+    "name": "Grímhildr, Halladottir",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

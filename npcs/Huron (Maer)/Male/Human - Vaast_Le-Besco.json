@@ -1,13 +1,19 @@
 {
-    "Full Name": "Vaast, Le-Besco",
+    "name": "Vaast, Le-Besco",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Drags feet when walking ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "stuffy nose"
     }
 }

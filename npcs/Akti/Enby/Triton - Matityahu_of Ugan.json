@@ -1,0 +1,19 @@
+{
+    "name": "Matityahu, of Ugan",
+    "base": "Enby | Akti - Triton",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Sarcastic to conversation/threats ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "stuffy nose"
+    }
+}

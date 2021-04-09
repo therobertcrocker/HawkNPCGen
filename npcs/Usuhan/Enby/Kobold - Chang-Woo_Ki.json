@@ -1,0 +1,19 @@
+{
+    "name": "Chang-Woo, Ki",
+    "base": "Enby | Usuhan - Kobold",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Taps fingers",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ingigerðr, The Mute",
+    "name": "Ingigerðr, The Mute",
     "base": "Female | Isfolk - Warforged",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Knows thievesâ€™ cant",
-        "mannerism": "Paces",
+        "mannerism": "Readjusts belt when speaking ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "opens mouth too wide"
     }
 }

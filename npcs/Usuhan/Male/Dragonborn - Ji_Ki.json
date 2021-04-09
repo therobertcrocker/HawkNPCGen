@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ji, Ki",
+    "name": "Ji, Ki",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Paces",
+        "mannerism": "Fearful at the sight of drawn weapons ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

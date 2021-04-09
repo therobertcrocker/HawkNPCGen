@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eldar, Child of Thippia of Orcyma",
+    "name": "Eldar, Child of Thippia of Orcyma",
     "base": "Enby | Akti - Triton",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Whispers",
+        "mannerism": "Always looks as if they are chewing on something ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Monotonous"
     }
 }

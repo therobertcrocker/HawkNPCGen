@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rosendo, Bolea",
+    "name": "Rosendo, Bolea",
     "base": "Male | Arido - Tabaxi",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Plays around with ring on finger ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

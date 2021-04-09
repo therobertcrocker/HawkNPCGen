@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eiríkur, Parshikov-Konstantinovich",
+    "name": "Eiríkur, Parshikov-Konstantinovich",
     "base": "Male | Isfolk - Warforged",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

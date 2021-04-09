@@ -1,0 +1,19 @@
+{
+    "name": "Björg, Bolladottir",
+    "base": "Female | Isfolk - Warforged",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

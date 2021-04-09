@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yanick, Gorter",
+    "name": "Yanick, Gorter",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Whiny"
     }
 }

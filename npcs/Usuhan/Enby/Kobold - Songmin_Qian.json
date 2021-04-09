@@ -1,13 +1,19 @@
 {
-    "Full Name": "Songmin, Qian",
+    "name": "Songmin, Qian",
     "base": "Enby | Usuhan - Kobold",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "never uses contractions"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jeong-Suk, Ma",
+    "name": "Jeong-Suk, Ma",
     "base": "Female | Usuhan - Dragonborn",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

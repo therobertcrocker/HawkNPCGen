@@ -1,13 +1,19 @@
 {
-    "Full Name": "Manolo, Leguizamo",
+    "name": "Manolo, Leguizamo",
     "base": "Male | Arido - Changeling",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

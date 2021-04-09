@@ -1,13 +1,19 @@
 {
-    "Full Name": "Theodoulos, Tenebty",
+    "name": "Theodoulos, Tenebty",
     "base": "Male | Akti - Hill Dwarf",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "lots of um"
     }
 }

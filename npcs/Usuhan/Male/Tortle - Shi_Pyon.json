@@ -1,13 +1,19 @@
 {
-    "Full Name": "Shi, Pyon",
+    "name": "Shi, Pyon",
     "base": "Male | Usuhan - Tortle",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Drinks everyone under the table",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Squints",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Stutters"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Manami, Chong",
+    "base": "Female | Usuhan - Kenku",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

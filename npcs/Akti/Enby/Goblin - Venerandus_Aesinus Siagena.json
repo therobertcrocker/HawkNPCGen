@@ -1,13 +1,19 @@
 {
-    "Full Name": "Venerandus, Aesinus Siagena",
+    "name": "Venerandus, Aesinus Siagena",
     "base": "Enby | Akti - Goblin",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Always looks as if they are chewing on something ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "mutters to self"
     }
 }

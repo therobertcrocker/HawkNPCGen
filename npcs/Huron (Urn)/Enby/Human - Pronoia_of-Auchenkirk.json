@@ -1,13 +1,19 @@
 {
-    "Full Name": "Pronoia, of-Auchenkirk",
+    "name": "Pronoia, of-Auchenkirk",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Chews something",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yéssica, Luc Ancatan Jardenil",
+    "name": "Yéssica, Luc Ancatan Jardenil",
     "base": "Female | Arido - Genasi",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Glances out the window ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Stutters"
     }
 }

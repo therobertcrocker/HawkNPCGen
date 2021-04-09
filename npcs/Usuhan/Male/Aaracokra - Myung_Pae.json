@@ -1,13 +1,19 @@
 {
-    "Full Name": "Myung, Pae",
+    "name": "Myung, Pae",
     "base": "Male | Usuhan - Aaracokra",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "sings everything"
     }
 }

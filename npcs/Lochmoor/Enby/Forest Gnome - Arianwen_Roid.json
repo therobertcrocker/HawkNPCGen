@@ -1,13 +1,19 @@
 {
-    "Full Name": "Arianwen, Roid",
+    "name": "Arianwen, Roid",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

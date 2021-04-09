@@ -1,13 +1,19 @@
 {
-    "Full Name": "Mamarce, Jose Cubero",
+    "name": "Mamarce, Jose Cubero",
     "base": "Enby | Arido - Drow",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
     }
 }

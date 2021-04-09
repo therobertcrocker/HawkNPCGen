@@ -1,13 +1,19 @@
 {
-    "Full Name": "Agape, Gidiusab ",
+    "name": "Agape, Gidiusab ",
     "base": "Female | Akti - Triton",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

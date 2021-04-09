@@ -1,13 +1,19 @@
 {
-    "Full Name": "Maríuerla, The Devil",
+    "name": "Maríuerla, The Devil",
     "base": "Enby | Isfolk - Orc",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Constantly slouches ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of like"
     }
 }

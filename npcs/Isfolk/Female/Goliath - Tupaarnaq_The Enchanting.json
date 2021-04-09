@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tupaarnaq, The Enchanting",
+    "name": "Tupaarnaq, The Enchanting",
     "base": "Female | Isfolk - Goliath",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Squints",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

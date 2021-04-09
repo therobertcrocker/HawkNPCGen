@@ -1,5 +1,5 @@
 {
-    "Full Name": "Boudicca, Ó-Déaghain",
+    "name": "Boudicca, Ó-Déaghain",
     "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "has visible piercings",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Paces",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

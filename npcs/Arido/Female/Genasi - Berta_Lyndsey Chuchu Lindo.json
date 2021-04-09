@@ -1,13 +1,19 @@
 {
-    "Full Name": "Berta, Lyndsey Chuchu Lindo",
+    "name": "Berta, Lyndsey Chuchu Lindo",
     "base": "Female | Arido - Genasi",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
     }
 }

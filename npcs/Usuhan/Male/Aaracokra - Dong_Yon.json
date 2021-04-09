@@ -1,13 +1,19 @@
 {
-    "Full Name": "Dong, Yon",
+    "name": "Dong, Yon",
     "base": "Male | Usuhan - Aaracokra",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Won't stop itching",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
     }
 }

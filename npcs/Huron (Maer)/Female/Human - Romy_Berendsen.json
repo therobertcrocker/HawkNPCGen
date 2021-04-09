@@ -1,13 +1,19 @@
 {
-    "Full Name": "Romy, Berendsen",
+    "name": "Romy, Berendsen",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "sings everything"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eudocia, Daughter of Thypsa of Chalesb",
+    "name": "Eudocia, Daughter of Thypsa of Chalesb",
     "base": "Female | Akti - Triton",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Fidgets",
+        "mannerism": "Won't stop itching",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Responds in the form of questions"
     }
 }

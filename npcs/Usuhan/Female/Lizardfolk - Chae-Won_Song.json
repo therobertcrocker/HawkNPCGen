@@ -1,13 +1,19 @@
 {
-    "Full Name": "Chae-Won, Song",
+    "name": "Chae-Won, Song",
     "base": "Female | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Constantly paces around ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "staccato speech"
     }
 }

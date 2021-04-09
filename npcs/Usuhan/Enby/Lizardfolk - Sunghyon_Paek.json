@@ -1,0 +1,19 @@
+{
+    "name": "Sunghyon, Paek",
+    "base": "Enby | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Taps fingers",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

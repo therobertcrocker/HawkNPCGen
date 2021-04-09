@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jong, Kum",
+    "name": "Jong, Kum",
     "base": "Female | Usuhan - Tortle",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

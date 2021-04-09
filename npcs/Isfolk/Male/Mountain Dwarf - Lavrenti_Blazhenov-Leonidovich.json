@@ -1,0 +1,19 @@
+{
+    "name": "Lavrenti, Blazhenov-Leonidovich",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Fidgets",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

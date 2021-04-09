@@ -1,0 +1,19 @@
+{
+    "name": "Zinoviya, Thorunndottir",
+    "base": "Female | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "always pouting"
+    }
+}

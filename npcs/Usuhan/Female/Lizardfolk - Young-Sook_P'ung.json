@@ -1,13 +1,19 @@
 {
-    "Full Name": "Young-Sook, P'ung",
+    "name": "Young-Sook, P'ung",
     "base": "Female | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Expert carpenter",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Bites fingernails",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "repeats the last word you say before responding"
     }
 }

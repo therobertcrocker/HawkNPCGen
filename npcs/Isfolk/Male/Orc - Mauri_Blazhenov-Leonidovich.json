@@ -1,13 +1,19 @@
 {
-    "Full Name": "Mauri, Blazhenov-Leonidovich",
+    "name": "Mauri, Blazhenov-Leonidovich",
     "base": "Male | Isfolk - Orc",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Licks lips while speaking",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

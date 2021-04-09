@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jong, Yon",
+    "name": "Jong, Yon",
     "base": "Female | Usuhan - Tortle",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "severe overbite"
     }
 }

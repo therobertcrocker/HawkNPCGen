@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ling, P'o",
+    "name": "Ling, P'o",
     "base": "Male | Usuhan - Kenku",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Squints",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "sings everything"
     }
 }

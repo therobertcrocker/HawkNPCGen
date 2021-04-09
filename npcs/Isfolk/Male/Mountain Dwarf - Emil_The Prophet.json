@@ -1,13 +1,19 @@
 {
-    "Full Name": "Emil, The Prophet",
+    "name": "Emil, The Prophet",
     "base": "Male | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "lots of swearing"
     }
 }

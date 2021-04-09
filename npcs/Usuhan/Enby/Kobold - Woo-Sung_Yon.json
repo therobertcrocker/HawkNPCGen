@@ -1,13 +1,19 @@
 {
-    "Full Name": "Woo-Sung, Yon",
+    "name": "Woo-Sung, Yon",
     "base": "Enby | Usuhan - Kobold",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Won't stop itching",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

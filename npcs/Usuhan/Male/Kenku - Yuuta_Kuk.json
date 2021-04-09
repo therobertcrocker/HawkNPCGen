@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yuuta, Kuk",
+    "name": "Yuuta, Kuk",
     "base": "Male | Usuhan - Kenku",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Elixabete, Botero",
+    "name": "Elixabete, Botero",
     "base": "Female | Arido - Changeling",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "Drinks everyone under the table",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Light lisp"
     }
 }

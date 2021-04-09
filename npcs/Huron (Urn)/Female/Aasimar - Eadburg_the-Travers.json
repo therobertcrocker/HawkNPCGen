@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eadburg, the-Travers",
+    "name": "Eadburg, the-Travers",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Glances out the window ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }

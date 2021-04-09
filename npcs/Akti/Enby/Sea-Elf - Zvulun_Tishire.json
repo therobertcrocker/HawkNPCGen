@@ -1,13 +1,19 @@
 {
-    "Full Name": "Zvulun, Tishire",
+    "name": "Zvulun, Tishire",
     "base": "Enby | Akti - Sea-Elf",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Never sits down while talking ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Light lisp"
     }
 }

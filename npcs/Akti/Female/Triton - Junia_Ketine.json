@@ -1,13 +1,19 @@
 {
-    "Full Name": "Junia, Ketine",
+    "name": "Junia, Ketine",
     "base": "Female | Akti - Triton",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Chews something",
+        "mannerism": "Never sits down while talking ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Whiny"
     }
 }

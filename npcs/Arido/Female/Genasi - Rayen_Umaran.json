@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rayen, Umaran",
+    "name": "Rayen, Umaran",
     "base": "Female | Arido - Genasi",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "tongue stuck to back of teeth"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Drusilla, Tatabu",
+    "name": "Drusilla, Tatabu",
     "base": "Female | Akti - Goblin",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

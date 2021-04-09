@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yuuki, An",
+    "name": "Yuuki, An",
     "base": "Male | Usuhan - Kenku",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "stuffy nose"
     }
 }

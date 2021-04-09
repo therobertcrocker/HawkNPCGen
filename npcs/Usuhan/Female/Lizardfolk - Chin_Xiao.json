@@ -1,0 +1,19 @@
+{
+    "name": "Chin, Xiao",
+    "base": "Female | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

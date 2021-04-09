@@ -1,13 +1,19 @@
 {
-    "Full Name": "Eseld, Cadwalader",
+    "name": "Eseld, Cadwalader",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

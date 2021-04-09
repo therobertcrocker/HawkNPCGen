@@ -1,0 +1,19 @@
+{
+    "name": "Hisarna, Le-Boudec",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

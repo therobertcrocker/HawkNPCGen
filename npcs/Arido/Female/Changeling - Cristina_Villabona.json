@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cristina, Villabona",
+    "name": "Cristina, Villabona",
     "base": "Female | Arido - Changeling",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Glances out the window ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "severe underbite"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Matthias, Brèvedent",
+    "name": "Matthias, Brèvedent",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Chews something",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Mauricio, Hurtado",
+    "base": "Enby | Arido - Genasi",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Agrees with everything a particular PC says ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Stutters"
+    }
+}

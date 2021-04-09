@@ -1,0 +1,19 @@
+{
+    "name": "Ceridwen, Meylor",
+    "base": "Female | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Glances out the window ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

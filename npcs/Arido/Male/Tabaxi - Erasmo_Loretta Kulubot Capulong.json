@@ -1,13 +1,19 @@
 {
-    "Full Name": "Erasmo, Loretta Kulubot Capulong",
+    "name": "Erasmo, Loretta Kulubot Capulong",
     "base": "Male | Arido - Tabaxi",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Fearful at the sight of drawn weapons ",
         "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "opens mouth too wide"
     }
 }

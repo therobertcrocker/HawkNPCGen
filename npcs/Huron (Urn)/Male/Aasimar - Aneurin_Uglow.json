@@ -1,0 +1,19 @@
+{
+    "name": "Aneurin, Uglow",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

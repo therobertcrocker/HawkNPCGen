@@ -1,13 +1,19 @@
 {
-    "Full Name": "Evrawg, MacNia",
+    "name": "Evrawg, MacNia",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Paces",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "lots of swearing"
     }
 }

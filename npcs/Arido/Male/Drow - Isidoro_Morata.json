@@ -1,0 +1,19 @@
+{
+    "name": "Isidoro, Morata",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Makes circles with their fingers ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "slurrs words"
+    }
+}

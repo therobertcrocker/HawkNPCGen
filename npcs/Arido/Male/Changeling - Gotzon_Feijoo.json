@@ -1,13 +1,19 @@
 {
-    "Full Name": "Gotzon, Feijoo",
+    "name": "Gotzon, Feijoo",
     "base": "Male | Arido - Changeling",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "stuffy nose"
     }
 }

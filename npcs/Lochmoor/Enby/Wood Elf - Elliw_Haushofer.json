@@ -1,0 +1,19 @@
+{
+    "name": "Elliw, Haushofer",
+    "base": "Enby | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes circles with their fingers ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

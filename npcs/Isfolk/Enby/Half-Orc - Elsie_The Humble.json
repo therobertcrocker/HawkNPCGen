@@ -1,0 +1,19 @@
+{
+    "name": "Elsie, The Humble",
+    "base": "Enby | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "staccato speech"
+    }
+}

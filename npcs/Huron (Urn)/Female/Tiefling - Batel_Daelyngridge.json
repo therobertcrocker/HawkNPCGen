@@ -1,13 +1,19 @@
 {
-    "Full Name": "Batel, Daelyngridge",
+    "name": "Batel, Daelyngridge",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Taps fingers",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "lots of swearing"
     }
 }

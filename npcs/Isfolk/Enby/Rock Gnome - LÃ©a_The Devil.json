@@ -1,13 +1,19 @@
 {
-    "Full Name": "Léa, The Devil",
+    "name": "Léa, The Devil",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Coughs frequently between sentences",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "severe underbite"
     }
 }

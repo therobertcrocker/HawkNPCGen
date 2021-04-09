@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sung, Kwok",
+    "name": "Sung, Kwok",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

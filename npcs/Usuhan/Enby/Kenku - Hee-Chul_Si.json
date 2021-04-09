@@ -1,0 +1,19 @@
+{
+    "name": "Hee-Chul, Si",
+    "base": "Enby | Usuhan - Kenku",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Chews something",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "never stops to breathe"
+    }
+}

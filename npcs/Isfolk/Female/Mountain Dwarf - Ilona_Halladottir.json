@@ -1,0 +1,19 @@
+{
+    "name": "Ilona, Halladottir",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "always pouting"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Vetrliði, Blazhenov-Leonidovich",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Chews something",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}

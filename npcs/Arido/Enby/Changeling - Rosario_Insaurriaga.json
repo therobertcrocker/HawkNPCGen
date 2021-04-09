@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rosario, Insaurriaga",
+    "name": "Rosario, Insaurriaga",
     "base": "Enby | Arido - Changeling",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

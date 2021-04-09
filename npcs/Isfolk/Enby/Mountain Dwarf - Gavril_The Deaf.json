@@ -1,0 +1,19 @@
+{
+    "name": "Gavril, The Deaf",
+    "base": "Enby | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Readjusts belt when speaking ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

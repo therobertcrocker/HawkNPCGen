@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kira, Sæunndottir",
+    "name": "Kira, Sæunndottir",
     "base": "Female | Isfolk - Half-Orc",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Stutters"
     }
 }

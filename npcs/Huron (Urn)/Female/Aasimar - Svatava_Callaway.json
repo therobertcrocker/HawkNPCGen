@@ -1,13 +1,19 @@
 {
-    "Full Name": "Svatava, Callaway",
+    "name": "Svatava, Callaway",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Never looks in people's eyes ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Incoherent except for a few key words"
     }
 }

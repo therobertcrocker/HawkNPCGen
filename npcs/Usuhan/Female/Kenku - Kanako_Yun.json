@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kanako, Yun",
+    "name": "Kanako, Yun",
     "base": "Female | Usuhan - Kenku",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "staccato speech"
     }
 }

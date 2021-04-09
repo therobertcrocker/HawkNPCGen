@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hildimar, Carrel",
+    "name": "Hildimar, Carrel",
     "base": "Male | Lochmoor - Shifter",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Coughs frequently between sentences",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Pryderi, of-Polthorp",
+    "name": "Pryderi, of-Polthorp",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Frequently uses the wrong word",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "stuffy nose"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Zuriel, Bamard",
+    "name": "Zuriel, Bamard",
     "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
     }
 }

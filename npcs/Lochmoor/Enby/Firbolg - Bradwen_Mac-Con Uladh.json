@@ -1,0 +1,19 @@
+{
+    "name": "Bradwen, Mac-Con Uladh",
+    "base": "Enby | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "severe overbite"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Xiulan, Ku",
+    "name": "Xiulan, Ku",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Coughs frequently between sentences",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Monotonous"
     }
 }

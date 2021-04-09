@@ -1,13 +1,19 @@
 {
-    "Full Name": "Fravitta, van-den-Breul",
+    "name": "Fravitta, van-den-Breul",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Nervously flips a coin through fingers ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

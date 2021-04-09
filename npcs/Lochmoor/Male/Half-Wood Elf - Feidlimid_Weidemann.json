@@ -1,13 +1,19 @@
 {
-    "Full Name": "Feidlimid, Weidemann",
+    "name": "Feidlimid, Weidemann",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Stutters"
     }
 }

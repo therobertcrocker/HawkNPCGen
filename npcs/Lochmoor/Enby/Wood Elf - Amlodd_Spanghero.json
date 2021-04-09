@@ -1,13 +1,19 @@
 {
-    "Full Name": "Amlodd, Spanghero",
+    "name": "Amlodd, Spanghero",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

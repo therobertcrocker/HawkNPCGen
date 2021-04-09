@@ -1,0 +1,19 @@
+{
+    "name": "Rasha, Bouma",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Paces",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "uses thee's and thou's"
+    }
+}

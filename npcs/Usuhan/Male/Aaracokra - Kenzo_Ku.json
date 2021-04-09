@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kenzo, Ku",
+    "name": "Kenzo, Ku",
     "base": "Male | Usuhan - Aaracokra",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Fidgets",
+        "mannerism": "Squints",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
     }
 }

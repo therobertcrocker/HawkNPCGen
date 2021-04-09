@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aqissiaq, Fedin-Andreevich",
+    "name": "Aqissiaq, Fedin-Andreevich",
     "base": "Male | Isfolk - Warforged",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "talks in third person"
     }
 }

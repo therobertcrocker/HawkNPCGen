@@ -1,13 +1,19 @@
 {
-    "Full Name": "Haneul, No",
+    "name": "Haneul, No",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }

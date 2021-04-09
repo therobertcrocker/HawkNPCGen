@@ -1,0 +1,19 @@
+{
+    "name": "Mi-Kyung, Kwok",
+    "base": "Female | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Constantly taps elbow ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "clenched teeth"
+    }
+}

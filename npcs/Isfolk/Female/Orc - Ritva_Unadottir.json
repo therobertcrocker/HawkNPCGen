@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ritva, Unadottir",
+    "name": "Ritva, Unadottir",
     "base": "Female | Isfolk - Orc",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

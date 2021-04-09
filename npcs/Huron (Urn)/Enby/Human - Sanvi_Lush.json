@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sanvi, Lush",
+    "name": "Sanvi, Lush",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

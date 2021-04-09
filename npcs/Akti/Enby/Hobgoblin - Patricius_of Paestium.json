@@ -1,13 +1,19 @@
 {
-    "Full Name": "Patricius, of Paestium",
+    "name": "Patricius, of Paestium",
     "base": "Enby | Akti - Hobgoblin",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert carpenter",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Chews something",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Incoherent except for a few key words"
     }
 }

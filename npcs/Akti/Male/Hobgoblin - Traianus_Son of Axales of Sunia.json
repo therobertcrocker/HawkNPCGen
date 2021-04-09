@@ -1,0 +1,19 @@
+{
+    "name": "Traianus, Son of Axales of Sunia",
+    "base": "Male | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jun-Seo, Dong",
+    "name": "Jun-Seo, Dong",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Never looks in people's eyes ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
     }
 }

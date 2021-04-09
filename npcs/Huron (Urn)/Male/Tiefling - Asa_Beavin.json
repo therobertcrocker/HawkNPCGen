@@ -1,13 +1,19 @@
 {
-    "Full Name": "Asa, Beavin",
+    "name": "Asa, Beavin",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Bites fingernails",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Light lisp"
     }
 }

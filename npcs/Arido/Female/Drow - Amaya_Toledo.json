@@ -1,13 +1,19 @@
 {
-    "Full Name": "Amaya, Toledo",
+    "name": "Amaya, Toledo",
     "base": "Female | Arido - Drow",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Always looks as if they are chewing on something ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "barely opens lips"
     }
 }

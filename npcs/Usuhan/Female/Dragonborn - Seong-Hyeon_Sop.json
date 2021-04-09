@@ -1,5 +1,5 @@
 {
-    "Full Name": "Seong-Hyeon, Sop",
+    "name": "Seong-Hyeon, Sop",
     "base": "Female | Usuhan - Dragonborn",
     "traits": {
         "appearance": "has braided beard or hair",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Fixes hair constantly ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "never uses contractions"
     }
 }

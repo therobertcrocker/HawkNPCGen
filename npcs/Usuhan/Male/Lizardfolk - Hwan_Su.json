@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hwan, Su",
+    "name": "Hwan, Su",
     "base": "Male | Usuhan - Lizardfolk",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
+        "mannerism": "Glances out the window ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

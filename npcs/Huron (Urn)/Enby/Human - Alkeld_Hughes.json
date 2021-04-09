@@ -1,13 +1,19 @@
 {
-    "Full Name": "Alkeld, Hughes",
+    "name": "Alkeld, Hughes",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Expert carpenter",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "barely opens lips"
     }
 }

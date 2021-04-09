@@ -1,0 +1,19 @@
+{
+    "name": "Haizea, Chaim Malambut Villaécija",
+    "base": "Female | Arido - Changeling",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Responds in the form of questions"
+    }
+}

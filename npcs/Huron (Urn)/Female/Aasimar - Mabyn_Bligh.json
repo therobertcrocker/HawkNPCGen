@@ -1,13 +1,19 @@
 {
-    "Full Name": "Mabyn, Bligh",
+    "name": "Mabyn, Bligh",
     "base": "Female | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Whispers",
+        "mannerism": "Bites fingernails",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

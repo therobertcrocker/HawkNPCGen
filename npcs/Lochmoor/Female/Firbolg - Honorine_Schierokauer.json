@@ -1,5 +1,5 @@
 {
-    "Full Name": "Honorine, Schierokauer",
+    "name": "Honorine, Schierokauer",
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
         "appearance": "has a pronounced scar",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Coughs frequently between sentences",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
     }
 }

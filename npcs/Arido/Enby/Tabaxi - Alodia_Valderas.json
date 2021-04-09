@@ -1,13 +1,19 @@
 {
-    "Full Name": "Alodia, Valderas",
+    "name": "Alodia, Valderas",
     "base": "Enby | Arido - Tabaxi",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Drinks everyone under the table",
-        "mannerism": "Taps fingers",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

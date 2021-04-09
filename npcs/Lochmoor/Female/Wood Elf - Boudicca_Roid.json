@@ -1,13 +1,19 @@
 {
-    "Full Name": "Boudicca, Roid",
+    "name": "Boudicca, Roid",
     "base": "Female | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Drinks everyone under the table",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Constantly paces around ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
     }
 }

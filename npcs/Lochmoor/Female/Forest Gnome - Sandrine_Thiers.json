@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sandrine, Thiers",
+    "name": "Sandrine, Thiers",
     "base": "Female | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Responds in the form of questions"
     }
 }

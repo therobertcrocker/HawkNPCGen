@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yngvildr, Nesterova-Rodionovna",
+    "name": "Yngvildr, Nesterova-Rodionovna",
     "base": "Female | Isfolk - Half-Orc",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Plays around with ring on finger ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

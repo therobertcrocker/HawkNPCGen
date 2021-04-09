@@ -1,13 +1,19 @@
 {
-    "Full Name": "Basina, of Malium",
+    "name": "Basina, of Malium",
     "base": "Enby | Akti - Hill Dwarf",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

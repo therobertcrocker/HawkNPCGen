@@ -1,0 +1,19 @@
+{
+    "name": "Herminius,  Servant of Zopha",
+    "base": "Male | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

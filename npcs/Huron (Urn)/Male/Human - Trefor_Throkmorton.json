@@ -1,0 +1,19 @@
+{
+    "name": "Trefor, Throkmorton",
+    "base": "Male | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fearful at the sight of drawn weapons ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

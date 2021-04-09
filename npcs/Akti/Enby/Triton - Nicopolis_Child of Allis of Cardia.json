@@ -1,13 +1,19 @@
 {
-    "Full Name": "Nicopolis, Child of Allis of Cardia",
+    "name": "Nicopolis, Child of Allis of Cardia",
     "base": "Enby | Akti - Triton",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
     }
 }

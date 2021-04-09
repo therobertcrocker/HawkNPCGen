@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yong, Sop",
+    "name": "Yong, Sop",
     "base": "Female | Usuhan - Kobold",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }

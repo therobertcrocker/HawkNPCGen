@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jessé, Wilpert",
+    "name": "Jessé, Wilpert",
     "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Chews something",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "staccato speech"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Florimond, Wachsmuth",
+    "name": "Florimond, Wachsmuth",
     "base": "Male | Lochmoor - Shifter",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Agrees with everything a particular PC says ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "mouth is always full when talking"
     }
 }

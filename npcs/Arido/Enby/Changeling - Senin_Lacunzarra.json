@@ -1,13 +1,19 @@
 {
-    "Full Name": "Senin, Lacunzarra",
+    "name": "Senin, Lacunzarra",
     "base": "Enby | Arido - Changeling",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "opens mouth too wide"
     }
 }

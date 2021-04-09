@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tanguy, Warren",
+    "name": "Tanguy, Warren",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Glances out the window ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

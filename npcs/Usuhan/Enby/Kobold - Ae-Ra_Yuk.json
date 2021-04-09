@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ae-Ra, Yuk",
+    "name": "Ae-Ra, Yuk",
     "base": "Enby | Usuhan - Kobold",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Squints",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "repeats the last word you say before responding"
     }
 }

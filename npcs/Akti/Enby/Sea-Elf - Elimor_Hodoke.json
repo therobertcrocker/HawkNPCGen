@@ -1,13 +1,19 @@
 {
-    "Full Name": "Elimor, Hodoke",
+    "name": "Elimor, Hodoke",
     "base": "Enby | Akti - Sea-Elf",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Fidgets",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }

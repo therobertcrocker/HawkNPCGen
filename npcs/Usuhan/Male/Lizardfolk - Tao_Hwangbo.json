@@ -1,0 +1,19 @@
+{
+    "name": "Tao, Hwangbo",
+    "base": "Male | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Erla, The Deaf",
+    "name": "Erla, The Deaf",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

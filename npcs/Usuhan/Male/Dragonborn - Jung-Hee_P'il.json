@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jung-Hee, P'il",
+    "name": "Jung-Hee, P'il",
     "base": "Male | Usuhan - Dragonborn",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "staccato speech"
     }
 }

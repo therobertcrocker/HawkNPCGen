@@ -1,13 +1,19 @@
 {
-    "Full Name": "Fernanda, Gutiérrez",
+    "name": "Fernanda, Gutiérrez",
     "base": "Female | Arido - Genasi",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "clenched teeth"
     }
 }

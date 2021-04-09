@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ron, Bryan",
+    "name": "Ron, Bryan",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

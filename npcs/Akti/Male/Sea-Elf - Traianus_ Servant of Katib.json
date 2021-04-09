@@ -1,13 +1,19 @@
 {
-    "Full Name": "Traianus,  Servant of Katib",
+    "name": "Traianus,  Servant of Katib",
     "base": "Male | Akti - Sea-Elf",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

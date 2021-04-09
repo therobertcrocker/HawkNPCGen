@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jago, Laken",
+    "name": "Jago, Laken",
     "base": "Male | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Squints",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "barely opens lips"
     }
 }

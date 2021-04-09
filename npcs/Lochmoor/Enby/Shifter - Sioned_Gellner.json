@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sioned, Gellner",
+    "name": "Sioned, Gellner",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Fidgets",
+        "mannerism": "Prone to predictions of doom",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "always pouting"
     }
 }

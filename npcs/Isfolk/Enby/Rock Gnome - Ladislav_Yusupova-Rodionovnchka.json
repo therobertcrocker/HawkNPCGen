@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ladislav, Yusupova-Rodionovnchka",
+    "name": "Ladislav, Yusupova-Rodionovnchka",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Taps fingers",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Responds in the form of questions"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sigeweard, of-Llynburgh",
+    "name": "Sigeweard, of-Llynburgh",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Bites fingernails",
+        "mannerism": "Makes circles with their fingers ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
     }
 }

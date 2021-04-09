@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yeong-Hwan, Muk",
+    "name": "Yeong-Hwan, Muk",
     "base": "Male | Usuhan - Tortle",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Twirls hair or tugs beard",
         "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "clenched teeth"
     }
 }

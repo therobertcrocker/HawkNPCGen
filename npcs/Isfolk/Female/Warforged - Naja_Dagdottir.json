@@ -1,13 +1,19 @@
 {
-    "Full Name": "Naja, Dagdottir",
+    "name": "Naja, Dagdottir",
     "base": "Female | Isfolk - Warforged",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Taps fingers",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

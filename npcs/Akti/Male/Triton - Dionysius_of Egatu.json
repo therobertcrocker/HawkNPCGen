@@ -1,13 +1,19 @@
 {
-    "Full Name": "Dionysius, of Egatu",
+    "name": "Dionysius, of Egatu",
     "base": "Male | Akti - Triton",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Agrees with everything a particular PC says ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "never stops to breathe"
     }
 }

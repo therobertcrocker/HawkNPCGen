@@ -1,0 +1,19 @@
+{
+    "name": "Facundo, Seco",
+    "base": "Male | Arido - Tabaxi",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}

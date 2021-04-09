@@ -1,13 +1,19 @@
 {
-    "Full Name": "Léa, Kanadtsev-Ilyichka",
+    "name": "Léa, Kanadtsev-Ilyichka",
     "base": "Enby | Isfolk - Goliath",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Chews something",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "mutters to self"
     }
 }

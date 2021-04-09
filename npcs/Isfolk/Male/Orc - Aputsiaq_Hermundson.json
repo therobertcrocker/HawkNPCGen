@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aputsiaq, Hermundson",
+    "name": "Aputsiaq, Hermundson",
     "base": "Male | Isfolk - Orc",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Fidgets",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Stutters"
     }
 }

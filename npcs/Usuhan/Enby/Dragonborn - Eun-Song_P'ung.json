@@ -1,0 +1,19 @@
+{
+    "name": "Eun-Song, P'ung",
+    "base": "Enby | Usuhan - Dragonborn",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

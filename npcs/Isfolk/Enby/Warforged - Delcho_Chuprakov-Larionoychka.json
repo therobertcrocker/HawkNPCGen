@@ -1,5 +1,5 @@
 {
-    "Full Name": "Delcho, Chuprakov-Larionoychka",
+    "name": "Delcho, Chuprakov-Larionoychka",
     "base": "Enby | Isfolk - Warforged",
     "traits": {
         "appearance": "is missing one or more fingers",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Readjusts belt when speaking ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "pauses often"
     }
 }

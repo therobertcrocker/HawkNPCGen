@@ -1,0 +1,19 @@
+{
+    "name": "Pherenike, of Myta",
+    "base": "Female | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Monotonous"
+    }
+}

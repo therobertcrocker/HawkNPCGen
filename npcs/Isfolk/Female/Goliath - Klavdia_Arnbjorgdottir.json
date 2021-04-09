@@ -1,0 +1,19 @@
+{
+    "name": "Klavdia, Arnbjorgdottir",
+    "base": "Female | Isfolk - Goliath",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Is constantly hungry ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

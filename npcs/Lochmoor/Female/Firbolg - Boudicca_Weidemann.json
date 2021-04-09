@@ -1,13 +1,19 @@
 {
-    "Full Name": "Boudicca, Weidemann",
+    "name": "Boudicca, Weidemann",
     "base": "Female | Lochmoor - Firbolg",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

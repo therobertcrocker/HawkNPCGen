@@ -1,5 +1,5 @@
 {
-    "Full Name": "Haraldur, Hriflasson",
+    "name": "Haraldur, Hriflasson",
     "base": "Male | Isfolk - Orc",
     "traits": {
         "appearance": "has visible piercings",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "lots of like"
     }
 }

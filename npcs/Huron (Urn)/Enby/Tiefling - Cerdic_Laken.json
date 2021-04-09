@@ -1,13 +1,19 @@
 {
-    "Full Name": "Cerdic, Laken",
+    "name": "Cerdic, Laken",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Coughs frequently between sentences",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Eines, Luc Ancatan Jardenil",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Won't stop itching",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Responds in the form of questions"
+    }
+}

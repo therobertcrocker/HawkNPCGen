@@ -1,13 +1,19 @@
 {
-    "Full Name": "Urbano, Nápoles",
+    "name": "Urbano, Nápoles",
     "base": "Enby | Arido - Tabaxi",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
-        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Taps fingers",
+        "mannerism": "Squints",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats the last word you say before responding"
     }
 }

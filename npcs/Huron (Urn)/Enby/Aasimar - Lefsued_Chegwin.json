@@ -1,13 +1,19 @@
 {
-    "Full Name": "Lefsued, Chegwin",
+    "name": "Lefsued, Chegwin",
     "base": "Enby | Huron (Urn) - Aasimar",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

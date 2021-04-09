@@ -1,13 +1,19 @@
 {
-    "Full Name": "Arrats, Lacunzarra",
+    "name": "Arrats, Lacunzarra",
     "base": "Male | Arido - Drow",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Clicks tongue",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

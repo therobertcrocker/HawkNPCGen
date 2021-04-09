@@ -1,13 +1,19 @@
 {
-    "Full Name": "Snorri, Armodson",
+    "name": "Snorri, Armodson",
     "base": "Male | Isfolk - Half-Orc",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Drags feet when walking ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

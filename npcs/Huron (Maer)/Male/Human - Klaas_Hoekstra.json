@@ -1,13 +1,19 @@
 {
-    "Full Name": "Klaas, Hoekstra",
+    "name": "Klaas, Hoekstra",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "severe underbite"
     }
 }

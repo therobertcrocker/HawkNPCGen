@@ -1,13 +1,19 @@
 {
-    "Full Name": "Steren, Goodman",
+    "name": "Steren, Goodman",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Plays around with ring on finger ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Light lisp"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Miguela, Serrano",
+    "name": "Miguela, Serrano",
     "base": "Female | Arido - Drow",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Skilled dancer",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

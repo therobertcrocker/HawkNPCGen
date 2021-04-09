@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jeltje, Meinsma",
+    "name": "Jeltje, Meinsma",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "r-sounds become w-sounds"
     }
 }

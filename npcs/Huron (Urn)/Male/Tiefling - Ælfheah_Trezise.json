@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ælfheah, Trezise",
+    "name": "Ælfheah, Trezise",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "mutters to self"
     }
 }

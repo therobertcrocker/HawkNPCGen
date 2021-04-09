@@ -1,13 +1,19 @@
 {
-    "Full Name": "Caitlyn, Dutertre",
+    "name": "Caitlyn, Dutertre",
     "base": "Enby | Lochmoor - Firbolg",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert carpenter",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

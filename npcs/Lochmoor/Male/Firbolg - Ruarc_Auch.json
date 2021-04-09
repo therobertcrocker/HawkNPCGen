@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ruarc, Auch",
+    "name": "Ruarc, Auch",
     "base": "Male | Lochmoor - Firbolg",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Drags feet when walking ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "lots of swearing"
     }
 }

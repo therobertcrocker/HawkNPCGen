@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jingyi, Hwang",
+    "name": "Jingyi, Hwang",
     "base": "Male | Usuhan - Kobold",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Twirls hair or tugs beard",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

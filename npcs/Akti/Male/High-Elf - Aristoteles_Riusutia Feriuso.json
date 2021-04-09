@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aristoteles, Riusutia Feriuso",
+    "name": "Aristoteles, Riusutia Feriuso",
     "base": "Male | Akti - High-Elf",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Whispers",
+        "mannerism": "Intense dislike to a particular race/PC ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Stutters"
     }
 }

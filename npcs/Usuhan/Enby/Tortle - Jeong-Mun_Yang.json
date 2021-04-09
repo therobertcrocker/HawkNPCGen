@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jeong-Mun, Yang",
+    "name": "Jeong-Mun, Yang",
     "base": "Enby | Usuhan - Tortle",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Chews something",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "clenched teeth"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Oaktoes, Alméras",
+    "name": "Oaktoes, Alméras",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
         "mannerism": "Uses flowery speech or long words",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "lots of like"
     }
 }

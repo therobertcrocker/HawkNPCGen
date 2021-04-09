@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ha-Jun, Ogum",
+    "name": "Ha-Jun, Ogum",
     "base": "Male | Usuhan - Tortle",
     "traits": {
         "appearance": "wears flamboyant or outlandish clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "lots of um"
     }
 }

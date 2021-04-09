@@ -1,13 +1,19 @@
 {
-    "Full Name": "Osric, Trezona",
+    "name": "Osric, Trezona",
     "base": "Enby | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "mouth is always full when talking"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Coen, Hercouet",
+    "name": "Coen, Hercouet",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Taps fingers",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "slurrs words"
     }
 }

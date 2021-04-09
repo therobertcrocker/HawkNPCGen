@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kavie, Valderas",
+    "name": "Kavie, Valderas",
     "base": "Enby | Arido - Drow",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Paces",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
     }
 }

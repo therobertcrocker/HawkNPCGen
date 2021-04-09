@@ -1,13 +1,19 @@
 {
-    "Full Name": "Uzziel, of-Langwyke",
+    "name": "Uzziel, of-Langwyke",
     "base": "Enby | Huron (Urn) - Human",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Expert dart thrower and rock skipper",
-        "mannerism": "Taps fingers",
+        "mannerism": "Picks nose ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "talks in third person"
     }
 }

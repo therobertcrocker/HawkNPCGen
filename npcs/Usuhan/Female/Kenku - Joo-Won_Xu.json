@@ -1,13 +1,19 @@
 {
-    "Full Name": "Joo-Won, Xu",
+    "name": "Joo-Won, Xu",
     "base": "Female | Usuhan - Kenku",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Constantly taps elbow ",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all Th-sounds become Z-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Oscar, Fichte",
+    "name": "Oscar, Fichte",
     "base": "Male | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "barely opens lips"
     }
 }

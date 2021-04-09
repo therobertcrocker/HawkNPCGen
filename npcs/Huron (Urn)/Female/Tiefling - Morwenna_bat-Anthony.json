@@ -1,0 +1,19 @@
+{
+    "name": "Morwenna, bat-Anthony",
+    "base": "Female | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

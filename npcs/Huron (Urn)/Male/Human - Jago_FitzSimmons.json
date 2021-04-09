@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jago, FitzSimmons",
+    "name": "Jago, FitzSimmons",
     "base": "Male | Huron (Urn) - Human",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Always stares at the floor when speaking ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

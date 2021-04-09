@@ -1,13 +1,19 @@
 {
-    "Full Name": "Do-Yeon, Su",
+    "name": "Do-Yeon, Su",
     "base": "Enby | Usuhan - Kenku",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Fidgets",
+        "mannerism": "Fearful at the sight of drawn weapons ",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "clenched teeth"
     }
 }

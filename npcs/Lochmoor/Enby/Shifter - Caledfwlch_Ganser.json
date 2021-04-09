@@ -1,5 +1,5 @@
 {
-    "Full Name": "Caledfwlch, Ganser",
+    "name": "Caledfwlch, Ganser",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
         "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
@@ -7,7 +7,13 @@
     },
     "personality": {
         "talent": "Perfect memory",
-        "mannerism": "Uses flowery speech or long words",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

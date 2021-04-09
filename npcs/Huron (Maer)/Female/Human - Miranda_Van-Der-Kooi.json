@@ -1,0 +1,19 @@
+{
+    "name": "Miranda, Van-Der-Kooi",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}

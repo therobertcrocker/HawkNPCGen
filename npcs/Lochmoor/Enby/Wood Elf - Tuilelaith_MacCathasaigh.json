@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tuilelaith, MacCathasaigh",
+    "name": "Tuilelaith, MacCathasaigh",
     "base": "Enby | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Taps fingers",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Whiny"
     }
 }

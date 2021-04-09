@@ -1,13 +1,19 @@
 {
-    "Full Name": "Elisabeth, Slager",
+    "name": "Elisabeth, Slager",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Sways when standing ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "tongue stuck to back of teeth"
     }
 }

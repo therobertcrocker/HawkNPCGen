@@ -1,0 +1,19 @@
+{
+    "name": "Evandros, Child of Iphaes of Elatea",
+    "base": "Enby | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Plays around with ring on finger ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

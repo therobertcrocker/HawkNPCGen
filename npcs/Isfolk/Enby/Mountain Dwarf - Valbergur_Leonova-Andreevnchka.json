@@ -1,13 +1,19 @@
 {
-    "Full Name": "Valbergur, Leonova-Andreevnchka",
+    "name": "Valbergur, Leonova-Andreevnchka",
     "base": "Enby | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert cook",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "slurrs words"
     }
 }

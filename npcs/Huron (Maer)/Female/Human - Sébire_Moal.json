@@ -1,13 +1,19 @@
 {
-    "Full Name": "Sébire, Moal",
+    "name": "Sébire, Moal",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Skilled actor and master of disguise",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
     }
 }

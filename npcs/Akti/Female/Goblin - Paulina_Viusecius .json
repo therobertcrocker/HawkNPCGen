@@ -1,13 +1,19 @@
 {
-    "Full Name": "Paulina, Viusecius ",
+    "name": "Paulina, Viusecius ",
     "base": "Female | Akti - Goblin",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Drags feet when walking ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "tongue stuck to back of teeth"
     }
 }

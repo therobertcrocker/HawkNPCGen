@@ -1,13 +1,19 @@
 {
-    "Full Name": "Rebeca, Muñoz",
+    "name": "Rebeca, Muñoz",
     "base": "Female | Arido - Drow",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
     },
     "personality": {
         "talent": "Great at one game",
-        "mannerism": "Fidgets",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

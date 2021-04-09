@@ -1,0 +1,19 @@
+{
+    "name": "Laurentinus, Retbithue",
+    "base": "Male | Akti - High-Elf",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Sarcastic to conversation/threats ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "clenched teeth"
+    }
+}

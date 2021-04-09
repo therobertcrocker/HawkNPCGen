@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yong, Pang",
+    "name": "Yong, Pang",
     "base": "Male | Usuhan - Tortle",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Bites fingernails",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
     }
 }

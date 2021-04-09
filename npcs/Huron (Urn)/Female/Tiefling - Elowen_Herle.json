@@ -1,13 +1,19 @@
 {
-    "Full Name": "Elowen, Herle",
+    "name": "Elowen, Herle",
     "base": "Female | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has visible tattoos",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Makes circles with their fingers ",
         "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Whiny"
     }
 }

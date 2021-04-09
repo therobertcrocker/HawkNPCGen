@@ -1,13 +1,19 @@
 {
-    "Full Name": "Kavie, Juanesena",
+    "name": "Kavie, Juanesena",
     "base": "Enby | Arido - Genasi",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "Knows thieves’ cant",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "staccato speech"
     }
 }

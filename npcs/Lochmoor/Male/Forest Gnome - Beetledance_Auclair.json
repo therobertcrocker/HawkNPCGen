@@ -1,13 +1,19 @@
 {
-    "Full Name": "Beetledance, Auclair",
+    "name": "Beetledance, Auclair",
     "base": "Male | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": " has a nervous tick",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "severe underbite"
     }
 }

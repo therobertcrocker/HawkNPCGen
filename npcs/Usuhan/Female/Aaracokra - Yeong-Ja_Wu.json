@@ -1,13 +1,19 @@
 {
-    "Full Name": "Yeong-Ja, Wu",
+    "name": "Yeong-Ja, Wu",
     "base": "Female | Usuhan - Aaracokra",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks in rhyme or some other peculiar way",
+        "mannerism": "Never looks in people's eyes ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats the last word you say before responding"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jeong-Hui, Su",
+    "name": "Jeong-Hui, Su",
     "base": "Male | Usuhan - Kobold",
     "traits": {
         "appearance": "has braided beard or hair",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "Unbelievably lucky",
-        "mannerism": "Prone to singing, whistling, or humming quietly",
+        "mannerism": "Fiddles with their weapon ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Light lisp"
     }
 }

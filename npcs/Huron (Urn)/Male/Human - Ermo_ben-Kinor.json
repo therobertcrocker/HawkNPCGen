@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ermo, ben-Kinor",
+    "name": "Ermo, ben-Kinor",
     "base": "Male | Huron (Urn) - Human",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
     },
     "personality": {
         "talent": "Draws beautifully",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
     }
 }

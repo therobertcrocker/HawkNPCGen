@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hyeon-U, Sop",
+    "name": "Hyeon-U, Sop",
     "base": "Male | Usuhan - Aaracokra",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Sways when standing ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "always pouting"
     }
 }

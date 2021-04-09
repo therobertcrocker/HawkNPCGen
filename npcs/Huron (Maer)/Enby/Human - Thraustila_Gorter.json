@@ -1,13 +1,19 @@
 {
-    "Full Name": "Thraustila, Gorter",
+    "name": "Thraustila, Gorter",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Constantly paces around ",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
     }
 }

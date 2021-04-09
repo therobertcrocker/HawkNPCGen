@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tikhvinskaya, The Razor",
+    "name": "Tikhvinskaya, The Razor",
     "base": "Enby | Isfolk - Half-Orc",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Fidgets",
+        "mannerism": "Never breaks eye contact ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

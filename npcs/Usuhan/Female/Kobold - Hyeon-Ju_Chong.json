@@ -1,13 +1,19 @@
 {
-    "Full Name": "Hyeon-Ju, Chong",
+    "name": "Hyeon-Ju, Chong",
     "base": "Female | Usuhan - Kobold",
     "traits": {
         "appearance": "wears ragged, dirty clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Paces",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "L-sounds become w-sounds"
     }
 }

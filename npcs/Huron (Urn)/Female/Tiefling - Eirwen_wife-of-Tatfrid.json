@@ -1,0 +1,19 @@
+{
+    "name": "Eirwen, wife-of-Tatfrid",
+    "base": "Female | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Paces",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
+    }
+}

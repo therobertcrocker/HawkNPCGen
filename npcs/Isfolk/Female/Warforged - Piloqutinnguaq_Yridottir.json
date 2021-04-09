@@ -1,13 +1,19 @@
 {
-    "Full Name": "Piloqutinnguaq, Yridottir",
+    "name": "Piloqutinnguaq, Yridottir",
     "base": "Female | Isfolk - Warforged",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Short, clipped sentences"
     }
 }

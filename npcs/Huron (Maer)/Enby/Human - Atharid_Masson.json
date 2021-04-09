@@ -1,13 +1,19 @@
 {
-    "Full Name": "Atharid, Masson",
+    "name": "Atharid, Masson",
     "base": "Enby | Huron (Maer) - Human",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Expert juggler",
-        "mannerism": "Chews something",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

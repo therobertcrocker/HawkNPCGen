@@ -1,0 +1,19 @@
+{
+    "name": "Till, The Deaf",
+    "base": "Enby | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

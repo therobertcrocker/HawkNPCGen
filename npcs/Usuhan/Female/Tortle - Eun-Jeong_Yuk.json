@@ -1,0 +1,19 @@
+{
+    "name": "Eun-Jeong, Yuk",
+    "base": "Female | Usuhan - Tortle",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Constantly taps elbow ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

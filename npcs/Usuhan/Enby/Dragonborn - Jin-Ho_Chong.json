@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jin-Ho, Chong",
+    "name": "Jin-Ho, Chong",
     "base": "Enby | Usuhan - Dragonborn",
     "traits": {
         "appearance": "has an unusual hair color",
-        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Chews something",
+        "mannerism": "Uses flowery speech or long words",
         "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "all Th-sounds become Z-sounds"
     }
 }

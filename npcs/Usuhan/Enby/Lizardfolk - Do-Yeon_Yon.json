@@ -1,13 +1,19 @@
 {
-    "Full Name": "Do-Yeon, Yon",
+    "name": "Do-Yeon, Yon",
     "base": "Enby | Usuhan - Lizardfolk",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "pauses often"
     }
 }

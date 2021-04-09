@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aelwyd, Traube",
+    "name": "Aelwyd, Traube",
     "base": "Enby | Lochmoor - Shifter",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Expert carpenter",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Sarcastic to conversation/threats ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "never uses contractions"
     }
 }

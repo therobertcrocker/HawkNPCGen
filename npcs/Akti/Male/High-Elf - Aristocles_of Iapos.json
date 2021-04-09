@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aristocles, of Iapos",
+    "name": "Aristocles, of Iapos",
     "base": "Male | Akti - High-Elf",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Uses colorful oaths and exclamations",
+        "mannerism": "Makes constant jokes or puns",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Sighs after each sentence"
     }
 }

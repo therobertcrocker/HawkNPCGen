@@ -1,13 +1,19 @@
 {
-    "Full Name": "Jarlath, Günzburg",
+    "name": "Jarlath, Günzburg",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Makes constant jokes or puns",
+        "mannerism": "Frequently uses the wrong word",
         "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "staccato speech"
     }
 }

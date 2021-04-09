@@ -1,13 +1,19 @@
 {
-    "Full Name": "Alexius,  Servant of Bezoph",
+    "name": "Alexius,  Servant of Bezoph",
     "base": "Male | Akti - High-Elf",
     "traits": {
         "appearance": "has a pronounced scar",
-        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "Speaks several languages fluently",
-        "mannerism": "Twirls hair or tugs beard",
+        "mannerism": "Readjusts belt when speaking ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
     }
 }

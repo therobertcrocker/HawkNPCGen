@@ -1,0 +1,19 @@
+{
+    "name": "Hunila, Heuzé",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly paces around ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Consentia, of Iapos",
+    "name": "Consentia, of Iapos",
     "base": "Enby | Akti - Triton",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Paces",
         "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
     }
 }

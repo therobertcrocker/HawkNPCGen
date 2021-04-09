@@ -1,13 +1,19 @@
 {
-    "Full Name": "Stefán, Bolshakova-Zakharovnchka",
+    "name": "Stefán, Bolshakova-Zakharovnchka",
     "base": "Enby | Isfolk - Warforged",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great at impersonations",
-        "mannerism": "Enunciates overly clearly",
+        "mannerism": "Drags feet when walking ",
         "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "whistles on S-sounds"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aelwyd, Brunelle",
+    "name": "Aelwyd, Brunelle",
     "base": "Enby | Lochmoor - Firbolg",
     "traits": {
         "appearance": "is exceptionally ugly",
-        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Fidgets",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "all S-sounds become Z-sounds"
     }
 }

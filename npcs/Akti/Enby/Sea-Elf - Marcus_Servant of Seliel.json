@@ -1,13 +1,19 @@
 {
-    "Full Name": "Marcus, Servant of Seliel",
+    "name": "Marcus, Servant of Seliel",
     "base": "Enby | Akti - Sea-Elf",
     "traits": {
         "appearance": "is missing one or more fingers",
-        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Frequently uses the wrong word",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "uses thee's and thou's"
     }
 }

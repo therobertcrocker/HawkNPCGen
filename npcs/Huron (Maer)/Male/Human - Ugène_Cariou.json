@@ -1,13 +1,19 @@
 {
-    "Full Name": "Ugène, Cariou",
+    "name": "Ugène, Cariou",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has a distinctive posture (crooked or rigid)",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Sings beautifully",
-        "mannerism": "Particularly low or high voice",
+        "mannerism": "Is constantly hungry ",
         "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "clenched teeth"
     }
 }

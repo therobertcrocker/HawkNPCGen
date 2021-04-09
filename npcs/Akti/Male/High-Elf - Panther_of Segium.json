@@ -1,0 +1,19 @@
+{
+    "name": "Panther, of Segium",
+    "base": "Male | Akti - High-Elf",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Paces",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

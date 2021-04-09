@@ -1,13 +1,19 @@
 {
-    "Full Name": "Glaphyra, Timene",
+    "name": "Glaphyra, Timene",
     "base": "Female | Akti - Hill Dwarf",
     "traits": {
         "appearance": "has an unusual skin color",
-        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Stares into the distance",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "sings everything"
     }
 }

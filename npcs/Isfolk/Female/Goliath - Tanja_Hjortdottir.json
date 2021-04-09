@@ -1,13 +1,19 @@
 {
-    "Full Name": "Tanja, Hjortdottir",
+    "name": "Tanja, Hjortdottir",
     "base": "Female | Isfolk - Goliath",
     "traits": {
         "appearance": " is bald",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
     },
     "personality": {
         "talent": "Plays a musical instrument",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Won't stop itching",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "all w-sounds become v-sounds"
     }
 }

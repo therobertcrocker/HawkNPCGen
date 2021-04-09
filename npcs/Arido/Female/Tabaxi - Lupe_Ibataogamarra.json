@@ -1,13 +1,19 @@
 {
-    "Full Name": "Lupe, Ibataogamarra",
+    "name": "Lupe, Ibataogamarra",
     "base": "Female | Arido - Tabaxi",
     "traits": {
         "appearance": "has visible piercings",
-        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
     },
     "personality": {
         "talent": "Great with animals",
-        "mannerism": "Slurs words, lisps, or stutters",
+        "mannerism": "Shifts eyes between every person in the room ",
         "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Sighs after each sentence"
     }
 }

@@ -1,0 +1,19 @@
+{
+    "name": "Eun-Jeong, Chong",
+    "base": "Female | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Sighs after each sentence"
+    }
+}

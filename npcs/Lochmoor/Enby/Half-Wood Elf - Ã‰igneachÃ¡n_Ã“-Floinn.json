@@ -1,13 +1,19 @@
 {
-    "Full Name": "Éigneachán, Ó-Floinn",
+    "name": "Éigneachán, Ó-Floinn",
     "base": "Enby | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "is missing teeth",
-        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Taps fingers",
+        "mannerism": "Keeps smelling their hands ",
         "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Never tells the complete truth"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Zeru, Brandy Bryant Relleve",
+    "name": "Zeru, Brandy Bryant Relleve",
     "base": "Male | Arido - Tabaxi",
     "traits": {
         "appearance": "is exceptionally beautiful",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
     },
     "personality": {
         "talent": "Expert carpenter",
-        "mannerism": "Prone to predictions of doom",
+        "mannerism": "Fixes hair constantly ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
     }
 }

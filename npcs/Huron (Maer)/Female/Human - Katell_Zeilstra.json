@@ -1,13 +1,19 @@
 {
-    "Full Name": "Katell, Zeilstra",
+    "name": "Katell, Zeilstra",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
         "appearance": "wears formal, clean clothes",
-        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Speaks loudly",
+        "mannerism": "Constantly slouches ",
         "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "lots of like"
     }
 }

@@ -1,13 +1,19 @@
 {
-    "Full Name": "Avihu, Garcia",
+    "name": "Avihu, Garcia",
     "base": "Male | Huron (Urn) - Tiefling",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
-        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Whispers",
+        "mannerism": "Sways when standing ",
         "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "slurrs words"
     }
 }

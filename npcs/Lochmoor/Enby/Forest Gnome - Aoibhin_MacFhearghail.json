@@ -1,13 +1,19 @@
 {
-    "Full Name": "Aoibhin, MacFhearghail",
+    "name": "Aoibhin, MacFhearghail",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "has a visible birthmark",
-        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
     },
     "personality": {
         "talent": "Great with animals",
         "mannerism": "Bites fingernails",
         "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of um"
     }
 }
