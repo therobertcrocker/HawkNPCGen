@@ -1,0 +1,19 @@
+{
+    "name": "Linda, Dutertre",
+    "base": "Female | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Intense dislike to a particular race/PC ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

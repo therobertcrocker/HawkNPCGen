@@ -1,0 +1,19 @@
+{
+    "name": "Viljami, The White",
+    "base": "Male | Isfolk - Orc",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Fiddles with their weapon ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

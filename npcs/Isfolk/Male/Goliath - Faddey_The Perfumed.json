@@ -1,0 +1,19 @@
+{
+    "name": "Faddey, The Perfumed",
+    "base": "Male | Isfolk - Goliath",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

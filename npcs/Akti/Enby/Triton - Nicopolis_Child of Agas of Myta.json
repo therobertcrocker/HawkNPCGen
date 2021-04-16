@@ -1,0 +1,19 @@
+{
+    "name": "Nicopolis, Child of Agas of Myta",
+    "base": "Enby | Akti - Triton",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Sarcastic to conversation/threats ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Will always end their sentences going upwards in tone"
+    }
+}

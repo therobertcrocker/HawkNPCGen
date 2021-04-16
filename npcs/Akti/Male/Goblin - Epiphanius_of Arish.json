@@ -1,0 +1,19 @@
+{
+    "name": "Epiphanius, of Arish",
+    "base": "Male | Akti - Goblin",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of um"
+    }
+}

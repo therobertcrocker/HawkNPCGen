@@ -1,0 +1,19 @@
+{
+    "name": "Jung-Hoon, Ryu",
+    "base": "Male | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Readjusts belt when speaking ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "María, The Rogue",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

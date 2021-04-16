@@ -1,0 +1,19 @@
+{
+    "name": "Mamarce, Oguembarrena",
+    "base": "Enby | Arido - Genasi",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Pipaluk, Chernetskaya-Vladimirovna",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Constantly paces around ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Stutters"
+    }
+}

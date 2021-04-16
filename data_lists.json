@@ -485,10 +485,10 @@
       "Usuhan": ["Japanese", "Korean", "Chinese"],
       "Arido": ["Spanish", "Arabic"]
     },
-    "Speed": ["Slowly", "Normally", "Quickly"],
-    "Pitch": ["Low", "Normal", "High"],
-    "Texture": ["Gruff", "Smooth", "Strained", "Relaxed", "Breathy", "Wolfish", "Scratchy", "Nasal-y"],
-    "Quirk": [
+    "speed": ["Slowly", "Normally", "Quickly"],
+    "pitch": ["Low", "Normal", "High"],
+    "texture": ["Gruff", "Smooth", "Strained", "Relaxed", "Breathy", "Wolfish", "Scratchy", "Nasal-y"],
+    "quirk": [
       "Incoherent except for a few key words", "Stutters", "lots of um", "lots of like", "lots of swearing",
       "uses thee's and thou's", "never stops to breathe", "Short, clipped sentences", "talks in third person",
       "doesn't conjugate well ('me make good soup')", "all S-sounds become Z-sounds", "all w-sounds become v-sounds",

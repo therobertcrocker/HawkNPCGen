@@ -1,0 +1,19 @@
+{
+    "name": "Valentino, Vitorica",
+    "base": "Enby | Arido - Tabaxi",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Agrees with everything a particular PC says ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "barely opens lips"
+    }
+}

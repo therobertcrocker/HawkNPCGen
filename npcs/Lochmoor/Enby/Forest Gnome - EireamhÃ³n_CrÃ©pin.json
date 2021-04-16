@@ -1,0 +1,19 @@
+{
+    "name": "Eireamhón, Crépin",
+    "base": "Enby | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "pauses often"
+    }
+}

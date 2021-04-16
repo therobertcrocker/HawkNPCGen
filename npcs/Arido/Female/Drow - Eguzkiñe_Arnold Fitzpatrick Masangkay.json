@@ -1,0 +1,19 @@
+{
+    "name": "Eguzkiñe, Arnold Fitzpatrick Masangkay",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Makes circles with their fingers ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "slurrs words"
+    }
+}

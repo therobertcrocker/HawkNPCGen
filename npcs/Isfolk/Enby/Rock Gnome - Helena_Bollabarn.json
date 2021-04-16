@@ -1,0 +1,19 @@
+{
+    "name": "Helena, Bollabarn",
+    "base": "Enby | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "never stops to breathe"
+    }
+}

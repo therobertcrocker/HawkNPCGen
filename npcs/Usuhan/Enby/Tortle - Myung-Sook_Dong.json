@@ -1,0 +1,19 @@
+{
+    "name": "Myung-Sook, Dong",
+    "base": "Enby | Usuhan - Tortle",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "uses thee's and thou's"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Yeong-Hui, Chom",
+    "base": "Female | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Korean",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "mutters to self"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Glitterdrop, Hanselmann",
+    "base": "Female | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}

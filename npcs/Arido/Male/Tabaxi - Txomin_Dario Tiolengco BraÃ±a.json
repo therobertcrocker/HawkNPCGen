@@ -1,0 +1,19 @@
+{
+    "name": "Txomin, Dario Tiolengco Braña",
+    "base": "Male | Arido - Tabaxi",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

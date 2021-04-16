@@ -1,0 +1,19 @@
+{
+    "name": "Fabiola, Daughter of Thypsa of Chalesb",
+    "base": "Female | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Fidgets",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "tongue stuck to back of teeth"
+    }
+}

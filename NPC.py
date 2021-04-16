@@ -2,6 +2,7 @@ import json
 import random
 import requests
 import os
+from constants import cultures, lists, character
 
 with open('data_lists.json') as f:
     data = json.load(f)
@@ -29,16 +30,16 @@ class NPC:
     # -------------------------------------------- Individual Generators  ----------------------------------
 
     def gen_culture(self):
-        self.culture = random.choice(data["cultures"])
+        self.culture = random.choice(data[lists.CULTURES])
 
     def gen_race(self):
-        self.race = random.choice(data["races"][self.culture])
+        self.race = random.choice(data[lists.RACES][self.culture])
 
     def gen_gender(self):
-        self.gender = random.choice(data["genders_full"])
+        self.gender = random.choice(data[lists.GENDERS_FULL])
 
     def gen_appearance(self):
-        self.appearance = random.choice(data["traits"]["appearance"])
+        self.appearance = random.choice(data[lists.TRAITS][lists.APPEARANCE])
 
     def gen_ability(self):
         ability_list = [0, 1, 2, 3, 4, 5]
@@ -46,33 +47,34 @@ class NPC:
         low_pick = random.choice(ability_list)
         while high_pick == low_pick:
             low_pick = random.choice(ability_list)
-        self.ability = data["traits"]["high ability"][high_pick] + ", " + data["traits"]["low ability"][low_pick]
+        self.ability = data[lists.TRAITS][lists.HIGHABILITY][high_pick] + ", " \
+                       + data[lists.TRAITS][lists.LOWABILITY][low_pick]
 
     def gen_talent(self):
         talent = random.randrange(2)
         if talent == 1:
-            self.talent = random.choice(data["traits"]["talent"])
+            self.talent = random.choice(data[lists.TRAITS][lists.TALENT])
         else:
             self.talent = "None"
 
     def gen_manner(self):
-        self.mannerism = random.choice(data["traits"]["mannerism"])
+        self.mannerism = random.choice(data[lists.TRAITS][lists.MANNERISM])
 
     def gen_interact(self):
-        self.interaction = random.choice(data["traits"]["interaction"])
+        self.interaction = random.choice(data[lists.TRAITS][lists.INTERACTION])
 
     def gen_accent(self):
-        self.accent = random.choice(data["voice"]["accents"][self.culture])
+        self.accent = random.choice(data[lists.VOICE][lists.ACCENT][self.culture])
 
     def gen_vocals(self):
-        self.vocals = "Speaks " + random.choice(data["voice"]["Speed"]) + \
-                      ", at a " + random.choice(data["voice"]["Pitch"]) + " pitch."
+        self.vocals = "Speaks " + random.choice(data[lists.VOICE][lists.SPEED]) + \
+                      ", at a " + random.choice(data[lists.VOICE][lists.PITCH]) + " pitch."
 
     def gen_texture(self):
-        self.texture = "Has a " + random.choice(data["voice"]["Texture"]) + " voice."
+        self.texture = "Has a " + random.choice(data[lists.VOICE][lists.TEXTURE]) + " voice."
 
     def gen_quirk(self):
-        self.quirk = random.choice(data["voice"]["Quirk"])
+        self.quirk = random.choice(data[lists.VOICE][lists.QUIRK])
 
     # -------------------------------------------- Main Functions ----------------------------------
 
@@ -91,24 +93,24 @@ class NPC:
 
     def gen_base(self, traits):
         if traits:
-            if 'race' in traits and 'culture' in traits:
-                self.culture = traits['culture']
-                self.race = traits['race']
-            elif 'race' in traits and 'culture' not in traits:
-                self.race = traits['race']
-                for i in data["races"]:
-                    if traits['race'] in data["races"][i]:
+            if character.RACE in traits and character.CULTURE in traits:
+                self.culture = traits[character.CULTURE]
+                self.race = traits[character.RACE]
+            elif character.RACE in traits and character.CULTURE not in traits:
+                self.race = traits[character.RACE]
+                for i in data[lists.RACES]:
+                    if traits[character.RACE] in data[lists.RACES][i]:
                         self.culture = i
-            elif 'race' not in traits and 'culture' in traits:
-                self.culture = traits['culture']
+            elif character.RACE not in traits and character.CULTURE in traits:
+                self.culture = traits[character.CULTURE]
                 self.gen_race()
-            elif 'race' not in traits and 'culture' not in traits:
-                self.culture = traits['culture']
-                self.race = random.choice(data["races"][self.culture])
-            if 'gender' in traits:
-                self.gender = traits["gender"]
+            elif character.RACE not in traits and character.CULTURE not in traits:
+                self.culture = traits[character.CULTURE]
+                self.race = random.choice(data[lists.RACES][self.culture])
+            if character.GENDER in traits:
+                self.gender = traits[character.GENDER]
             else:
-                self.gender = random.choice(data["genders_full"])
+                self.gender = random.choice(data[lists.GENDERS_FULL])
             self.get_name()
             self.get_surname()
         else:
@@ -130,31 +132,32 @@ class NPC:
     # -------------------------------------------- Name Generation ----------------------------------
     def get_name(self):
         namebase = random.choice(data["namebases"][self.culture])
-        key = "ro573598767"
-        number = "1"
-        req_base = "https://www.behindthename.com/api/random.json?key=" + key
-        req_usage = "&usage=" + namebase
-        req_gender = "&gender=" + data["genders"][data["genders_full"].index(self.gender)]
-        req_number = "&number=" + number
-        if self.gender == "o":
-            full_req = req_base + req_number + req_usage
+        KEY = "ro573598767"
+        NUMBER = "1"
+        REQ_BASE = "https://www.behindthename.com/api/random.json?key=" + KEY
+        REQ_USAGE = "&usage=" + namebase
+        REQ_GENDER = "&gender=" + data[lists.GENDERS][data[lists.GENDERS_FULL].index(self.gender)]
+        REQ_NUMBER = "&number=" + NUMBER
+        if self.gender == data[lists.GENDERS][2]:
+            FULL_REQ = REQ_BASE + REQ_NUMBER + REQ_USAGE
         else:
-            full_req = req_base + req_number + req_usage + req_gender
+            FULL_REQ = REQ_BASE + REQ_NUMBER + REQ_USAGE + REQ_GENDER
 
-        name = requests.get(full_req).json()
+        name = requests.get(FULL_REQ).json()
         try:
-            self.name = name["names"][0]
+            self.name = name[lists.NAMES][0]
         except:
-            if self.gender != "Enby":
-                self.name = random.choice(data["names"][self.culture][self.gender])
+            if self.gender != lists.GENDERS_ENBY:
+                self.name = random.choice(data[lists.NAMES][self.culture][self.gender])
             else:
-                self.name = random.choice(data["names"][self.culture][random.choice(["Male", "Female"])])
+                self.name = random.choice(
+                    data[lists.NAMES][self.culture][random.choice([lists.GENDERS_MALE, lists.GENDERS_FEMALE])])
 
     def get_surname(self):
-        if self.culture in ["Akti", "Huron (Urn)", "Isfolk"]:
-            surname = random.choice(data["surnames"][self.culture][self.gender])
+        if self.culture in [cultures.AKTI, cultures.HURON_URN, cultures.ISFOLK]:
+            surname = random.choice(data[lists.SURNAMES][self.culture][self.gender])
         else:
-            surname = random.choice(data['surnames'][self.culture])
+            surname = random.choice(data[lists.SURNAMES][self.culture])
 
         self.surname = surname
 
@@ -162,52 +165,52 @@ class NPC:
     def load(self, file):
         with open(file) as g:
             npc = json.load(g)
-        if "base" in npc:
-            self.culture = npc["base"].split(" | ")[1].split(" - ")[0]
-            self.race = npc["base"].split(" | ")[1].split(" - ")[1]
-            self.gender = npc["base"].split(" | ")[0]
-            self.name = npc["Full Name"].split(", ")[0]
-            self.surname = npc["Full Name"].split(", ")[1]
+        if character.BASE in npc:
+            self.culture = npc[character.BASE].split(" | ")[1].split(" - ")[0]
+            self.race = npc[character.BASE].split(" | ")[1].split(" - ")[1]
+            self.gender = npc[character.BASE].split(" | ")[0]
+            self.name = npc[character.NAME].split(", ")[0]
+            self.surname = npc[character.NAME].split(", ")[1]
         else:
             self.gen_base()
-        if "traits" in npc and "personality" in npc:
-            self.appearance = npc["traits"]["appearance"]
-            if "high ability" in npc["traits"]:
-                self.ability = npc["traits"]["high ability"] + ", " + npc["traits"]["low ability"]
-            elif "abilities" in npc["traits"]:
-                self.ability = npc["traits"]["abilities"]
-            self.talent = npc["personality"]["talent"]
-            self.mannerism = npc["personality"]["mannerism"]
-            self.interaction = npc["personality"]["interaction"]
+        if character.TRAITS in npc and character.PERSONALITY in npc:
+            self.appearance = npc[character.TRAITS][character.APPEARANCE]
+            if lists.HIGHABILITY in npc[character.TRAITS]:
+                self.ability = npc[character.TRAITS][lists.HIGHABILITY] + ", " + npc[character.TRAITS][lists.LOWABILITY]
+            elif character.ABILITIES in npc[character.TRAITS]:
+                self.ability = npc[character.TRAITS][character.ABILITIES]
+            self.talent = npc[character.PERSONALITY][character.TALENT]
+            self.mannerism = npc[character.PERSONALITY][character.MANNERISM]
+            self.interaction = npc[character.PERSONALITY][character.INTERACTION]
         else:
             self.gen_traits()
-        if "voice" in npc:
-            self.accent = npc["voice"]["accent"]
-            self.vocals = npc["voice"]["vocals"]
-            self.texture = npc["voice"]["texture"]
-            self.quirk = npc["voice"]["quirk"]
+        if character.VOICE in npc:
+            self.accent = npc[character.VOICE][character.ACCENT]
+            self.vocals = npc[character.VOICE][character.VOCALS]
+            self.texture = npc[character.VOICE][character.TEXTURE]
+            self.quirk = npc[character.VOICE][character.QUIRK]
         else:
             self.gen_voice()
         self.make_data()
 
     def make_data(self):
         self.data = {
-            "name": self.name + ", " + self.surname,
-            "base": self.gender + " | " + self.culture + " - " + self.race,
-            "traits": {
-                "appearance": self.appearance,
-                "abilities": self.ability
+            character.NAME: self.name + ", " + self.surname,
+            character.BASE: self.gender + " | " + self.culture + " - " + self.race,
+            character.TRAITS: {
+                character.APPEARANCE: self.appearance,
+                character.ABILITIES: self.ability
             },
-            "personality": {
-                "talent": self.talent,
-                "mannerism": self.mannerism,
-                "interaction": self.interaction
+            character.PERSONALITY: {
+                character.TALENT: self.talent,
+                character.MANNERISM: self.mannerism,
+                character.INTERACTION: self.interaction
             },
-            "voice": {
-                "accent": self.accent,
-                "vocals": self.vocals,
-                "texture": self.texture,
-                "quirk": self.quirk
+            character.VOICE: {
+                character.ACCENT: self.accent,
+                character.VOCALS: self.vocals,
+                character.TEXTURE: self.texture,
+                character.QUIRK: self.quirk
             }
         }
 

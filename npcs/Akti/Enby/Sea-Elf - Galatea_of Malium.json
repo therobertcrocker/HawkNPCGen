@@ -1,0 +1,19 @@
+{
+    "name": "Galatea, of Malium",
+    "base": "Enby | Akti - Sea-Elf",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Taps fingers",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Light lisp"
+    }
+}

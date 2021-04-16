@@ -1,0 +1,7 @@
+AKTI = "Akti"
+ARIDO = "Arido"
+HURON_MAER = "Huron (Maer)"
+HURON_URN = "Huron (Urn)"
+ISFOLK = "Isfolk"
+LOCHMOOR = "Lochmoor"
+USUHAN = "Usuhan"

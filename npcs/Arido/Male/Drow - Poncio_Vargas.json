@@ -1,0 +1,19 @@
+{
+    "name": "Poncio, Vargas",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Sarcastic to conversation/threats ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "always pouting"
+    }
+}

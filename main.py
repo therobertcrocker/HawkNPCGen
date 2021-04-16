@@ -25,13 +25,28 @@ def make_many_npcs(num):
 
 
 def make_many_culture(num, culture):
+    genders = ["Male", "Female", "Enby"]
     for x in range(num):
-        try:
-            npc = NPC()
-            npc.quick_gen(culture= culture)
-            npc.save_data()
-        except:
-            print("Something went wrong")
-        finally:
-            time.sleep(3)
+        for y in genders:
+            try:
+                npc = NPC()
+                npc.quick_gen(culture= culture, gender= y)
+                npc.save_data()
+            except:
+                print("Something went wrong")
+            finally:
+                time.sleep(3)
 
+
+def make_many_race(num, race):
+    genders = ["Male", "Female", "Enby"]
+    for x in range(num):
+        for y in genders:
+            try:
+                npc = NPC()
+                npc.quick_gen(race=race, gender=y)
+                npc.save_data()
+            except:
+                print("Something went wrong")
+            finally:
+                time.sleep(3)

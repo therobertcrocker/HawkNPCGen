@@ -21,7 +21,7 @@ def rename():
                 new_name = npc.race + " - " + npc.name + "_" + npc.surname + ".json"
                 os.rename(root + '/' + str(file), root + '/' + str(new_name))
 
-def gen_refactor():
+def refactor():
     for root, dirs, files in os.walk(dir_path):
         for file in files:
             npc = NPC()
@@ -67,7 +67,7 @@ def pick_refactor(*changes):
                 if 'texture' in changes:
                     npc.gen_texture()
                 if 'quirk' in changes:
-                    npc.gen_ability()
+                    npc.gen_quirk()
                 npc.make_data()
                 npc.save_data()
 

@@ -1,0 +1,19 @@
+{
+    "name": "Edurne, Leguizamo",
+    "base": "Female | Arido - Genasi",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}

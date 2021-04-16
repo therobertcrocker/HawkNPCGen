@@ -1,0 +1,19 @@
+{
+    "name": "Qillaq, The Infantile",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
+    }
+}

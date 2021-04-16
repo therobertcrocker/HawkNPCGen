@@ -1,0 +1,19 @@
+{
+    "name": "Kristiina, Vinokurova-Ruslanovna",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Keeps smelling their hands ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Responds in the form of questions"
+    }
+}

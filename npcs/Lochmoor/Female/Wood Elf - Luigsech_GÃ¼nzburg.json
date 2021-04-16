@@ -1,0 +1,19 @@
+{
+    "name": "Luigsech, Günzburg",
+    "base": "Female | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "r-sounds become w-sounds"
+    }
+}

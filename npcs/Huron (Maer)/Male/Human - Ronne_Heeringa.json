@@ -1,0 +1,19 @@
+{
+    "name": "Ronne, Heeringa",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Constantly paces around ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "lots of like"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Ukaleq, Khurtina-Borisovna",
+    "base": "Female | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Paces",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}

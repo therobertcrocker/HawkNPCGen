@@ -1,0 +1,19 @@
+{
+    "name": "Yngvildr, Yukhtrits-Vladislavovna",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Keeps smelling their hands ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of um"
+    }
+}

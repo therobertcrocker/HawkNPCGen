@@ -1,0 +1,19 @@
+{
+    "name": "Aroa, Lyndsey Chuchu Lindo",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "stuffy nose"
+    }
+}

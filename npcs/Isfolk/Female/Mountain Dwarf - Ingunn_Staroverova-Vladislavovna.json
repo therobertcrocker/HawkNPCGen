@@ -1,0 +1,19 @@
+{
+    "name": "Ingunn, Staroverova-Vladislavovna",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Agrees with everything a particular PC says ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "tongue stuck to back of teeth"
+    }
+}

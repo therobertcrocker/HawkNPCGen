@@ -1,0 +1,19 @@
+{
+    "name": "Penelope, Child of Chrome of Corcaea",
+    "base": "Enby | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Monotonous"
+    }
+}
