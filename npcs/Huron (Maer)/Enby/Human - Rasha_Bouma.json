@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "British - Poor",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a Low pitch.",
         "texture": "Has a Gruff voice.",
         "quirk": "uses thee's and thou's"

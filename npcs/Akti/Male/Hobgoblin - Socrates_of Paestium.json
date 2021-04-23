@@ -1,0 +1,19 @@
+{
+    "name": "Socrates, of Paestium",
+    "base": "Male | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

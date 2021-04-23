@@ -1,0 +1,19 @@
+{
+    "name": "Phul, Bowsher",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Responds in the form of questions"
+    }
+}

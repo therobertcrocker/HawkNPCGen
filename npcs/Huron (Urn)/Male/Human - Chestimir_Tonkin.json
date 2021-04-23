@@ -1,0 +1,19 @@
+{
+    "name": "Chestimir, Tonkin",
+    "base": "Male | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Sways when standing ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

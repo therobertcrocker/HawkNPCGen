@@ -1,0 +1,19 @@
+{
+    "name": "Andraste, Mac-Dubhdara",
+    "base": "Female | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Whiny"
+    }
+}

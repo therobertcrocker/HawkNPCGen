@@ -1,0 +1,19 @@
+{
+    "name": "Rasha, van-het-Laar",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Ulloriaq, The Speaker",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Squints",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}

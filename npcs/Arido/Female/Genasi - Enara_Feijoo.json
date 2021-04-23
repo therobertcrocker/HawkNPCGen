@@ -1,0 +1,19 @@
+{
+    "name": "Enara, Feijoo",
+    "base": "Female | Arido - Genasi",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Makes circles with their fingers ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "lots of um"
+    }
+}

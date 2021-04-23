@@ -1,0 +1,19 @@
+{
+    "name": "Ploutarchos, Son of Eulides of Artali",
+    "base": "Male | Akti - High-Elf",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Pirate",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "severe overbite"
+    }
+}

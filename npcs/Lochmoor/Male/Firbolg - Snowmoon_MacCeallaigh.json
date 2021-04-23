@@ -1,0 +1,19 @@
+{
+    "name": "Snowmoon, MacCeallaigh",
+    "base": "Male | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

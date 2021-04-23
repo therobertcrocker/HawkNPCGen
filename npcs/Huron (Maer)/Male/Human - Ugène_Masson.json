@@ -1,0 +1,19 @@
+{
+    "name": "Ugène, Masson",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Squints",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "tongue stuck to back of teeth"
+    }
+}

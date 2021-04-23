@@ -1,0 +1,19 @@
+{
+    "name": "Miroslava, Erewaker",
+    "base": "Female | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "always pouting"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Aranth, Gutiérrez",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Readjusts belt when speaking ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

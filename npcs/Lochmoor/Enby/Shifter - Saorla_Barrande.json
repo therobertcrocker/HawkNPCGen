@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Appalachian",
+        "accent": "Posh",
         "vocals": "Speaks Normally, at a High pitch.",
         "texture": "Has a Relaxed voice.",
         "quirk": "talks in third person"

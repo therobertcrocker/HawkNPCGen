@@ -11,7 +11,7 @@
         "interaction": "wants something from the Party"
     },
     "voice": {
-        "accent": "Russian",
+        "accent": "Posh",
         "vocals": "Speaks Normally, at a High pitch.",
         "texture": "Has a Wolfish voice.",
         "quirk": "Always over-exaggerates"

@@ -1,0 +1,19 @@
+{
+    "name": "Basina, Nesemkhue",
+    "base": "Enby | Akti - High-Elf",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Pirate",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "slurrs words"
+    }
+}

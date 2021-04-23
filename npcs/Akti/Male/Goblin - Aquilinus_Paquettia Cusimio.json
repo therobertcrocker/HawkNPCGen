@@ -1,0 +1,19 @@
+{
+    "name": "Aquilinus, Paquettia Cusimio",
+    "base": "Male | Akti - Goblin",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Incoherent except for a few key words"
+    }
+}

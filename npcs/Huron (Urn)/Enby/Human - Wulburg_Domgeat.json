@@ -1,0 +1,19 @@
+{
+    "name": "Wulburg, Domgeat",
+    "base": "Enby | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Whiny"
+    }
+}

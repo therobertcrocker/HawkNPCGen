@@ -1,0 +1,19 @@
+{
+    "name": "Macedonia, of Dyma",
+    "base": "Enby | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Licks lips while speaking",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
+    }
+}

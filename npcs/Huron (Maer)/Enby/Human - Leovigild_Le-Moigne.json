@@ -1,0 +1,19 @@
+{
+    "name": "Leovigild, Le-Moigne",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Paces",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "lots of swearing"
+    }
+}

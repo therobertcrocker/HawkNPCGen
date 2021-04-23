@@ -1,0 +1,19 @@
+{
+    "name": "Aníbal, Isuri",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

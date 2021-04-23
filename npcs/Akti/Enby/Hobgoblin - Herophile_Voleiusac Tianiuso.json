@@ -1,0 +1,19 @@
+{
+    "name": "Herophile, Voleiusac Tianiuso",
+    "base": "Enby | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Nagore, Jose Cubero",
+    "base": "Female | Arido - Changeling",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

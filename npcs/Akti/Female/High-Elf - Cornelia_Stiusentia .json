@@ -1,0 +1,19 @@
+{
+    "name": "Cornelia, Stiusentia ",
+    "base": "Female | Akti - High-Elf",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Pirate",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

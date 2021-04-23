@@ -1,0 +1,19 @@
+{
+    "name": "Ghyslaine, Singleir",
+    "base": "Female | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "opens mouth too wide"
+    }
+}

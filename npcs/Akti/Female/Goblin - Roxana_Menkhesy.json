@@ -1,0 +1,19 @@
+{
+    "name": "Roxana, Menkhesy",
+    "base": "Female | Akti - Goblin",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "staccato speech"
+    }
+}

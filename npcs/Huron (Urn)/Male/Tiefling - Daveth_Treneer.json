@@ -1,0 +1,19 @@
+{
+    "name": "Daveth, Treneer",
+    "base": "Male | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}

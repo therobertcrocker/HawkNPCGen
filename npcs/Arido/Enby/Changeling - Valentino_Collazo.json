@@ -11,7 +11,7 @@
         "interaction": "is keeping a secret from the Party"
     },
     "voice": {
-        "accent": "Arabic",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Breathy voice.",
         "quirk": "Incoherent except for a few key words"

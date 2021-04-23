@@ -1,0 +1,19 @@
+{
+    "name": "Liviana, Kalaurato",
+    "base": "Female | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

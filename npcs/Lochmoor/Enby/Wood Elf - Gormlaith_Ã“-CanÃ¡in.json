@@ -11,7 +11,7 @@
         "interaction": "finds the Party fascinating"
     },
     "voice": {
-        "accent": "Appalachian",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "Light lisp"

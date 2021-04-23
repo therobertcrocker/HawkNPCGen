@@ -1,0 +1,19 @@
+{
+    "name": "Mihael, Helme",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
+    }
+}

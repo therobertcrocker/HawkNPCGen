@@ -1,0 +1,19 @@
+{
+    "name": "Jari, Skapson",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "clenched teeth"
+    }
+}

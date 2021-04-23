@@ -477,13 +477,13 @@
   },
   "voice": {
     "accents": {
-      "Lochmoor": ["Irish", "Appalachian"],
-      "Huron (Urn)": ["British - Posh", "British - Poor", "French"],
-      "Huron (Maer)": ["British - Posh", "British - Poor", "French"],
-      "Isfolk": ["Russian", "Scandinavian"],
-      "Akti": ["Mediterranean", "Roman", "Catholic"],
-      "Usuhan": ["Japanese", "Korean", "Chinese"],
-      "Arido": ["Spanish", "Arabic"]
+      "Lochmoor": ["Irish", "Appalachian", "Mid-Atlantic", "Posh"],
+      "Huron (Urn)": ["British - Posh", "British - Poor", "French", "Mid-Atlantic", "Posh"],
+      "Huron (Maer)": ["British - Posh", "British - Poor", "French", "Mid-Atlantic", "Posh"],
+      "Isfolk": ["Russian", "Scandinavian", "Mid-Atlantic", "Posh"],
+      "Akti": ["Mediterranean", "Roman", "Catholic", "Mid-Atlantic", "Pirate"],
+      "Usuhan": ["Japanese", "Korean", "Chinese", "Mid-Atlantic"],
+      "Arido": ["Spanish", "Arabic", "Mid-Atlantic", "Cowboy"]
     },
     "speed": ["Slowly", "Normally", "Quickly"],
     "pitch": ["Low", "Normal", "High"],

@@ -1,0 +1,19 @@
+{
+    "name": "Leofdæg, ben-Amihud",
+    "base": "Male | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "lots of swearing"
+    }
+}

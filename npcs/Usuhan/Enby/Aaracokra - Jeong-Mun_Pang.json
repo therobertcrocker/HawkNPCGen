@@ -1,0 +1,19 @@
+{
+    "name": "Jeong-Mun, Pang",
+    "base": "Enby | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Won't stop itching",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Incoherent except for a few key words"
+    }
+}

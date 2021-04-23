@@ -1,0 +1,19 @@
+{
+    "name": "Raphaël, The Unsung Hero",
+    "base": "Enby | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "lots of like"
+    }
+}

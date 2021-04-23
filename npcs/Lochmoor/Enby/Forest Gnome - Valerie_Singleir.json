@@ -1,0 +1,19 @@
+{
+    "name": "Valerie, Singleir",
+    "base": "Enby | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Responds in the form of questions"
+    }
+}

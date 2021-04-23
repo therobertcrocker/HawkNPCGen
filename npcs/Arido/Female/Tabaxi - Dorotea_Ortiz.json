@@ -1,0 +1,19 @@
+{
+    "name": "Dorotea, Ortiz",
+    "base": "Female | Arido - Tabaxi",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Won't stop itching",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}

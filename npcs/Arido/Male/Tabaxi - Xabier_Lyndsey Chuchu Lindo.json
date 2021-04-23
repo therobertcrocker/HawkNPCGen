@@ -11,7 +11,7 @@
         "interaction": "finds the Party fascinating"
     },
     "voice": {
-        "accent": "Spanish",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a Normal pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "lots of like"

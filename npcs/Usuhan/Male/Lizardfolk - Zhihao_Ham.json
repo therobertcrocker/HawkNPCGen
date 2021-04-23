@@ -1,0 +1,19 @@
+{
+    "name": "Zhihao, Ham",
+    "base": "Male | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Truus, de-Felius",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "r-sounds become w-sounds"
+    }
+}

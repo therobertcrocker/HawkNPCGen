@@ -1,0 +1,19 @@
+{
+    "name": "Jon, Carita",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
+    }
+}

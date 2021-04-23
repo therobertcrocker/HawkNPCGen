@@ -1,0 +1,19 @@
+{
+    "name": "Floriana, of Thegium",
+    "base": "Female | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

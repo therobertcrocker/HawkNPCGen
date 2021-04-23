@@ -1,0 +1,19 @@
+{
+    "name": "Jory, Turner",
+    "base": "Male | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "lots of swearing"
+    }
+}

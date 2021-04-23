@@ -1,0 +1,19 @@
+{
+    "name": "Linos, of Menae",
+    "base": "Male | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Agrees with everything a particular PC says ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "severe overbite"
+    }
+}

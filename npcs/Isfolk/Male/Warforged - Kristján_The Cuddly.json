@@ -1,0 +1,19 @@
+{
+    "name": "Kristján, The Cuddly",
+    "base": "Male | Isfolk - Warforged",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fearful at the sight of drawn weapons ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "r-sounds become w-sounds"
+    }
+}

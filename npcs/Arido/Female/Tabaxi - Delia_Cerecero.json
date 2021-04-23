@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Spanish",
+        "accent": "None",
         "vocals": "Speaks Normally, at a High pitch.",
         "texture": "Has a Wolfish voice.",
         "quirk": "tongue stuck to back of teeth"

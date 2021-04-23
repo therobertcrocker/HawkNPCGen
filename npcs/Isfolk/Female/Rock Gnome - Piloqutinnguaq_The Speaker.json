@@ -11,7 +11,7 @@
         "interaction": "is keeping a secret from the Party"
     },
     "voice": {
-        "accent": "Scandinavian",
+        "accent": "None",
         "vocals": "Speaks Normally, at a High pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "all S-sounds become Z-sounds"

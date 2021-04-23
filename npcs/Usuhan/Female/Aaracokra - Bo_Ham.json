@@ -1,0 +1,19 @@
+{
+    "name": "Bo, Ham",
+    "base": "Female | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "talks in third person"
+    }
+}

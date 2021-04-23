@@ -1,0 +1,19 @@
+{
+    "name": "Garaile, Juanesena",
+    "base": "Male | Arido - Changeling",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

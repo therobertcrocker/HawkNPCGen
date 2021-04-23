@@ -1,0 +1,19 @@
+{
+    "name": "Viridia, of Arsan",
+    "base": "Enby | Akti - Goblin",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "stuffy nose"
+    }
+}

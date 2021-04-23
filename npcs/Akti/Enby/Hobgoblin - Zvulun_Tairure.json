@@ -1,0 +1,19 @@
+{
+    "name": "Zvulun, Tairure",
+    "base": "Enby | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Sways when standing ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "r-sounds become w-sounds"
+    }
+}

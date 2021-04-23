@@ -1,0 +1,19 @@
+{
+    "name": "Teja, Van-Der-Heide",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "staccato speech"
+    }
+}

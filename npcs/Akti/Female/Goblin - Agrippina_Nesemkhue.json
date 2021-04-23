@@ -11,7 +11,7 @@
         "interaction": "is quiet around the party"
     },
     "voice": {
-        "accent": "Mediterranean",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a Normal pitch.",
         "texture": "Has a Wolfish voice.",
         "quirk": "stuffy nose"

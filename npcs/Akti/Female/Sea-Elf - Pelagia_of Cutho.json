@@ -1,0 +1,19 @@
+{
+    "name": "Pelagia, of Cutho",
+    "base": "Female | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
+    }
+}

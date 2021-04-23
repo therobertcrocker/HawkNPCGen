@@ -1,0 +1,19 @@
+{
+    "name": "Hoel, Renan",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "never stops to breathe"
+    }
+}

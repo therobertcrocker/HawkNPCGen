@@ -1,0 +1,19 @@
+{
+    "name": "Hyeon-Jeong, Si",
+    "base": "Female | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "never uses contractions"
+    }
+}

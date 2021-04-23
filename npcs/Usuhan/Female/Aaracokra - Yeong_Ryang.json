@@ -1,0 +1,19 @@
+{
+    "name": "Yeong, Ryang",
+    "base": "Female | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly paces around ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "lots of um"
+    }
+}

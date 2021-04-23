@@ -11,7 +11,7 @@
         "interaction": "finds the Party fascinating"
     },
     "voice": {
-        "accent": "Catholic",
+        "accent": "None",
         "vocals": "Speaks Normally, at a High pitch.",
         "texture": "Has a Smooth voice.",
         "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"

@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "British - Poor",
+        "accent": "Mid-Atlantic",
         "vocals": "Speaks Quickly, at a Normal pitch.",
         "texture": "Has a Nasal-y voice.",
         "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"

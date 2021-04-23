@@ -1,0 +1,19 @@
+{
+    "name": "Min-Kyung, Ki",
+    "base": "Enby | Usuhan - Dragonborn",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
+    }
+}

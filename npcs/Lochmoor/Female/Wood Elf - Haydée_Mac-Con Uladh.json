@@ -1,0 +1,19 @@
+{
+    "name": "Haydée, Mac-Con Uladh",
+    "base": "Female | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

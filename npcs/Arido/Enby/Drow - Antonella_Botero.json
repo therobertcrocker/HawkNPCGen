@@ -1,0 +1,19 @@
+{
+    "name": "Antonella, Botero",
+    "base": "Enby | Arido - Drow",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

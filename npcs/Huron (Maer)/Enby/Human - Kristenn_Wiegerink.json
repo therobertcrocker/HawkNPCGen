@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "British - Poor",
+        "accent": "French",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Breathy voice.",
         "quirk": "all w-sounds become v-sounds"

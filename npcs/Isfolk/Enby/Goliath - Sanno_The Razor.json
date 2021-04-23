@@ -1,0 +1,19 @@
+{
+    "name": "Sanno, The Razor",
+    "base": "Enby | Isfolk - Goliath",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Stutters"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Sol-Bi, Hwang",
+    "base": "Enby | Usuhan - Kobold",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

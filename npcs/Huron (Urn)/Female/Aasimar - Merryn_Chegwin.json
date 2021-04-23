@@ -1,0 +1,19 @@
+{
+    "name": "Merryn, Chegwin",
+    "base": "Female | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "lots of um"
+    }
+}

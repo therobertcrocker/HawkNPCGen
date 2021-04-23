@@ -1,0 +1,19 @@
+{
+    "name": "Idwal, ben-Andreia",
+    "base": "Male | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Readjusts belt when speaking ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Incoherent except for a few key words"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Yasmijn, Mac-Loinsigh",
+    "base": "Enby | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Chews something",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "never uses contractions"
+    }
+}

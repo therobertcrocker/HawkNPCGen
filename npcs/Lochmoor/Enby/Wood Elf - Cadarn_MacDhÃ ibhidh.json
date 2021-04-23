@@ -1,0 +1,19 @@
+{
+    "name": "Cadarn, MacDhàibhidh",
+    "base": "Enby | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Is constantly hungry ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

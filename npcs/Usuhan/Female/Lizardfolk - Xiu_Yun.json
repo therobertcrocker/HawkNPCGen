@@ -11,7 +11,7 @@
         "interaction": "is keeping a secret from the Party"
     },
     "voice": {
-        "accent": "Japanese",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a High pitch.",
         "texture": "Has a Gruff voice.",
         "quirk": "uses full titles or descriptions ('jon-farmers-son')"

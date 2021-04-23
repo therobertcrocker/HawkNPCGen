@@ -1,0 +1,19 @@
+{
+    "name": "Imanol, Fraga",
+    "base": "Male | Arido - Changeling",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Picks nose ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

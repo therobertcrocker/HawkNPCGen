@@ -1,0 +1,19 @@
+{
+    "name": "Alejo, Garin",
+    "base": "Male | Arido - Tabaxi",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Agrees with everything a particular PC says ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Cowboy",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Juan, Berrocal",
+    "base": "Enby | Arido - Genasi",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Never looks in people's eyes ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}

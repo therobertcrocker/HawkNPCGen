@@ -1,7 +1,7 @@
 import json
 from NPC import NPC
 import time
-from npcs import walk_dir
+from npcs import walk_dir as change
 import random
 import os
 

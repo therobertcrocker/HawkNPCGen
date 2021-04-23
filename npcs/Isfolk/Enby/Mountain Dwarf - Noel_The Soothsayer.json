@@ -1,0 +1,19 @@
+{
+    "name": "Noel, The Soothsayer",
+    "base": "Enby | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "severe overbite"
+    }
+}

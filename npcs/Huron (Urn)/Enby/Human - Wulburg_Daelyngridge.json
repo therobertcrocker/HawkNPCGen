@@ -1,0 +1,19 @@
+{
+    "name": "Wulburg, Daelyngridge",
+    "base": "Enby | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "pauses often"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Ugène, de-Viuepont",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Whiny"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Senin, Seco",
+    "base": "Enby | Arido - Tabaxi",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

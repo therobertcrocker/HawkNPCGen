@@ -11,7 +11,7 @@
         "interaction": "wants something from the Party"
     },
     "voice": {
-        "accent": "Catholic",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a High pitch.",
         "texture": "Has a Breathy voice.",
         "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"

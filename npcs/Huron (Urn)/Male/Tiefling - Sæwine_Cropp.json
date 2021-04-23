@@ -1,0 +1,19 @@
+{
+    "name": "Sæwine, Cropp",
+    "base": "Male | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Never looks in people's eyes ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "pauses often"
+    }
+}

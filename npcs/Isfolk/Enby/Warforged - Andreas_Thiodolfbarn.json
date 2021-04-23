@@ -1,0 +1,19 @@
+{
+    "name": "Andreas, Thiodolfbarn",
+    "base": "Enby | Isfolk - Warforged",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Keeps smelling their hands ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

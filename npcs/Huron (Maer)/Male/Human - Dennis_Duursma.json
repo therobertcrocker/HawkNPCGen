@@ -1,0 +1,19 @@
+{
+    "name": "Dennis, Duursma",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Keeps smelling their hands ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Eun-Young, Pan",
+    "base": "Enby | Usuhan - Kobold",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Chews something",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "r-sounds become w-sounds"
+    }
+}

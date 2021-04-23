@@ -1,0 +1,19 @@
+{
+    "name": "Pablo, Alguacil",
+    "base": "Male | Arido - Changeling",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}

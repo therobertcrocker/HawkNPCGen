@@ -1,0 +1,19 @@
+{
+    "name": "Chin, Ryu",
+    "base": "Female | Usuhan - Dragonborn",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
+    }
+}

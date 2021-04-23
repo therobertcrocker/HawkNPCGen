@@ -1,0 +1,19 @@
+{
+    "name": "Jin-Ho, Ogum",
+    "base": "Enby | Usuhan - Kobold",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}

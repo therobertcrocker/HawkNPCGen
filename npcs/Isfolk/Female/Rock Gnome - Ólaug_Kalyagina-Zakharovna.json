@@ -1,0 +1,19 @@
+{
+    "name": "Ólaug, Kalyagina-Zakharovna",
+    "base": "Female | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "pauses often"
+    }
+}

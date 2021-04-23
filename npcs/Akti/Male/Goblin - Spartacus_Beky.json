@@ -1,0 +1,19 @@
+{
+    "name": "Spartacus, Beky",
+    "base": "Male | Akti - Goblin",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Sways when standing ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Will always end their sentences going upwards in tone"
+    }
+}

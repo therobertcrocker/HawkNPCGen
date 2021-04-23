@@ -11,7 +11,7 @@
         "interaction": "wants something from the Party"
     },
     "voice": {
-        "accent": "Scandinavian",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Low pitch.",
         "texture": "Has a Nasal-y voice.",
         "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"

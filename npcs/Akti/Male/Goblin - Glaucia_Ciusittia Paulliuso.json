@@ -1,0 +1,19 @@
+{
+    "name": "Glaucia, Ciusittia Paulliuso",
+    "base": "Male | Akti - Goblin",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Pirate",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
+    }
+}

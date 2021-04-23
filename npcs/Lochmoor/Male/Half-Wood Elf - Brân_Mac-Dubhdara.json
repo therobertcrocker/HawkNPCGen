@@ -1,0 +1,19 @@
+{
+    "name": "Brân, Mac-Dubhdara",
+    "base": "Male | Lochmoor - Half-Wood Elf",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Pedro, Loretta Kulubot Capulong",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Intense dislike to a particular race/PC ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
+    }
+}

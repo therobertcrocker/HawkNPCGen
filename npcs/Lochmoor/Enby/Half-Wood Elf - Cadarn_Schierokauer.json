@@ -1,0 +1,19 @@
+{
+    "name": "Cadarn, Schierokauer",
+    "base": "Enby | Lochmoor - Half-Wood Elf",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "staccato speech"
+    }
+}

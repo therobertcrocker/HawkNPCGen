@@ -1,0 +1,19 @@
+{
+    "name": "Ragnfríðr, Penkina-Anatolievna",
+    "base": "Female | Isfolk - Warforged",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Readjusts belt when speaking ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Will always end their sentences going upwards in tone"
+    }
+}

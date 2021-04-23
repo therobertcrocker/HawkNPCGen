@@ -1,8 +1,8 @@
 {
-    "name": "Justiina, Kalyagina-Zakharovna",
+    "name": "Mariya, Kalyagina-Zakharovna",
     "base": "Female | Isfolk - Mountain Dwarf",
     "traits": {
-        "appearance": "wears ragged, dirty clothes",
+        "appearance": "wears flamboyant or outlandish clothes",
         "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
@@ -11,7 +11,7 @@
         "interaction": "believes themselves of higher status than the Party"
     },
     "voice": {
-        "accent": "Scandinavian",
+        "accent": "Russian",
         "vocals": "Speaks Quickly, at a Low pitch.",
         "texture": "Has a Relaxed voice.",
         "quirk": "r-sounds become w-sounds"

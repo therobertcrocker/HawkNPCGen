@@ -1,0 +1,19 @@
+{
+    "name": "Päivi, Stebleva-Yermolayevna",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

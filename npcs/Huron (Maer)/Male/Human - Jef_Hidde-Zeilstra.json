@@ -1,0 +1,19 @@
+{
+    "name": "Jef, Hidde-Zeilstra",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
+    }
+}

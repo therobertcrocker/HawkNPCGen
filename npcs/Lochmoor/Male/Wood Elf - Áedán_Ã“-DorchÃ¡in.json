@@ -1,0 +1,19 @@
+{
+    "name": "¡ed·n, √ì-Dorch√°in",
+    "base": "Male | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Will always end their sentences going upwards in tone"
+    }
+}

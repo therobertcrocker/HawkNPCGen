@@ -1,0 +1,19 @@
+{
+    "name": "Auðrhildr, Grimhilddottir",
+    "base": "Female | Isfolk - Goliath",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Clicks tongue",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

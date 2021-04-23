@@ -1,0 +1,19 @@
+{
+    "name": "Karlijn, Prins",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Stutters"
+    }
+}

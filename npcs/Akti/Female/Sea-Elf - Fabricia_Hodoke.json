@@ -11,7 +11,7 @@
         "interaction": "is always honest with the Party"
     },
     "voice": {
-        "accent": "Roman",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Low pitch.",
         "texture": "Has a Gruff voice.",
         "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"

@@ -1,0 +1,19 @@
+{
+    "name": "Porcia, of Shuri",
+    "base": "Female | Akti - High-Elf",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "sings everything"
+    }
+}

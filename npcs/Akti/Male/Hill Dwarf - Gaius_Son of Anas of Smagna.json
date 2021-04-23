@@ -1,0 +1,19 @@
+{
+    "name": "Gaius, Son of Anas of Smagna",
+    "base": "Male | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "barely opens lips"
+    }
+}

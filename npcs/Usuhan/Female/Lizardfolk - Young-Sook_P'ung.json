@@ -11,7 +11,7 @@
         "interaction": "finds the Party fascinating"
     },
     "voice": {
-        "accent": "Korean",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a High pitch.",
         "texture": "Has a Smooth voice.",
         "quirk": "repeats the last word you say before responding"

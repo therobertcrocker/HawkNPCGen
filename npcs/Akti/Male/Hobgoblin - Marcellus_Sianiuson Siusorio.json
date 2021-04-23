@@ -11,7 +11,7 @@
         "interaction": "wants something from the Party"
     },
     "voice": {
-        "accent": "Catholic",
+        "accent": "Pirate",
         "vocals": "Speaks Normally, at a Low pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"

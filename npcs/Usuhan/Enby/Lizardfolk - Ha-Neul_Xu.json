@@ -1,0 +1,19 @@
+{
+    "name": "Ha-Neul, Xu",
+    "base": "Enby | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fixes hair constantly ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "always pouting"
+    }
+}

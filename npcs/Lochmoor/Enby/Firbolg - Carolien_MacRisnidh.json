@@ -1,0 +1,19 @@
+{
+    "name": "Carolien, MacRisnidh",
+    "base": "Enby | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Plays around with ring on finger ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "staccato speech"
+    }
+}

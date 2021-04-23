@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Russian",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Gruff voice.",
         "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"

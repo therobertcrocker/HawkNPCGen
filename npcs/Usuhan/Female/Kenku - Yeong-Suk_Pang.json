@@ -1,0 +1,19 @@
+{
+    "name": "Yeong-Suk, Pang",
+    "base": "Female | Usuhan - Kenku",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Glances out the window ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

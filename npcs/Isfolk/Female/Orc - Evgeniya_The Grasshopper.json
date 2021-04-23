@@ -1,0 +1,19 @@
+{
+    "name": "Evgeniya, The Grasshopper",
+    "base": "Female | Isfolk - Orc",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Drinks everyone under the table",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

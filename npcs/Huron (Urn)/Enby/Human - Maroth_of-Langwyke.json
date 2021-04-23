@@ -1,0 +1,19 @@
+{
+    "name": "Maroth, of-Langwyke",
+    "base": "Enby | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fixes hair constantly ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "mutters to self"
+    }
+}

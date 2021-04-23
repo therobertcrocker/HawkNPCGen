@@ -1,0 +1,19 @@
+{
+    "name": "Chihiro, Yon",
+    "base": "Female | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Squints",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

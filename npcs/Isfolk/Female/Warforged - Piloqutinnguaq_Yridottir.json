@@ -11,7 +11,7 @@
         "interaction": "finds the Party fascinating"
     },
     "voice": {
-        "accent": "Russian",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "Short, clipped sentences"

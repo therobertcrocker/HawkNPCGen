@@ -1,0 +1,19 @@
+{
+    "name": "Nora, MacFhilib",
+    "base": "Female | Lochmoor - Half-Wood Elf",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "always pouting"
+    }
+}

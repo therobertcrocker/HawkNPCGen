@@ -1,0 +1,19 @@
+{
+    "name": "Laxu, Ericka O'Neal Sevilla",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
+    }
+}

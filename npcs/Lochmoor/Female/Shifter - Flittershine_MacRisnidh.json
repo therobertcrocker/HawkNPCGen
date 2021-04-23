@@ -1,0 +1,19 @@
+{
+    "name": "Flittershine, MacRisnidh",
+    "base": "Female | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Never looks in people's eyes ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Irish",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}

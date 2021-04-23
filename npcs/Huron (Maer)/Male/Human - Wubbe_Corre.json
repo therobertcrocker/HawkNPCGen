@@ -1,0 +1,19 @@
+{
+    "name": "Wubbe, Corre",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Is constantly hungry ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
+    }
+}

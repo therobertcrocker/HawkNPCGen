@@ -1,0 +1,19 @@
+{
+    "name": "Wilheard, Trezona",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Stutters"
+    }
+}

@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Arabic",
+        "accent": "Spanish",
         "vocals": "Speaks Quickly, at a Normal pitch.",
         "texture": "Has a Smooth voice.",
         "quirk": "all w-sounds become v-sounds"

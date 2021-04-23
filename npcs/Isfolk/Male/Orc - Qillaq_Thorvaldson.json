@@ -1,0 +1,19 @@
+{
+    "name": "Qillaq, Thorvaldson",
+    "base": "Male | Isfolk - Orc",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Twirls hair or tugs beard",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

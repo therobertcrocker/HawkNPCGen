@@ -1,0 +1,19 @@
+{
+    "name": "Vivien, MacFhearghail",
+    "base": "Male | Lochmoor - Half-Wood Elf",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Taps fingers",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Light lisp"
+    }
+}

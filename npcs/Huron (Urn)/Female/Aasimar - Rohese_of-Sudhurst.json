@@ -1,0 +1,19 @@
+{
+    "name": "Rohese, of-Sudhurst",
+    "base": "Female | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never looks in people's eyes ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "opens mouth too wide"
+    }
+}

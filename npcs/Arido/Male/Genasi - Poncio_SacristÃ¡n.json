@@ -1,0 +1,19 @@
+{
+    "name": "Poncio, Sacristán",
+    "base": "Male | Arido - Genasi",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

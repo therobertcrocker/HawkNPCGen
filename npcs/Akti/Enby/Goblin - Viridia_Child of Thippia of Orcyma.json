@@ -1,0 +1,19 @@
+{
+    "name": "Viridia, Child of Thippia of Orcyma",
+    "base": "Enby | Akti - Goblin",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

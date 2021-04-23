@@ -1,0 +1,19 @@
+{
+    "name": "Jeong-Hun, P'il",
+    "base": "Male | Usuhan - Tortle",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Taps fingers",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

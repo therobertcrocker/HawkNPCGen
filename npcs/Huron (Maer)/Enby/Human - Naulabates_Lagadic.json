@@ -1,0 +1,19 @@
+{
+    "name": "Naulabates, Lagadic",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Fidgets",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "stuffy nose"
+    }
+}

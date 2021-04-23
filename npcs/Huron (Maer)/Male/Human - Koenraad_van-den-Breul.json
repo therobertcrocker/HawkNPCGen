@@ -1,0 +1,19 @@
+{
+    "name": "Koenraad, van-den-Breul",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Fixes hair constantly ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "mutters to self"
+    }
+}

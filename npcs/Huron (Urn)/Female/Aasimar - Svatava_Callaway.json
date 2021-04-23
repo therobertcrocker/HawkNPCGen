@@ -11,7 +11,7 @@
         "interaction": "is keeping a secret from the Party"
     },
     "voice": {
-        "accent": "French",
+        "accent": "None",
         "vocals": "Speaks Normally, at a High pitch.",
         "texture": "Has a Relaxed voice.",
         "quirk": "Incoherent except for a few key words"

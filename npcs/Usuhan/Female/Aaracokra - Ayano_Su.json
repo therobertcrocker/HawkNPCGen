@@ -11,7 +11,7 @@
         "interaction": "is curious about one member of the Party"
     },
     "voice": {
-        "accent": "Japanese",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a High pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "all w-sounds become v-sounds"

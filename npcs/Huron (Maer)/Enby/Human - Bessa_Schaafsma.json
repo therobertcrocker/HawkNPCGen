@@ -11,7 +11,7 @@
         "interaction": "is quiet around the party"
     },
     "voice": {
-        "accent": "British - Poor",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a Normal pitch.",
         "texture": "Has a Wolfish voice.",
         "quirk": "Stutters"

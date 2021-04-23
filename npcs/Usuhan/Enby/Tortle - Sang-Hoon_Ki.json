@@ -1,0 +1,19 @@
+{
+    "name": "Sang-Hoon, Ki",
+    "base": "Enby | Usuhan - Tortle",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

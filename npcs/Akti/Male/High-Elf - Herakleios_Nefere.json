@@ -1,0 +1,19 @@
+{
+    "name": "Herakleios, Nefere",
+    "base": "Male | Akti - High-Elf",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly taps elbow ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Pirate",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Responds in the form of questions"
+    }
+}

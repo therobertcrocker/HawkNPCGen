@@ -1,0 +1,19 @@
+{
+    "name": "Gwenaëlle, Smeding",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Is constantly hungry ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "mutters to self"
+    }
+}

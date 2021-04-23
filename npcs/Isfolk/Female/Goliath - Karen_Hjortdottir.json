@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Russian",
+        "accent": "Posh",
         "vocals": "Speaks Normally, at a High pitch.",
         "texture": "Has a Scratchy voice.",
         "quirk": "Always over-exaggerates"

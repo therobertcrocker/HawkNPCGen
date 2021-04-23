@@ -1,0 +1,19 @@
+{
+    "name": "Goizeder, España",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "slurrs words"
+    }
+}

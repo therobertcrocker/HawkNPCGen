@@ -11,7 +11,7 @@
         "interaction": "is quiet around the party"
     },
     "voice": {
-        "accent": "French",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a Normal pitch.",
         "texture": "Has a Smooth voice.",
         "quirk": "lots of um"

@@ -1,0 +1,19 @@
+{
+    "name": "Goulvena, ten-Hoeve",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Plays around with ring on finger ",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "severe underbite"
+    }
+}

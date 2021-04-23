@@ -1,0 +1,19 @@
+{
+    "name": "Eireamhón, MacDhonnchaidh",
+    "base": "Enby | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

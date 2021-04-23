@@ -1,0 +1,19 @@
+{
+    "name": "Eudoxia, of Shuri",
+    "base": "Female | Akti - High-Elf",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}

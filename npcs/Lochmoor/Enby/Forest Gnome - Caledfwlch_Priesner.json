@@ -1,0 +1,19 @@
+{
+    "name": "Caledfwlch, Priesner",
+    "base": "Enby | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Appalachian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

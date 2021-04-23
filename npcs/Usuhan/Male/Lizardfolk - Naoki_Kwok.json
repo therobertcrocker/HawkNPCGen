@@ -1,0 +1,19 @@
+{
+    "name": "Naoki, Kwok",
+    "base": "Male | Usuhan - Lizardfolk",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Is constantly hungry ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "mutters to self"
+    }
+}

@@ -11,7 +11,7 @@
         "interaction": "is always honest with the Party"
     },
     "voice": {
-        "accent": "Russian",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Low pitch.",
         "texture": "Has a Gruff voice.",
         "quirk": "Always over-exaggerates"

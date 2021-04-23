@@ -11,7 +11,7 @@
         "interaction": "is keeping a secret from the Party"
     },
     "voice": {
-        "accent": "Russian",
+        "accent": "Posh",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"

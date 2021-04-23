@@ -1,0 +1,19 @@
+{
+    "name": "Itsasne, Ericka O'Neal Sevilla",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Constantly taps elbow ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "stuffy nose"
+    }
+}

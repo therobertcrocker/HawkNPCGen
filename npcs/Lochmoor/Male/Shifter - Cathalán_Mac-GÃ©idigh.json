@@ -1,0 +1,19 @@
+{
+    "name": "Cathalán, Mac-GÃ©idigh",
+    "base": "Male | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

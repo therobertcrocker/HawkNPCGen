@@ -64,7 +64,11 @@ class NPC:
         self.interaction = random.choice(data[lists.TRAITS][lists.INTERACTION])
 
     def gen_accent(self):
-        self.accent = random.choice(data[lists.VOICE][lists.ACCENT][self.culture])
+        pick = random.randrange(0, 5)
+        if pick < 2:
+            self.accent = "None"
+        else:
+            self.accent = random.choice(data[lists.VOICE][lists.ACCENT][self.culture])
 
     def gen_vocals(self):
         self.vocals = "Speaks " + random.choice(data[lists.VOICE][lists.SPEED]) + \
@@ -93,24 +97,34 @@ class NPC:
 
     def gen_base(self, traits):
         if traits:
-            if character.RACE in traits and character.CULTURE in traits:
+            # Defining the conditions for the parameters given in traits
+            is_racial = character.RACE in traits
+            is_cultural = character.CULTURE in traits
+            is_gendered = character.GENDER in traits
+
+            if is_racial and is_cultural:
                 self.culture = traits[character.CULTURE]
                 self.race = traits[character.RACE]
-            elif character.RACE in traits and character.CULTURE not in traits:
+                
+            elif is_racial and not is_cultural:
                 self.race = traits[character.RACE]
                 for i in data[lists.RACES]:
                     if traits[character.RACE] in data[lists.RACES][i]:
                         self.culture = i
-            elif character.RACE not in traits and character.CULTURE in traits:
+                        
+            elif not is_racial and is_cultural:
                 self.culture = traits[character.CULTURE]
                 self.gen_race()
-            elif character.RACE not in traits and character.CULTURE not in traits:
+                
+            elif not is_racial and not is_cultural:
                 self.culture = traits[character.CULTURE]
                 self.race = random.choice(data[lists.RACES][self.culture])
-            if character.GENDER in traits:
+                
+            if is_gendered:
                 self.gender = traits[character.GENDER]
             else:
                 self.gender = random.choice(data[lists.GENDERS_FULL])
+                
             self.get_name()
             self.get_surname()
         else:
@@ -131,11 +145,11 @@ class NPC:
 
     # -------------------------------------------- Name Generation ----------------------------------
     def get_name(self):
-        namebase = random.choice(data["namebases"][self.culture])
+        NAMEBASE = random.choice(data["namebases"][self.culture])
         KEY = "ro573598767"
         NUMBER = "1"
         REQ_BASE = "https://www.behindthename.com/api/random.json?key=" + KEY
-        REQ_USAGE = "&usage=" + namebase
+        REQ_USAGE = "&usage=" + NAMEBASE
         REQ_GENDER = "&gender=" + data[lists.GENDERS][data[lists.GENDERS_FULL].index(self.gender)]
         REQ_NUMBER = "&number=" + NUMBER
         if self.gender == data[lists.GENDERS][2]:

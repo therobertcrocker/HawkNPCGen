@@ -1,0 +1,19 @@
+{
+    "name": "Wilmot, Cooper",
+    "base": "Male | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

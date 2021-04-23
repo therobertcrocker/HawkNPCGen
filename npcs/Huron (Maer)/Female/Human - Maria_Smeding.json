@@ -1,0 +1,19 @@
+{
+    "name": "Maria, Smeding",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Constantly slouches ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

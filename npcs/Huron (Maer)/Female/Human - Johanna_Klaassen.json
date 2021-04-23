@@ -1,0 +1,19 @@
+{
+    "name": "Johanna, Klaassen",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "pauses often"
+    }
+}

@@ -11,7 +11,7 @@
         "interaction": "is suspicious of the Party"
     },
     "voice": {
-        "accent": "Catholic",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Low pitch.",
         "texture": "Has a Breathy voice.",
         "quirk": "all w-sounds become v-sounds"

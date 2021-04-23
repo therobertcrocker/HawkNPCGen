@@ -1,0 +1,19 @@
+{
+    "name": "Fu, Ren",
+    "base": "Male | Usuhan - Kobold",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "never uses contractions"
+    }
+}

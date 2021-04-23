@@ -1,0 +1,19 @@
+{
+    "name": "Calixtus, Alleius Linuso",
+    "base": "Enby | Akti - High-Elf",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly taps elbow ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Never tells the complete truth"
+    }
+}

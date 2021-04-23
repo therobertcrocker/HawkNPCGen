@@ -1,0 +1,19 @@
+{
+    "name": "Meven, Sinclair",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Incoherent except for a few key words"
+    }
+}

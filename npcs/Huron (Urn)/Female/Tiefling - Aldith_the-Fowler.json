@@ -1,0 +1,19 @@
+{
+    "name": "Aldith, the-Fowler",
+    "base": "Female | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly paces around ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Stutters"
+    }
+}

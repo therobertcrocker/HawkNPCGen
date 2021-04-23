@@ -1,0 +1,19 @@
+{
+    "name": "Liad, Itis",
+    "base": "Enby | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Fidgets",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Pirate",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "talks in third person"
+    }
+}
