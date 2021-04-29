@@ -11,7 +11,7 @@
         "interaction": "wants something from the Party"
     },
     "voice": {
-        "accent": "Posh",
+        "accent": "Appalachian",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Gruff voice.",
         "quirk": "Responds in the form of questions"

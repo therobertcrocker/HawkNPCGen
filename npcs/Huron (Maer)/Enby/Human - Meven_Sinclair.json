@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Posh",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Relaxed voice.",
         "quirk": "Incoherent except for a few key words"

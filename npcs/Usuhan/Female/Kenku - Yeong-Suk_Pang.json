@@ -11,7 +11,7 @@
         "interaction": "Thinks of the Party as friends"
     },
     "voice": {
-        "accent": "Japanese",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a Normal pitch.",
         "texture": "Has a Nasal-y voice.",
         "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"

@@ -11,7 +11,7 @@
         "interaction": "is quiet around the party"
     },
     "voice": {
-        "accent": "Pirate",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a Low pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "tongue stuck to back of teeth"

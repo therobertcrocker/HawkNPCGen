@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Mid-Atlantic",
+        "accent": "Southern",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Gruff voice.",
         "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"

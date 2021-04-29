@@ -11,7 +11,7 @@
         "interaction": "wants something from the Party"
     },
     "voice": {
-        "accent": "Mid-Atlantic",
+        "accent": "Pirate",
         "vocals": "Speaks Quickly, at a Normal pitch.",
         "texture": "Has a Smooth voice.",
         "quirk": "Light lisp"

@@ -11,7 +11,7 @@
         "interaction": "is keeping a secret from the Party"
     },
     "voice": {
-        "accent": "British - Posh",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a High pitch.",
         "texture": "Has a Scratchy voice.",
         "quirk": "Responds in the form of questions"

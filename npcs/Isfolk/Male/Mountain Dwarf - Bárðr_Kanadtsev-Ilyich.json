@@ -11,7 +11,7 @@
         "interaction": "is curious about one member of the Party"
     },
     "voice": {
-        "accent": "Mid-Atlantic",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a Low pitch.",
         "texture": "Has a Nasal-y voice.",
         "quirk": "repeats the last word you say before responding"

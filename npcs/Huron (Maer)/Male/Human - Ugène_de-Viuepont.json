@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Posh",
+        "accent": "British - Posh",
         "vocals": "Speaks Quickly, at a Low pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "Whiny"

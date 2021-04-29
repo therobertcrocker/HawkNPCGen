@@ -11,7 +11,7 @@
         "interaction": "wants something from the Party"
     },
     "voice": {
-        "accent": "None",
+        "accent": "Irish",
         "vocals": "Speaks Quickly, at a Low pitch.",
         "texture": "Has a Breathy voice.",
         "quirk": "Incoherent except for a few key words"

@@ -11,7 +11,7 @@
         "interaction": "finds the Party fascinating"
     },
     "voice": {
-        "accent": "Irish",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a High pitch.",
         "texture": "Has a Gruff voice.",
         "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"

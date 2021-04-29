@@ -11,7 +11,7 @@
         "interaction": "Thinks of the Party as friends"
     },
     "voice": {
-        "accent": "Chinese",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a High pitch.",
         "texture": "Has a Strained voice.",
         "quirk": "mouth is always full when talking"

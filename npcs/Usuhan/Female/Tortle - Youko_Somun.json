@@ -11,7 +11,7 @@
         "interaction": "finds the Party fascinating"
     },
     "voice": {
-        "accent": "Chinese",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a Low pitch.",
         "texture": "Has a Wolfish voice.",
         "quirk": "never stops to breathe"

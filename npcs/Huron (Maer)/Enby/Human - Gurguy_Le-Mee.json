@@ -11,7 +11,7 @@
         "interaction": "wants something from the Party"
     },
     "voice": {
-        "accent": "British - Poor",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a High pitch.",
         "texture": "Has a Wolfish voice.",
         "quirk": "opens mouth too wide"

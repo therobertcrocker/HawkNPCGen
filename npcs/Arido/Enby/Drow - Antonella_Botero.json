@@ -11,7 +11,7 @@
         "interaction": "Thinks of the Party as friends"
     },
     "voice": {
-        "accent": "None",
+        "accent": "Arabic",
         "vocals": "Speaks Quickly, at a High pitch.",
         "texture": "Has a Relaxed voice.",
         "quirk": "repeats the last word you say before responding"

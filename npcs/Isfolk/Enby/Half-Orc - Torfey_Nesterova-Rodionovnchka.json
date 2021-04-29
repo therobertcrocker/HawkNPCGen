@@ -11,7 +11,7 @@
         "interaction": "is quiet around the party"
     },
     "voice": {
-        "accent": "Posh",
+        "accent": "None",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Breathy voice.",
         "quirk": "pauses often"

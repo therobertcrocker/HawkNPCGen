@@ -145,11 +145,11 @@ class NPC:
 
     # -------------------------------------------- Name Generation ----------------------------------
     def get_name(self):
-        NAMEBASE = random.choice(data["namebases"][self.culture])
+        namebase = random.choice(data["namebases"][self.culture])
         KEY = "ro573598767"
         NUMBER = "1"
         REQ_BASE = "https://www.behindthename.com/api/random.json?key=" + KEY
-        REQ_USAGE = "&usage=" + NAMEBASE
+        REQ_USAGE = "&usage=" + namebase
         REQ_GENDER = "&gender=" + data[lists.GENDERS][data[lists.GENDERS_FULL].index(self.gender)]
         REQ_NUMBER = "&number=" + NUMBER
         if self.gender == data[lists.GENDERS][2]:

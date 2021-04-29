@@ -11,7 +11,7 @@
         "interaction": "is quiet around the party"
     },
     "voice": {
-        "accent": "None",
+        "accent": "Chinese",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Breathy voice.",
         "quirk": "never uses contractions"

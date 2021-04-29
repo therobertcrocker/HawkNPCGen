@@ -11,7 +11,7 @@
         "interaction": "is keeping a secret from the Party"
     },
     "voice": {
-        "accent": "Cowboy",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a Normal pitch.",
         "texture": "Has a Wolfish voice.",
         "quirk": "Stutters"

@@ -33,13 +33,13 @@
   },
   "namebases": {
     "Lochmoor": [
-      "cela", "celm", "fairy", "fre", "gmca", "iri"
+      "cela", "celm", "fairy","fre", "gmca", "iri"
     ],
     "Huron (Maer)": [
-      "bre", "dut", "fri", "nrm"
+      "bre", "dut", "fri", "nrm","fre"
     ],
     "Huron (Urn)": [
-      "enga", "wel", "cor", "medi", "heb"
+      "enga", "wel", "cor", "medi", "heb","fre"
     ],
     "Isfolk": [
       "fin", "grn", "ice", "rus", "scaa"
@@ -477,13 +477,13 @@
   },
   "voice": {
     "accents": {
-      "Lochmoor": ["Irish", "Appalachian", "Mid-Atlantic", "Posh"],
-      "Huron (Urn)": ["British - Posh", "British - Poor", "French", "Mid-Atlantic", "Posh"],
-      "Huron (Maer)": ["British - Posh", "British - Poor", "French", "Mid-Atlantic", "Posh"],
-      "Isfolk": ["Russian", "Scandinavian", "Mid-Atlantic", "Posh"],
+      "Lochmoor": ["Irish", "Appalachian", "Mid-Atlantic", "Posh", "Stoner"],
+      "Huron (Urn)": ["British - Posh", "British - Poor", "French", "Mid-Atlantic", "Posh", "Stoner"],
+      "Huron (Maer)": ["British - Posh", "British - Poor", "French", "Mid-Atlantic", "Posh", "Stoner"],
+      "Isfolk": ["Russian", "Scandinavian", "Mid-Atlantic", "Posh", "Stoner"],
       "Akti": ["Mediterranean", "Roman", "Catholic", "Mid-Atlantic", "Pirate"],
       "Usuhan": ["Japanese", "Korean", "Chinese", "Mid-Atlantic"],
-      "Arido": ["Spanish", "Arabic", "Mid-Atlantic", "Cowboy"]
+      "Arido": ["Spanish", "Arabic", "Mid-Atlantic", "Cowboy", "Southern"]
     },
     "speed": ["Slowly", "Normally", "Quickly"],
     "pitch": ["Low", "Normal", "High"],

@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "None",
+        "accent": "Mid-Atlantic",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Relaxed voice.",
         "quirk": "whistles on S-sounds"

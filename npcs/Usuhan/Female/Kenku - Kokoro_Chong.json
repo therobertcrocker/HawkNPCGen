@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "None",
+        "accent": "Korean",
         "vocals": "Speaks Slowly, at a Normal pitch.",
         "texture": "Has a Relaxed voice.",
         "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"

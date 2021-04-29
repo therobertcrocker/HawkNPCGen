@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Arabic",
+        "accent": "Southern",
         "vocals": "Speaks Slowly, at a Normal pitch.",
         "texture": "Has a Nasal-y voice.",
         "quirk": "lots of swearing"

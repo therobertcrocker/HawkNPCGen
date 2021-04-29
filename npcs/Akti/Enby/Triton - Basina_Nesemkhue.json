@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Catholic",
+        "accent": "Roman",
         "vocals": "Speaks Quickly, at a Normal pitch.",
         "texture": "Has a Nasal-y voice.",
         "quirk": "doesn't conjugate well ('me make good soup')"

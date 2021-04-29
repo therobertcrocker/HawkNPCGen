@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "British - Poor",
+        "accent": "Posh",
         "vocals": "Speaks Normally, at a Normal pitch.",
         "texture": "Has a Relaxed voice.",
         "quirk": "lots of swearing"

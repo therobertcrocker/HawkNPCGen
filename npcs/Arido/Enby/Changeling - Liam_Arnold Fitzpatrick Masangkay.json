@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "Mid-Atlantic",
+        "accent": "Cowboy",
         "vocals": "Speaks Quickly, at a Normal pitch.",
         "texture": "Has a Smooth voice.",
         "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"

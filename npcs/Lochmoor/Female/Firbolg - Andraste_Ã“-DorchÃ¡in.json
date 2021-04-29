@@ -11,7 +11,7 @@
         "interaction": "finds the Party fascinating"
     },
     "voice": {
-        "accent": "Irish",
+        "accent": "None",
         "vocals": "Speaks Quickly, at a Low pitch.",
         "texture": "Has a Wolfish voice.",
         "quirk": "all w-sounds become v-sounds"

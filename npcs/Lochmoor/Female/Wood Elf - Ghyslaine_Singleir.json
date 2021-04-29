@@ -11,7 +11,7 @@
         "interaction": "is friendly towards the Party"
     },
     "voice": {
-        "accent": "None",
+        "accent": "Mid-Atlantic",
         "vocals": "Speaks Slowly, at a Normal pitch.",
         "texture": "Has a Scratchy voice.",
         "quirk": "opens mouth too wide"

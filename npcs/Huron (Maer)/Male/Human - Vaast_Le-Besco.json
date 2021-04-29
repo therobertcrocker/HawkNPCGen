@@ -11,7 +11,7 @@
         "interaction": "is keeping a secret from the Party"
     },
     "voice": {
-        "accent": "French",
+        "accent": "None",
         "vocals": "Speaks Slowly, at a High pitch.",
         "texture": "Has a Breathy voice.",
         "quirk": "stuffy nose"
