@@ -1,0 +1,19 @@
+{
+    "name": "Nahia, Alvarado",
+    "base": "Female | Arido - Tabaxi",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Jenny, Giménez",
+    "base": "Female | Arido - Tabaxi",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "severe underbite"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Cian, Priesner",
+    "base": "Male | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "tongue stuck to back of teeth"
+    }
+}

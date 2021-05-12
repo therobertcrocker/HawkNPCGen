@@ -1,0 +1,19 @@
+{
+    "name": "Eireamhón, Dutertre",
+    "base": "Enby | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Stutters"
+    }
+}

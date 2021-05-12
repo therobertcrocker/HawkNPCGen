@@ -1,0 +1,19 @@
+{
+    "name": "Sahaqiel, Cadwalader",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Squints",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

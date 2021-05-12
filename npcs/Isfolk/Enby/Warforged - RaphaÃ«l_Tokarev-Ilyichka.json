@@ -1,0 +1,19 @@
+{
+    "name": "Rapha\u00c3\u00abl, Tokarev-Ilyichka",
+    "base": "Enby | Isfolk - Warforged",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly paces around ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "talks in third person"
+    }
+}

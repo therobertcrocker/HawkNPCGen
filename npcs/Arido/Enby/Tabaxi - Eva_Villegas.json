@@ -1,0 +1,19 @@
+{
+    "name": "Eva, Villegas",
+    "base": "Enby | Arido - Tabaxi",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Perfect memory",
+        "mannerism": "Sways when standing ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

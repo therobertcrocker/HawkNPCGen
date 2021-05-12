@@ -1,0 +1,19 @@
+{
+    "name": "Raquel, Minaberrieta",
+    "base": "Enby | Arido - Drow",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
+    }
+}

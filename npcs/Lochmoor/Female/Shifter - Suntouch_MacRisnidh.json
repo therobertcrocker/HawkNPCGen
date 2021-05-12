@@ -1,0 +1,19 @@
+{
+    "name": "Suntouch, MacRisnidh",
+    "base": "Female | Lochmoor - Shifter",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never looks in people's eyes ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

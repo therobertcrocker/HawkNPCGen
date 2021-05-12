@@ -1,0 +1,19 @@
+{
+    "name": "Agrippa, Ketine",
+    "base": "Enby | Akti - Triton",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly paces around ",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
+    }
+}

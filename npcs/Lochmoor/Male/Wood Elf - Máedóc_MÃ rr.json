@@ -1,0 +1,19 @@
+{
+    "name": "Máedóc, MÃ rr",
+    "base": "Male | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "mutters to self"
+    }
+}

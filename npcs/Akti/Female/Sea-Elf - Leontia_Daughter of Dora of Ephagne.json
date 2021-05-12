@@ -1,0 +1,19 @@
+{
+    "name": "Leontia, Daughter of Dora of Ephagne",
+    "base": "Female | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Fixes hair constantly ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

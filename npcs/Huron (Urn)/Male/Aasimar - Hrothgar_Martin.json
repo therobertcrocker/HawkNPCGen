@@ -1,0 +1,19 @@
+{
+    "name": "Hrothgar, Martin",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
+    }
+}

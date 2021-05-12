@@ -1,0 +1,19 @@
+{
+    "name": "Aeron, Wilpert",
+    "base": "Enby | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

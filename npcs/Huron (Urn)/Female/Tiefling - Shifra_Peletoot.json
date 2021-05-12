@@ -1,0 +1,19 @@
+{
+    "name": "Shifra, Peletoot",
+    "base": "Female | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

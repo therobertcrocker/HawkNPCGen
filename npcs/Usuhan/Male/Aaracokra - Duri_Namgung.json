@@ -1,0 +1,19 @@
+{
+    "name": "Duri, Namgung",
+    "base": "Male | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Never uses am/is/are/was/were ('I big.' 'She pretty.')"
+    }
+}

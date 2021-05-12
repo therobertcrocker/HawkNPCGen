@@ -1,0 +1,19 @@
+{
+    "name": "Fravitta, Veldman",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

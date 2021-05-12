@@ -1,0 +1,19 @@
+{
+    "name": "Armo, Mursison",
+    "base": "Male | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

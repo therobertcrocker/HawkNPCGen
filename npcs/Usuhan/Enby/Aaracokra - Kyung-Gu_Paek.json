@@ -1,0 +1,19 @@
+{
+    "name": "Kyung-Gu, Paek",
+    "base": "Enby | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Licks lips while speaking",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Chinese",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "severe underbite"
+    }
+}

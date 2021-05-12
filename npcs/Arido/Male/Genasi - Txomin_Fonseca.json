@@ -1,0 +1,19 @@
+{
+    "name": "Txomin, Fonseca",
+    "base": "Male | Arido - Genasi",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Florencio, Vitorica",
+    "base": "Male | Arido - Genasi",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly taps elbow ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
+    }
+}

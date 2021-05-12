@@ -1,0 +1,19 @@
+{
+    "name": "Eun-Jung, Chong",
+    "base": "Enby | Usuhan - Dragonborn",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "r-sounds become w-sounds"
+    }
+}

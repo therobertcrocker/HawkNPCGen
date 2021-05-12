@@ -1,0 +1,19 @@
+{
+    "name": "Ulloriaq, The Prophet",
+    "base": "Male | Isfolk - Goliath",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
+    }
+}

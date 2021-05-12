@@ -1,0 +1,19 @@
+{
+    "name": "Kallippos, Son of Desileo of Cusae",
+    "base": "Male | Akti - High-Elf",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Picks nose ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "sings everything"
+    }
+}

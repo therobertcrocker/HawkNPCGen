@@ -1,0 +1,19 @@
+{
+    "name": "Laurentius, of Harre",
+    "base": "Male | Akti - Triton",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Pirate",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

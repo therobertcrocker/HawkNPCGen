@@ -1,0 +1,19 @@
+{
+    "name": "Nieves, Morata",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes circles with their fingers ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "severe overbite"
+    }
+}

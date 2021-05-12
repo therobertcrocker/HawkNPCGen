@@ -1,0 +1,19 @@
+{
+    "name": "Kemen, Minaberrieta",
+    "base": "Male | Arido - Genasi",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

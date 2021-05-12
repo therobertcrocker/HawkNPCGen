@@ -1,0 +1,19 @@
+{
+    "name": "Antipatra, Nefere",
+    "base": "Enby | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

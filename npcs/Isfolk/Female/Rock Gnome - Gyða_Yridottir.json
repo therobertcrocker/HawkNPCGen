@@ -1,0 +1,19 @@
+{
+    "name": "Gy\u00f0a, Yridottir",
+    "base": "Female | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Expert cook",
+        "mannerism": "Taps fingers",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

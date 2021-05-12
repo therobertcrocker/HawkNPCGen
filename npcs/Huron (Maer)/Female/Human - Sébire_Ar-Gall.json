@@ -1,0 +1,19 @@
+{
+    "name": "Sébire, Ar-Gall",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is persuasive, forceful, and a born leader, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

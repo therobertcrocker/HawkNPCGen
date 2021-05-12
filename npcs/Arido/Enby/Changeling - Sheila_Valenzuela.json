@@ -1,0 +1,19 @@
+{
+    "name": "Sheila, Valenzuela",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

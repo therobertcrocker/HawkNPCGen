@@ -1,0 +1,19 @@
+{
+    "name": "Yuriy, Waltheofsson",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Paces",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Stutters"
+    }
+}

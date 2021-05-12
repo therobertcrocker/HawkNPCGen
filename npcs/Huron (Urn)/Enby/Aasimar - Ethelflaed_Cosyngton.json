@@ -1,0 +1,19 @@
+{
+    "name": "Ethelflaed, Cosyngton",
+    "base": "Enby | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

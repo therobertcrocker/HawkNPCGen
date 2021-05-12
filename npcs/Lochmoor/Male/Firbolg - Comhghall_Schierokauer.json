@@ -1,0 +1,19 @@
+{
+    "name": "Comhghall, Schierokauer",
+    "base": "Male | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "does the wrong emphasis on the wrong syllables"
+    }
+}

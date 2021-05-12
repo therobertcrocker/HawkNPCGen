@@ -1,0 +1,19 @@
+{
+    "name": "Judicaël, Bouma",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Stoner",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Nouns end with 'en'/'sen' (applesen, moosen)"
+    }
+}

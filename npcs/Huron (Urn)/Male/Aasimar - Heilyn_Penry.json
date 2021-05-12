@@ -1,0 +1,19 @@
+{
+    "name": "Heilyn, Penry",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Uses flowery speech or long words",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

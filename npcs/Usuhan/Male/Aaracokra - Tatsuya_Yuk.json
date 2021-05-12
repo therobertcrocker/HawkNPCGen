@@ -1,0 +1,19 @@
+{
+    "name": "Tatsuya, Yuk",
+    "base": "Male | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Uxue, Vargas",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Knows thieves\u00e2\u20ac\u2122 cant",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "never uses contractions"
+    }
+}

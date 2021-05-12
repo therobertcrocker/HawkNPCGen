@@ -1,0 +1,19 @@
+{
+    "name": "Margh, Creamer",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Constantly paces around ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "r-sounds become w-sounds"
+    }
+}

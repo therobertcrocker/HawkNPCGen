@@ -1,0 +1,19 @@
+{
+    "name": "Loïc, Sinclair",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Intense dislike to a particular race/PC ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "severe underbite"
+    }
+}

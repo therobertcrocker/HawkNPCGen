@@ -1,0 +1,19 @@
+{
+    "name": "Iunius,  Servant of Rielaph",
+    "base": "Male | Akti - High-Elf",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Frequently uses the wrong word",
+        "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

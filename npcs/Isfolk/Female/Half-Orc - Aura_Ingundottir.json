@@ -1,0 +1,19 @@
+{
+    "name": "Aura, Ingundottir",
+    "base": "Female | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Readjusts belt when speaking ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "stuffy nose"
+    }
+}

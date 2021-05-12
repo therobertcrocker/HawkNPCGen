@@ -1,0 +1,19 @@
+{
+    "name": "Susana, Gistaín",
+    "base": "Female | Arido - Drow",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Plays around with ring on finger ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Southern",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "opens mouth too wide"
+    }
+}

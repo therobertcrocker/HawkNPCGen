@@ -1,0 +1,19 @@
+{
+    "name": "Asami, Kyo",
+    "base": "Female | Usuhan - Aaracokra",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Draws weapon whenever terrified/frightened ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

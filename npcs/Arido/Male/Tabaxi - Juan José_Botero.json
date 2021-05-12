@@ -1,0 +1,19 @@
+{
+    "name": "Juan Jos\u00e9, Botero",
+    "base": "Male | Arido - Tabaxi",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Never sits down while talking ",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "lots of swearing"
+    }
+}

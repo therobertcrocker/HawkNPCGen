@@ -1,0 +1,19 @@
+{
+    "name": "Liad, Child of Pasa of Melos",
+    "base": "Enby | Akti - Sea-Elf",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

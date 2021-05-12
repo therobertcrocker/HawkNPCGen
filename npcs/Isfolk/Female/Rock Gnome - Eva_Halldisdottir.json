@@ -1,0 +1,19 @@
+{
+    "name": "Eva, Halldisdottir",
+    "base": "Female | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Agrees with everything a particular PC says ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Light lisp"
+    }
+}

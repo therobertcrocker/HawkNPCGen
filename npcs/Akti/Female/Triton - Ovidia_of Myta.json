@@ -1,0 +1,19 @@
+{
+    "name": "Ovidia, of Myta",
+    "base": "Female | Akti - Triton",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Paces",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

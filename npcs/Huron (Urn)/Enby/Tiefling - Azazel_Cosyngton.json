@@ -1,0 +1,19 @@
+{
+    "name": "Azazel, Cosyngton",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Stoner",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "all w-sounds become v-sounds"
+    }
+}

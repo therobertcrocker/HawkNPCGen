@@ -1,0 +1,19 @@
+{
+    "name": "Maytal, bat-Ram",
+    "base": "Female | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Constantly taps elbow ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Whiny"
+    }
+}

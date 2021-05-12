@@ -1,0 +1,19 @@
+{
+    "name": "Salomé, Insaurriaga",
+    "base": "Female | Arido - Changeling",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Southern",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "doesn't conjugate well ('me make good soup')"
+    }
+}

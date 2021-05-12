@@ -1,0 +1,19 @@
+{
+    "name": "Demetria, Child of Ismen of Melesb",
+    "base": "Enby | Akti - Triton",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "tongue stuck to back of teeth"
+    }
+}

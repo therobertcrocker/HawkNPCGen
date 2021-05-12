@@ -1,0 +1,19 @@
+{
+    "name": "Gavril, Bollabarn",
+    "base": "Enby | Isfolk - Warforged",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is perceptive, spiritual, and insightful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

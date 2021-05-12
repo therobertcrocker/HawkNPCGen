@@ -1,0 +1,19 @@
+{
+    "name": "Cadarn, Cr\u00c3\u00a9pin",
+    "base": "Enby | Lochmoor - Wood Elf",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Great with children",
+        "mannerism": "Keeps smelling their hands ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "always pouting"
+    }
+}

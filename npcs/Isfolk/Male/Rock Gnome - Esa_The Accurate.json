@@ -1,0 +1,19 @@
+{
+    "name": "Esa, The Accurate",
+    "base": "Male | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "never stops to breathe"
+    }
+}

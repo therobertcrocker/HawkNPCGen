@@ -1,0 +1,19 @@
+{
+    "name": "Loreto, Bolea",
+    "base": "Female | Arido - Tabaxi",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Draws beautifully",
+        "mannerism": "Makes circles with their fingers ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

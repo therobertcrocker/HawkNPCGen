@@ -1,0 +1,19 @@
+{
+    "name": "Cutu, Berrocal",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Never breaks eye contact ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "R's arrrrrre always rrrrrrrolled"
+    }
+}

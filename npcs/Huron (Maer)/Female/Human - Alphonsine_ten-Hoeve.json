@@ -1,0 +1,19 @@
+{
+    "name": "Alphonsine, ten-Hoeve",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

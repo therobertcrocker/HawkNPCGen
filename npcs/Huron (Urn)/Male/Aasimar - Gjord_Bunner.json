@@ -1,0 +1,19 @@
+{
+    "name": "Gjord, Bunner",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "tongue stuck to back of teeth"
+    }
+}

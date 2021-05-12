@@ -1,0 +1,19 @@
+{
+    "name": "Sébire, de-Viuepont",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Glances out the window ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "never stops to breathe"
+    }
+}

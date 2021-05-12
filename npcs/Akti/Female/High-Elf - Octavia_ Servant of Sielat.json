@@ -1,0 +1,19 @@
+{
+    "name": "Octavia,  Servant of Sielat",
+    "base": "Female | Akti - High-Elf",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Glances out the window ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Sighs after each sentence"
+    }
+}

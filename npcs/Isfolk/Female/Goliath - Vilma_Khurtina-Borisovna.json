@@ -1,0 +1,19 @@
+{
+    "name": "Vilma, Khurtina-Borisovna",
+    "base": "Female | Isfolk - Goliath",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

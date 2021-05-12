@@ -1,0 +1,19 @@
+{
+    "name": "Fu, Yuk",
+    "base": "Female | Usuhan - Kobold",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "mutters to self"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Valerius, Ipys",
+    "base": "Male | Akti - Hobgoblin",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fearful at the sight of drawn weapons ",
+        "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "Catholic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

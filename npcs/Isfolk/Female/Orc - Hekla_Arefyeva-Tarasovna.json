@@ -1,0 +1,19 @@
+{
+    "name": "Hekla, Arefyeva-Tarasovna",
+    "base": "Female | Isfolk - Orc",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Nervously flips a coin through fingers ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

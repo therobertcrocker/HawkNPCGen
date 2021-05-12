@@ -1,0 +1,19 @@
+{
+    "name": "Elsie, Grimhildbarn",
+    "base": "Enby | Isfolk - Orc",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Plays a musical instrument",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Stoner",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Responds in the form of questions"
+    }
+}

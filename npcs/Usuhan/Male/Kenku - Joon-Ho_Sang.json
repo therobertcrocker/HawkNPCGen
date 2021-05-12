@@ -1,0 +1,19 @@
+{
+    "name": "Joon-Ho, Sang",
+    "base": "Male | Usuhan - Kenku",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

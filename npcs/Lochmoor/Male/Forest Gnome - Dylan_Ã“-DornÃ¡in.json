@@ -1,0 +1,19 @@
+{
+    "name": "Dylan, Ó-Dornáin",
+    "base": "Male | Lochmoor - Forest Gnome",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Keeps smelling their hands ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Bessa, Zieleman",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is lithe, agile, and graceful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

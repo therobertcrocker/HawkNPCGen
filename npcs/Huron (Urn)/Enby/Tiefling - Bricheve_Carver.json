@@ -1,0 +1,19 @@
+{
+    "name": "Bricheve, Carver",
+    "base": "Enby | Huron (Urn) - Tiefling",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Makes circles with their fingers ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "British - Poor",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "speaks out of the corner of his mouth"
+    }
+}
