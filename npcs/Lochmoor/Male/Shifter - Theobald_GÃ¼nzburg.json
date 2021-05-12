@@ -1,5 +1,5 @@
 {
-    "name": "Theobald, Günzburg",
+    "name": "Theobald, G\u00c3\u00bcnzburg",
     "base": "Male | Lochmoor - Shifter",
     "traits": {
         "appearance": "is exceptionally ugly",
@@ -7,7 +7,7 @@
     },
     "personality": {
         "talent": "Great with children",
-        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "mannerism": "Often brags that they once\u00e2\u20ac\u2122s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is always honest with the Party"
     },
     "voice": {

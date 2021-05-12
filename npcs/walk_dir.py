@@ -71,4 +71,15 @@ def pick_refactor(*changes):
                 npc.make_data()
                 npc.save_data()
 
+def check_dir():
+    for root, dirs, files in os.walk(dir_path):
+        for file in files:
+            npc = NPC()
+
+            if file.endswith('.json'):
+                npc.load(root + '/' + str(file))
+                print("loaded: " + str(file))
+                npc.show_data()
+
+
 

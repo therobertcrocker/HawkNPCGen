@@ -1,0 +1,19 @@
+{
+    "name": "Gorka, Morterero",
+    "base": "Male | Arido - Changeling",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Squints",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Arabic",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

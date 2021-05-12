@@ -1,12 +1,12 @@
 {
-    "name": "Baldovin, Böckler",
+    "name": "Baldovin, B\u00c3\u00b6ckler",
     "base": "Male | Lochmoor - Wood Elf",
     "traits": {
         "appearance": "has braided beard or hair",
         "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
+        "talent": "Knows thieves\u00e2\u20ac\u2122 cant",
         "mannerism": "Never sits down while talking ",
         "interaction": "is easily irritated by the Party"
     },

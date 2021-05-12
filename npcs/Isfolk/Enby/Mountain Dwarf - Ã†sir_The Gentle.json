@@ -1,12 +1,12 @@
 {
-    "name": "Æsir, The Gentle",
+    "name": "\u00c3\u2020sir, The Gentle",
     "base": "Enby | Isfolk - Mountain Dwarf",
     "traits": {
         "appearance": "has an unusual eye color (or two different colors)",
         "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
+        "talent": "Knows thieves\u00e2\u20ac\u2122 cant",
         "mannerism": "Never breaks eye contact ",
         "interaction": "is always honest with the Party"
     },

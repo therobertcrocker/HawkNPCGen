@@ -1,0 +1,19 @@
+{
+    "name": "Annemieke, Brekilien",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
+        "interaction": "is rude to just one member of the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}

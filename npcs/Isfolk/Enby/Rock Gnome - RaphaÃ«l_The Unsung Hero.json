@@ -1,12 +1,12 @@
 {
-    "name": "Raphaël, The Unsung Hero",
+    "name": "Rapha\u00c3\u00abl, The Unsung Hero",
     "base": "Enby | Isfolk - Rock Gnome",
     "traits": {
         "appearance": " is bald",
         "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
+        "talent": "Knows thieves\u00e2\u20ac\u2122 cant",
         "mannerism": "Uses colorful oaths and exclamations",
         "interaction": "is always honest with the Party"
     },

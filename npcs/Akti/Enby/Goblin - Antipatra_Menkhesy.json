@@ -1,0 +1,19 @@
+{
+    "name": "Antipatra, Menkhesy",
+    "base": "Enby | Akti - Goblin",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "Mediterranean",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

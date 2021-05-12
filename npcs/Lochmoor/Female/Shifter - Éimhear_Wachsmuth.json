@@ -1,5 +1,5 @@
 {
-    "name": "Éimhear, Wachsmuth",
+    "name": "\u00c9imhear, Wachsmuth",
     "base": "Female | Lochmoor - Shifter",
     "traits": {
         "appearance": "has an unusual hair color",
@@ -7,7 +7,7 @@
     },
     "personality": {
         "talent": "Paints beautifully",
-        "mannerism": "Often brags that they onceâ€™s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "mannerism": "Often brags that they once\u00e2\u20ac\u2122s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is quiet around the party"
     },
     "voice": {

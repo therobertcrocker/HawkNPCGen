@@ -1,0 +1,19 @@
+{
+    "name": "Sk\u00c3\u00adrnir, The Hunter",
+    "base": "Enby | Isfolk - Warforged",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is powerful, brawny, and strong as an ox, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Brings up anecdotal backstory as examples to conversation Eg. 'Hey that reminds me of the time I-' ",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

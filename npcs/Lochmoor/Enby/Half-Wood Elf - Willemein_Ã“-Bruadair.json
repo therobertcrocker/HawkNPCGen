@@ -1,0 +1,19 @@
+{
+    "name": "Willemein, \u00c3\u201c-Bruadair",
+    "base": "Enby | Lochmoor - Half-Wood Elf",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Constantly paces around ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "pauses often"
+    }
+}

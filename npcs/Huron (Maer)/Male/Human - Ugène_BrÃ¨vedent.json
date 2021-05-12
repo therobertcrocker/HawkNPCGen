@@ -1,5 +1,5 @@
 {
-    "name": "Ug�ne, Brèvedent",
+    "name": "Ug\u00e8ne, Br\u00c3\u00a8vedent",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has an unusual hair color",
@@ -7,7 +7,7 @@
     },
     "personality": {
         "talent": "None",
-        "mannerism": "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee ",
+        "mannerism": "Often brags that they once\u00e2\u20ac\u2122s traveled as an adventurer does, until they took a magic missile to the knee ",
         "interaction": "is always honest with the Party"
     },
     "voice": {

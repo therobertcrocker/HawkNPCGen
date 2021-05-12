@@ -1,12 +1,12 @@
 {
-    "name": "Boudicca, Ó-Déaghain",
+    "name": "Boudicca, \u00c3\u201c-D\u00c3\u00a9aghain",
     "base": "Female | Lochmoor - Half-Wood Elf",
     "traits": {
         "appearance": "has visible piercings",
         "abilities": "is perceptive, spiritual, and insightful, but is clumsy and fumbling"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
+        "talent": "Knows thieves\u00e2\u20ac\u2122 cant",
         "mannerism": "Makes terrible, forced puns, and stops talking until someone acknowledges it ",
         "interaction": "finds the Party fascinating"
     },

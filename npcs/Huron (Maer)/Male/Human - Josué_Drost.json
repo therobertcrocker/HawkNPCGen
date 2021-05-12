@@ -1,0 +1,19 @@
+{
+    "name": "Josu\u00e9, Drost",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fixes hair constantly ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "repeats the last few words of a sentence/thought ('nice to meet you, meet you.')"
+    }
+}

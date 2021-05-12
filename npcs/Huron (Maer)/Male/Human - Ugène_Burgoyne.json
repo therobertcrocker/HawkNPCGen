@@ -1,12 +1,12 @@
 {
-    "name": "Ugène, Burgoyne",
+    "name": "Ug\u00e8ne, Burgoyne",
     "base": "Male | Huron (Maer) - Human",
     "traits": {
         "appearance": "has an unusual hair color",
         "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
     },
     "personality": {
-        "talent": "Knows thievesâ€™ cant",
+        "talent": "Knows thieves\u00e2\u20ac\u2122 cant",
         "mannerism": "Taps fingers",
         "interaction": "is easily irritated by the Party"
     },

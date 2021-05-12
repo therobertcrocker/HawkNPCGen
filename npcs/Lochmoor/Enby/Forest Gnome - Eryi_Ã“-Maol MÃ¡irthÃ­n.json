@@ -1,12 +1,12 @@
 {
-    "name": "Eryi, Ó-Maol Máirthín",
+    "name": "Eryi, \u00c3\u201c-Maol M\u00c3\u00a1irth\u00c3\u00adn",
     "base": "Enby | Lochmoor - Forest Gnome",
     "traits": {
         "appearance": "has a pronounced scar",
         "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
     },
     "personality": {
-        "talent": "Knows thieves’ cant",
+        "talent": "Knows thieves\u00e2\u20ac\u2122 cant",
         "mannerism": "Won't stop itching",
         "interaction": "is argumentative with the Party"
     },

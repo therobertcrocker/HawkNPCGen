@@ -1,0 +1,19 @@
+{
+    "name": "Isidora, Garin",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is hardy, hale, and healthy, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Fidgets",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Spanish",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "lots of swearing"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Afon, Spargo",
+    "base": "Male | Huron (Urn) - Aasimar",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "French",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Kallistrate, of Myra",
+    "base": "Female | Akti - Triton",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Fixes hair constantly ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "sings everything"
+    }
+}
