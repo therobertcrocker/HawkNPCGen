@@ -214,20 +214,26 @@ class NPC:
 
         name = requests.get(FULL_REQ).json()
         try:
-            self.name = name[NAMES][0]
+            text = name[NAMES][0]
+            text.encode('utf-8','replace')
+            self.name = text
         except:
             if self.gender != ENBY:
-                self.name = random.choice(data[NAMES][self.culture][self.gender])
+                text = random.choice(data[NAMES][self.culture][self.gender])
+                text.encode('utf-8', 'replace')
+                self.name = text
             else:
-                self.name = random.choice(
+                text = random.choice(
                     data[NAMES][self.culture][random.choice([MALE, FEMALE])])
+                text.encode('utf-8', 'replace')
+                self.name = text
 
     def get_surname(self):
         if self.culture in [AKTI, HURON_URN, ISFOLK]:
             surname = random.choice(data[SURNAMES][self.culture][self.gender])
         else:
             surname = random.choice(data[SURNAMES][self.culture])
-
+        surname.encode('utf-8', 'replace')
         self.surname = surname
 
     # -------------------------------------------- Data Handling ----------------------------------
@@ -289,6 +295,7 @@ class NPC:
 
     def save_data(self):
         filename = self.race + " - " + self.name + "_" + self.surname
+        filename.encode('utf-8', 'ignore')
         parent = "npcs"
         path = os.path.join(parent, self.culture, self.gender)
         h = open(path + "/" + filename + '.json', "w")
