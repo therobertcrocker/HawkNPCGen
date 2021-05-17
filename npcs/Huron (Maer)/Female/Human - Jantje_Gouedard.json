@@ -1,0 +1,19 @@
+{
+    "name": "Jantje, Gouedard",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fiddles with their weapon ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "slurrs words"
+    }
+}

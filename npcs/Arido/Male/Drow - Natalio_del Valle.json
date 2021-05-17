@@ -1,0 +1,19 @@
+{
+    "name": "Natalio, del Valle",
+    "base": "Male | Arido - Drow",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly paces around ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Southern",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "staccato speech"
+    }
+}

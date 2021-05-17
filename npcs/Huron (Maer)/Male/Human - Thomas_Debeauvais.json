@@ -1,0 +1,19 @@
+{
+    "name": "Thomas, Debeauvais",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is hardy, hale, and healthy, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "never stops to breathe"
+    }
+}

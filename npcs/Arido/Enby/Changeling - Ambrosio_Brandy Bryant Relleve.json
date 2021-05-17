@@ -1,0 +1,19 @@
+{
+    "name": "Ambrosio, Brandy Bryant Relleve",
+    "base": "Enby | Arido - Changeling",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Readjusts belt when speaking ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Cowboy",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "severe overbite"
+    }
+}

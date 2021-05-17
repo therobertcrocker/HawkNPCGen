@@ -1,0 +1,19 @@
+{
+    "name": "Izar, Botero",
+    "base": "Female | Arido - Changeling",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Prone to predictions of doom",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Cowboy",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "soft letters are elongated ('sso, hhow arre yyou?')"
+    }
+}

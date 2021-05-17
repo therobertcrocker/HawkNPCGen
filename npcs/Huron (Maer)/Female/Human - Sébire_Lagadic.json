@@ -1,19 +1,19 @@
 {
-    "name": "S\u00e9bire, Lagadic",
+    "name": "Sébire, Lagadic",
     "base": "Female | Huron (Maer) - Human",
     "traits": {
-        "appearance": "has visible tattoos",
+        "appearance": "has visible piercings",
         "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
     },
     "personality": {
         "talent": "Great at solving puzzles",
-        "mannerism": "Frequently uses the wrong word",
-        "interaction": "is argumentative with the Party"
+        "mannerism": "Bites fingernails",
+        "interaction": "is easily irritated by the Party"
     },
     "voice": {
-        "accent": "Mid-Atlantic",
-        "vocals": "Speaks Quickly, at a Low pitch.",
-        "texture": "Has a Strained voice.",
-        "quirk": "Stutters"
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "speaks out of the corner of his mouth"
     }
 }
