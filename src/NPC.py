@@ -3,7 +3,7 @@ import random
 import requests
 import os
 
-with open('data_lists.json') as f:
+with open('src/data_lists.json') as f:
     data = json.load(f)
 
 # --------------------------------- CONSTANTS ------------------------------------------------------------
@@ -30,18 +30,18 @@ FEMALE = "Female"
 RACES = "races"
 CULTURES = "cultures"
 TRAITS = "traits"
-APPEARANCE = "appearance"
+APPEARANCES = "appearances"
 HIGH_ABILITY = "high ability"
 LOW_ABILITY = "low ability"
-TALENT = "talent"
-MANNERISM = "mannerism"
-INTERACTION = "interaction"
-VOICE = "voice"
-ACCENT = "accents"
+TALENTS = "talents"
+MANNERISMS = "mannerisms"
+INTERACTIONS = "interactions"
+VOICES = "voices"
+ACCENTS = "accents"
 SPEED = "speed"
 PITCH = "pitch"
-TEXTURE = "texture"
-QUIRK = "quirk"
+TEXTURES = "textures"
+QUIRKS = "quirks"
 
 # NPC
 NAME = "name"
@@ -62,7 +62,6 @@ VOCALS = 'vocals'
 TEXTURE = "texture"
 QUIRK = "quirk"
 
-# ----------------------------------------------------------------------------------------------------------
 
 class NPC:
     # -------------------------------------------- Set Up -------------------------------------------------
@@ -95,7 +94,7 @@ class NPC:
         self.gender = random.choice(data[GENDERS_FULL])
 
     def gen_appearance(self):
-        self.appearance = random.choice(data[TRAITS][APPEARANCE])
+        self.appearance = random.choice(data[TRAITS][APPEARANCES])
 
     def gen_ability(self):
         ability_list = [0, 1, 2, 3, 4, 5]
@@ -109,32 +108,32 @@ class NPC:
     def gen_talent(self):
         talent = random.randrange(2)
         if talent == 1:
-            self.talent = random.choice(data[TRAITS][TALENT])
+            self.talent = random.choice(data[TRAITS][TALENTS])
         else:
             self.talent = "None"
 
     def gen_manner(self):
-        self.mannerism = random.choice(data[TRAITS][MANNERISM])
+        self.mannerism = random.choice(data[TRAITS][MANNERISMS])
 
     def gen_interact(self):
-        self.interaction = random.choice(data[TRAITS][INTERACTION])
+        self.interaction = random.choice(data[TRAITS][INTERACTIONS])
 
     def gen_accent(self):
         pick = random.randrange(0, 5)
         if pick < 2:
             self.accent = "None"
         else:
-            self.accent = random.choice(data[VOICE][ACCENT][self.culture])
+            self.accent = random.choice(data[VOICES][ACCENTS][self.culture])
 
     def gen_vocals(self):
-        self.vocals = "Speaks " + random.choice(data[VOICE][SPEED]) + \
-                      ", at a " + random.choice(data[VOICE][PITCH]) + " pitch."
+        self.vocals = "Speaks " + random.choice(data[VOICES][SPEED]) + \
+                      ", at a " + random.choice(data[VOICES][PITCH]) + " pitch."
 
     def gen_texture(self):
-        self.texture = "Has a " + random.choice(data[VOICE][TEXTURE]) + " voice."
+        self.texture = "Has a " + random.choice(data[VOICES][TEXTURES]) + " voice."
 
     def gen_quirk(self):
-        self.quirk = random.choice(data[VOICE][QUIRK])
+        self.quirk = random.choice(data[VOICES][QUIRKS])
 
     # -------------------------------------------- Main Functions ----------------------------------
 
@@ -161,26 +160,26 @@ class NPC:
             if is_racial and is_cultural:
                 self.culture = traits[CULTURE]
                 self.race = traits[RACE]
-                
+
             elif is_racial and not is_cultural:
                 self.race = traits[RACE]
                 for i in data[RACES]:
                     if traits[RACE] in data[RACES][i]:
                         self.culture = i
-                        
+
             elif not is_racial and is_cultural:
                 self.culture = traits[CULTURE]
                 self.gen_race()
-                
+
             elif not is_racial and not is_cultural:
                 self.culture = traits[CULTURE]
                 self.race = random.choice(data[RACES][self.culture])
-                
+
             if is_gendered:
                 self.gender = traits[GENDER]
             else:
                 self.gender = random.choice(data[GENDERS_FULL])
-                
+
             self.get_name()
             self.get_surname()
         else:
@@ -231,7 +230,32 @@ class NPC:
 
         self.surname = surname
 
-    # -------------------------------------------- Saving, Making, and Loading ----------------------------------
+    # -------------------------------------------- Data Handling ----------------------------------
+
+    def make_data(self):
+        self.data = {
+            NAME: self.name + ", " + self.surname,
+            BASE: self.gender + " | " + self.culture + " - " + self.race,
+            TRAITS: {
+                APPEARANCE: self.appearance,
+                ABILITIES: self.ability
+            },
+            PERSONALITY: {
+                TALENT: self.talent,
+                MANNERISM: self.mannerism,
+                INTERACTION: self.interaction
+            },
+            VOICE: {
+                ACCENT: self.accent,
+                VOCALS: self.vocals,
+                TEXTURE: self.texture,
+                QUIRK: self.quirk
+            }
+        }
+
+    def show_data(self):
+        print(json.dumps(self.data, indent=4, ensure_ascii=False))
+
     def load(self, file):
         with open(file) as g:
             npc = json.load(g)
@@ -263,34 +287,10 @@ class NPC:
             self.gen_voice()
         self.make_data()
 
-    def make_data(self):
-        self.data = {
-            NAME: self.name + ", " + self.surname,
-            BASE: self.gender + " | " + self.culture + " - " + self.race,
-            TRAITS: {
-                APPEARANCE: self.appearance,
-                ABILITIES: self.ability
-            },
-            PERSONALITY: {
-                TALENT: self.talent,
-                MANNERISM: self.mannerism,
-                INTERACTION: self.interaction
-            },
-            VOICE: {
-                ACCENT: self.accent,
-                VOCALS: self.vocals,
-                TEXTURE: self.texture,
-                QUIRK: self.quirk
-            }
-        }
-
-    def show_data(self):
-        print(json.dumps(self.data, indent=4, ensure_ascii=False))
-
     def save_data(self):
         filename = self.race + " - " + self.name + "_" + self.surname
         parent = "npcs"
         path = os.path.join(parent, self.culture, self.gender)
         h = open(path + "/" + filename + '.json', "w")
-        json.dump(self.data, h, indent=4, ensure_ascii=True)
+        json.dump(self.data, h, indent=4, ensure_ascii=False)
         print("Sucess! saved: " + self.gender + " " + self.culture + " - created: " + self.name + " " + self.surname)

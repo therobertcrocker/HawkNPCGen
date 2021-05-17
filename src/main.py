@@ -4,8 +4,12 @@ import time
 from npcs import walk_dir as change
 import random
 import os
+import logging
 
-with open('data_lists.json') as f:
+logging.basicConfig(level=logging.WARNING)
+logger = logging.getLogger(__name__)
+
+with open('src/data_lists.json') as f:
     data = json.load(f)
 
 
@@ -33,7 +37,8 @@ def make_many_culture(num, culture):
                 npc.quick_gen(culture= culture, gender= y)
                 npc.save_data()
             except:
-                print("Something went wrong")
+                logger.exception("Something went wrong")
+
             finally:
                 time.sleep(3)
 

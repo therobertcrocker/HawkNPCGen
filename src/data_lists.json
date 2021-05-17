@@ -413,7 +413,7 @@
     ]
   },
   "traits": {
-    "appearance": [
+    "appearances": [
       "wears distinctive jewelry: earrings, necklace, circlet, bracelets", "has visible piercings",
       "wears flamboyant or outlandish clothes", "wears formal, clean clothes", "wears ragged, dirty clothes",
       "has a pronounced scar", "is missing teeth", "is missing one or more fingers",
@@ -432,14 +432,14 @@
       "but is oblivious and absentminded", "but is dull and boring", "but reckless and hasty", "but is slow to act",
       "but has their head in the clouds"
     ],
-    "talent": [
+    "talents": [
       "Plays a musical instrument", "Speaks several languages fluently", "Unbelievably lucky", "Perfect memory",
       "Great with animals", "Great with children", "Great at solving puzzles", "Great at one game",
       "Great at impersonations", "Draws beautifully", "Paints beautifully", "Sings beautifully",
       "Drinks everyone under the table", "Expert carpenter", "Expert cook", "Expert dart thrower and rock skipper",
       "Expert juggler", "Skilled actor and master of disguise", "Skilled dancer", "Knows thieves’ cant"
     ],
-    "mannerism": [
+    "mannerisms": [
       "Uses flowery speech or long words", "Frequently uses the wrong word",
       "Uses colorful oaths and exclamations", "Makes constant jokes or puns", "Prone to predictions of doom", "Fidgets",
       "Squints", "Stares into the distance", "Chews something", "Paces", "Taps fingers", "Bites fingernails",
@@ -467,7 +467,7 @@
       "Constantly reminds the person speaking to them that their child is a strong adventurer too ",
       "Often brags that they once’s traveled as an adventurer does, until they took a magic missile to the knee "
     ],
-    "interaction": [
+    "interactions": [
       "is argumentative with the Party", "believes themselves of higher status than the Party",
       "wants something from the Party", "is rude to just one member of the Party",
       "is curious about one member of the Party", "is friendly towards the Party", "is always honest with the Party",
@@ -476,7 +476,7 @@
       "Thinks of the Party as friends"
     ]
   },
-  "voice": {
+  "voices": {
     "accents": {
       "Lochmoor": ["Irish", "Appalachian", "Mid-Atlantic", "Posh", "Stoner"],
       "Huron (Urn)": ["British - Posh", "British - Poor", "French", "Mid-Atlantic", "Posh", "Stoner"],
@@ -488,8 +488,8 @@
     },
     "speed": ["Slowly", "Normally", "Quickly"],
     "pitch": ["Low", "Normal", "High"],
-    "texture": ["Gruff", "Smooth", "Strained", "Relaxed", "Breathy", "Wolfish", "Scratchy", "Nasal-y"],
-    "quirk": [
+    "textures": ["Gruff", "Smooth", "Strained", "Relaxed", "Breathy", "Wolfish", "Scratchy", "Nasal-y"],
+    "quirks": [
       "Incoherent except for a few key words", "Stutters", "lots of um", "lots of like", "lots of swearing",
       "uses thee's and thou's", "never stops to breathe", "Short, clipped sentences", "talks in third person",
       "doesn't conjugate well ('me make good soup')", "all S-sounds become Z-sounds", "all w-sounds become v-sounds",
