@@ -1,0 +1,19 @@
+{
+    "name": "N\u00c3\u00a1rbhla, Waldschmidt",
+    "base": "Enby | Lochmoor - Half-Wood Elf",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is hardy, hale, and healthy, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Always stares at the floor when speaking ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

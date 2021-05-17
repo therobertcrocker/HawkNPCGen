@@ -1,0 +1,19 @@
+{
+    "name": "Sachiel, Callaway",
+    "base": "Enby | Huron (Urn) - Human",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Stares into the distance",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Stoner",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Will always end their sentences going upwards in tone"
+    }
+}

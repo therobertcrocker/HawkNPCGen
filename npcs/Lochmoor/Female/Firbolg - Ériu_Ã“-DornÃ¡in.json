@@ -1,0 +1,19 @@
+{
+    "name": "\u00c9riu, \u00c3\u201c-Dorn\u00c3\u00a1in",
+    "base": "Female | Lochmoor - Firbolg",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Agrees with everything a particular PC says ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "whistles on S-sounds"
+    }
+}

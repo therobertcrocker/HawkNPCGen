@@ -1,0 +1,19 @@
+{
+    "name": "Shui, Cai",
+    "base": "Female | Usuhan - Kenku",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly takes notes of things others say, or what happens around ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Japanese",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "L-sounds become w-sounds"
+    }
+}

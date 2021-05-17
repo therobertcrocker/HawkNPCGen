@@ -1,0 +1,19 @@
+{
+    "name": "Minke, Slager",
+    "base": "Female | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Constantly looks over their shoulder as if someone is watching them ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "British - Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "always pouting"
+    }
+}

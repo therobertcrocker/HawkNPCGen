@@ -1,0 +1,19 @@
+{
+    "name": "Ji-Woo, Cai",
+    "base": "Enby | Usuhan - Tortle",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Speaks several languages fluently",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Light lisp"
+    }
+}

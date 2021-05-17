@@ -1,0 +1,19 @@
+{
+    "name": "Hendrikus, Puchot",
+    "base": "Male | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "wears formal, clean clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Knows thieves\u00e2\u20ac\u2122 cant",
+        "mannerism": "Intense dislike to a particular race/PC ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

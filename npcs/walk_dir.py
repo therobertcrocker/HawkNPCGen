@@ -2,7 +2,7 @@
 # folder (We can change file type/name and path
 # according to the requirements.
 import os
-from NPC import NPC
+from src.NPC import NPC
 
 # This is to get the directory that the program
 # is currently running in.

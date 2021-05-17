@@ -1,0 +1,19 @@
+{
+    "name": "Kadvalaer, Cariou",
+    "base": "Enby | Huron (Maer) - Human",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Looks over people's shoulders as if seeing something behind them ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Stoner",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Wolfish voice.",
+        "quirk": "Whiny"
+    }
+}

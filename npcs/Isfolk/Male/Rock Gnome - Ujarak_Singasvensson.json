@@ -1,0 +1,19 @@
+{
+    "name": "Ujarak, Singasvensson",
+    "base": "Male | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "opens mouth too wide"
+    }
+}

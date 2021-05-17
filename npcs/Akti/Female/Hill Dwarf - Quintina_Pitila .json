@@ -1,0 +1,19 @@
+{
+    "name": "Quintina, Pitila ",
+    "base": "Female | Akti - Hill Dwarf",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is studious, learned, and inquisitive, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Sways when standing ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Sighs after each sentence"
+    }
+}

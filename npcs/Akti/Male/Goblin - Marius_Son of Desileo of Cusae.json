@@ -1,0 +1,19 @@
+{
+    "name": "Marius, Son of Desileo of Cusae",
+    "base": "Male | Akti - Goblin",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Clicks tongue",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "lots of swearing"
+    }
+}

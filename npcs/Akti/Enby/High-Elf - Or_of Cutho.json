@@ -1,0 +1,19 @@
+{
+    "name": "Or, of Cutho",
+    "base": "Enby | Akti - High-Elf",
+    "traits": {
+        "appearance": "is missing one or more fingers",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Drags feet when walking ",
+        "interaction": "is friendly towards the Party"
+    },
+    "voice": {
+        "accent": "Roman",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "repeats adj/adv for more impact ('pretty-pretty!')"
+    }
+}

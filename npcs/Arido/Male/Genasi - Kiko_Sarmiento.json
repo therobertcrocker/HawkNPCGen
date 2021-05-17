@@ -1,0 +1,19 @@
+{
+    "name": "Kiko, Sarmiento",
+    "base": "Male | Arido - Genasi",
+    "traits": {
+        "appearance": "wears distinctive jewelry: earrings, necklace, circlet, bracelets",
+        "abilities": "is lithe, agile, and graceful, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Sings beautifully",
+        "mannerism": "Paces",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Cowboy",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "lots of like"
+    }
+}
