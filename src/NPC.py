@@ -295,7 +295,6 @@ class NPC:
 
     def save_data(self):
         filename = self.race + " - " + self.name + "_" + self.surname
-        filename.encode('utf-8', 'ignore')
         parent = "npcs"
         path = os.path.join(parent, self.culture, self.gender)
         h = open(path + "/" + filename + '.json', "w")
