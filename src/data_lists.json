@@ -10,19 +10,19 @@
   ],
   "races": {
     "Lochmoor": [
-      "Wood Elf", "Half-Wood Elf", "Forest Gnome", "Firbolg", "Shifter"
+      "Wood Elf", "Half-Wood Elf", "Forest Gnome", "Firbolg", "Shifter", "Eladrin", "Fairy", "Hexblood"
     ],
     "Huron (Maer)": [
       "Human"
     ],
     "Huron (Urn)": [
-      "Human", "Tiefling", "Aasimar"
+      "Human", "Tiefling", "Aasimar", "Kalashtar"
     ],
     "Isfolk": [
-      "Mountain Dwarf", "Goliath", "Rock Gnome", "Warforged", "Orc", "Half-Orc"
+      "Mountain Dwarf", "Goliath", "Rock Gnome", "Warforged", "Orc", "Half-Orc", "Dhampir"
     ],
     "Akti": [
-      "Hill Dwarf", "High-Elf", "Sea-Elf", "Goblin", "Hobgoblin", "Triton"
+      "Hill Dwarf", "High-Elf", "Sea-Elf", "Goblin", "Hobgoblin", "Triton", "Leonin", "Satyr"
     ],
     "Usuhan": [
       "Dragonborn", "Lizardfolk", "Kenku", "Aaracokra", "Tortle", "Kobold"

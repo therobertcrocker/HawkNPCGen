@@ -1,0 +1,19 @@
+{
+    "name": "Ler, Mac-Loinsigh",
+    "base": "Male | Lochmoor - Eladrin",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Great at solving puzzles",
+        "mannerism": "Occasionally grabs a flask from their pocket, only to remember its empty upon placing it to their lips ",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "staccato speech"
+    }
+}

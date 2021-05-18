@@ -1,0 +1,19 @@
+{
+    "name": "Govannon, Mac-Giolla Choinnigh",
+    "base": "Male | Lochmoor - Eladrin",
+    "traits": {
+        "appearance": "is exceptionally ugly",
+        "abilities": "is perceptive, spiritual, and insightful, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fearful at the sight of drawn weapons ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Breathy voice.",
+        "quirk": "Whiny"
+    }
+}

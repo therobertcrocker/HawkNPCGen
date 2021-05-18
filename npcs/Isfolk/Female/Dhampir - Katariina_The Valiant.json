@@ -1,0 +1,19 @@
+{
+    "name": "Katariina, The Valiant",
+    "base": "Female | Isfolk - Dhampir",
+    "traits": {
+        "appearance": "has an unusual hair color",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Is constantly hungry ",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "pauses often"
+    }
+}

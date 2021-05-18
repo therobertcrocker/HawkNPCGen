@@ -1,0 +1,19 @@
+{
+    "name": "Ráichéal, GÃ¼nzburg",
+    "base": "Female | Lochmoor - Eladrin",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is hardy, hale, and healthy, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Shifts eyes between every person in the room ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Whiny"
+    }
+}

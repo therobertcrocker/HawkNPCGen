@@ -1,0 +1,19 @@
+{
+    "name": "Ujarak, Fanin-Rostislavovich",
+    "base": "Male | Isfolk - Orc",
+    "traits": {
+        "appearance": " has a nervous tick",
+        "abilities": "is persuasive, forceful, and a born leader, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Bites fingernails",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "barely opens lips"
+    }
+}

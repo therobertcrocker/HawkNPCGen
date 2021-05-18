@@ -1,0 +1,19 @@
+{
+    "name": "Helena, The Speaker",
+    "base": "Female | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is perceptive, spiritual, and insightful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "Great with animals",
+        "mannerism": "Coughs frequently between sentences",
+        "interaction": "is curious about one member of the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "uses thee's and thou's"
+    }
+}

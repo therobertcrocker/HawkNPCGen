@@ -1,0 +1,19 @@
+{
+    "name": "Gavril, Svipdaybarn",
+    "base": "Enby | Isfolk - Goliath",
+    "traits": {
+        "appearance": "has a pronounced scar",
+        "abilities": "is lithe, agile, and graceful, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "mouth is always full when talking"
+    }
+}

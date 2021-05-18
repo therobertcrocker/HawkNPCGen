@@ -1,0 +1,19 @@
+{
+    "name": "Andreas, Staroverova-Vladislavovnchka",
+    "base": "Enby | Isfolk - Warforged",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is perceptive, spiritual, and insightful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Fiddles with their weapon ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Stoner",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

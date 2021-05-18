@@ -1,0 +1,19 @@
+{
+    "name": "Bróðir, Shchetkin-Romanovich",
+    "base": "Male | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is hardy, hale, and healthy, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Constantly slouches ",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Scandinavian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

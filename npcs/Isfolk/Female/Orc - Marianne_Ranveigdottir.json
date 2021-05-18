@@ -1,0 +1,19 @@
+{
+    "name": "Marianne, Ranveigdottir",
+    "base": "Female | Isfolk - Orc",
+    "traits": {
+        "appearance": " is bald",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Expert dart thrower and rock skipper",
+        "mannerism": "Fiddles with their weapon ",
+        "interaction": "Thinks of the Party as friends"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "all Th-sounds become Z-sounds"
+    }
+}

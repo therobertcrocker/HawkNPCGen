@@ -1,0 +1,19 @@
+{
+    "name": "Agmundr, Kispingson",
+    "base": "Male | Isfolk - Goliath",
+    "traits": {
+        "appearance": "has visible tattoos",
+        "abilities": "is persuasive, forceful, and a born leader, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Unbelievably lucky",
+        "mannerism": "Is constantly hungry ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "uses full titles or descriptions ('jon-farmers-son')"
+    }
+}

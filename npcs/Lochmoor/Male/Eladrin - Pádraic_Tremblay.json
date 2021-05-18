@@ -1,0 +1,19 @@
+{
+    "name": "Pádraic, Tremblay",
+    "base": "Male | Lochmoor - Eladrin",
+    "traits": {
+        "appearance": "is exceptionally beautiful",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Skilled dancer",
+        "mannerism": "Glances out the window ",
+        "interaction": "is quiet around the party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "Light lisp"
+    }
+}

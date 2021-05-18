@@ -23,7 +23,7 @@ def make_many_npcs(num):
                         npc.quick_gen(culture=i, gender=genders[y])
                         npc.save_data()
                 except:
-                    print("Something went wrong")
+                    logger.exception("Something went wrong")
                 finally:
                     time.sleep(3)
 
@@ -32,15 +32,16 @@ def make_many_culture(num, culture):
     genders = ["Male", "Female", "Enby"]
     for x in range(num):
         for y in genders:
-            try:
-                npc = NPC()
-                npc.quick_gen(culture= culture, gender= y)
-                npc.save_data()
-            except:
-                logger.exception("Something went wrong")
+            for z in data["races"][culture]:
+                try:
+                    npc = NPC()
+                    npc.quick_gen(race=z, gender= y)
+                    npc.save_data()
+                except:
+                    logger.exception("Something went wrong")
 
-            finally:
-                time.sleep(3)
+                finally:
+                    time.sleep(3)
 
 
 def make_many_race(num, race):
@@ -52,6 +53,6 @@ def make_many_race(num, race):
                 npc.quick_gen(race=race, gender=y)
                 npc.save_data()
             except:
-                print("Something went wrong")
+                logger.exception("Something went wrong")
             finally:
                 time.sleep(3)

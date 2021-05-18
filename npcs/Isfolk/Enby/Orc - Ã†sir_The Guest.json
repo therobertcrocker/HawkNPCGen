@@ -1,0 +1,19 @@
+{
+    "name": "Æsir, The Guest",
+    "base": "Enby | Isfolk - Orc",
+    "traits": {
+        "appearance": "wears ragged, dirty clothes",
+        "abilities": "is persuasive, forceful, and a born leader, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Great at impersonations",
+        "mannerism": "Agrees with everything a particular PC says ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Stoner",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Always over-exaggerates"
+    }
+}

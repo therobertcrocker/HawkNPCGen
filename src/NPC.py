@@ -299,4 +299,5 @@ class NPC:
         path = os.path.join(parent, self.culture, self.gender)
         h = open(path + "/" + filename + '.json', "w")
         json.dump(self.data, h, indent=4, ensure_ascii=False)
-        print("Sucess! saved: " + self.gender + " " + self.culture + " - created: " + self.name + " " + self.surname)
+        print("Sucess! saved: " + self.gender + " " + self.culture + " " +
+              self.race + " - created: " + self.name + " " + self.surname)

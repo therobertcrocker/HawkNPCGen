@@ -1,0 +1,19 @@
+{
+    "name": "Gwanwyn, Ó-hAimheirgin",
+    "base": "Enby | Lochmoor - Eladrin",
+    "traits": {
+        "appearance": "has braided beard or hair",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "Great at one game",
+        "mannerism": "Sarcastic to conversation/threats ",
+        "interaction": "is easily irritated by the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Quickly, at a Low pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "lots of um"
+    }
+}

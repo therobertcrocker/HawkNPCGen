@@ -1,0 +1,19 @@
+{
+    "name": "Naida, Sibbidottir",
+    "base": "Female | Isfolk - Warforged",
+    "traits": {
+        "appearance": "has an unusual eye color (or two different colors)",
+        "abilities": "is studious, learned, and inquisitive, but is feeble and scrawny"
+    },
+    "personality": {
+        "talent": "Skilled actor and master of disguise",
+        "mannerism": "Intense dislike to a particular race/PC ",
+        "interaction": "is always honest with the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a Low pitch.",
+        "texture": "Has a Gruff voice.",
+        "quirk": "Heavy lisp on Th and S (th-ufferin th-uckertash!)"
+    }
+}

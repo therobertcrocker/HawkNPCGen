@@ -1,0 +1,19 @@
+{
+    "name": "Ardalion, Hragnelfsson",
+    "base": "Male | Isfolk - Half-Orc",
+    "traits": {
+        "appearance": "has visible piercings",
+        "abilities": "is powerful, brawny, and strong as an ox, but is oblivious and absentminded"
+    },
+    "personality": {
+        "talent": "Expert juggler",
+        "mannerism": "Makes constant jokes or puns",
+        "interaction": "believes themselves of higher status than the Party"
+    },
+    "voice": {
+        "accent": "None",
+        "vocals": "Speaks Quickly, at a Normal pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "Short, clipped sentences"
+    }
+}

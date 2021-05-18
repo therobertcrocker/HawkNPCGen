@@ -1,0 +1,19 @@
+{
+    "name": "Twan, Ó-Dorcháin",
+    "base": "Enby | Lochmoor - Eladrin",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is studious, learned, and inquisitive, but is clumsy and fumbling"
+    },
+    "personality": {
+        "talent": "Expert carpenter",
+        "mannerism": "Never looks in people's eyes ",
+        "interaction": "wants something from the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Normally, at a High pitch.",
+        "texture": "Has a Scratchy voice.",
+        "quirk": "talks in third person"
+    }
+}

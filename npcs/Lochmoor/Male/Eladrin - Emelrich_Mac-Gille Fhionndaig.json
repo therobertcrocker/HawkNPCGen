@@ -1,0 +1,19 @@
+{
+    "name": "Emelrich, Mac-Gille Fhionndaig",
+    "base": "Male | Lochmoor - Eladrin",
+    "traits": {
+        "appearance": "has a distinctive posture (crooked or rigid)",
+        "abilities": "is lithe, agile, and graceful, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Paints beautifully",
+        "mannerism": "Always looks as if they are chewing on something ",
+        "interaction": "is argumentative with the Party"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}

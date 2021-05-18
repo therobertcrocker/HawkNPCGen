@@ -1,0 +1,19 @@
+{
+    "name": "Arnaq, Halladottir",
+    "base": "Female | Isfolk - Goliath",
+    "traits": {
+        "appearance": "has an unusual skin color",
+        "abilities": "is lithe, agile, and graceful, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses big words to sound intelligent but uses incorrectly ",
+        "interaction": "is suspicious of the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Slowly, at a High pitch.",
+        "texture": "Has a Relaxed voice.",
+        "quirk": "sings everything"
+    }
+}

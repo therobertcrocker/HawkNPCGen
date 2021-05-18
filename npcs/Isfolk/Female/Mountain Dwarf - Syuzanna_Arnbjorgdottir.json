@@ -1,0 +1,19 @@
+{
+    "name": "Syuzanna, Arnbjorgdottir",
+    "base": "Female | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "is missing teeth",
+        "abilities": "is powerful, brawny, and strong as an ox, but is dim-witted and slow"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Chews something",
+        "interaction": "is keeping a secret from the Party"
+    },
+    "voice": {
+        "accent": "Russian",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Nasal-y voice.",
+        "quirk": "repeats the last word you say before responding"
+    }
+}

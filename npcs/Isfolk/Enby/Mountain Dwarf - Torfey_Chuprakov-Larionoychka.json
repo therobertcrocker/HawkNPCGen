@@ -1,0 +1,19 @@
+{
+    "name": "Torfey, Chuprakov-Larionoychka",
+    "base": "Enby | Isfolk - Mountain Dwarf",
+    "traits": {
+        "appearance": "wears flamboyant or outlandish clothes",
+        "abilities": "is powerful, brawny, and strong as an ox, but is sickly and pale"
+    },
+    "personality": {
+        "talent": "Knows thieves’ cant",
+        "mannerism": "Uses colorful oaths and exclamations",
+        "interaction": "finds the Party fascinating"
+    },
+    "voice": {
+        "accent": "Posh",
+        "vocals": "Speaks Normally, at a Normal pitch.",
+        "texture": "Has a Smooth voice.",
+        "quirk": "'ar' becomes 'ayr' (cart = cayrt, bear = beayr)"
+    }
+}

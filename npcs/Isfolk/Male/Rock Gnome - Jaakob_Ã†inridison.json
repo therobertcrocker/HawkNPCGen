@@ -1,0 +1,19 @@
+{
+    "name": "Jaakob, Æinridison",
+    "base": "Male | Isfolk - Rock Gnome",
+    "traits": {
+        "appearance": "has a visible birthmark",
+        "abilities": "is studious, learned, and inquisitive, but is dull and boring"
+    },
+    "personality": {
+        "talent": "None",
+        "mannerism": "Uses prestigidation repeatedly to create unnecessary effects to make himself look occupied ",
+        "interaction": "has a hot temper around the Party"
+    },
+    "voice": {
+        "accent": "Mid-Atlantic",
+        "vocals": "Speaks Normally, at a Low pitch.",
+        "texture": "Has a Strained voice.",
+        "quirk": "all S-sounds become Z-sounds"
+    }
+}
